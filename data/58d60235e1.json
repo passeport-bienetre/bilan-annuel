@@ -1,0 +1,44 @@
+{
+  "name": "Geraldine",
+  "window": {
+    "start": "28 mai 2025",
+    "end": "28 mai 2026"
+  },
+  "stats": {
+    "visites_total": 3,
+    "etabs_uniques": 3,
+    "economies_chf": 165
+  },
+  "visites": [
+    {
+      "etab_name": "Lausanne Palace & Spa",
+      "etab_slug": "lausanne-palace-spa",
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/lausanne-palace-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
+      "category": "Future Maman",
+      "canton": "Vaud",
+      "visit_date_fr": "6 juin 2025",
+      "saving_chf": 65
+    },
+    {
+      "etab_name": "Le Mirador Resort & Spa",
+      "etab_slug": "le-mirador-resort-spa",
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
+      "category": "Future Maman",
+      "canton": "Vaud",
+      "visit_date_fr": "14 août 2025",
+      "saving_chf": 60
+    },
+    {
+      "etab_name": "Institut ZenSkin",
+      "etab_slug": "institut-fs",
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/institut-fs.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-fs/",
+      "category": "Soins Hommes",
+      "canton": "Vaud",
+      "visit_date_fr": "13 novembre 2025",
+      "saving_chf": 40
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "name": "Leona",
+  "window": {
+    "start": "28 mai 2025",
+    "end": "28 mai 2026"
+  },
+  "stats": {
+    "visites_total": 5,
+    "etabs_uniques": 5,
+    "economies_chf": 268
+  },
+  "visites": [
+    {
+      "etab_name": "Arte Beauty EPFL",
+      "etab_slug": "arte-beauty-epfl",
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/arte-beauty-epfl.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/",
+      "category": "Soins Hommes",
+      "canton": "Vaud",
+      "visit_date_fr": "2 juin 2025",
+      "saving_chf": 62
+    },
+    {
+      "etab_name": "Karré Long",
+      "etab_slug": "karre-long-3",
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/karre-long-3.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/karre-long-3/",
+      "category": "Soins Hommes",
+      "canton": "Vaud",
+      "visit_date_fr": "19 juillet 2025",
+      "saving_chf": 40
+    },
+    {
+      "etab_name": "Le Mirador Resort & Spa",
+      "etab_slug": "le-mirador-resort-spa",
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
+      "category": "Future Maman",
+      "canton": "Vaud",
+      "visit_date_fr": "20 octobre 2025",
+      "saving_chf": 60
+    },
+    {
+      "etab_name": "Lausanne Palace & Spa",
+      "etab_slug": "lausanne-palace-spa",
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/lausanne-palace-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
+      "category": "Future Maman",
+      "canton": "Vaud",
+      "visit_date_fr": "6 mars 2026",
+      "saving_chf": 65
+    },
+    {
+      "etab_name": "LAURA COIFFEUSE PRIVÉE",
+      "etab_slug": "laura-coiffeuse-privee",
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/laura-coiffeuse-privee.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/laura-coiffeuse-privee/",
+      "category": "Coiffeur",
+      "canton": "Vaud",
+      "visit_date_fr": "23 mai 2026",
+      "saving_chf": 40
+    }
+  ]
+}

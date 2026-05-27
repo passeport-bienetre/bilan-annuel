@@ -1,0 +1,94 @@
+{
+  "name": "Sophie",
+  "window": {
+    "start": "28 mai 2025",
+    "end": "28 mai 2026"
+  },
+  "stats": {
+    "visites_total": 8,
+    "etabs_uniques": 8,
+    "economies_chf": 346
+  },
+  "visites": [
+    {
+      "etab_name": "Institut Guinot",
+      "etab_slug": "institut-guinot-2",
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/institut-guinot-2.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
+      "category": "Epilation",
+      "canton": "Vaud",
+      "visit_date_fr": "4 juin 2025",
+      "saving_chf": 58
+    },
+    {
+      "etab_name": "Nail Café",
+      "etab_slug": "nail-cafe",
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/nail-cafe.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/nail-cafe/",
+      "category": "Epilation",
+      "canton": "Vaud",
+      "visit_date_fr": "23 juillet 2025",
+      "saving_chf": 29
+    },
+    {
+      "etab_name": "Salon Privé Gare",
+      "etab_slug": "salon-prive",
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/salon-prive.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/salon-prive/",
+      "category": "Soins Hommes",
+      "canton": "Vaud",
+      "visit_date_fr": "24 juillet 2025",
+      "saving_chf": 31
+    },
+    {
+      "etab_name": "Flocoon Spa Cinq Mondes",
+      "etab_slug": "flocoon-spa-cinq-mondes",
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/flocoon-spa-cinq-mondes.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/flocoon-spa-cinq-mondes/",
+      "category": "Soins Duo",
+      "canton": "Valais",
+      "visit_date_fr": "15 août 2025",
+      "saving_chf": 50
+    },
+    {
+      "etab_name": "Salon Privé Ecublens",
+      "etab_slug": "salon-prive-ecublens",
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/salon-prive-ecublens.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/salon-prive-ecublens/",
+      "category": "Soins Hommes",
+      "canton": "Vaud",
+      "visit_date_fr": "8 novembre 2025",
+      "saving_chf": 40
+    },
+    {
+      "etab_name": "Lausanne Palace & Spa",
+      "etab_slug": "lausanne-palace-spa",
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/lausanne-palace-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
+      "category": "Future Maman",
+      "canton": "Vaud",
+      "visit_date_fr": "3 janvier 2026",
+      "saving_chf": 65
+    },
+    {
+      "etab_name": "Tête à Clak",
+      "etab_slug": "tete-a-clak",
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/tete-a-clak.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/tete-a-clak/",
+      "category": "Coiffeur",
+      "canton": null,
+      "visit_date_fr": "10 mars 2026",
+      "saving_chf": 29
+    },
+    {
+      "etab_name": "Urban Spa",
+      "etab_slug": "urban-spa",
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/urban-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/urban-spa/",
+      "category": "Massage",
+      "canton": "Fribourg",
+      "visit_date_fr": "16 mai 2026",
+      "saving_chf": 45
+    }
+  ]
+}

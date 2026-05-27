@@ -1,0 +1,64 @@
+{
+  "name": "Wajma",
+  "window": {
+    "start": "28 mai 2025",
+    "end": "28 mai 2026"
+  },
+  "stats": {
+    "visites_total": 5,
+    "etabs_uniques": 5,
+    "economies_chf": 218
+  },
+  "visites": [
+    {
+      "etab_name": "Le Bal des Créateurs",
+      "etab_slug": "le-bal-des-createurs-3",
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/le-bal-des-createurs-3.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/",
+      "category": "Coiffure",
+      "canton": "Genève",
+      "visit_date_fr": "5 juin 2025",
+      "saving_chf": 30
+    },
+    {
+      "etab_name": "Skin Solution",
+      "etab_slug": "skin-solution",
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/skin-solution.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/skin-solution/",
+      "category": "Massage",
+      "canton": "Genève",
+      "visit_date_fr": "28 octobre 2025",
+      "saving_chf": 60
+    },
+    {
+      "etab_name": "Hôtel Intercontinental Spa 5 Mondes",
+      "etab_slug": "hotel-intercontinental-spa-5-mondes",
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/hotel-intercontinental-spa-5-mondes.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/",
+      "category": "Soins Duo",
+      "canton": "Genève",
+      "visit_date_fr": "13 février 2026",
+      "saving_chf": 45
+    },
+    {
+      "etab_name": "Sawatdee Delices",
+      "etab_slug": "sawatdee-delices",
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/sawatdee-delices.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/sawatdee-delices/",
+      "category": "Soins Duo",
+      "canton": "Genève",
+      "visit_date_fr": "12 mars 2026",
+      "saving_chf": 35
+    },
+    {
+      "etab_name": "Thaiotop",
+      "etab_slug": "thaiotop-3",
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/thaiotop-3.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/thaiotop-3/",
+      "category": "Soins Duo",
+      "canton": "Genève",
+      "visit_date_fr": "21 mars 2026",
+      "saving_chf": 48
+    }
+  ]
+}

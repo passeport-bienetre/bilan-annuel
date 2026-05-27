@@ -1,0 +1,44 @@
+{
+  "name": "Patricia",
+  "window": {
+    "start": "28 mai 2025",
+    "end": "28 mai 2026"
+  },
+  "stats": {
+    "visites_total": 3,
+    "etabs_uniques": 3,
+    "economies_chf": 115
+  },
+  "visites": [
+    {
+      "etab_name": "Belle et Naturelle",
+      "etab_slug": "belle-et-naturelle",
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/belle-et-naturelle.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/belle-et-naturelle/",
+      "category": "Soins Hommes",
+      "canton": "Genève",
+      "visit_date_fr": "19 novembre 2025",
+      "saving_chf": 25
+    },
+    {
+      "etab_name": "Hôtel Intercontinental Spa 5 Mondes",
+      "etab_slug": "hotel-intercontinental-spa-5-mondes",
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/hotel-intercontinental-spa-5-mondes.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/",
+      "category": "Soins Duo",
+      "canton": "Genève",
+      "visit_date_fr": "13 février 2026",
+      "saving_chf": 45
+    },
+    {
+      "etab_name": "Europe Hôtel & Spa",
+      "etab_slug": "europe-hotel-spa",
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/europe-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/europe-hotel-spa/",
+      "category": "Massage",
+      "canton": "Valais",
+      "visit_date_fr": "4 mars 2026",
+      "saving_chf": 45
+    }
+  ]
+}

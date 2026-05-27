@@ -1,0 +1,34 @@
+{
+  "name": "Mélanie",
+  "window": {
+    "start": "28 mai 2025",
+    "end": "28 mai 2026"
+  },
+  "stats": {
+    "visites_total": 2,
+    "etabs_uniques": 2,
+    "economies_chf": 75
+  },
+  "visites": [
+    {
+      "etab_name": "Institut ZenSkin",
+      "etab_slug": "institut-fs",
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/institut-fs.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-fs/",
+      "category": "Soins Hommes",
+      "canton": "Vaud",
+      "visit_date_fr": "31 juillet 2025",
+      "saving_chf": 40
+    },
+    {
+      "etab_name": "Maison Perle",
+      "etab_slug": "maison-perle",
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/maison-perle.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/maison-perle/",
+      "category": "Lausanne région",
+      "canton": "Vaud",
+      "visit_date_fr": "20 août 2025",
+      "saving_chf": 35
+    }
+  ]
+}
