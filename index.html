@@ -146,6 +146,7 @@
     }
     .visite .visit-meta {
       font-size: 13px; color: var(--bp-text-soft); margin: 0 0 14px 0;
+      white-space: pre-line;
     }
     .visite a.link {
       font-size: 11px; font-weight: 600; letter-spacing: 0.14em;
@@ -307,12 +308,10 @@
     }
 
     function visitMeta(v) {
-      const parts = [];
-      if (v.visit_date_fr) parts.push(v.visit_date_fr);
-      else if (v.last_visit_fr) parts.push(v.last_visit_fr);
-      if (v.canton) parts.push(v.canton);
-      if (v.saving_chf) parts.push(`−${v.saving_chf} CHF`);
-      return parts.join(" · ");
+      const date = v.visit_date_fr || v.last_visit_fr || "";
+      const saving = v.saving_chf ? `≈${v.saving_chf} CHF économisées` : "";
+      if (date && saving) return `${date}\n${saving}`;
+      return date || saving;
     }
 
     function dedupeByEtab(visites) {
