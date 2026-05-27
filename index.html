@@ -386,8 +386,7 @@
         visites.forEach(v => {
           const node = tpl.content.cloneNode(true);
           node.querySelector(".media").setAttribute("style", mediaStyle(v.etab_photo_url));
-          const catLine = [v.category, v.canton].filter(Boolean).join(" · ").toUpperCase();
-          node.querySelector(".category").textContent = catLine;
+          node.querySelector(".category").textContent = (v.canton || "").toUpperCase();
           node.querySelector("h3").textContent = v.etab_name || "";
           node.querySelector(".visit-meta").textContent = visitMeta(v);
           const link = node.querySelector("a.link");
