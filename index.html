@@ -1,0 +1,440 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Votre année Body Pass</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600&family=Source+Sans+Pro:wght@300;400;500;600&display=swap" rel="stylesheet">
+
+  <style>
+    :root {
+      --bp-cream: #FBF7F1;
+      --bp-cream-deep: #F2EBDF;
+      --bp-burgundy: #A3695B;
+      --bp-burgundy-dark: #8B5448;
+      --bp-champagne: #C2B59B;
+      --bp-text: #2C2826;
+      --bp-text-soft: #54504E;
+      --bp-text-mute: #7A7470;
+      --bp-divider: #E5DBC8;
+    }
+
+    * { box-sizing: border-box; }
+
+    html, body {
+      margin: 0;
+      padding: 0;
+      background-color: var(--bp-cream);
+      color: var(--bp-text);
+      font-family: 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+      font-size: 16px;
+      line-height: 1.6;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    .page {
+      max-width: 1080px;
+      margin: 0 auto;
+      padding: 64px 32px 64px;
+    }
+
+    .hero { text-align: center; padding-bottom: 8px; margin-bottom: 32px; }
+    .hero .eyebrow {
+      font-size: 12px; letter-spacing: 0.2em; text-transform: uppercase;
+      color: var(--bp-burgundy); font-weight: 600; margin-bottom: 18px;
+    }
+    .hero h1 {
+      font-family: 'Playfair Display', Georgia, serif; font-weight: 400;
+      font-size: 42px; line-height: 1.18; color: var(--bp-text);
+      margin: 0 0 18px 0; letter-spacing: -0.01em;
+    }
+    .hero h1 em { font-style: italic; color: var(--bp-burgundy); }
+    .hero p {
+      font-size: 16px; color: var(--bp-text-soft);
+      max-width: 640px; margin: 0 auto; line-height: 1.6;
+    }
+
+    .stats {
+      display: grid; grid-template-columns: repeat(3, 1fr); gap: 0;
+      background: #FFFFFF; border: 1px solid var(--bp-divider);
+      border-radius: 2px; margin-bottom: 40px; overflow: hidden;
+    }
+    .stat {
+      padding: 26px 20px; text-align: center;
+      border-right: 1px solid var(--bp-divider);
+      display: flex; flex-direction: column; justify-content: space-between;
+      min-height: 148px;
+    }
+    .stat:last-child { border-right: 0; }
+    .stat .label {
+      font-size: 10px; letter-spacing: 0.2em; text-transform: uppercase;
+      color: var(--bp-text-mute); font-weight: 600;
+    }
+    .stat .figure {
+      font-family: 'Playfair Display', Georgia, serif; font-weight: 400;
+      font-size: 34px; line-height: 1.1; color: var(--bp-burgundy);
+      letter-spacing: -0.01em;
+    }
+    .stat .figure .unit {
+      font-size: 14px; color: var(--bp-text-mute);
+      margin-left: 4px; font-style: italic;
+    }
+    .stat .caption {
+      font-size: 12px; color: var(--bp-text-soft);
+      line-height: 1.35; max-width: 220px; margin: 0 auto;
+    }
+
+    .cta-soft {
+      text-align: center; margin: 0 auto 64px;
+    }
+    .cta-soft a {
+      display: inline-block; padding: 13px 28px;
+      background: transparent; color: var(--bp-burgundy);
+      border: 1px solid var(--bp-burgundy); text-decoration: none;
+      font-size: 12px; font-weight: 600; letter-spacing: 0.14em;
+      text-transform: uppercase; text-align: center;
+      border-radius: 2px; transition: all 150ms ease;
+    }
+    .cta-soft a:hover { background: var(--bp-burgundy); color: #FFFFFF; }
+
+    .section-head {
+      display: flex; align-items: baseline; gap: 16px; margin-bottom: 24px;
+    }
+    .section-head .label {
+      font-size: 11px; letter-spacing: 0.2em; text-transform: uppercase;
+      color: var(--bp-burgundy); font-weight: 600; white-space: nowrap;
+    }
+    .section-head .rule { flex: 1; height: 1px; background: var(--bp-divider); }
+    .section-intro {
+      font-size: 16px; color: var(--bp-text-soft);
+      max-width: 720px; margin: -8px 0 32px 0; line-height: 1.6;
+    }
+
+    .visites {
+      display: grid; grid-template-columns: repeat(2, 1fr);
+      gap: 24px; margin-bottom: 72px;
+    }
+    .visite {
+      background: #FFFFFF; border: 1px solid var(--bp-divider);
+      border-radius: 2px; overflow: hidden;
+      display: grid; grid-template-columns: 200px 1fr;
+      transition: transform 200ms ease, box-shadow 200ms ease;
+    }
+    .visite:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 12px 28px rgba(44, 40, 38, 0.08);
+    }
+    .visite .media {
+      background-color: var(--bp-cream-deep);
+      background-size: cover; background-position: center;
+      min-height: 160px;
+    }
+    .visite .body {
+      padding: 22px 24px;
+      display: flex; flex-direction: column; justify-content: center;
+    }
+    .visite .category {
+      font-size: 10px; letter-spacing: 0.18em; text-transform: uppercase;
+      color: var(--bp-text-mute); margin-bottom: 8px;
+    }
+    .visite h3 {
+      font-family: 'Playfair Display', Georgia, serif; font-weight: 500;
+      font-size: 22px; line-height: 1.2; color: var(--bp-text); margin: 0 0 12px 0;
+    }
+    .visite .visit-meta {
+      font-size: 13px; color: var(--bp-text-soft); margin: 0 0 14px 0;
+    }
+    .visite a.link {
+      font-size: 11px; font-weight: 600; letter-spacing: 0.14em;
+      text-transform: uppercase; color: var(--bp-burgundy);
+      text-decoration: none; align-self: flex-start;
+    }
+    .visite a.link:hover { color: var(--bp-burgundy-dark); }
+
+    .transition {
+      background: var(--bp-cream-deep);
+      border-radius: 2px; padding: 36px 32px;
+      text-align: center; margin-bottom: 24px;
+    }
+    .transition p {
+      font-size: 17px; color: var(--bp-text);
+      max-width: 620px; margin: 0 auto; line-height: 1.55;
+    }
+    .transition p + p {
+      margin-top: 14px;
+      font-family: 'Playfair Display', Georgia, serif;
+      font-style: italic; font-size: 20px; line-height: 1.4;
+      color: var(--bp-burgundy);
+    }
+
+    .cta-block {
+      background: #FFFFFF; border: 1px solid var(--bp-divider);
+      border-radius: 2px; padding: 56px 32px;
+      text-align: center; margin-bottom: 32px;
+    }
+    .cta-block .eyebrow {
+      font-size: 12px; letter-spacing: 0.2em; text-transform: uppercase;
+      color: var(--bp-burgundy); font-weight: 600; margin-bottom: 16px;
+    }
+    .cta-block h2 {
+      font-family: 'Playfair Display', Georgia, serif; font-weight: 400;
+      font-size: 32px; line-height: 1.22; color: var(--bp-text);
+      margin: 0 0 14px 0; letter-spacing: -0.01em;
+    }
+    .cta-block h2 em { font-style: italic; color: var(--bp-burgundy); }
+    .cta-block p {
+      font-size: 16px; color: var(--bp-text-soft);
+      max-width: 540px; margin: 0 auto 32px; line-height: 1.6;
+    }
+    .cta-block a.btn {
+      display: inline-block; padding: 16px 36px;
+      background: var(--bp-burgundy); color: #FFFFFF;
+      border: 0; text-decoration: none;
+      font-size: 13px; font-weight: 600; letter-spacing: 0.14em;
+      text-transform: uppercase; text-align: center;
+      border-radius: 2px; transition: background 150ms ease;
+    }
+    .cta-block a.btn:hover { background: var(--bp-burgundy-dark); }
+
+    .footer {
+      margin-top: 56px; padding-top: 56px;
+      border-top: 1px solid var(--bp-divider); text-align: center;
+    }
+    .footer img {
+      width: 240px; height: auto; display: block; margin: 0 auto 10px;
+    }
+    .footer .baseline {
+      font-size: 13px; color: var(--bp-text-soft); margin-bottom: 4px;
+    }
+    .footer .signature {
+      font-size: 12px; color: var(--bp-text-mute); font-style: italic;
+    }
+
+    .state-screen { text-align: center; padding: 120px 32px; max-width: 540px; margin: 0 auto; }
+    .state-screen .eyebrow {
+      font-size: 12px; letter-spacing: 0.2em; text-transform: uppercase;
+      color: var(--bp-burgundy); font-weight: 600; margin-bottom: 18px;
+    }
+    .state-screen h2 {
+      font-family: 'Playfair Display', Georgia, serif; font-weight: 400;
+      font-style: italic; font-size: 34px; line-height: 1.2;
+      color: var(--bp-text); margin: 0 0 18px 0;
+    }
+    .state-screen p { font-size: 16px; color: var(--bp-text-soft); line-height: 1.6; margin: 0; }
+    .state-screen a { color: var(--bp-burgundy); }
+
+    @media (max-width: 860px) {
+      .page { padding: 44px 20px 56px; }
+      .hero h1 { font-size: 34px; }
+      .stats { grid-template-columns: 1fr; }
+      .stat { border-right: 0; border-bottom: 1px solid var(--bp-divider); padding: 22px 20px; min-height: auto; }
+      .stat:last-child { border-bottom: 0; }
+      .visites { grid-template-columns: 1fr; }
+      .visite { grid-template-columns: 1fr; }
+      .visite .media { min-height: 180px; }
+      .cta-block { padding: 40px 24px; }
+      .cta-block h2 { font-size: 26px; }
+    }
+  </style>
+</head>
+
+<body>
+  <div class="page" id="app">
+    <div class="state-screen" id="loading">
+      <div class="eyebrow">Body Pass</div>
+      <h2>Un instant…</h2>
+    </div>
+  </div>
+
+  <template id="tpl-visite">
+    <article class="visite">
+      <div class="media"></div>
+      <div class="body">
+        <div class="category"></div>
+        <h3></h3>
+        <p class="visit-meta"></p>
+        <a class="link" href="#" target="_blank" rel="noopener">Voir l'établissement →</a>
+      </div>
+    </article>
+  </template>
+
+  <script>
+    const FALLBACK_IMG = "https://bodypass-ch.github.io/bodypass-assets/etablissements/_default.jpg";
+    const RENEW_URL = "https://www.bodypass.ch/renouveler";
+    const app = document.getElementById("app");
+    const params = new URLSearchParams(location.search);
+    const token = params.get("t");
+
+    // Demo payload (inline fallback for local file:// preview, where fetch is blocked)
+    const DEMO_PAYLOAD = {
+      "name": "Julieta",
+      "window": { "start": "27 mai 2025", "end": "27 mai 2026" },
+      "stats": { "visites_total": 12, "etabs_uniques": 8, "economies_chf": 480 },
+      "visites": [
+        { "etab_name": "Spa du Royal Savoy", "etab_slug": "royal-savoy-hotel-spa", "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/royal-savoy-hotel-spa.jpg", "etab_url_public": "https://www.bodypass.ch/spa/royal-savoy-hotel-spa/", "category": "Spa", "canton": "VD", "visit_date_fr": "12 août 2025", "saving_chf": 65 },
+        { "etab_name": "Bains de Saillon", "etab_slug": "bains-saillon", "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/bains-saillon.jpg", "etab_url_public": "https://www.bodypass.ch/bains/bains-saillon/", "category": "Bains thermaux", "canton": "VS", "visit_date_fr": "3 septembre 2025", "saving_chf": 28 },
+        { "etab_name": "Institut Maison Brunette", "etab_slug": "maison-brunette", "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/maison-brunette.jpg", "etab_url_public": "https://www.bodypass.ch/instituts/maison-brunette/", "category": "Soins du visage", "canton": "GE", "visit_date_fr": "21 octobre 2025", "saving_chf": 75 },
+        { "etab_name": "Hammam Suisse", "etab_slug": "hammam-suisse", "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/hammam-suisse.jpg", "etab_url_public": "https://www.bodypass.ch/spa/hammam-suisse/", "category": "Hammam", "canton": "GE", "visit_date_fr": "15 novembre 2025", "saving_chf": 32 },
+        { "etab_name": "Coiffure Bellevue", "etab_slug": "coiffure-bellevue", "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/coiffure-bellevue.jpg", "etab_url_public": "https://www.bodypass.ch/coiffeurs/coiffure-bellevue/", "category": "Coiffure", "canton": "VD", "visit_date_fr": "8 décembre 2025", "saving_chf": 45 },
+        { "etab_name": "Atelier Onglerie Privée", "etab_slug": "atelier-onglerie-privee", "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/atelier-onglerie-privee.jpg", "etab_url_public": "https://www.bodypass.ch/onglerie/atelier-onglerie-privee/", "category": "Onglerie", "canton": "GE", "visit_date_fr": "14 janvier 2026", "saving_chf": 38 },
+        { "etab_name": "Yoga Studio Plainpalais", "etab_slug": "yoga-plainpalais", "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/yoga-plainpalais.jpg", "etab_url_public": "https://www.bodypass.ch/fitness/yoga-plainpalais/", "category": "Yoga", "canton": "GE", "visit_date_fr": "2 mars 2026", "saving_chf": 24 },
+        { "etab_name": "Fitness Premium Lausanne", "etab_slug": "fitness-premium-lausanne", "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/fitness-premium-lausanne.jpg", "etab_url_public": "https://www.bodypass.ch/fitness/fitness-premium-lausanne/", "category": "Fitness", "canton": "VD", "visit_date_fr": "19 avril 2026", "saving_chf": 50 }
+      ]
+    };
+
+    function showState(eyebrow, title, bodyHtml) {
+      app.innerHTML = `
+        <div class="state-screen">
+          <div class="eyebrow">${eyebrow}</div>
+          <h2>${title}</h2>
+          ${bodyHtml || ""}
+        </div>`;
+      window.scrollTo({ top: 0, behavior: "smooth" });
+    }
+
+    function todayFr() {
+      try {
+        return new Date().toLocaleDateString("fr-FR", { day: "numeric", month: "long", year: "numeric" });
+      } catch (e) { return ""; }
+    }
+
+    function mediaStyle(url) {
+      const safe = (url || FALLBACK_IMG).replace(/"/g, "%22");
+      return `background-image: linear-gradient(135deg, rgba(44,40,38,0.18), rgba(44,40,38,0.02)), url('${safe}');`;
+    }
+
+    function visitMeta(v) {
+      const parts = [];
+      if (v.visit_date_fr) parts.push(v.visit_date_fr);
+      else if (v.last_visit_fr) parts.push(v.last_visit_fr);
+      if (v.canton) parts.push(v.canton);
+      if (v.saving_chf) parts.push(`−${v.saving_chf} CHF`);
+      return parts.join(" · ");
+    }
+
+    function dedupeByEtab(visites) {
+      const seen = new Map();
+      visites.forEach(v => {
+        const key = v.etab_slug || v.etab_name || JSON.stringify(v);
+        if (!seen.has(key)) seen.set(key, v);
+      });
+      return Array.from(seen.values());
+    }
+
+    function render(data) {
+      const name = data.name || "";
+      const stats = data.stats || {};
+      const visitesRaw = data.visites || [];
+      const visites = dedupeByEtab(visitesRaw);
+      const win = data.window || {};
+
+      app.innerHTML = "";
+
+      const hero = document.createElement("section");
+      hero.className = "hero";
+      hero.innerHTML = `
+        <div class="eyebrow">Votre année · ${win.start || ""} → ${win.end || todayFr()}</div>
+        <h1>Bonjour ${name},<br>voici votre année <em>bien-être</em></h1>
+        <p>12 mois avec Body Pass : les adresses que vous avez aimées, vos moments, vos économies. Avant que votre carte n'expire, on a tenu à vous les remettre toutes en un coup d'œil.</p>`;
+      app.appendChild(hero);
+
+      const statsEl = document.createElement("section");
+      statsEl.className = "stats";
+      const visitesCount = stats.visites_total ?? stats.visites ?? visitesRaw.length;
+      const etabsCount = stats.etabs_uniques ?? visites.length;
+      const economies = stats.economies_chf ?? 0;
+      statsEl.innerHTML = `
+        <div class="stat">
+          <div class="label">Visites</div>
+          <div class="figure">${visitesCount}</div>
+          <div class="caption">passages sur 12 mois</div>
+        </div>
+        <div class="stat">
+          <div class="label">Établissements</div>
+          <div class="figure">${etabsCount}</div>
+          <div class="caption">adresses différentes découvertes</div>
+        </div>
+        <div class="stat">
+          <div class="label">Économies</div>
+          <div class="figure">${economies}<span class="unit">CHF</span></div>
+          <div class="caption">grâce à votre carte Body Pass</div>
+        </div>`;
+      app.appendChild(statsEl);
+
+      const ctaSoft = document.createElement("div");
+      ctaSoft.className = "cta-soft";
+      ctaSoft.innerHTML = `<a href="${RENEW_URL}">Garder mes avantages 12 mois de plus</a>`;
+      app.appendChild(ctaSoft);
+
+      if (visites.length > 0) {
+        const head = document.createElement("div");
+        head.className = "section-head";
+        head.innerHTML = `<div class="label">Vos adresses</div><div class="rule"></div>`;
+        app.appendChild(head);
+
+        const intro = document.createElement("p");
+        intro.className = "section-intro";
+        intro.textContent = "Toutes les adresses Body Pass où vous êtes passé cette année.";
+        app.appendChild(intro);
+
+        const grid = document.createElement("section");
+        grid.className = "visites";
+        const tpl = document.getElementById("tpl-visite");
+        visites.forEach(v => {
+          const node = tpl.content.cloneNode(true);
+          node.querySelector(".media").setAttribute("style", mediaStyle(v.etab_photo_url));
+          const catLine = [v.category, v.canton].filter(Boolean).join(" · ").toUpperCase();
+          node.querySelector(".category").textContent = catLine;
+          node.querySelector("h3").textContent = v.etab_name || "";
+          node.querySelector(".visit-meta").textContent = visitMeta(v);
+          const link = node.querySelector("a.link");
+          if (v.etab_url_public) link.href = v.etab_url_public;
+          else link.style.display = "none";
+          grid.appendChild(node);
+        });
+        app.appendChild(grid);
+      }
+
+      const transition = document.createElement("section");
+      transition.className = "transition";
+      transition.innerHTML = `
+        <p>Cette année, votre Body Pass vous a accompagné dans vos habitudes, vos découvertes et vos moments de bien-être.</p>
+        <p>Et ce n'est peut-être qu'un début.</p>`;
+      app.appendChild(transition);
+
+      const ctaBlock = document.createElement("section");
+      ctaBlock.className = "cta-block";
+      ctaBlock.innerHTML = `
+        <div class="eyebrow">Encore une année comme celle-ci&nbsp;?</div>
+        <h2>Renouvelez votre Body Pass<br>et <em>continuez</em> sans interruption.</h2>
+        <p>12 mois de plus à 50% dans environ 200 adresses. La même carte, le même rythme.</p>
+        <a class="btn" href="${RENEW_URL}">Renouveler ma carte</a>`;
+      app.appendChild(ctaBlock);
+
+      const footer = document.createElement("div");
+      footer.className = "footer";
+      footer.innerHTML = `
+        <div class="baseline">Body Pass, le passeport pour le bien-être</div>
+        <div class="signature">Préparé pour ${name} · ${todayFr()}</div>`;
+      app.appendChild(footer);
+    }
+
+    if (!token) {
+      // No token: render the inline demo payload (preview mode, works on file://)
+      render(DEMO_PAYLOAD);
+    } else {
+      fetch(`data/${token}.json`, { cache: "no-store" })
+        .then(r => { if (!r.ok) throw new Error("404"); return r.json(); })
+        .then(render)
+        .catch(() => showState(
+          "Body Pass",
+          "Cette page a expiré",
+          `<p>Ce lien n'est plus actif. Retrouvez vos avantages sur <a href="https://www.bodypass.ch">bodypass.ch</a>.</p>`
+        ));
+    }
+  </script>
+</body>
+</html>
