@@ -1,0 +1,94 @@
+{
+  "name": "Julieta",
+  "window": {
+    "start": "27 mai 2025",
+    "end":   "27 mai 2026"
+  },
+  "stats": {
+    "visites_total": 12,
+    "etabs_uniques": 8,
+    "economies_chf": 480
+  },
+  "visites": [
+    {
+      "etab_name": "Spa du Royal Savoy",
+      "etab_slug": "royal-savoy-hotel-spa",
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/royal-savoy-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/spa/royal-savoy-hotel-spa/",
+      "category": "Spa",
+      "canton": "VD",
+      "visit_date_fr": "12 août 2025",
+      "saving_chf": 65
+    },
+    {
+      "etab_name": "Bains de Saillon",
+      "etab_slug": "bains-saillon",
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/bains-saillon.jpg",
+      "etab_url_public": "https://www.bodypass.ch/bains/bains-saillon/",
+      "category": "Bains thermaux",
+      "canton": "VS",
+      "visit_date_fr": "3 septembre 2025",
+      "saving_chf": 28
+    },
+    {
+      "etab_name": "Institut Maison Brunette",
+      "etab_slug": "maison-brunette",
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/maison-brunette.jpg",
+      "etab_url_public": "https://www.bodypass.ch/instituts/maison-brunette/",
+      "category": "Soins du visage",
+      "canton": "GE",
+      "visit_date_fr": "21 octobre 2025",
+      "saving_chf": 75
+    },
+    {
+      "etab_name": "Hammam Suisse",
+      "etab_slug": "hammam-suisse",
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/hammam-suisse.jpg",
+      "etab_url_public": "https://www.bodypass.ch/spa/hammam-suisse/",
+      "category": "Hammam",
+      "canton": "GE",
+      "visit_date_fr": "15 novembre 2025",
+      "saving_chf": 32
+    },
+    {
+      "etab_name": "Coiffure Bellevue",
+      "etab_slug": "coiffure-bellevue",
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/coiffure-bellevue.jpg",
+      "etab_url_public": "https://www.bodypass.ch/coiffeurs/coiffure-bellevue/",
+      "category": "Coiffure",
+      "canton": "VD",
+      "visit_date_fr": "8 décembre 2025",
+      "saving_chf": 45
+    },
+    {
+      "etab_name": "Atelier Onglerie Privée",
+      "etab_slug": "atelier-onglerie-privee",
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/atelier-onglerie-privee.jpg",
+      "etab_url_public": "https://www.bodypass.ch/onglerie/atelier-onglerie-privee/",
+      "category": "Onglerie",
+      "canton": "GE",
+      "visit_date_fr": "14 janvier 2026",
+      "saving_chf": 38
+    },
+    {
+      "etab_name": "Yoga Studio Plainpalais",
+      "etab_slug": "yoga-plainpalais",
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/yoga-plainpalais.jpg",
+      "etab_url_public": "https://www.bodypass.ch/fitness/yoga-plainpalais/",
+      "category": "Yoga",
+      "canton": "GE",
+      "visit_date_fr": "2 mars 2026",
+      "saving_chf": 24
+    },
+    {
+      "etab_name": "Fitness Premium Lausanne",
+      "etab_slug": "fitness-premium-lausanne",
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/fitness-premium-lausanne.jpg",
+      "etab_url_public": "https://www.bodypass.ch/fitness/fitness-premium-lausanne/",
+      "category": "Fitness",
+      "canton": "VD",
+      "visit_date_fr": "19 avril 2026",
+      "saving_chf": 50
+    }
+  ]
+}
