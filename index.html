@@ -146,7 +146,15 @@
     }
     .visite .visit-meta {
       font-size: 13px; color: var(--bp-text-soft); margin: 0 0 14px 0;
-      white-space: pre-line;
+      list-style: none; padding: 0;
+    }
+    .visite .visit-meta li {
+      position: relative; padding-left: 18px; margin: 0 0 4px 0;
+    }
+    .visite .visit-meta li:last-child { margin-bottom: 0; }
+    .visite .visit-meta li::before {
+      content: "✦"; position: absolute; left: 0; top: 0;
+      color: var(--bp-champagne); font-size: 11px;
     }
     .visite a.link {
       font-size: 11px; font-weight: 600; letter-spacing: 0.14em;
@@ -256,7 +264,7 @@
       <div class="body">
         <div class="category"></div>
         <h3></h3>
-        <p class="visit-meta"></p>
+        <ul class="visit-meta"></ul>
         <a class="link" href="#" target="_blank" rel="noopener">Voir l'établissement →</a>
       </div>
     </article>
@@ -307,11 +315,12 @@
       return `background-image: linear-gradient(135deg, rgba(44,40,38,0.18), rgba(44,40,38,0.02)), url('${safe}');`;
     }
 
-    function visitMeta(v) {
+    function visitMetaItems(v) {
+      const items = [];
       const date = v.visit_date_fr || v.last_visit_fr || "";
-      const saving = v.saving_chf ? `≈${v.saving_chf} CHF économisées` : "";
-      if (date && saving) return `${date}\n${saving}`;
-      return date || saving;
+      if (date) items.push(date);
+      if (v.saving_chf) items.push(`≈${v.saving_chf} CHF économisées`);
+      return items;
     }
 
     function dedupeByEtab(visites) {
@@ -387,7 +396,12 @@
           node.querySelector(".media").setAttribute("style", mediaStyle(v.etab_photo_url));
           node.querySelector(".category").textContent = (v.canton || "").toUpperCase();
           node.querySelector("h3").textContent = v.etab_name || "";
-          node.querySelector(".visit-meta").textContent = visitMeta(v);
+          const metaUl = node.querySelector(".visit-meta");
+          visitMetaItems(v).forEach(txt => {
+            const li = document.createElement("li");
+            li.textContent = txt;
+            metaUl.appendChild(li);
+          });
           const link = node.querySelector("a.link");
           if (v.etab_url_public) link.href = v.etab_url_public;
           else link.style.display = "none";
