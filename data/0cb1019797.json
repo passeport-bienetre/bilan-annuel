@@ -1,0 +1,41 @@
+{
+  "name": "Caroline",
+  "window": {
+    "start": "1 juin 2025",
+    "end": "1 juin 2026"
+  },
+  "stats": {
+    "visites_total": 3,
+    "etabs_uniques": 3,
+    "economies_chf": 162
+  },
+  "visites": [
+    {
+      "etab_name": "Institut Beauté Bertmans",
+      "etab_slug": "institut-beaute-bertmans",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-beaute-bertmans.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-beaute-bertmans/",
+      "canton": "Vaud",
+      "visit_date_fr": "11 juin 2025",
+      "saving_chf": 40
+    },
+    {
+      "etab_name": "Le Mirador Resort & Spa",
+      "etab_slug": "le-mirador-resort-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
+      "canton": "Vaud",
+      "visit_date_fr": "23 juillet 2025",
+      "saving_chf": 60
+    },
+    {
+      "etab_name": "Arte Beauty Lutry",
+      "etab_slug": "arte-beauty-lutry",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-lutry.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
+      "canton": "Vaud",
+      "visit_date_fr": "20 septembre 2025",
+      "saving_chf": 62
+    }
+  ]
+}
