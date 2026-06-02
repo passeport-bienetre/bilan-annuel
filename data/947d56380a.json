@@ -1,0 +1,41 @@
+{
+  "name": "Aline",
+  "window": {
+    "start": "2 juin 2025",
+    "end": "2 juin 2026"
+  },
+  "stats": {
+    "visites_total": 3,
+    "etabs_uniques": 3,
+    "economies_chf": 142
+  },
+  "visites": [
+    {
+      "etab_name": "LECRANS HOTEL & SPA",
+      "etab_slug": "le-st-gervais-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-st-gervais-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-st-gervais-hotel-spa/",
+      "canton": "Valais",
+      "visit_date_fr": "13 juin 2025",
+      "saving_chf": 42
+    },
+    {
+      "etab_name": "Anzère SPA & Wellness",
+      "etab_slug": "anzere-spa-wellness",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/anzere-spa-wellness.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/anzere-spa-wellness/",
+      "canton": "Valais",
+      "visit_date_fr": "15 novembre 2025",
+      "saving_chf": 40
+    },
+    {
+      "etab_name": "Le Mirador Resort & Spa",
+      "etab_slug": "le-mirador-resort-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
+      "canton": "Vaud",
+      "visit_date_fr": "17 février 2026",
+      "saving_chf": 60
+    }
+  ]
+}
