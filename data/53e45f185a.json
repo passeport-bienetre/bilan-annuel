@@ -1,0 +1,41 @@
+{
+  "name": "Isabelle",
+  "window": {
+    "start": "3 juin 2025",
+    "end": "3 juin 2026"
+  },
+  "stats": {
+    "visites_total": 3,
+    "etabs_uniques": 3,
+    "economies_chf": 125
+  },
+  "visites": [
+    {
+      "etab_name": "Saai Nam Massage - Manor",
+      "etab_slug": "saai-nam-massage-manor",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/saai-nam-massage-manor.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/saai-nam-massage-manor/",
+      "canton": "Genève",
+      "visit_date_fr": "12 novembre 2025",
+      "saving_chf": 48
+    },
+    {
+      "etab_name": "Hôtel Intercontinental Spa 5 Mondes",
+      "etab_slug": "hotel-intercontinental-spa-5-mondes",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-intercontinental-spa-5-mondes.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/",
+      "canton": "Genève",
+      "visit_date_fr": "3 décembre 2025",
+      "saving_chf": 45
+    },
+    {
+      "etab_name": "BLISS",
+      "etab_slug": "bliss",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bliss.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bliss/",
+      "canton": "Genève",
+      "visit_date_fr": "13 février 2026",
+      "saving_chf": 32
+    }
+  ]
+}
