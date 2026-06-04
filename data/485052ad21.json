@@ -1,0 +1,68 @@
+{
+  "name": "Sandrine",
+  "window": {
+    "start": "4 juin 2025",
+    "end": "4 juin 2026"
+  },
+  "stats": {
+    "visites_total": 6,
+    "etabs_uniques": 6,
+    "economies_chf": 252
+  },
+  "visites": [
+    {
+      "etab_name": "Nail Café",
+      "etab_slug": "nail-cafe",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/nail-cafe.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/nail-cafe/",
+      "canton": "Vaud",
+      "visit_date_fr": "12 juin 2025",
+      "saving_chf": 29
+    },
+    {
+      "etab_name": "Karré Long",
+      "etab_slug": "karre-long-3",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/karre-long-3.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/karre-long-3/",
+      "canton": "Vaud",
+      "visit_date_fr": "13 décembre 2025",
+      "saving_chf": 40
+    },
+    {
+      "etab_name": "LAURA COIFFEUSE PRIVÉE",
+      "etab_slug": "laura-coiffeuse-privee",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/laura-coiffeuse-privee.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/laura-coiffeuse-privee/",
+      "canton": "Vaud",
+      "visit_date_fr": "18 mars 2026",
+      "saving_chf": 40
+    },
+    {
+      "etab_name": "Salon Privé Ecublens",
+      "etab_slug": "salon-prive-ecublens",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive-ecublens.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/salon-prive-ecublens/",
+      "canton": "Vaud",
+      "visit_date_fr": "26 mars 2026",
+      "saving_chf": 40
+    },
+    {
+      "etab_name": "Hôtel & Spa Le National",
+      "etab_slug": "hotel-spa-le-national",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-spa-le-national.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-spa-le-national/",
+      "canton": "Valais",
+      "visit_date_fr": "29 mars 2026",
+      "saving_chf": 40
+    },
+    {
+      "etab_name": "Arte Beauty Lutry",
+      "etab_slug": "arte-beauty-lutry",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-lutry.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
+      "canton": "Vaud",
+      "visit_date_fr": "28 avril 2026",
+      "saving_chf": 62
+    }
+  ]
+}
