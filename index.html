@@ -208,6 +208,26 @@
     }
     .cta-block a.btn:hover { background: var(--bp-burgundy-dark); }
 
+    .cta-block .promo { max-width: 540px; margin: 0 auto 36px; }
+    .cta-block .promo .promo-intro {
+      font-size: 16px; color: var(--bp-text-soft);
+      margin: 0 0 26px; line-height: 1.6;
+    }
+    .cta-block .promo .promo-box {
+      border-top: 1px solid var(--bp-divider);
+      border-bottom: 1px solid var(--bp-divider);
+      padding: 30px 0;
+    }
+    .cta-block .promo .promo-code {
+      font-family: 'Playfair Display', Georgia, serif; font-weight: 400;
+      font-size: 38px; line-height: 1.1; color: var(--bp-text);
+      letter-spacing: 0.08em; margin: 0 0 14px;
+    }
+    .cta-block .promo .promo-validity {
+      font-size: 11px; letter-spacing: 0.22em; text-transform: uppercase;
+      color: var(--bp-burgundy); font-weight: 600;
+    }
+
     .footer {
       margin-top: 56px; padding-top: 56px;
       border-top: 1px solid var(--bp-divider); text-align: center;
@@ -246,6 +266,7 @@
       .visite .media { min-height: 180px; }
       .cta-block { padding: 40px 24px; }
       .cta-block h2 { font-size: 26px; }
+      .cta-block .promo .promo-code { font-size: 30px; }
     }
   </style>
 </head>
@@ -423,6 +444,13 @@
         <div class="eyebrow">Encore une année comme celle-ci&nbsp;?</div>
         <h2>Renouvelez votre Body Pass<br>et <em>continuez</em> sans interruption.</h2>
         <p>12 mois de plus à 50% dans environ 200 adresses. La même carte, le même rythme.</p>
+        <div class="promo">
+          <p class="promo-intro">Pour vous remercier, voici 10&nbsp;CHF offerts sur votre renouvellement avec ce code&nbsp;:</p>
+          <div class="promo-box">
+            <div class="promo-code">SIENNA26</div>
+            <div class="promo-validity">Valable pendant les 30 prochains jours</div>
+          </div>
+        </div>
         <a class="btn" href="${RENEW_URL}">Renouveler ma carte</a>`;
       app.appendChild(ctaBlock);
 
