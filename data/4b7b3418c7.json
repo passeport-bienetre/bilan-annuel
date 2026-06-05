@@ -1,0 +1,41 @@
+{
+  "name": "Sandrine",
+  "window": {
+    "start": "5 juin 2025",
+    "end": "5 juin 2026"
+  },
+  "stats": {
+    "visites_total": 3,
+    "etabs_uniques": 3,
+    "economies_chf": 132
+  },
+  "visites": [
+    {
+      "etab_name": "Deep Nature Les Granges d'en Haut",
+      "etab_slug": "deep-nature-les-granges-den-haut",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/deep-nature-les-granges-den-haut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/deep-nature-les-granges-den-haut/",
+      "canton": null,
+      "visit_date_fr": "12 juillet 2025",
+      "saving_chf": 45
+    },
+    {
+      "etab_name": "Chalet-Hôtel la Marmotte",
+      "etab_slug": "chalet-hotel-la-marmotte",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-hotel-la-marmotte.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-hotel-la-marmotte/",
+      "canton": null,
+      "visit_date_fr": "10 janvier 2026",
+      "saving_chf": 45
+    },
+    {
+      "etab_name": "Les Sources du Chéry",
+      "etab_slug": "les-sources-du-chery",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-sources-du-chery.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/les-sources-du-chery/",
+      "canton": null,
+      "visit_date_fr": "14 mars 2026",
+      "saving_chf": 42
+    }
+  ]
+}

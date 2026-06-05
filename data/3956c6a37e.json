@@ -1,0 +1,32 @@
+{
+  "name": "Oriane",
+  "window": {
+    "start": "5 juin 2025",
+    "end": "5 juin 2026"
+  },
+  "stats": {
+    "visites_total": 2,
+    "etabs_uniques": 2,
+    "economies_chf": 88
+  },
+  "visites": [
+    {
+      "etab_name": "AVEDA VIEILLE-VILLE",
+      "etab_slug": "aveda-vieille-ville",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/aveda-vieille-ville.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/aveda-vieille-ville/",
+      "canton": "Genève",
+      "visit_date_fr": "29 décembre 2025",
+      "saving_chf": 50
+    },
+    {
+      "etab_name": "So Hair",
+      "etab_slug": "so-hair",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/so-hair.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/so-hair/",
+      "canton": "Genève",
+      "visit_date_fr": "1 mai 2026",
+      "saving_chf": 38
+    }
+  ]
+}

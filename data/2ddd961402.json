@@ -1,0 +1,68 @@
+{
+  "name": "Anouk",
+  "window": {
+    "start": "5 juin 2025",
+    "end": "5 juin 2026"
+  },
+  "stats": {
+    "visites_total": 6,
+    "etabs_uniques": 6,
+    "economies_chf": 206
+  },
+  "visites": [
+    {
+      "etab_name": "Hôtel Intercontinental Spa 5 Mondes",
+      "etab_slug": "hotel-intercontinental-spa-5-mondes",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-intercontinental-spa-5-mondes.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/",
+      "canton": "Genève",
+      "visit_date_fr": "17 juin 2025",
+      "saving_chf": 45
+    },
+    {
+      "etab_name": "Le Bal des Créateurs",
+      "etab_slug": "le-bal-des-createurs-3",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-bal-des-createurs-3.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/",
+      "canton": "Genève",
+      "visit_date_fr": "16 juillet 2025",
+      "saving_chf": 30
+    },
+    {
+      "etab_name": "Nail Café",
+      "etab_slug": "nail-cafe",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/nail-cafe.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/nail-cafe/",
+      "canton": "Vaud",
+      "visit_date_fr": "8 septembre 2025",
+      "saving_chf": 29
+    },
+    {
+      "etab_name": "LES BAINS PUBLICS",
+      "etab_slug": "les-bains-publics",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-bains-publics.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/les-bains-publics/",
+      "canton": "Valais",
+      "visit_date_fr": "2 janvier 2026",
+      "saving_chf": 22
+    },
+    {
+      "etab_name": "Blossom Institut",
+      "etab_slug": "blossom-institut",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/blossom-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/blossom-institut/",
+      "canton": "Genève",
+      "visit_date_fr": "13 février 2026",
+      "saving_chf": 50
+    },
+    {
+      "etab_name": "BORROMEO COIFFURE",
+      "etab_slug": "borromeo-coiffure",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/borromeo-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/borromeo-coiffure/",
+      "canton": "Genève",
+      "visit_date_fr": "3 mars 2026",
+      "saving_chf": 30
+    }
+  ]
+}

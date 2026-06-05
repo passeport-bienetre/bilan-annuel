@@ -1,0 +1,41 @@
+{
+  "name": "Diane",
+  "window": {
+    "start": "5 juin 2025",
+    "end": "5 juin 2026"
+  },
+  "stats": {
+    "visites_total": 3,
+    "etabs_uniques": 3,
+    "economies_chf": 130
+  },
+  "visites": [
+    {
+      "etab_name": "Swiss Beauty Studio",
+      "etab_slug": "swiss-beauty-studio",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/swiss-beauty-studio.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/swiss-beauty-studio/",
+      "canton": "Genève",
+      "visit_date_fr": "5 juillet 2025",
+      "saving_chf": 22
+    },
+    {
+      "etab_name": "Chalet Royalp Hôtel & Spa",
+      "etab_slug": "chalet-royalp-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
+      "canton": "Vaud",
+      "visit_date_fr": "8 juillet 2025",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "The Wax Bar Genève",
+      "etab_slug": "the-wax-bar-geneve",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/the-wax-bar-geneve.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/the-wax-bar-geneve/",
+      "canton": "Genève",
+      "visit_date_fr": "10 juillet 2025",
+      "saving_chf": 28
+    }
+  ]
+}

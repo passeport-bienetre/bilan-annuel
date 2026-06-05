@@ -1,0 +1,41 @@
+{
+  "name": "Pierre-Marie",
+  "window": {
+    "start": "5 juin 2025",
+    "end": "5 juin 2026"
+  },
+  "stats": {
+    "visites_total": 3,
+    "etabs_uniques": 3,
+    "economies_chf": 135
+  },
+  "visites": [
+    {
+      "etab_name": "Bains d'Ovronnaz",
+      "etab_slug": "bains-dovronnaz",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bains-dovronnaz.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bains-dovronnaz/",
+      "canton": "Valais",
+      "visit_date_fr": "23 juin 2025",
+      "saving_chf": 42
+    },
+    {
+      "etab_name": "Hôtel Ermitage Spa des Quatre Terres",
+      "etab_slug": "hotel-ermitage-spa-des-quatre-terres",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-ermitage-spa-des-quatre-terres.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-ermitage-spa-des-quatre-terres/",
+      "canton": null,
+      "visit_date_fr": "17 juillet 2025",
+      "saving_chf": 45
+    },
+    {
+      "etab_name": "LA MAISON VALMONT – BONGENIE",
+      "etab_slug": "la-maison-valmont-lausanne",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-maison-valmont-lausanne.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/la-maison-valmont-lausanne/",
+      "canton": "Vaud",
+      "visit_date_fr": "17 décembre 2025",
+      "saving_chf": 48
+    }
+  ]
+}

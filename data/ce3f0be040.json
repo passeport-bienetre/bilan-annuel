@@ -1,0 +1,68 @@
+{
+  "name": "Julie",
+  "window": {
+    "start": "5 juin 2025",
+    "end": "5 juin 2026"
+  },
+  "stats": {
+    "visites_total": 6,
+    "etabs_uniques": 6,
+    "economies_chf": 221
+  },
+  "visites": [
+    {
+      "etab_name": "BLISS",
+      "etab_slug": "bliss",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bliss.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bliss/",
+      "canton": "Genève",
+      "visit_date_fr": "19 juillet 2025",
+      "saving_chf": 32
+    },
+    {
+      "etab_name": "BL Institut",
+      "etab_slug": "bl-institut-2",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bl-institut-2.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bl-institut-2/",
+      "canton": "Genève",
+      "visit_date_fr": "7 août 2025",
+      "saving_chf": 31
+    },
+    {
+      "etab_name": "Hôtel Intercontinental Spa 5 Mondes",
+      "etab_slug": "hotel-intercontinental-spa-5-mondes",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-intercontinental-spa-5-mondes.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/",
+      "canton": "Genève",
+      "visit_date_fr": "10 octobre 2025",
+      "saving_chf": 45
+    },
+    {
+      "etab_name": "Hôtel & Spa Le National",
+      "etab_slug": "hotel-spa-le-national",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-spa-le-national.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-spa-le-national/",
+      "canton": "Valais",
+      "visit_date_fr": "23 février 2026",
+      "saving_chf": 40
+    },
+    {
+      "etab_name": "Le Bal des Créateurs",
+      "etab_slug": "le-bal-des-createurs-3",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-bal-des-createurs-3.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/",
+      "canton": "Genève",
+      "visit_date_fr": "19 mars 2026",
+      "saving_chf": 30
+    },
+    {
+      "etab_name": "EVERNESS <br>Hôtel & Resort",
+      "etab_slug": "everness-resort",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/everness-resort.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/everness-resort/",
+      "canton": "Vaud",
+      "visit_date_fr": "28 mars 2026",
+      "saving_chf": 42
+    }
+  ]
+}
