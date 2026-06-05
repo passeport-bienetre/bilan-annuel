@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 2,
     "etabs_uniques": 2,
-    "economies_chf": 90
+    "economies_chf": 180
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/swiss-aesthetica/",
       "canton": "Vaud",
       "visit_date_fr": "1 juillet 2025",
-      "saving_chf": 40
+      "saving_chf": 80
     },
     {
       "etab_name": "Blossom Institut",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/blossom-institut/",
       "canton": "Genève",
       "visit_date_fr": "11 février 2026",
-      "saving_chf": 50
+      "saving_chf": 100
     }
   ]
 }

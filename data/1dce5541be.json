@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 8,
     "etabs_uniques": 8,
-    "economies_chf": 318
+    "economies_chf": 595
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/espace-beaute-sarah/",
       "canton": "Vaud",
       "visit_date_fr": "12 août 2025",
-      "saving_chf": 25
+      "saving_chf": 50
     },
     {
       "etab_name": "Flocoon Spa Cinq Mondes",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/flocoon-spa-cinq-mondes/",
       "canton": "Valais",
       "visit_date_fr": "15 août 2025",
-      "saving_chf": 50
+      "saving_chf": 100
     },
     {
       "etab_name": "Salon Privé Ecublens",
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/salon-prive-ecublens/",
       "canton": "Vaud",
       "visit_date_fr": "14 novembre 2025",
-      "saving_chf": 40
+      "saving_chf": 80
     },
     {
       "etab_name": "Arte Beauty EPFL",
@@ -44,7 +44,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/",
       "canton": "Vaud",
       "visit_date_fr": "21 novembre 2025",
-      "saving_chf": 62
+      "saving_chf": 125
     },
     {
       "etab_name": "LAURA COIFFEUSE PRIVÉE",
@@ -53,7 +53,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/laura-coiffeuse-privee/",
       "canton": "Vaud",
       "visit_date_fr": "11 février 2026",
-      "saving_chf": 40
+      "saving_chf": 80
     },
     {
       "etab_name": "Institut ZenSkin",
@@ -71,7 +71,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/namaste/",
       "canton": "Vaud",
       "visit_date_fr": "30 avril 2026",
-      "saving_chf": 26
+      "saving_chf": 52
     },
     {
       "etab_name": "BLOOM HAIR SALON",
@@ -80,7 +80,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/bloom-hair-salon/",
       "canton": "Vaud",
       "visit_date_fr": "4 juin 2026",
-      "saving_chf": 34
+      "saving_chf": 68
     }
   ]
 }

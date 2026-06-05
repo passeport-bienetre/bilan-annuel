@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 2,
     "etabs_uniques": 2,
-    "economies_chf": 92
+    "economies_chf": 185
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/flocoon-spa-cinq-mondes/",
       "canton": "Valais",
       "visit_date_fr": "10 juin 2025",
-      "saving_chf": 50
+      "saving_chf": 100
     },
     {
       "etab_name": "LECRANS HOTEL & SPA",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/le-st-gervais-hotel-spa/",
       "canton": "Valais",
       "visit_date_fr": "13 juin 2025",
-      "saving_chf": 42
+      "saving_chf": 85
     }
   ]
 }

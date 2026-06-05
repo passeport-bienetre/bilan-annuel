@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 2,
     "etabs_uniques": 2,
-    "economies_chf": 120
+    "economies_chf": 240
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
       "canton": "Vaud",
       "visit_date_fr": "2 juillet 2025",
-      "saving_chf": 60
+      "saving_chf": 120
     },
     {
       "etab_name": "Royal Savoy Hôtel & Spa",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "canton": "Vaud",
       "visit_date_fr": "6 mai 2026",
-      "saving_chf": 60
+      "saving_chf": 120
     }
   ]
 }

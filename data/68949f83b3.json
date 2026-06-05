@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 7,
     "etabs_uniques": 7,
-    "economies_chf": 306
+    "economies_chf": 612
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "canton": "Vaud",
       "visit_date_fr": "7 juillet 2025",
-      "saving_chf": 60
+      "saving_chf": 120
     },
     {
       "etab_name": "Lausanne Palace & Spa",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
       "canton": "Vaud",
       "visit_date_fr": "7 juillet 2025",
-      "saving_chf": 65
+      "saving_chf": 130
     },
     {
       "etab_name": "Flocoon Spa Cinq Mondes",
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/flocoon-spa-cinq-mondes/",
       "canton": "Valais",
       "visit_date_fr": "21 octobre 2025",
-      "saving_chf": 50
+      "saving_chf": 100
     },
     {
       "etab_name": "Maison Perle",
@@ -44,7 +44,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/maison-perle/",
       "canton": "Vaud",
       "visit_date_fr": "9 décembre 2025",
-      "saving_chf": 35
+      "saving_chf": 70
     },
     {
       "etab_name": "LECRANS HOTEL & SPA",
@@ -53,7 +53,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/le-st-gervais-hotel-spa/",
       "canton": "Valais",
       "visit_date_fr": "10 décembre 2025",
-      "saving_chf": 42
+      "saving_chf": 85
     },
     {
       "etab_name": "Salon Privé Chailly",
@@ -62,7 +62,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/salon-prive-chailly/",
       "canton": "Vaud",
       "visit_date_fr": "10 avril 2026",
-      "saving_chf": 31
+      "saving_chf": 62
     },
     {
       "etab_name": "LES BAINS PUBLICS",
@@ -71,7 +71,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/les-bains-publics/",
       "canton": "Valais",
       "visit_date_fr": "25 avril 2026",
-      "saving_chf": 22
+      "saving_chf": 45
     }
   ]
 }

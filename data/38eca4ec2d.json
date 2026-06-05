@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 6,
     "etabs_uniques": 6,
-    "economies_chf": 277
+    "economies_chf": 554
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-de-rougemont-spa/",
       "canton": "Berne",
       "visit_date_fr": "8 juin 2025",
-      "saving_chf": 45
+      "saving_chf": 90
     },
     {
       "etab_name": "NUANCES NATURE",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/nuances-nature/",
       "canton": "Genève",
       "visit_date_fr": "7 août 2025",
-      "saving_chf": 32
+      "saving_chf": 64
     },
     {
       "etab_name": "Hôtel Intercontinental Spa 5 Mondes",
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/",
       "canton": "Genève",
       "visit_date_fr": "16 octobre 2025",
-      "saving_chf": 45
+      "saving_chf": 90
     },
     {
       "etab_name": "Le Mirador Resort & Spa",
@@ -44,7 +44,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
       "canton": "Vaud",
       "visit_date_fr": "14 novembre 2025",
-      "saving_chf": 60
+      "saving_chf": 120
     },
     {
       "etab_name": "Institut Kaori",
@@ -53,7 +53,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/institut-kaori/",
       "canton": "Vaud",
       "visit_date_fr": "6 décembre 2025",
-      "saving_chf": 35
+      "saving_chf": 70
     },
     {
       "etab_name": "Royal Savoy Hôtel & Spa",
@@ -62,7 +62,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "canton": "Vaud",
       "visit_date_fr": "26 janvier 2026",
-      "saving_chf": 60
+      "saving_chf": 120
     }
   ]
 }

@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 2,
     "etabs_uniques": 2,
-    "economies_chf": 75
+    "economies_chf": 150
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
       "canton": "Vaud",
       "visit_date_fr": "18 juin 2025",
-      "saving_chf": 35
+      "saving_chf": 70
     },
     {
       "etab_name": "Salon Privé Ecublens",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/salon-prive-ecublens/",
       "canton": "Vaud",
       "visit_date_fr": "31 janvier 2026",
-      "saving_chf": 40
+      "saving_chf": 80
     }
   ]
 }

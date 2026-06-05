@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 4,
     "etabs_uniques": 4,
-    "economies_chf": 148
+    "economies_chf": 255
   },
   "visites": [
     {
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/espace-beaute-harmonie/",
       "canton": "Vaud",
       "visit_date_fr": "22 novembre 2025",
-      "saving_chf": 30
+      "saving_chf": 60
     },
     {
       "etab_name": "Amiia Clinique",
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/amiia-clinique/",
       "canton": null,
       "visit_date_fr": "20 mars 2026",
-      "saving_chf": 38
+      "saving_chf": 75
     },
     {
       "etab_name": "LAURA COIFFEUSE PRIVÉE",
@@ -44,7 +44,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/laura-coiffeuse-privee/",
       "canton": "Vaud",
       "visit_date_fr": "28 avril 2026",
-      "saving_chf": 40
+      "saving_chf": 80
     }
   ]
 }

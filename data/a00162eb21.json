@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 4,
     "etabs_uniques": 4,
-    "economies_chf": 195
+    "economies_chf": 390
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
       "canton": "Vaud",
       "visit_date_fr": "7 juin 2025",
-      "saving_chf": 80
+      "saving_chf": 160
     },
     {
       "etab_name": "Altitude by Garance",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/altitude-by-garance/",
       "canton": "Vaud",
       "visit_date_fr": "31 août 2025",
-      "saving_chf": 40
+      "saving_chf": 80
     },
     {
       "etab_name": "Bhumi",
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/biotonique-institut/",
       "canton": "Vaud",
       "visit_date_fr": "11 mars 2026",
-      "saving_chf": 32
+      "saving_chf": 65
     },
     {
       "etab_name": "EVERNESS <br>Hôtel & Resort",
@@ -44,7 +44,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/everness-resort/",
       "canton": "Vaud",
       "visit_date_fr": "24 avril 2026",
-      "saving_chf": 42
+      "saving_chf": 85
     }
   ]
 }

@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 6,
     "etabs_uniques": 6,
-    "economies_chf": 293
+    "economies_chf": 586
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/flocoon-spa-cinq-mondes/",
       "canton": "Valais",
       "visit_date_fr": "14 juin 2025",
-      "saving_chf": 50
+      "saving_chf": 100
     },
     {
       "etab_name": "LECRANS HOTEL & SPA",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/le-st-gervais-hotel-spa/",
       "canton": "Valais",
       "visit_date_fr": "11 juillet 2025",
-      "saving_chf": 42
+      "saving_chf": 85
     },
     {
       "etab_name": "Grand Hôtel du Lac",
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/",
       "canton": "Vaud",
       "visit_date_fr": "29 octobre 2025",
-      "saving_chf": 55
+      "saving_chf": 110
     },
     {
       "etab_name": "VAGHEGGI Phyto Space Crans-Montana",
@@ -44,7 +44,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/vagheggi-phyto-space-crans-montana/",
       "canton": "Valais",
       "visit_date_fr": "28 novembre 2025",
-      "saving_chf": 38
+      "saving_chf": 75
     },
     {
       "etab_name": "LA MAISON VALMONT – BONGENIE",
@@ -53,7 +53,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/la-maison-valmont-lausanne/",
       "canton": "Vaud",
       "visit_date_fr": "27 janvier 2026",
-      "saving_chf": 48
+      "saving_chf": 95
     },
     {
       "etab_name": "RUBIS SPA",
@@ -62,7 +62,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/rubis-spa/",
       "canton": "Vaud",
       "visit_date_fr": "18 mai 2026",
-      "saving_chf": 60
+      "saving_chf": 121
     }
   ]
 }

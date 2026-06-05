@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 6,
     "etabs_uniques": 6,
-    "economies_chf": 206
+    "economies_chf": 413
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/",
       "canton": "Genève",
       "visit_date_fr": "17 juin 2025",
-      "saving_chf": 45
+      "saving_chf": 90
     },
     {
       "etab_name": "Le Bal des Créateurs",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/",
       "canton": "Genève",
       "visit_date_fr": "16 juillet 2025",
-      "saving_chf": 30
+      "saving_chf": 60
     },
     {
       "etab_name": "Nail Café",
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/nail-cafe/",
       "canton": "Vaud",
       "visit_date_fr": "8 septembre 2025",
-      "saving_chf": 29
+      "saving_chf": 58
     },
     {
       "etab_name": "LES BAINS PUBLICS",
@@ -44,7 +44,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/les-bains-publics/",
       "canton": "Valais",
       "visit_date_fr": "2 janvier 2026",
-      "saving_chf": 22
+      "saving_chf": 45
     },
     {
       "etab_name": "Blossom Institut",
@@ -53,7 +53,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/blossom-institut/",
       "canton": "Genève",
       "visit_date_fr": "13 février 2026",
-      "saving_chf": 50
+      "saving_chf": 100
     },
     {
       "etab_name": "BORROMEO COIFFURE",
@@ -62,7 +62,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/borromeo-coiffure/",
       "canton": "Genève",
       "visit_date_fr": "3 mars 2026",
-      "saving_chf": 30
+      "saving_chf": 60
     }
   ]
 }

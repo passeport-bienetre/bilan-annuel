@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 9,
     "etabs_uniques": 9,
-    "economies_chf": 376
+    "economies_chf": 753
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/lavalleespa/",
       "canton": "Genève",
       "visit_date_fr": "26 juin 2025",
-      "saving_chf": 70
+      "saving_chf": 140
     },
     {
       "etab_name": "Le Beausquet Genève",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/le-beausquet-geneve/",
       "canton": "Genève",
       "visit_date_fr": "27 juin 2025",
-      "saving_chf": 50
+      "saving_chf": 100
     },
     {
       "etab_name": "Belle et Naturelle",
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/belle-et-naturelle/",
       "canton": "Genève",
       "visit_date_fr": "8 juillet 2025",
-      "saving_chf": 25
+      "saving_chf": 50
     },
     {
       "etab_name": "NUANCES NATURE",
@@ -44,7 +44,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/nuances-nature/",
       "canton": "Genève",
       "visit_date_fr": "2 octobre 2025",
-      "saving_chf": 32
+      "saving_chf": 64
     },
     {
       "etab_name": "Flocoon Spa Cinq Mondes",
@@ -53,7 +53,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/flocoon-spa-cinq-mondes/",
       "canton": "Valais",
       "visit_date_fr": "28 décembre 2025",
-      "saving_chf": 50
+      "saving_chf": 100
     },
     {
       "etab_name": "BuiCil Genève",
@@ -62,7 +62,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/buicil-geneve/",
       "canton": "Genève",
       "visit_date_fr": "8 avril 2026",
-      "saving_chf": 30
+      "saving_chf": 60
     },
     {
       "etab_name": "EUPHORIA & BEAUTY STUDIO",
@@ -71,7 +71,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/euphoria-beauty-studio/",
       "canton": "Genève",
       "visit_date_fr": "7 mai 2026",
-      "saving_chf": 40
+      "saving_chf": 80
     },
     {
       "etab_name": "INSTITUT VALMONT CHEZ GLOBUS GENEVE",
@@ -80,7 +80,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/institut-valmont-chez-globus-geneve/",
       "canton": "Genève",
       "visit_date_fr": "13 mai 2026",
-      "saving_chf": 48
+      "saving_chf": 95
     },
     {
       "etab_name": "BEAUTY B",
@@ -89,7 +89,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/",
       "canton": "Genève",
       "visit_date_fr": "28 mai 2026",
-      "saving_chf": 32
+      "saving_chf": 64
     }
   ]
 }

@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 6,
     "etabs_uniques": 6,
-    "economies_chf": 249
+    "economies_chf": 498
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/nail-cafe/",
       "canton": "Vaud",
       "visit_date_fr": "19 septembre 2025",
-      "saving_chf": 29
+      "saving_chf": 58
     },
     {
       "etab_name": "Amiia Clinique",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/amiia-clinique/",
       "canton": null,
       "visit_date_fr": "28 novembre 2025",
-      "saving_chf": 38
+      "saving_chf": 75
     },
     {
       "etab_name": "Namasté",
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/namaste/",
       "canton": "Vaud",
       "visit_date_fr": "30 janvier 2026",
-      "saving_chf": 26
+      "saving_chf": 52
     },
     {
       "etab_name": "Arte Beauty Lutry",
@@ -44,7 +44,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
       "canton": "Vaud",
       "visit_date_fr": "14 mars 2026",
-      "saving_chf": 62
+      "saving_chf": 125
     },
     {
       "etab_name": "Corps Sains",
@@ -53,7 +53,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/corps-sains/",
       "canton": "Genève",
       "visit_date_fr": "27 mars 2026",
-      "saving_chf": 32
+      "saving_chf": 63
     },
     {
       "etab_name": "Arte Beauty EPFL",
@@ -62,7 +62,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/",
       "canton": "Vaud",
       "visit_date_fr": "22 mai 2026",
-      "saving_chf": 62
+      "saving_chf": 125
     }
   ]
 }

@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 9,
     "etabs_uniques": 9,
-    "economies_chf": 385
+    "economies_chf": 770
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/saai-nam-massage-manor/",
       "canton": "Genève",
       "visit_date_fr": "28 juin 2025",
-      "saving_chf": 48
+      "saving_chf": 95
     },
     {
       "etab_name": "BuiCil Genève",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/buicil-geneve/",
       "canton": "Genève",
       "visit_date_fr": "16 juillet 2025",
-      "saving_chf": 30
+      "saving_chf": 60
     },
     {
       "etab_name": "BLISS",
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/bliss/",
       "canton": "Genève",
       "visit_date_fr": "18 juillet 2025",
-      "saving_chf": 32
+      "saving_chf": 65
     },
     {
       "etab_name": "Blossom Institut",
@@ -44,7 +44,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/blossom-institut/",
       "canton": "Genève",
       "visit_date_fr": "2 septembre 2025",
-      "saving_chf": 50
+      "saving_chf": 100
     },
     {
       "etab_name": "GLOW IN GENEVA",
@@ -53,7 +53,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/glow-in-geneva/",
       "canton": "Genève",
       "visit_date_fr": "8 novembre 2025",
-      "saving_chf": 35
+      "saving_chf": 70
     },
     {
       "etab_name": "Hôtel Intercontinental Spa 5 Mondes",
@@ -62,7 +62,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/",
       "canton": "Genève",
       "visit_date_fr": "21 novembre 2025",
-      "saving_chf": 45
+      "saving_chf": 90
     },
     {
       "etab_name": "Skin Solution",
@@ -71,7 +71,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/skin-solution/",
       "canton": "Genève",
       "visit_date_fr": "24 décembre 2025",
-      "saving_chf": 60
+      "saving_chf": 120
     },
     {
       "etab_name": "SUBLIMEYES",
@@ -80,7 +80,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/institut-sublimeyes/",
       "canton": "Genève",
       "visit_date_fr": "26 mars 2026",
-      "saving_chf": 35
+      "saving_chf": 70
     },
     {
       "etab_name": "Le Beausquet Genève",
@@ -89,7 +89,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/le-beausquet-geneve/",
       "canton": "Genève",
       "visit_date_fr": "9 mai 2026",
-      "saving_chf": 50
+      "saving_chf": 100
     }
   ]
 }

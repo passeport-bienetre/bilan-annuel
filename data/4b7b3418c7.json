@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 3,
     "etabs_uniques": 3,
-    "economies_chf": 132
+    "economies_chf": 265
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/deep-nature-les-granges-den-haut/",
       "canton": null,
       "visit_date_fr": "12 juillet 2025",
-      "saving_chf": 45
+      "saving_chf": 90
     },
     {
       "etab_name": "Chalet-Hôtel la Marmotte",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-hotel-la-marmotte/",
       "canton": null,
       "visit_date_fr": "10 janvier 2026",
-      "saving_chf": 45
+      "saving_chf": 90
     },
     {
       "etab_name": "Les Sources du Chéry",
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/les-sources-du-chery/",
       "canton": null,
       "visit_date_fr": "14 mars 2026",
-      "saving_chf": 42
+      "saving_chf": 85
     }
   ]
 }

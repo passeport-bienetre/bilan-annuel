@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 3,
     "etabs_uniques": 3,
-    "economies_chf": 115
+    "economies_chf": 230
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/les-petits-pieds-du-bonheur/",
       "canton": "Genève",
       "visit_date_fr": "25 septembre 2025",
-      "saving_chf": 25
+      "saving_chf": 50
     },
     {
       "etab_name": "Organik Beauty",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/organik-beauty/",
       "canton": "Vaud",
       "visit_date_fr": "8 novembre 2025",
-      "saving_chf": 52
+      "saving_chf": 105
     },
     {
       "etab_name": "So Hair",
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/so-hair/",
       "canton": "Genève",
       "visit_date_fr": "3 décembre 2025",
-      "saving_chf": 38
+      "saving_chf": 75
     }
   ]
 }

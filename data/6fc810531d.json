@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 4,
     "etabs_uniques": 4,
-    "economies_chf": 200
+    "economies_chf": 400
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
       "canton": "Vaud",
       "visit_date_fr": "2 juillet 2025",
-      "saving_chf": 60
+      "saving_chf": 120
     },
     {
       "etab_name": "EVERNESS <br>Hôtel & Resort",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/everness-resort/",
       "canton": "Vaud",
       "visit_date_fr": "26 juillet 2025",
-      "saving_chf": 42
+      "saving_chf": 85
     },
     {
       "etab_name": "Amiia Clinique",
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/amiia-clinique/",
       "canton": null,
       "visit_date_fr": "31 juillet 2025",
-      "saving_chf": 38
+      "saving_chf": 75
     },
     {
       "etab_name": "Royal Savoy Hôtel & Spa",
@@ -44,7 +44,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "canton": "Vaud",
       "visit_date_fr": "20 octobre 2025",
-      "saving_chf": 60
+      "saving_chf": 120
     }
   ]
 }

@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 10,
     "etabs_uniques": 10,
-    "economies_chf": 424
+    "economies_chf": 847
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/les-petits-pieds-du-bonheur/",
       "canton": "Genève",
       "visit_date_fr": "19 juin 2025",
-      "saving_chf": 25
+      "saving_chf": 50
     },
     {
       "etab_name": "SAKURA LAB",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/sakura-lab/",
       "canton": "Genève",
       "visit_date_fr": "21 juin 2025",
-      "saving_chf": 34
+      "saving_chf": 68
     },
     {
       "etab_name": "LES TRESOMS",
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/les-tresoms-2/",
       "canton": null,
       "visit_date_fr": "26 juin 2025",
-      "saving_chf": 40
+      "saving_chf": 80
     },
     {
       "etab_name": "Saai Nam Massage - Manor",
@@ -44,7 +44,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/saai-nam-massage-manor/",
       "canton": "Genève",
       "visit_date_fr": "10 juillet 2025",
-      "saving_chf": 48
+      "saving_chf": 95
     },
     {
       "etab_name": "Hôtel Intercontinental Spa 5 Mondes",
@@ -53,7 +53,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/",
       "canton": "Genève",
       "visit_date_fr": "23 juillet 2025",
-      "saving_chf": 45
+      "saving_chf": 90
     },
     {
       "etab_name": "Thaiotop",
@@ -62,7 +62,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/thaiotop-3/",
       "canton": "Genève",
       "visit_date_fr": "9 novembre 2025",
-      "saving_chf": 48
+      "saving_chf": 95
     },
     {
       "etab_name": "Institut Energie Zen",
@@ -71,7 +71,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/institut-energie-zen/",
       "canton": "Genève",
       "visit_date_fr": "22 novembre 2025",
-      "saving_chf": 32
+      "saving_chf": 65
     },
     {
       "etab_name": "Thai Corner",
@@ -80,7 +80,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/thai-corner-3/",
       "canton": "Genève",
       "visit_date_fr": "24 janvier 2026",
-      "saving_chf": 50
+      "saving_chf": 100
     },
     {
       "etab_name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
@@ -89,7 +89,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/lavalleespa/",
       "canton": "Genève",
       "visit_date_fr": "9 avril 2026",
-      "saving_chf": 70
+      "saving_chf": 140
     },
     {
       "etab_name": "NUANCES NATURE",
@@ -98,7 +98,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/nuances-nature/",
       "canton": "Genève",
       "visit_date_fr": "17 avril 2026",
-      "saving_chf": 32
+      "saving_chf": 64
     }
   ]
 }

@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 2,
     "etabs_uniques": 2,
-    "economies_chf": 69
+    "economies_chf": 138
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/sakura-lab/",
       "canton": "Genève",
       "visit_date_fr": "2 juillet 2025",
-      "saving_chf": 34
+      "saving_chf": 68
     },
     {
       "etab_name": "GLOW IN GENEVA",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/glow-in-geneva/",
       "canton": "Genève",
       "visit_date_fr": "8 octobre 2025",
-      "saving_chf": 35
+      "saving_chf": 70
     }
   ]
 }

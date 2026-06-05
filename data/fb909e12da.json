@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 2,
     "etabs_uniques": 2,
-    "economies_chf": 70
+    "economies_chf": 140
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/cj-coiffure/",
       "canton": "Vaud",
       "visit_date_fr": "2 octobre 2025",
-      "saving_chf": 30
+      "saving_chf": 60
     },
     {
       "etab_name": "LAURA COIFFEUSE PRIVÉE",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/laura-coiffeuse-privee/",
       "canton": "Vaud",
       "visit_date_fr": "13 mars 2026",
-      "saving_chf": 40
+      "saving_chf": 80
     }
   ]
 }

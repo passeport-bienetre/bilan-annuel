@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 1,
     "etabs_uniques": 1,
-    "economies_chf": 35
+    "economies_chf": 70
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/sawatdee-temple/",
       "canton": "Genève",
       "visit_date_fr": "10 avril 2026",
-      "saving_chf": 35
+      "saving_chf": 70
     }
   ]
 }

@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 5,
     "etabs_uniques": 5,
-    "economies_chf": 198
+    "economies_chf": 395
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/swiss-beauty-studio/",
       "canton": "Genève",
       "visit_date_fr": "20 juin 2025",
-      "saving_chf": 22
+      "saving_chf": 45
     },
     {
       "etab_name": "Les Sources des Alpes",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/les-sources-des-alpes-3/",
       "canton": "Valais",
       "visit_date_fr": "22 juin 2025",
-      "saving_chf": 45
+      "saving_chf": 90
     },
     {
       "etab_name": "Flocoon Spa Cinq Mondes",
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/flocoon-spa-cinq-mondes/",
       "canton": "Valais",
       "visit_date_fr": "22 août 2025",
-      "saving_chf": 50
+      "saving_chf": 100
     },
     {
       "etab_name": "Hôtel Intercontinental Spa 5 Mondes",
@@ -44,7 +44,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/",
       "canton": "Genève",
       "visit_date_fr": "27 novembre 2025",
-      "saving_chf": 45
+      "saving_chf": 90
     },
     {
       "etab_name": "Guinot Art of Beauty",
@@ -53,7 +53,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/guinot-art-of-beauty/",
       "canton": "Genève",
       "visit_date_fr": "11 décembre 2025",
-      "saving_chf": 35
+      "saving_chf": 70
     }
   ]
 }

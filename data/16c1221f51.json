@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 5,
     "etabs_uniques": 5,
-    "economies_chf": 202
+    "economies_chf": 405
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/blossom-institut/",
       "canton": "Genève",
       "visit_date_fr": "10 juin 2025",
-      "saving_chf": 50
+      "saving_chf": 100
     },
     {
       "etab_name": "Le Cabinet de Beauté",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/le-cabinet-de-beaute/",
       "canton": "Genève",
       "visit_date_fr": "10 juin 2025",
-      "saving_chf": 40
+      "saving_chf": 80
     },
     {
       "etab_name": "GLOW IN GENEVA",
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/glow-in-geneva/",
       "canton": "Genève",
       "visit_date_fr": "17 octobre 2025",
-      "saving_chf": 35
+      "saving_chf": 70
     },
     {
       "etab_name": "Studio Beauté",
@@ -44,7 +44,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/studio-beaute/",
       "canton": "Genève",
       "visit_date_fr": "17 février 2026",
-      "saving_chf": 28
+      "saving_chf": 55
     },
     {
       "etab_name": "Le Beausquet Genève",
@@ -53,7 +53,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/le-beausquet-geneve/",
       "canton": "Genève",
       "visit_date_fr": "18 février 2026",
-      "saving_chf": 50
+      "saving_chf": 100
     }
   ]
 }

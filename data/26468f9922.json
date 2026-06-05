@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 7,
     "etabs_uniques": 7,
-    "economies_chf": 271
+    "economies_chf": 542
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/salon-prive-chailly/",
       "canton": "Vaud",
       "visit_date_fr": "18 juin 2025",
-      "saving_chf": 31
+      "saving_chf": 62
     },
     {
       "etab_name": "Le Mirador Resort & Spa",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
       "canton": "Vaud",
       "visit_date_fr": "19 décembre 2025",
-      "saving_chf": 60
+      "saving_chf": 120
     },
     {
       "etab_name": "KASA AMO",
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/kasa-amo/",
       "canton": "Vaud",
       "visit_date_fr": "27 février 2026",
-      "saving_chf": 42
+      "saving_chf": 85
     },
     {
       "etab_name": "Les Sources des Alpes",
@@ -44,7 +44,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/les-sources-des-alpes-3/",
       "canton": "Valais",
       "visit_date_fr": "20 mars 2026",
-      "saving_chf": 45
+      "saving_chf": 90
     },
     {
       "etab_name": "CJ Coiffure",
@@ -53,7 +53,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/cj-coiffure/",
       "canton": "Vaud",
       "visit_date_fr": "24 avril 2026",
-      "saving_chf": 30
+      "saving_chf": 60
     },
     {
       "etab_name": "Tempête de Calme",
@@ -62,7 +62,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/tempete-de-calme/",
       "canton": "Vaud",
       "visit_date_fr": "1 mai 2026",
-      "saving_chf": 28
+      "saving_chf": 57
     },
     {
       "etab_name": "L'Atelier du Visage",
@@ -71,7 +71,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/latelier-du-visage/",
       "canton": "Vaud",
       "visit_date_fr": "13 mai 2026",
-      "saving_chf": 34
+      "saving_chf": 68
     }
   ]
 }

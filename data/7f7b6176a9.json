@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 8,
     "etabs_uniques": 8,
-    "economies_chf": 369
+    "economies_chf": 738
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/bliss/",
       "canton": "Genève",
       "visit_date_fr": "11 juin 2025",
-      "saving_chf": 32
+      "saving_chf": 65
     },
     {
       "etab_name": "Thai Corner",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/thai-corner-3/",
       "canton": "Genève",
       "visit_date_fr": "11 juillet 2025",
-      "saving_chf": 50
+      "saving_chf": 100
     },
     {
       "etab_name": "SAKURA LAB",
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/sakura-lab/",
       "canton": "Genève",
       "visit_date_fr": "25 juillet 2025",
-      "saving_chf": 34
+      "saving_chf": 68
     },
     {
       "etab_name": "Hôtel Intercontinental Spa 5 Mondes",
@@ -44,7 +44,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/",
       "canton": "Genève",
       "visit_date_fr": "17 octobre 2025",
-      "saving_chf": 45
+      "saving_chf": 90
     },
     {
       "etab_name": "Blossom Institut",
@@ -53,7 +53,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/blossom-institut/",
       "canton": "Genève",
       "visit_date_fr": "9 janvier 2026",
-      "saving_chf": 50
+      "saving_chf": 100
     },
     {
       "etab_name": "SPA BY CLARINS - HÔTEL MONT-BLANC CHAMONIX",
@@ -62,7 +62,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/spa-by-clarins/",
       "canton": null,
       "visit_date_fr": "15 mars 2026",
-      "saving_chf": 42
+      "saving_chf": 85
     },
     {
       "etab_name": "Deep Nature Les Granges d'en Haut",
@@ -71,7 +71,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/deep-nature-les-granges-den-haut/",
       "canton": null,
       "visit_date_fr": "20 mars 2026",
-      "saving_chf": 45
+      "saving_chf": 90
     },
     {
       "etab_name": "FLEUR D’EPIDERME",
@@ -80,7 +80,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/fleur-depiderme/",
       "canton": "Genève",
       "visit_date_fr": "28 mai 2026",
-      "saving_chf": 70
+      "saving_chf": 140
     }
   ]
 }

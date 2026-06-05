@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 3,
     "etabs_uniques": 3,
-    "economies_chf": 139
+    "economies_chf": 278
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/nail-cafe/",
       "canton": "Vaud",
       "visit_date_fr": "3 juillet 2025",
-      "saving_chf": 29
+      "saving_chf": 58
     },
     {
       "etab_name": "Lausanne Palace & Spa",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
       "canton": "Vaud",
       "visit_date_fr": "4 juillet 2025",
-      "saving_chf": 65
+      "saving_chf": 130
     },
     {
       "etab_name": "Hôtel Ermitage Spa des Quatre Terres",
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-ermitage-spa-des-quatre-terres/",
       "canton": null,
       "visit_date_fr": "31 août 2025",
-      "saving_chf": 45
+      "saving_chf": 90
     }
   ]
 }

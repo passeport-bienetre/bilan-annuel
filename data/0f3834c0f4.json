@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 3,
     "etabs_uniques": 3,
-    "economies_chf": 96
+    "economies_chf": 192
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/institut-osmose/",
       "canton": "Vaud",
       "visit_date_fr": "2 juillet 2025",
-      "saving_chf": 32
+      "saving_chf": 65
     },
     {
       "etab_name": "Odyssée Santé & Beauté",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/odyssee-sante-beaute/",
       "canton": "Vaud",
       "visit_date_fr": "10 octobre 2025",
-      "saving_chf": 32
+      "saving_chf": 65
     },
     {
       "etab_name": "Institut Bienitude & Bienitude Natura",
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/institut-bienitude-bienitude-natura/",
       "canton": "Vaud",
       "visit_date_fr": "3 février 2026",
-      "saving_chf": 31
+      "saving_chf": 62
     }
   ]
 }

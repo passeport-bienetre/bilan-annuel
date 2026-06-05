@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 2,
     "etabs_uniques": 2,
-    "economies_chf": 128
+    "economies_chf": 255
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
       "canton": "Vaud",
       "visit_date_fr": "10 juin 2025",
-      "saving_chf": 65
+      "saving_chf": 130
     },
     {
       "etab_name": "Arte Beauty EPFL",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/",
       "canton": "Vaud",
       "visit_date_fr": "13 septembre 2025",
-      "saving_chf": 62
+      "saving_chf": 125
     }
   ]
 }

@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 3,
     "etabs_uniques": 3,
-    "economies_chf": 128
+    "economies_chf": 255
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
       "canton": "Vaud",
       "visit_date_fr": "20 juin 2025",
-      "saving_chf": 35
+      "saving_chf": 70
     },
     {
       "etab_name": "Organik Beauty",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/organik-beauty/",
       "canton": "Vaud",
       "visit_date_fr": "14 novembre 2025",
-      "saving_chf": 52
+      "saving_chf": 105
     },
     {
       "etab_name": "Swiss Aesthetica",
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/swiss-aesthetica/",
       "canton": "Vaud",
       "visit_date_fr": "4 décembre 2025",
-      "saving_chf": 40
+      "saving_chf": 80
     }
   ]
 }

@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 1,
     "etabs_uniques": 1,
-    "economies_chf": 32
+    "economies_chf": 63
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/corps-sains/",
       "canton": "Genève",
       "visit_date_fr": "17 juillet 2025",
-      "saving_chf": 32
+      "saving_chf": 63
     }
   ]
 }

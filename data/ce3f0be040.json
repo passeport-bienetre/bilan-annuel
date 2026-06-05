@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 6,
     "etabs_uniques": 6,
-    "economies_chf": 221
+    "economies_chf": 442
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/bliss/",
       "canton": "Genève",
       "visit_date_fr": "19 juillet 2025",
-      "saving_chf": 32
+      "saving_chf": 65
     },
     {
       "etab_name": "BL Institut",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/bl-institut-2/",
       "canton": "Genève",
       "visit_date_fr": "7 août 2025",
-      "saving_chf": 31
+      "saving_chf": 62
     },
     {
       "etab_name": "Hôtel Intercontinental Spa 5 Mondes",
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/",
       "canton": "Genève",
       "visit_date_fr": "10 octobre 2025",
-      "saving_chf": 45
+      "saving_chf": 90
     },
     {
       "etab_name": "Hôtel & Spa Le National",
@@ -44,7 +44,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-spa-le-national/",
       "canton": "Valais",
       "visit_date_fr": "23 février 2026",
-      "saving_chf": 40
+      "saving_chf": 80
     },
     {
       "etab_name": "Le Bal des Créateurs",
@@ -53,7 +53,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/",
       "canton": "Genève",
       "visit_date_fr": "19 mars 2026",
-      "saving_chf": 30
+      "saving_chf": 60
     },
     {
       "etab_name": "EVERNESS <br>Hôtel & Resort",
@@ -62,7 +62,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/everness-resort/",
       "canton": "Vaud",
       "visit_date_fr": "28 mars 2026",
-      "saving_chf": 42
+      "saving_chf": 85
     }
   ]
 }

@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 4,
     "etabs_uniques": 4,
-    "economies_chf": 150
+    "economies_chf": 300
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-de-rougemont-spa/",
       "canton": "Berne",
       "visit_date_fr": "2 juillet 2025",
-      "saving_chf": 45
+      "saving_chf": 90
     },
     {
       "etab_name": "Swiss Aesthetica",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/swiss-aesthetica/",
       "canton": "Vaud",
       "visit_date_fr": "8 juillet 2025",
-      "saving_chf": 40
+      "saving_chf": 80
     },
     {
       "etab_name": "Guess What",
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/guess-what-3/",
       "canton": "Vaud",
       "visit_date_fr": "7 février 2026",
-      "saving_chf": 30
+      "saving_chf": 60
     },
     {
       "etab_name": "Institut Kaori",
@@ -44,7 +44,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/institut-kaori/",
       "canton": "Vaud",
       "visit_date_fr": "30 avril 2026",
-      "saving_chf": 35
+      "saving_chf": 70
     }
   ]
 }

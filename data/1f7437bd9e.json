@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 5,
     "etabs_uniques": 5,
-    "economies_chf": 239
+    "economies_chf": 478
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
       "canton": "Vaud",
       "visit_date_fr": "8 juillet 2025",
-      "saving_chf": 62
+      "saving_chf": 125
     },
     {
       "etab_name": "Nail Café",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/nail-cafe/",
       "canton": "Vaud",
       "visit_date_fr": "20 août 2025",
-      "saving_chf": 29
+      "saving_chf": 58
     },
     {
       "etab_name": "LAURA COIFFEUSE PRIVÉE",
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/laura-coiffeuse-privee/",
       "canton": "Vaud",
       "visit_date_fr": "7 avril 2026",
-      "saving_chf": 40
+      "saving_chf": 80
     },
     {
       "etab_name": "LA MAISON VALMONT – BONGENIE",
@@ -44,7 +44,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/la-maison-valmont-lausanne/",
       "canton": "Vaud",
       "visit_date_fr": "19 mai 2026",
-      "saving_chf": 48
+      "saving_chf": 95
     },
     {
       "etab_name": "Royal Savoy Hôtel & Spa",
@@ -53,7 +53,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "canton": "Vaud",
       "visit_date_fr": "22 mai 2026",
-      "saving_chf": 60
+      "saving_chf": 120
     }
   ]
 }

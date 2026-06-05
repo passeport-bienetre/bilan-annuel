@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 7,
     "etabs_uniques": 7,
-    "economies_chf": 296
+    "economies_chf": 592
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/signature-coiffure/",
       "canton": "Vaud",
       "visit_date_fr": "19 juin 2025",
-      "saving_chf": 29
+      "saving_chf": 58
     },
     {
       "etab_name": "LAURA COIFFEUSE PRIVÉE",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/laura-coiffeuse-privee/",
       "canton": "Vaud",
       "visit_date_fr": "21 janvier 2026",
-      "saving_chf": 40
+      "saving_chf": 80
     },
     {
       "etab_name": "Namasté",
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/namaste/",
       "canton": "Vaud",
       "visit_date_fr": "30 mars 2026",
-      "saving_chf": 26
+      "saving_chf": 52
     },
     {
       "etab_name": "Royal Savoy Hôtel & Spa",
@@ -44,7 +44,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "canton": "Vaud",
       "visit_date_fr": "2 avril 2026",
-      "saving_chf": 60
+      "saving_chf": 120
     },
     {
       "etab_name": "LA MAISON VALMONT – BONGENIE",
@@ -53,7 +53,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/la-maison-valmont-lausanne/",
       "canton": "Vaud",
       "visit_date_fr": "2 mai 2026",
-      "saving_chf": 48
+      "saving_chf": 95
     },
     {
       "etab_name": "Salon Privé Gare",
@@ -62,7 +62,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/salon-prive/",
       "canton": "Vaud",
       "visit_date_fr": "21 mai 2026",
-      "saving_chf": 31
+      "saving_chf": 62
     },
     {
       "etab_name": "JOIA LAUSANNE",
@@ -71,7 +71,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/joia-lausanne/",
       "canton": "Vaud",
       "visit_date_fr": "29 mai 2026",
-      "saving_chf": 62
+      "saving_chf": 125
     }
   ]
 }

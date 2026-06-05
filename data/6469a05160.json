@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 2,
     "etabs_uniques": 2,
-    "economies_chf": 95
+    "economies_chf": 190
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/guinot-art-of-beauty/",
       "canton": "Genève",
       "visit_date_fr": "26 juin 2025",
-      "saving_chf": 35
+      "saving_chf": 70
     },
     {
       "etab_name": "Skin Solution",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/skin-solution/",
       "canton": "Genève",
       "visit_date_fr": "28 juin 2025",
-      "saving_chf": 60
+      "saving_chf": 120
     }
   ]
 }

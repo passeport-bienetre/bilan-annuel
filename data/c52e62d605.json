@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 2,
     "etabs_uniques": 2,
-    "economies_chf": 65
+    "economies_chf": 130
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/institut-osmose/",
       "canton": "Vaud",
       "visit_date_fr": "14 juillet 2025",
-      "saving_chf": 32
+      "saving_chf": 65
     },
     {
       "etab_name": "Bhumi",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/biotonique-institut/",
       "canton": "Vaud",
       "visit_date_fr": "28 août 2025",
-      "saving_chf": 32
+      "saving_chf": 65
     }
   ]
 }

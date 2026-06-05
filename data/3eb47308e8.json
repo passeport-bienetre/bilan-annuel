@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 8,
     "etabs_uniques": 8,
-    "economies_chf": 439
+    "economies_chf": 878
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/so-beauty-home/",
       "canton": "Genève",
       "visit_date_fr": "13 juin 2025",
-      "saving_chf": 35
+      "saving_chf": 70
     },
     {
       "etab_name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/lavalleespa/",
       "canton": "Genève",
       "visit_date_fr": "24 octobre 2025",
-      "saving_chf": 70
+      "saving_chf": 140
     },
     {
       "etab_name": "EUPHORIA & BEAUTY STUDIO",
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/euphoria-beauty-studio/",
       "canton": "Genève",
       "visit_date_fr": "9 décembre 2025",
-      "saving_chf": 40
+      "saving_chf": 80
     },
     {
       "etab_name": "HÔTEL ROYAL",
@@ -44,7 +44,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-royal/",
       "canton": "Valais",
       "visit_date_fr": "8 février 2026",
-      "saving_chf": 116
+      "saving_chf": 233
     },
     {
       "etab_name": "Mon Bonheur Ayurvédique",
@@ -53,7 +53,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/mon-bonheur-ayurvedique/",
       "canton": "Genève",
       "visit_date_fr": "19 février 2026",
-      "saving_chf": 32
+      "saving_chf": 65
     },
     {
       "etab_name": "SUBLIMEYES",
@@ -62,7 +62,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/institut-sublimeyes/",
       "canton": "Genève",
       "visit_date_fr": "30 mars 2026",
-      "saving_chf": 35
+      "saving_chf": 70
     },
     {
       "etab_name": "FLEUR D’EPIDERME",
@@ -71,7 +71,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/fleur-depiderme/",
       "canton": "Genève",
       "visit_date_fr": "4 mai 2026",
-      "saving_chf": 70
+      "saving_chf": 140
     },
     {
       "etab_name": "LE CENTRE GENÈVE BY CHARLINE",
@@ -80,7 +80,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/",
       "canton": "Genève",
       "visit_date_fr": "2 juin 2026",
-      "saving_chf": 40
+      "saving_chf": 80
     }
   ]
 }

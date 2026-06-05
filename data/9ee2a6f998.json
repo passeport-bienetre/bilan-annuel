@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 2,
     "etabs_uniques": 2,
-    "economies_chf": 85
+    "economies_chf": 170
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-spa-le-national/",
       "canton": "Valais",
       "visit_date_fr": "6 juillet 2025",
-      "saving_chf": 40
+      "saving_chf": 80
     },
     {
       "etab_name": "Chandolin Boutique Hôtel",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/",
       "canton": "Valais",
       "visit_date_fr": "8 avril 2026",
-      "saving_chf": 45
+      "saving_chf": 90
     }
   ]
 }

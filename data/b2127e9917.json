@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 5,
     "etabs_uniques": 5,
-    "economies_chf": 308
+    "economies_chf": 616
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
       "canton": "Vaud",
       "visit_date_fr": "7 juillet 2025",
-      "saving_chf": 60
+      "saving_chf": 120
     },
     {
       "etab_name": "Arte Beauty Lutry",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
       "canton": "Vaud",
       "visit_date_fr": "9 août 2025",
-      "saving_chf": 62
+      "saving_chf": 125
     },
     {
       "etab_name": "Royal Savoy Hôtel & Spa",
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "canton": "Vaud",
       "visit_date_fr": "17 octobre 2025",
-      "saving_chf": 60
+      "saving_chf": 120
     },
     {
       "etab_name": "Lausanne Palace & Spa",
@@ -44,7 +44,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
       "canton": "Vaud",
       "visit_date_fr": "7 février 2026",
-      "saving_chf": 65
+      "saving_chf": 130
     },
     {
       "etab_name": "RUBIS SPA",
@@ -53,7 +53,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/rubis-spa/",
       "canton": "Vaud",
       "visit_date_fr": "2 juin 2026",
-      "saving_chf": 60
+      "saving_chf": 121
     }
   ]
 }

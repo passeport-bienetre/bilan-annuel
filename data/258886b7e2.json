@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 5,
     "etabs_uniques": 5,
-    "economies_chf": 232
+    "economies_chf": 465
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
       "canton": "Vaud",
       "visit_date_fr": "11 septembre 2025",
-      "saving_chf": 60
+      "saving_chf": 120
     },
     {
       "etab_name": "Ipanema Beauté",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/ipanema-beaute/",
       "canton": "Genève",
       "visit_date_fr": "13 septembre 2025",
-      "saving_chf": 38
+      "saving_chf": 75
     },
     {
       "etab_name": "Royal Savoy Hôtel & Spa",
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "canton": "Vaud",
       "visit_date_fr": "29 octobre 2025",
-      "saving_chf": 60
+      "saving_chf": 120
     },
     {
       "etab_name": "GLOW IN GENEVA",
@@ -44,7 +44,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/glow-in-geneva/",
       "canton": "Genève",
       "visit_date_fr": "13 décembre 2025",
-      "saving_chf": 35
+      "saving_chf": 70
     },
     {
       "etab_name": "LE CENTRE GENÈVE BY CHARLINE",
@@ -53,7 +53,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/",
       "canton": "Genève",
       "visit_date_fr": "12 février 2026",
-      "saving_chf": 40
+      "saving_chf": 80
     }
   ]
 }

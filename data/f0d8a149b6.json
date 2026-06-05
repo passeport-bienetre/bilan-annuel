@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 2,
     "etabs_uniques": 2,
-    "economies_chf": 86
+    "economies_chf": 172
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "canton": "Vaud",
       "visit_date_fr": "5 mars 2026",
-      "saving_chf": 60
+      "saving_chf": 120
     },
     {
       "etab_name": "Namasté",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/namaste/",
       "canton": "Vaud",
       "visit_date_fr": "26 mars 2026",
-      "saving_chf": 26
+      "saving_chf": 52
     }
   ]
 }

@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 9,
     "etabs_uniques": 9,
-    "economies_chf": 422
+    "economies_chf": 845
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/nail-cafe/",
       "canton": "Vaud",
       "visit_date_fr": "3 juillet 2025",
-      "saving_chf": 29
+      "saving_chf": 58
     },
     {
       "etab_name": "Arte Beauty Lutry",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
       "canton": "Vaud",
       "visit_date_fr": "21 juillet 2025",
-      "saving_chf": 62
+      "saving_chf": 125
     },
     {
       "etab_name": "Institut Kaori",
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/institut-kaori/",
       "canton": "Vaud",
       "visit_date_fr": "8 septembre 2025",
-      "saving_chf": 35
+      "saving_chf": 70
     },
     {
       "etab_name": "Le Mirador Resort & Spa",
@@ -44,7 +44,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
       "canton": "Vaud",
       "visit_date_fr": "12 décembre 2025",
-      "saving_chf": 60
+      "saving_chf": 120
     },
     {
       "etab_name": "EVERNESS <br>Hôtel & Resort",
@@ -53,7 +53,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/everness-resort/",
       "canton": "Vaud",
       "visit_date_fr": "11 février 2026",
-      "saving_chf": 42
+      "saving_chf": 85
     },
     {
       "etab_name": "Salon Privé Ecublens",
@@ -62,7 +62,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/salon-prive-ecublens/",
       "canton": "Vaud",
       "visit_date_fr": "21 février 2026",
-      "saving_chf": 40
+      "saving_chf": 80
     },
     {
       "etab_name": "Royal Savoy Hôtel & Spa",
@@ -71,7 +71,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "canton": "Vaud",
       "visit_date_fr": "27 février 2026",
-      "saving_chf": 60
+      "saving_chf": 120
     },
     {
       "etab_name": "Arte Beauty EPFL",
@@ -80,7 +80,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/",
       "canton": "Vaud",
       "visit_date_fr": "30 mars 2026",
-      "saving_chf": 62
+      "saving_chf": 125
     },
     {
       "etab_name": "Salon Privé Gare",
@@ -89,7 +89,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/salon-prive/",
       "canton": "Vaud",
       "visit_date_fr": "29 avril 2026",
-      "saving_chf": 31
+      "saving_chf": 62
     }
   ]
 }

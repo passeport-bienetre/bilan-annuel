@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 3,
     "etabs_uniques": 3,
-    "economies_chf": 98
+    "economies_chf": 197
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/guinot-art-of-beauty/",
       "canton": "Genève",
       "visit_date_fr": "24 juin 2025",
-      "saving_chf": 35
+      "saving_chf": 70
     },
     {
       "etab_name": "BL Institut",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/bl-institut-2/",
       "canton": "Genève",
       "visit_date_fr": "23 août 2025",
-      "saving_chf": 31
+      "saving_chf": 62
     },
     {
       "etab_name": "Bhumi",
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/biotonique-institut/",
       "canton": "Vaud",
       "visit_date_fr": "11 décembre 2025",
-      "saving_chf": 32
+      "saving_chf": 65
     }
   ]
 }

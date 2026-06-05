@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 4,
     "etabs_uniques": 4,
-    "economies_chf": 216
+    "economies_chf": 431
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/le-grand-bellevue/",
       "canton": "Berne",
       "visit_date_fr": "2 juillet 2025",
-      "saving_chf": 60
+      "saving_chf": 120
     },
     {
       "etab_name": "Luna aesthetic",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/luna-aesthetic/",
       "canton": "Vaud",
       "visit_date_fr": "20 août 2025",
-      "saving_chf": 35
+      "saving_chf": 70
     },
     {
       "etab_name": "Le Mirador Resort & Spa",
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
       "canton": "Vaud",
       "visit_date_fr": "4 novembre 2025",
-      "saving_chf": 60
+      "saving_chf": 120
     },
     {
       "etab_name": "RUBIS SPA",
@@ -44,7 +44,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/rubis-spa/",
       "canton": "Vaud",
       "visit_date_fr": "2 juin 2026",
-      "saving_chf": 60
+      "saving_chf": 121
     }
   ]
 }

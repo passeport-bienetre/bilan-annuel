@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 1,
     "etabs_uniques": 1,
-    "economies_chf": 60
+    "economies_chf": 120
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "canton": "Vaud",
       "visit_date_fr": "2 juillet 2025",
-      "saving_chf": 60
+      "saving_chf": 120
     }
   ]
 }

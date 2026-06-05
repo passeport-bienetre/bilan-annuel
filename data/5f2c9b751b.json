@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 4,
     "etabs_uniques": 4,
-    "economies_chf": 252
+    "economies_chf": 505
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
       "canton": "Vaud",
       "visit_date_fr": "19 juin 2025",
-      "saving_chf": 62
+      "saving_chf": 125
     },
     {
       "etab_name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/lavalleespa/",
       "canton": "Genève",
       "visit_date_fr": "13 août 2025",
-      "saving_chf": 70
+      "saving_chf": 140
     },
     {
       "etab_name": "Grand Hôtel du Lac",
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/",
       "canton": "Vaud",
       "visit_date_fr": "2 octobre 2025",
-      "saving_chf": 55
+      "saving_chf": 110
     },
     {
       "etab_name": "Lausanne Palace & Spa",
@@ -44,7 +44,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
       "canton": "Vaud",
       "visit_date_fr": "3 novembre 2025",
-      "saving_chf": 65
+      "saving_chf": 130
     }
   ]
 }

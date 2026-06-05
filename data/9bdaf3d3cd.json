@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 3,
     "etabs_uniques": 3,
-    "economies_chf": 112
+    "economies_chf": 223
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/bains-dovronnaz/",
       "canton": "Valais",
       "visit_date_fr": "3 juillet 2025",
-      "saving_chf": 42
+      "saving_chf": 85
     },
     {
       "etab_name": "Chanelle and Co.",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/chanelle-and-co/",
       "canton": "Valais",
       "visit_date_fr": "28 août 2025",
-      "saving_chf": 29
+      "saving_chf": 58
     },
     {
       "etab_name": "Anzère SPA & Wellness",
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/anzere-spa-wellness/",
       "canton": "Valais",
       "visit_date_fr": "27 février 2026",
-      "saving_chf": 40
+      "saving_chf": 80
     }
   ]
 }

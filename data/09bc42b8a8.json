@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 4,
     "etabs_uniques": 4,
-    "economies_chf": 185
+    "economies_chf": 290
   },
   "visites": [
     {
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
       "canton": "Vaud",
       "visit_date_fr": "24 février 2026",
-      "saving_chf": 60
+      "saving_chf": 120
     },
     {
       "etab_name": "Hôtel Intercontinental Spa 5 Mondes",
@@ -44,7 +44,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/",
       "canton": "Genève",
       "visit_date_fr": "31 mars 2026",
-      "saving_chf": 45
+      "saving_chf": 90
     }
   ]
 }

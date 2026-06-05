@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 2,
     "etabs_uniques": 2,
-    "economies_chf": 105
+    "economies_chf": 210
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/urban-spa/",
       "canton": "Fribourg",
       "visit_date_fr": "8 juin 2025",
-      "saving_chf": 45
+      "saving_chf": 90
     },
     {
       "etab_name": "Royal Savoy Hôtel & Spa",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "canton": "Vaud",
       "visit_date_fr": "11 novembre 2025",
-      "saving_chf": 60
+      "saving_chf": 120
     }
   ]
 }

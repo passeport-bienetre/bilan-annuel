@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 1,
     "etabs_uniques": 1,
-    "economies_chf": 40
+    "economies_chf": 80
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-spa-le-national/",
       "canton": "Valais",
       "visit_date_fr": "31 octobre 2025",
-      "saving_chf": 40
+      "saving_chf": 80
     }
   ]
 }

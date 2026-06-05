@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 3,
     "etabs_uniques": 3,
-    "economies_chf": 140
+    "economies_chf": 280
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/les-sources-des-alpes-3/",
       "canton": "Valais",
       "visit_date_fr": "22 juin 2025",
-      "saving_chf": 45
+      "saving_chf": 90
     },
     {
       "etab_name": "Flocoon Spa Cinq Mondes",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/flocoon-spa-cinq-mondes/",
       "canton": "Valais",
       "visit_date_fr": "22 août 2025",
-      "saving_chf": 50
+      "saving_chf": 100
     },
     {
       "etab_name": "Hôtel Intercontinental Spa 5 Mondes",
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/",
       "canton": "Genève",
       "visit_date_fr": "27 novembre 2025",
-      "saving_chf": 45
+      "saving_chf": 90
     }
   ]
 }

@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 2,
     "etabs_uniques": 2,
-    "economies_chf": 78
+    "economies_chf": 155
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/biotonique-institut/",
       "canton": "Vaud",
       "visit_date_fr": "14 novembre 2025",
-      "saving_chf": 32
+      "saving_chf": 65
     },
     {
       "etab_name": "Chandolin Boutique Hôtel",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/",
       "canton": "Valais",
       "visit_date_fr": "21 février 2026",
-      "saving_chf": 45
+      "saving_chf": 90
     }
   ]
 }

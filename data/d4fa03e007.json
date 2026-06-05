@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 3,
     "etabs_uniques": 3,
-    "economies_chf": 150
+    "economies_chf": 300
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/",
       "canton": "Vaud",
       "visit_date_fr": "10 juin 2025",
-      "saving_chf": 62
+      "saving_chf": 125
     },
     {
       "etab_name": "Anita Coiffure",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/anita-coiffure/",
       "canton": "Vaud",
       "visit_date_fr": "14 août 2025",
-      "saving_chf": 28
+      "saving_chf": 55
     },
     {
       "etab_name": "Le Grand Bellevue",
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/le-grand-bellevue/",
       "canton": "Berne",
       "visit_date_fr": "5 mars 2026",
-      "saving_chf": 60
+      "saving_chf": 120
     }
   ]
 }

@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 6,
     "etabs_uniques": 6,
-    "economies_chf": 252
+    "economies_chf": 464
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/le-beausquet-geneve/",
       "canton": "Genève",
       "visit_date_fr": "26 juillet 2025",
-      "saving_chf": 50
+      "saving_chf": 100
     },
     {
       "etab_name": "Parallèles Coiffure",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/paralleles-coiffure/",
       "canton": "Genève",
       "visit_date_fr": "8 août 2025",
-      "saving_chf": 30
+      "saving_chf": 60
     },
     {
       "etab_name": "BEAUTY B",
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/",
       "canton": "Genève",
       "visit_date_fr": "20 décembre 2025",
-      "saving_chf": 32
+      "saving_chf": 64
     },
     {
       "etab_name": "La Coifferie",
@@ -53,7 +53,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/skin-solution/",
       "canton": "Genève",
       "visit_date_fr": "22 décembre 2025",
-      "saving_chf": 60
+      "saving_chf": 120
     },
     {
       "etab_name": "EUPHORIA & BEAUTY STUDIO",
@@ -62,7 +62,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/euphoria-beauty-studio/",
       "canton": "Genève",
       "visit_date_fr": "23 décembre 2025",
-      "saving_chf": 40
+      "saving_chf": 80
     }
   ]
 }

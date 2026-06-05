@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 5,
     "etabs_uniques": 5,
-    "economies_chf": 228
+    "economies_chf": 455
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/le-beausquet-geneve/",
       "canton": "Genève",
       "visit_date_fr": "10 juin 2025",
-      "saving_chf": 50
+      "saving_chf": 100
     },
     {
       "etab_name": "Saai Nam Massage - Manor",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/saai-nam-massage-manor/",
       "canton": "Genève",
       "visit_date_fr": "2 juillet 2025",
-      "saving_chf": 48
+      "saving_chf": 95
     },
     {
       "etab_name": "Le Bal des Créateurs",
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/",
       "canton": "Genève",
       "visit_date_fr": "10 février 2026",
-      "saving_chf": 30
+      "saving_chf": 60
     },
     {
       "etab_name": "INTUITIVE JESS",
@@ -44,7 +44,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/intuitive-jess/",
       "canton": "Genève",
       "visit_date_fr": "21 mai 2026",
-      "saving_chf": 40
+      "saving_chf": 80
     },
     {
       "etab_name": "Skin Solution",
@@ -53,7 +53,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/skin-solution/",
       "canton": "Genève",
       "visit_date_fr": "29 mai 2026",
-      "saving_chf": 60
+      "saving_chf": 120
     }
   ]
 }

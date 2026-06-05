@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 2,
     "etabs_uniques": 2,
-    "economies_chf": 95
+    "economies_chf": 190
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/institut-sirene/",
       "canton": "Vaud",
       "visit_date_fr": "6 juin 2025",
-      "saving_chf": 32
+      "saving_chf": 65
     },
     {
       "etab_name": "Arte Beauty EPFL",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/",
       "canton": "Vaud",
       "visit_date_fr": "18 mai 2026",
-      "saving_chf": 62
+      "saving_chf": 125
     }
   ]
 }

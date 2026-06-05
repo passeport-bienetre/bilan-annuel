@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 2,
     "etabs_uniques": 2,
-    "economies_chf": 120
+    "economies_chf": 240
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/fleur-depiderme/",
       "canton": "Genève",
       "visit_date_fr": "13 avril 2026",
-      "saving_chf": 70
+      "saving_chf": 140
     },
     {
       "etab_name": "Le Beausquet Genève",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/le-beausquet-geneve/",
       "canton": "Genève",
       "visit_date_fr": "16 mai 2026",
-      "saving_chf": 50
+      "saving_chf": 100
     }
   ]
 }

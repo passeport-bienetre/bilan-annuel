@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 6,
     "etabs_uniques": 6,
-    "economies_chf": 220
+    "economies_chf": 439
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/so-hair/",
       "canton": "Genève",
       "visit_date_fr": "12 novembre 2025",
-      "saving_chf": 38
+      "saving_chf": 75
     },
     {
       "etab_name": "EUPHORIA & BEAUTY STUDIO",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/euphoria-beauty-studio/",
       "canton": "Genève",
       "visit_date_fr": "13 décembre 2025",
-      "saving_chf": 40
+      "saving_chf": 80
     },
     {
       "etab_name": "NUANCES NATURE",
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/nuances-nature/",
       "canton": "Genève",
       "visit_date_fr": "9 janvier 2026",
-      "saving_chf": 32
+      "saving_chf": 64
     },
     {
       "etab_name": "Ipanema Beauté",
@@ -44,7 +44,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/ipanema-beaute/",
       "canton": "Genève",
       "visit_date_fr": "27 mars 2026",
-      "saving_chf": 38
+      "saving_chf": 75
     },
     {
       "etab_name": "Hairstudio",
@@ -53,7 +53,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/hairstudio/",
       "canton": "Genève",
       "visit_date_fr": "2 mai 2026",
-      "saving_chf": 32
+      "saving_chf": 65
     },
     {
       "etab_name": "INTUITIVE JESS",
@@ -62,7 +62,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/intuitive-jess/",
       "canton": "Genève",
       "visit_date_fr": "13 mai 2026",
-      "saving_chf": 40
+      "saving_chf": 80
     }
   ]
 }

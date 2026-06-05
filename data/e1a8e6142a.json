@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 6,
     "etabs_uniques": 6,
-    "economies_chf": 306
+    "economies_chf": 611
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/kasa-amo/",
       "canton": "Vaud",
       "visit_date_fr": "30 juillet 2025",
-      "saving_chf": 42
+      "saving_chf": 85
     },
     {
       "etab_name": "Chalet Royalp Hôtel & Spa",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
       "canton": "Vaud",
       "visit_date_fr": "21 décembre 2025",
-      "saving_chf": 80
+      "saving_chf": 160
     },
     {
       "etab_name": "Organik Beauty",
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/organik-beauty/",
       "canton": "Vaud",
       "visit_date_fr": "24 décembre 2025",
-      "saving_chf": 52
+      "saving_chf": 105
     },
     {
       "etab_name": "Centre de bien-être J&J",
@@ -44,7 +44,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/centre-de-bien-etre-jj/",
       "canton": null,
       "visit_date_fr": "20 janvier 2026",
-      "saving_chf": 35
+      "saving_chf": 70
     },
     {
       "etab_name": "RUBIS SPA",
@@ -53,7 +53,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/rubis-spa/",
       "canton": "Vaud",
       "visit_date_fr": "17 février 2026",
-      "saving_chf": 60
+      "saving_chf": 121
     },
     {
       "etab_name": "Luna aesthetic",
@@ -62,7 +62,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/luna-aesthetic/",
       "canton": "Vaud",
       "visit_date_fr": "21 avril 2026",
-      "saving_chf": 35
+      "saving_chf": 70
     }
   ]
 }

@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 5,
     "etabs_uniques": 5,
-    "economies_chf": 255
+    "economies_chf": 510
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/so-beauty-home/",
       "canton": "Genève",
       "visit_date_fr": "8 août 2025",
-      "saving_chf": 35
+      "saving_chf": 70
     },
     {
       "etab_name": "Thaiotop",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/thaiotop-3/",
       "canton": "Genève",
       "visit_date_fr": "22 août 2025",
-      "saving_chf": 48
+      "saving_chf": 95
     },
     {
       "etab_name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/lavalleespa/",
       "canton": "Genève",
       "visit_date_fr": "26 décembre 2025",
-      "saving_chf": 70
+      "saving_chf": 140
     },
     {
       "etab_name": "Namaka - Centre de Longévité et Bienêtre",
@@ -44,7 +44,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/namaka/",
       "canton": "Genève",
       "visit_date_fr": "28 février 2026",
-      "saving_chf": 32
+      "saving_chf": 65
     },
     {
       "etab_name": "FLEUR D’EPIDERME",
@@ -53,7 +53,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/fleur-depiderme/",
       "canton": "Genève",
       "visit_date_fr": "21 mars 2026",
-      "saving_chf": 70
+      "saving_chf": 140
     }
   ]
 }

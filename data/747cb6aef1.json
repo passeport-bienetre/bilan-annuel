@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 9,
     "etabs_uniques": 9,
-    "economies_chf": 388
+    "economies_chf": 775
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/sawatdee-temple/",
       "canton": "Genève",
       "visit_date_fr": "1 juillet 2025",
-      "saving_chf": 35
+      "saving_chf": 70
     },
     {
       "etab_name": "Sawatdee Delices",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/sawatdee-delices/",
       "canton": "Genève",
       "visit_date_fr": "15 août 2025",
-      "saving_chf": 35
+      "saving_chf": 70
     },
     {
       "etab_name": "Hôtel Ermitage Spa des Quatre Terres",
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-ermitage-spa-des-quatre-terres/",
       "canton": null,
       "visit_date_fr": "3 septembre 2025",
-      "saving_chf": 45
+      "saving_chf": 90
     },
     {
       "etab_name": "Le Grand Bellevue",
@@ -44,7 +44,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/le-grand-bellevue/",
       "canton": "Berne",
       "visit_date_fr": "11 septembre 2025",
-      "saving_chf": 60
+      "saving_chf": 120
     },
     {
       "etab_name": "Thai Corner",
@@ -53,7 +53,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/thai-corner-3/",
       "canton": "Genève",
       "visit_date_fr": "23 octobre 2025",
-      "saving_chf": 50
+      "saving_chf": 100
     },
     {
       "etab_name": "Saai Nam Massage - Manor",
@@ -62,7 +62,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/saai-nam-massage-manor/",
       "canton": "Genève",
       "visit_date_fr": "4 décembre 2025",
-      "saving_chf": 48
+      "saving_chf": 95
     },
     {
       "etab_name": "SUBLIMEYES",
@@ -71,7 +71,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/institut-sublimeyes/",
       "canton": "Genève",
       "visit_date_fr": "23 janvier 2026",
-      "saving_chf": 35
+      "saving_chf": 70
     },
     {
       "etab_name": "Mon Bonheur Ayurvédique",
@@ -80,7 +80,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/mon-bonheur-ayurvedique/",
       "canton": "Genève",
       "visit_date_fr": "2 février 2026",
-      "saving_chf": 32
+      "saving_chf": 65
     },
     {
       "etab_name": "Thaiotop",
@@ -89,7 +89,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/thaiotop-3/",
       "canton": "Genève",
       "visit_date_fr": "16 février 2026",
-      "saving_chf": 48
+      "saving_chf": 95
     }
   ]
 }

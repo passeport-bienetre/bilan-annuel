@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 1,
     "etabs_uniques": 1,
-    "economies_chf": 31
+    "economies_chf": 62
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/salon-prive/",
       "canton": "Vaud",
       "visit_date_fr": "4 juillet 2025",
-      "saving_chf": 31
+      "saving_chf": 62
     }
   ]
 }

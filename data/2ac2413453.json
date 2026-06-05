@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 4,
     "etabs_uniques": 4,
-    "economies_chf": 225
+    "economies_chf": 410
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
       "canton": "Vaud",
       "visit_date_fr": "20 juin 2025",
-      "saving_chf": 60
+      "saving_chf": 120
     },
     {
       "etab_name": "Karré Long",
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
       "canton": "Vaud",
       "visit_date_fr": "6 mars 2026",
-      "saving_chf": 65
+      "saving_chf": 130
     },
     {
       "etab_name": "Royal Savoy Hôtel & Spa",
@@ -44,7 +44,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "canton": "Vaud",
       "visit_date_fr": "8 mai 2026",
-      "saving_chf": 60
+      "saving_chf": 120
     }
   ]
 }

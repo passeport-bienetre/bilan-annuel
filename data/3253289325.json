@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 6,
     "etabs_uniques": 6,
-    "economies_chf": 204
+    "economies_chf": 408
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/belle-et-naturelle/",
       "canton": "Genève",
       "visit_date_fr": "2 juillet 2025",
-      "saving_chf": 25
+      "saving_chf": 50
     },
     {
       "etab_name": "VAGHEGGI Phyto Space Crans-Montana",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/vagheggi-phyto-space-crans-montana/",
       "canton": "Valais",
       "visit_date_fr": "2 août 2025",
-      "saving_chf": 38
+      "saving_chf": 75
     },
     {
       "etab_name": "Bhumi",
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/biotonique-institut/",
       "canton": "Vaud",
       "visit_date_fr": "4 septembre 2025",
-      "saving_chf": 32
+      "saving_chf": 65
     },
     {
       "etab_name": "So Hair",
@@ -44,7 +44,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/so-hair/",
       "canton": "Genève",
       "visit_date_fr": "11 novembre 2025",
-      "saving_chf": 38
+      "saving_chf": 75
     },
     {
       "etab_name": "SAKURA LAB",
@@ -53,7 +53,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/sakura-lab/",
       "canton": "Genève",
       "visit_date_fr": "21 novembre 2025",
-      "saving_chf": 34
+      "saving_chf": 68
     },
     {
       "etab_name": "Ipanema Beauté",
@@ -62,7 +62,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/ipanema-beaute/",
       "canton": "Genève",
       "visit_date_fr": "8 mai 2026",
-      "saving_chf": 38
+      "saving_chf": 75
     }
   ]
 }

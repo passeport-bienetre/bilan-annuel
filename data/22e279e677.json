@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 3,
     "etabs_uniques": 3,
-    "economies_chf": 135
+    "economies_chf": 270
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/flocoon-spa-cinq-mondes/",
       "canton": "Valais",
       "visit_date_fr": "3 juillet 2025",
-      "saving_chf": 50
+      "saving_chf": 100
     },
     {
       "etab_name": "LECRANS HOTEL & SPA",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/le-st-gervais-hotel-spa/",
       "canton": "Valais",
       "visit_date_fr": "28 juillet 2025",
-      "saving_chf": 42
+      "saving_chf": 85
     },
     {
       "etab_name": "SPA BY CLARINS - HÔTEL MONT-BLANC CHAMONIX",
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/spa-by-clarins/",
       "canton": null,
       "visit_date_fr": "10 avril 2026",
-      "saving_chf": 42
+      "saving_chf": 85
     }
   ]
 }

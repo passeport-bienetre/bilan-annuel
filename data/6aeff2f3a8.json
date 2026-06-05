@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 4,
     "etabs_uniques": 4,
-    "economies_chf": 192
+    "economies_chf": 385
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/thai-corner-3/",
       "canton": "Genève",
       "visit_date_fr": "23 juin 2025",
-      "saving_chf": 50
+      "saving_chf": 100
     },
     {
       "etab_name": "Chalet-Hôtel la Marmotte",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-hotel-la-marmotte/",
       "canton": null,
       "visit_date_fr": "12 juillet 2025",
-      "saving_chf": 45
+      "saving_chf": 90
     },
     {
       "etab_name": "Le Beausquet Genève",
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/le-beausquet-geneve/",
       "canton": "Genève",
       "visit_date_fr": "15 juillet 2025",
-      "saving_chf": 50
+      "saving_chf": 100
     },
     {
       "etab_name": "Thaiotop",
@@ -44,7 +44,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/thaiotop-3/",
       "canton": "Genève",
       "visit_date_fr": "3 novembre 2025",
-      "saving_chf": 48
+      "saving_chf": 95
     }
   ]
 }

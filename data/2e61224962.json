@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 3,
     "etabs_uniques": 3,
-    "economies_chf": 142
+    "economies_chf": 285
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
       "canton": "Vaud",
       "visit_date_fr": "25 juin 2025",
-      "saving_chf": 62
+      "saving_chf": 125
     },
     {
       "etab_name": "Hôtel & Spa Le National",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-spa-le-national/",
       "canton": "Valais",
       "visit_date_fr": "25 octobre 2025",
-      "saving_chf": 40
+      "saving_chf": 80
     },
     {
       "etab_name": "Swiss Aesthetica",
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/swiss-aesthetica/",
       "canton": "Vaud",
       "visit_date_fr": "12 décembre 2025",
-      "saving_chf": 40
+      "saving_chf": 80
     }
   ]
 }

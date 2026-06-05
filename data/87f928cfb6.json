@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 3,
     "etabs_uniques": 3,
-    "economies_chf": 150
+    "economies_chf": 300
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-de-rougemont-spa/",
       "canton": "Berne",
       "visit_date_fr": "22 juin 2025",
-      "saving_chf": 45
+      "saving_chf": 90
     },
     {
       "etab_name": "Lausanne Palace & Spa",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
       "canton": "Vaud",
       "visit_date_fr": "10 octobre 2025",
-      "saving_chf": 65
+      "saving_chf": 130
     },
     {
       "etab_name": "Anzère SPA & Wellness",
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/anzere-spa-wellness/",
       "canton": "Valais",
       "visit_date_fr": "4 janvier 2026",
-      "saving_chf": 40
+      "saving_chf": 80
     }
   ]
 }

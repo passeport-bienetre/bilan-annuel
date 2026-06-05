@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 9,
     "etabs_uniques": 9,
-    "economies_chf": 354
+    "economies_chf": 708
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/sakura-lab/",
       "canton": "Genève",
       "visit_date_fr": "26 juillet 2025",
-      "saving_chf": 34
+      "saving_chf": 68
     },
     {
       "etab_name": "BLISS",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/bliss/",
       "canton": "Genève",
       "visit_date_fr": "28 août 2025",
-      "saving_chf": 32
+      "saving_chf": 65
     },
     {
       "etab_name": "Thai Corner",
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/thai-corner-3/",
       "canton": "Genève",
       "visit_date_fr": "18 septembre 2025",
-      "saving_chf": 50
+      "saving_chf": 100
     },
     {
       "etab_name": "Le Beausquet Genève",
@@ -44,7 +44,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/le-beausquet-geneve/",
       "canton": "Genève",
       "visit_date_fr": "4 novembre 2025",
-      "saving_chf": 50
+      "saving_chf": 100
     },
     {
       "etab_name": "GLOW IN GENEVA",
@@ -53,7 +53,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/glow-in-geneva/",
       "canton": "Genève",
       "visit_date_fr": "5 décembre 2025",
-      "saving_chf": 35
+      "saving_chf": 70
     },
     {
       "etab_name": "Le Bal des Créateurs",
@@ -62,7 +62,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/",
       "canton": "Genève",
       "visit_date_fr": "10 février 2026",
-      "saving_chf": 30
+      "saving_chf": 60
     },
     {
       "etab_name": "INSTITUT VALMONT CHEZ GLOBUS GENEVE",
@@ -71,7 +71,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/institut-valmont-chez-globus-geneve/",
       "canton": "Genève",
       "visit_date_fr": "4 mars 2026",
-      "saving_chf": 48
+      "saving_chf": 95
     },
     {
       "etab_name": "EUPHORIA & BEAUTY STUDIO",
@@ -80,7 +80,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/euphoria-beauty-studio/",
       "canton": "Genève",
       "visit_date_fr": "11 mars 2026",
-      "saving_chf": 40
+      "saving_chf": 80
     },
     {
       "etab_name": "SUBLIMEYES",
@@ -89,7 +89,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/institut-sublimeyes/",
       "canton": "Genève",
       "visit_date_fr": "27 mars 2026",
-      "saving_chf": 35
+      "saving_chf": 70
     }
   ]
 }

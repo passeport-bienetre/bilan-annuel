@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 3,
     "etabs_uniques": 3,
-    "economies_chf": 130
+    "economies_chf": 260
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/swiss-beauty-studio/",
       "canton": "Genève",
       "visit_date_fr": "5 juillet 2025",
-      "saving_chf": 22
+      "saving_chf": 45
     },
     {
       "etab_name": "Chalet Royalp Hôtel & Spa",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
       "canton": "Vaud",
       "visit_date_fr": "8 juillet 2025",
-      "saving_chf": 80
+      "saving_chf": 160
     },
     {
       "etab_name": "The Wax Bar Genève",
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/the-wax-bar-geneve/",
       "canton": "Genève",
       "visit_date_fr": "10 juillet 2025",
-      "saving_chf": 28
+      "saving_chf": 55
     }
   ]
 }

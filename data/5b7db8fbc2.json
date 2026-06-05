@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 9,
     "etabs_uniques": 9,
-    "economies_chf": 448
+    "economies_chf": 857
   },
   "visites": [
     {
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
       "canton": "Vaud",
       "visit_date_fr": "24 juillet 2025",
-      "saving_chf": 62
+      "saving_chf": 125
     },
     {
       "etab_name": "Salon Privé Gare",
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/salon-prive/",
       "canton": "Vaud",
       "visit_date_fr": "29 juillet 2025",
-      "saving_chf": 31
+      "saving_chf": 62
     },
     {
       "etab_name": "Grand Hôtel du Lac",
@@ -44,7 +44,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/",
       "canton": "Vaud",
       "visit_date_fr": "3 septembre 2025",
-      "saving_chf": 55
+      "saving_chf": 110
     },
     {
       "etab_name": "Institut Guinot",
@@ -53,7 +53,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
       "canton": "Vaud",
       "visit_date_fr": "17 septembre 2025",
-      "saving_chf": 58
+      "saving_chf": 115
     },
     {
       "etab_name": "Arte Beauty EPFL",
@@ -62,7 +62,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/",
       "canton": "Vaud",
       "visit_date_fr": "10 novembre 2025",
-      "saving_chf": 62
+      "saving_chf": 125
     },
     {
       "etab_name": "Luna aesthetic",
@@ -71,7 +71,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/luna-aesthetic/",
       "canton": "Vaud",
       "visit_date_fr": "16 décembre 2025",
-      "saving_chf": 35
+      "saving_chf": 70
     },
     {
       "etab_name": "KASA AMO",
@@ -80,7 +80,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/kasa-amo/",
       "canton": "Vaud",
       "visit_date_fr": "9 avril 2026",
-      "saving_chf": 42
+      "saving_chf": 85
     },
     {
       "etab_name": "Arte Beauty EHL",
@@ -89,7 +89,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-ehl/",
       "canton": null,
       "visit_date_fr": "4 mai 2026",
-      "saving_chf": 62
+      "saving_chf": 125
     }
   ]
 }

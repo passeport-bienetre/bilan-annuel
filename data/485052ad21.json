@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 6,
     "etabs_uniques": 6,
-    "economies_chf": 252
+    "economies_chf": 463
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/nail-cafe/",
       "canton": "Vaud",
       "visit_date_fr": "12 juin 2025",
-      "saving_chf": 29
+      "saving_chf": 58
     },
     {
       "etab_name": "Karré Long",
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/laura-coiffeuse-privee/",
       "canton": "Vaud",
       "visit_date_fr": "18 mars 2026",
-      "saving_chf": 40
+      "saving_chf": 80
     },
     {
       "etab_name": "Salon Privé Ecublens",
@@ -44,7 +44,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/salon-prive-ecublens/",
       "canton": "Vaud",
       "visit_date_fr": "26 mars 2026",
-      "saving_chf": 40
+      "saving_chf": 80
     },
     {
       "etab_name": "Hôtel & Spa Le National",
@@ -53,7 +53,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-spa-le-national/",
       "canton": "Valais",
       "visit_date_fr": "29 mars 2026",
-      "saving_chf": 40
+      "saving_chf": 80
     },
     {
       "etab_name": "Arte Beauty Lutry",
@@ -62,7 +62,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
       "canton": "Vaud",
       "visit_date_fr": "28 avril 2026",
-      "saving_chf": 62
+      "saving_chf": 125
     }
   ]
 }

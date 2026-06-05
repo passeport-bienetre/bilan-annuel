@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 1,
     "etabs_uniques": 1,
-    "economies_chf": 61
+    "economies_chf": 122
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/rituels-beaute/",
       "canton": "Vaud",
       "visit_date_fr": "27 avril 2026",
-      "saving_chf": 61
+      "saving_chf": 122
     }
   ]
 }

@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 3,
     "etabs_uniques": 3,
-    "economies_chf": 185
+    "economies_chf": 370
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "canton": "Vaud",
       "visit_date_fr": "27 juin 2025",
-      "saving_chf": 60
+      "saving_chf": 120
     },
     {
       "etab_name": "Lausanne Palace & Spa",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
       "canton": "Vaud",
       "visit_date_fr": "24 octobre 2025",
-      "saving_chf": 65
+      "saving_chf": 130
     },
     {
       "etab_name": "Le Mirador Resort & Spa",
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
       "canton": "Vaud",
       "visit_date_fr": "14 mai 2026",
-      "saving_chf": 60
+      "saving_chf": 120
     }
   ]
 }

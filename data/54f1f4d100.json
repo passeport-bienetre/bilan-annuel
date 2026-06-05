@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 3,
     "etabs_uniques": 3,
-    "economies_chf": 92
+    "economies_chf": 184
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/buicil-geneve/",
       "canton": "Genève",
       "visit_date_fr": "4 juillet 2025",
-      "saving_chf": 30
+      "saving_chf": 60
     },
     {
       "etab_name": "Parallèles Coiffure",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/paralleles-coiffure/",
       "canton": "Genève",
       "visit_date_fr": "12 septembre 2025",
-      "saving_chf": 30
+      "saving_chf": 60
     },
     {
       "etab_name": "NUANCES NATURE",
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/nuances-nature/",
       "canton": "Genève",
       "visit_date_fr": "12 mai 2026",
-      "saving_chf": 32
+      "saving_chf": 64
     }
   ]
 }

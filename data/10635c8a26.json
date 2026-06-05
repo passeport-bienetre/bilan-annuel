@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 4,
     "etabs_uniques": 4,
-    "economies_chf": 168
+    "economies_chf": 335
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/sawatdee-delices/",
       "canton": "Genève",
       "visit_date_fr": "4 juillet 2025",
-      "saving_chf": 35
+      "saving_chf": 70
     },
     {
       "etab_name": "Thai Corner",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/thai-corner-3/",
       "canton": "Genève",
       "visit_date_fr": "11 octobre 2025",
-      "saving_chf": 50
+      "saving_chf": 100
     },
     {
       "etab_name": "Saai Nam Massage - Manor",
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/saai-nam-massage-manor/",
       "canton": "Genève",
       "visit_date_fr": "27 décembre 2025",
-      "saving_chf": 48
+      "saving_chf": 95
     },
     {
       "etab_name": "Sawatdee Temple",
@@ -44,7 +44,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/sawatdee-temple/",
       "canton": "Genève",
       "visit_date_fr": "10 avril 2026",
-      "saving_chf": 35
+      "saving_chf": 70
     }
   ]
 }

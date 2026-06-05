@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 4,
     "etabs_uniques": 4,
-    "economies_chf": 220
+    "economies_chf": 440
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/le-grand-bellevue/",
       "canton": "Berne",
       "visit_date_fr": "21 juin 2025",
-      "saving_chf": 60
+      "saving_chf": 120
     },
     {
       "etab_name": "LECRANS HOTEL & SPA",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/le-st-gervais-hotel-spa/",
       "canton": "Valais",
       "visit_date_fr": "6 décembre 2025",
-      "saving_chf": 42
+      "saving_chf": 85
     },
     {
       "etab_name": "Saai Nam Massage - Manor",
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/saai-nam-massage-manor/",
       "canton": "Genève",
       "visit_date_fr": "2 janvier 2026",
-      "saving_chf": 48
+      "saving_chf": 95
     },
     {
       "etab_name": "FLEUR D’EPIDERME",
@@ -44,7 +44,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/fleur-depiderme/",
       "canton": "Genève",
       "visit_date_fr": "25 avril 2026",
-      "saving_chf": 70
+      "saving_chf": 140
     }
   ]
 }

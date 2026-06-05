@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 3,
     "etabs_uniques": 3,
-    "economies_chf": 142
+    "economies_chf": 285
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/le-st-gervais-hotel-spa/",
       "canton": "Valais",
       "visit_date_fr": "13 juin 2025",
-      "saving_chf": 42
+      "saving_chf": 85
     },
     {
       "etab_name": "Anzère SPA & Wellness",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/anzere-spa-wellness/",
       "canton": "Valais",
       "visit_date_fr": "15 novembre 2025",
-      "saving_chf": 40
+      "saving_chf": 80
     },
     {
       "etab_name": "Le Mirador Resort & Spa",
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
       "canton": "Vaud",
       "visit_date_fr": "17 février 2026",
-      "saving_chf": 60
+      "saving_chf": 120
     }
   ]
 }

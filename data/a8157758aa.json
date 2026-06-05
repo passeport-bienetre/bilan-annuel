@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 2,
     "etabs_uniques": 2,
-    "economies_chf": 66
+    "economies_chf": 133
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/bliss/",
       "canton": "Genève",
       "visit_date_fr": "27 janvier 2026",
-      "saving_chf": 32
+      "saving_chf": 65
     },
     {
       "etab_name": "SAKURA LAB",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/sakura-lab/",
       "canton": "Genève",
       "visit_date_fr": "15 mai 2026",
-      "saving_chf": 34
+      "saving_chf": 68
     }
   ]
 }

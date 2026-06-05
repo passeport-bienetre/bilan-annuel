@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 7,
     "etabs_uniques": 7,
-    "economies_chf": 294
+    "economies_chf": 548
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/guess-what-3/",
       "canton": "Vaud",
       "visit_date_fr": "19 juillet 2025",
-      "saving_chf": 30
+      "saving_chf": 60
     },
     {
       "etab_name": "Institut Kaori",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/institut-kaori/",
       "canton": "Vaud",
       "visit_date_fr": "15 août 2025",
-      "saving_chf": 35
+      "saving_chf": 70
     },
     {
       "etab_name": "Maison Perle",
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/maison-perle/",
       "canton": "Vaud",
       "visit_date_fr": "7 novembre 2025",
-      "saving_chf": 35
+      "saving_chf": 70
     },
     {
       "etab_name": "Nail Café",
@@ -44,7 +44,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/nail-cafe/",
       "canton": "Vaud",
       "visit_date_fr": "6 décembre 2025",
-      "saving_chf": 29
+      "saving_chf": 58
     },
     {
       "etab_name": "Arte Beauty EPFL",
@@ -53,7 +53,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/",
       "canton": "Vaud",
       "visit_date_fr": "30 décembre 2025",
-      "saving_chf": 62
+      "saving_chf": 125
     },
     {
       "etab_name": "Arte Beauty Lutry",
@@ -62,7 +62,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
       "canton": "Vaud",
       "visit_date_fr": "3 janvier 2026",
-      "saving_chf": 62
+      "saving_chf": 125
     },
     {
       "etab_name": "Institut ZenSkin",

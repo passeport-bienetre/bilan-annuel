@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 3,
     "etabs_uniques": 3,
-    "economies_chf": 100
+    "economies_chf": 200
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/everness-resort/",
       "canton": "Vaud",
       "visit_date_fr": "12 septembre 2025",
-      "saving_chf": 42
+      "saving_chf": 85
     },
     {
       "etab_name": "Institut Osmose",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/institut-osmose/",
       "canton": "Vaud",
       "visit_date_fr": "2 octobre 2025",
-      "saving_chf": 32
+      "saving_chf": 65
     },
     {
       "etab_name": "Les Petits Pieds du Bonheur",
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/les-petits-pieds-du-bonheur/",
       "canton": "Genève",
       "visit_date_fr": "6 novembre 2025",
-      "saving_chf": 25
+      "saving_chf": 50
     }
   ]
 }

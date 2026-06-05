@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 7,
     "etabs_uniques": 7,
-    "economies_chf": 285
+    "economies_chf": 530
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
       "canton": "Vaud",
       "visit_date_fr": "30 juin 2025",
-      "saving_chf": 35
+      "saving_chf": 70
     },
     {
       "etab_name": "Arte Beauty Lutry",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
       "canton": "Vaud",
       "visit_date_fr": "10 octobre 2025",
-      "saving_chf": 62
+      "saving_chf": 125
     },
     {
       "etab_name": "Signature Coiffure",
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/signature-coiffure/",
       "canton": "Vaud",
       "visit_date_fr": "31 octobre 2025",
-      "saving_chf": 29
+      "saving_chf": 58
     },
     {
       "etab_name": "Nueva Luna Yoga",
@@ -44,7 +44,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/nueva-luna-yoga/",
       "canton": "Vaud",
       "visit_date_fr": "30 novembre 2025",
-      "saving_chf": 30
+      "saving_chf": 60
     },
     {
       "etab_name": "Institut ZenSkin",
@@ -62,7 +62,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/salon-prive/",
       "canton": "Vaud",
       "visit_date_fr": "20 février 2026",
-      "saving_chf": 31
+      "saving_chf": 62
     },
     {
       "etab_name": "Institut Guinot",
@@ -71,7 +71,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
       "canton": "Vaud",
       "visit_date_fr": "13 mai 2026",
-      "saving_chf": 58
+      "saving_chf": 115
     }
   ]
 }

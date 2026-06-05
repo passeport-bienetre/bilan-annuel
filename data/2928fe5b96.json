@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 3,
     "etabs_uniques": 3,
-    "economies_chf": 135
+    "economies_chf": 270
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/amiia-clinique/",
       "canton": null,
       "visit_date_fr": "18 juin 2025",
-      "saving_chf": 38
+      "saving_chf": 75
     },
     {
       "etab_name": "Institut Guinot",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
       "canton": "Vaud",
       "visit_date_fr": "3 juillet 2025",
-      "saving_chf": 58
+      "saving_chf": 115
     },
     {
       "etab_name": "LAURA COIFFEUSE PRIVÉE",
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/laura-coiffeuse-privee/",
       "canton": "Vaud",
       "visit_date_fr": "13 mars 2026",
-      "saving_chf": 40
+      "saving_chf": 80
     }
   ]
 }

@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 4,
     "etabs_uniques": 4,
-    "economies_chf": 170
+    "economies_chf": 339
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/thaiotop-3/",
       "canton": "Genève",
       "visit_date_fr": "2 juillet 2025",
-      "saving_chf": 48
+      "saving_chf": 95
     },
     {
       "etab_name": "NUANCES NATURE",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/nuances-nature/",
       "canton": "Genève",
       "visit_date_fr": "25 octobre 2025",
-      "saving_chf": 32
+      "saving_chf": 64
     },
     {
       "etab_name": "Thai Corner",
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/thai-corner-3/",
       "canton": "Genève",
       "visit_date_fr": "25 octobre 2025",
-      "saving_chf": 50
+      "saving_chf": 100
     },
     {
       "etab_name": "EUPHORIA & BEAUTY STUDIO",
@@ -44,7 +44,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/euphoria-beauty-studio/",
       "canton": "Genève",
       "visit_date_fr": "9 avril 2026",
-      "saving_chf": 40
+      "saving_chf": 80
     }
   ]
 }

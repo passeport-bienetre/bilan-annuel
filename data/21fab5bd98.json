@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 2,
     "etabs_uniques": 2,
-    "economies_chf": 89
+    "economies_chf": 178
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/nail-cafe/",
       "canton": "Vaud",
       "visit_date_fr": "27 juin 2025",
-      "saving_chf": 29
+      "saving_chf": 58
     },
     {
       "etab_name": "Le Mirador Resort & Spa",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
       "canton": "Vaud",
       "visit_date_fr": "6 mars 2026",
-      "saving_chf": 60
+      "saving_chf": 120
     }
   ]
 }

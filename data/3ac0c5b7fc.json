@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 4,
     "etabs_uniques": 4,
-    "economies_chf": 238
+    "economies_chf": 475
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/amiia-clinique/",
       "canton": null,
       "visit_date_fr": "19 juin 2025",
-      "saving_chf": 38
+      "saving_chf": 75
     },
     {
       "etab_name": "Chalet Royalp Hôtel & Spa",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
       "canton": "Vaud",
       "visit_date_fr": "16 juillet 2025",
-      "saving_chf": 80
+      "saving_chf": 160
     },
     {
       "etab_name": "Le Mirador Resort & Spa",
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
       "canton": "Vaud",
       "visit_date_fr": "23 juillet 2025",
-      "saving_chf": 60
+      "saving_chf": 120
     },
     {
       "etab_name": "Le Grand Bellevue",
@@ -44,7 +44,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/le-grand-bellevue/",
       "canton": "Berne",
       "visit_date_fr": "18 décembre 2025",
-      "saving_chf": 60
+      "saving_chf": 120
     }
   ]
 }

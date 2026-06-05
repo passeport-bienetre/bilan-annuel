@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 5,
     "etabs_uniques": 5,
-    "economies_chf": 164
+    "economies_chf": 288
   },
   "visites": [
     {
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
       "canton": "Vaud",
       "visit_date_fr": "2 septembre 2025",
-      "saving_chf": 35
+      "saving_chf": 70
     },
     {
       "etab_name": "Tête à Clak",
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/tete-a-clak/",
       "canton": null,
       "visit_date_fr": "4 novembre 2025",
-      "saving_chf": 29
+      "saving_chf": 58
     },
     {
       "etab_name": "Salon Privé Gare",
@@ -44,7 +44,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/salon-prive/",
       "canton": "Vaud",
       "visit_date_fr": "15 janvier 2026",
-      "saving_chf": 31
+      "saving_chf": 62
     },
     {
       "etab_name": "Signature Coiffure",
@@ -53,7 +53,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/signature-coiffure/",
       "canton": "Vaud",
       "visit_date_fr": "2 avril 2026",
-      "saving_chf": 29
+      "saving_chf": 58
     }
   ]
 }

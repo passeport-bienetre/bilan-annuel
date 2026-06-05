@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 3,
     "etabs_uniques": 3,
-    "economies_chf": 122
+    "economies_chf": 243
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/maison-perle/",
       "canton": "Vaud",
       "visit_date_fr": "1 juillet 2025",
-      "saving_chf": 35
+      "saving_chf": 70
     },
     {
       "etab_name": "Institut Guinot",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
       "canton": "Vaud",
       "visit_date_fr": "18 juillet 2025",
-      "saving_chf": 58
+      "saving_chf": 115
     },
     {
       "etab_name": "Nail Café",
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/nail-cafe/",
       "canton": "Vaud",
       "visit_date_fr": "29 janvier 2026",
-      "saving_chf": 29
+      "saving_chf": 58
     }
   ]
 }

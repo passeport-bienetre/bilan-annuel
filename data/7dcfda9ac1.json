@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 3,
     "etabs_uniques": 3,
-    "economies_chf": 155
+    "economies_chf": 310
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/swiss-aesthetica/",
       "canton": "Vaud",
       "visit_date_fr": "11 juin 2025",
-      "saving_chf": 40
+      "saving_chf": 80
     },
     {
       "etab_name": "1er Acte Coiffure",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
       "canton": "Vaud",
       "visit_date_fr": "2 juillet 2025",
-      "saving_chf": 35
+      "saving_chf": 70
     },
     {
       "etab_name": "Chalet Royalp Hôtel & Spa",
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
       "canton": "Vaud",
       "visit_date_fr": "14 février 2026",
-      "saving_chf": 80
+      "saving_chf": 160
     }
   ]
 }

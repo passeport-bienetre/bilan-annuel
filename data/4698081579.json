@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 3,
     "etabs_uniques": 3,
-    "economies_chf": 122
+    "economies_chf": 243
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/corps-sains/",
       "canton": "Genève",
       "visit_date_fr": "11 août 2025",
-      "saving_chf": 32
+      "saving_chf": 63
     },
     {
       "etab_name": "19th AVENUE - Versonnex",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/versonnex/",
       "canton": "Genève",
       "visit_date_fr": "10 janvier 2026",
-      "saving_chf": 30
+      "saving_chf": 60
     },
     {
       "etab_name": "Skin Solution",
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/skin-solution/",
       "canton": "Genève",
       "visit_date_fr": "27 février 2026",
-      "saving_chf": 60
+      "saving_chf": 120
     }
   ]
 }

@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 3,
     "etabs_uniques": 3,
-    "economies_chf": 205
+    "economies_chf": 410
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/",
       "canton": "Vaud",
       "visit_date_fr": "26 juin 2025",
-      "saving_chf": 62
+      "saving_chf": 125
     },
     {
       "etab_name": "Arte Beauty Lutry",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
       "canton": "Vaud",
       "visit_date_fr": "17 décembre 2025",
-      "saving_chf": 62
+      "saving_chf": 125
     },
     {
       "etab_name": "Chalet Royalp Hôtel & Spa",
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
       "canton": "Vaud",
       "visit_date_fr": "27 février 2026",
-      "saving_chf": 80
+      "saving_chf": 160
     }
   ]
 }

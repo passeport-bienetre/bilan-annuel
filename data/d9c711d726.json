@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 5,
     "etabs_uniques": 5,
-    "economies_chf": 312
+    "economies_chf": 625
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-ehl/",
       "canton": null,
       "visit_date_fr": "18 juin 2025",
-      "saving_chf": 62
+      "saving_chf": 125
     },
     {
       "etab_name": "Chalet Royalp Hôtel & Spa",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
       "canton": "Vaud",
       "visit_date_fr": "27 juillet 2025",
-      "saving_chf": 80
+      "saving_chf": 160
     },
     {
       "etab_name": "Arte Beauty Lutry",
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
       "canton": "Vaud",
       "visit_date_fr": "22 août 2025",
-      "saving_chf": 62
+      "saving_chf": 125
     },
     {
       "etab_name": "LECRANS HOTEL & SPA",
@@ -44,7 +44,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/le-st-gervais-hotel-spa/",
       "canton": "Valais",
       "visit_date_fr": "21 septembre 2025",
-      "saving_chf": 42
+      "saving_chf": 85
     },
     {
       "etab_name": "Lausanne Palace & Spa",
@@ -53,7 +53,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
       "canton": "Vaud",
       "visit_date_fr": "20 mars 2026",
-      "saving_chf": 65
+      "saving_chf": 130
     }
   ]
 }

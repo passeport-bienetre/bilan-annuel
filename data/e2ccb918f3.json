@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 3,
     "etabs_uniques": 3,
-    "economies_chf": 132
+    "economies_chf": 265
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/swiss-aesthetica/",
       "canton": "Vaud",
       "visit_date_fr": "5 juillet 2025",
-      "saving_chf": 40
+      "saving_chf": 80
     },
     {
       "etab_name": "Arte Beauty Lutry",
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
       "canton": "Vaud",
       "visit_date_fr": "16 août 2025",
-      "saving_chf": 62
+      "saving_chf": 125
     },
     {
       "etab_name": "CJ Coiffure",
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/cj-coiffure/",
       "canton": "Vaud",
       "visit_date_fr": "13 novembre 2025",
-      "saving_chf": 30
+      "saving_chf": 60
     }
   ]
 }

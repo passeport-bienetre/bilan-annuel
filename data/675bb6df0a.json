@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 1,
     "etabs_uniques": 1,
-    "economies_chf": 30
+    "economies_chf": 60
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/nueva-luna-yoga/",
       "canton": "Vaud",
       "visit_date_fr": "2 juin 2026",
-      "saving_chf": 30
+      "saving_chf": 60
     }
   ]
 }
