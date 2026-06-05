@@ -1,13 +1,13 @@
 {
   "name": "Audrey",
   "window": {
-    "start": "4 juin 2025",
-    "end": "4 juin 2026"
+    "start": "5 juin 2025",
+    "end": "5 juin 2026"
   },
   "stats": {
-    "visites_total": 5,
-    "etabs_uniques": 5,
-    "economies_chf": 172
+    "visites_total": 6,
+    "etabs_uniques": 6,
+    "economies_chf": 202
   },
   "visites": [
     {
@@ -54,6 +54,15 @@
       "canton": "Genève",
       "visit_date_fr": "13 mai 2026",
       "saving_chf": 22
+    },
+    {
+      "etab_name": "BuiCil Genève",
+      "etab_slug": "buicil-geneve",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/buicil-geneve.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/buicil-geneve/",
+      "canton": "Genève",
+      "visit_date_fr": "4 juin 2026",
+      "saving_chf": 30
     }
   ]
 }

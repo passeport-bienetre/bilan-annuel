@@ -1,31 +1,22 @@
 {
-  "name": "valentine",
+  "name": "Agathe",
   "window": {
     "start": "5 juin 2025",
     "end": "5 juin 2026"
   },
   "stats": {
-    "visites_total": 3,
-    "etabs_uniques": 3,
-    "economies_chf": 102
+    "visites_total": 2,
+    "etabs_uniques": 2,
+    "economies_chf": 65
   },
   "visites": [
-    {
-      "etab_name": "Amiia Clinique",
-      "etab_slug": "amiia-clinique",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/amiia-clinique.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/amiia-clinique/",
-      "canton": null,
-      "visit_date_fr": "13 juin 2025",
-      "saving_chf": 38
-    },
     {
       "etab_name": "Bhumi",
       "etab_slug": "biotonique-institut",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/biotonique-institut.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/biotonique-institut/",
       "canton": "Vaud",
-      "visit_date_fr": "16 septembre 2025",
+      "visit_date_fr": "12 février 2026",
       "saving_chf": 32
     },
     {
@@ -34,7 +25,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-osmose.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/institut-osmose/",
       "canton": "Vaud",
-      "visit_date_fr": "8 octobre 2025",
+      "visit_date_fr": "21 avril 2026",
       "saving_chf": 32
     }
   ]
