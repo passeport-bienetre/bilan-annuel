@@ -1,13 +1,13 @@
 {
   "name": "Valérie",
   "window": {
-    "start": "5 juin 2025",
-    "end": "5 juin 2026"
+    "start": "6 juin 2025",
+    "end": "6 juin 2026"
   },
   "stats": {
     "visites_total": 4,
     "etabs_uniques": 4,
-    "economies_chf": 339
+    "economies_chf": 340
   },
   "visites": [
     {
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/nuances-nature/",
       "canton": "Genève",
       "visit_date_fr": "25 octobre 2025",
-      "saving_chf": 64
+      "saving_chf": 65
     },
     {
       "etab_name": "Thai Corner",

@@ -1,13 +1,13 @@
 {
   "name": "Claire",
   "window": {
-    "start": "5 juin 2025",
-    "end": "5 juin 2026"
+    "start": "6 juin 2025",
+    "end": "6 juin 2026"
   },
   "stats": {
     "visites_total": 6,
     "etabs_uniques": 6,
-    "economies_chf": 439
+    "economies_chf": 440
   },
   "visites": [
     {
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/nuances-nature/",
       "canton": "Genève",
       "visit_date_fr": "9 janvier 2026",
-      "saving_chf": 64
+      "saving_chf": 65
     },
     {
       "etab_name": "Ipanema Beauté",

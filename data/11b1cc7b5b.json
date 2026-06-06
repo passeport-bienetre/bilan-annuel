@@ -1,13 +1,13 @@
 {
   "name": "Maude",
   "window": {
-    "start": "5 juin 2025",
-    "end": "5 juin 2026"
+    "start": "6 juin 2025",
+    "end": "6 juin 2026"
   },
   "stats": {
     "visites_total": 10,
     "etabs_uniques": 10,
-    "economies_chf": 847
+    "economies_chf": 848
   },
   "visites": [
     {
@@ -98,7 +98,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/nuances-nature/",
       "canton": "Genève",
       "visit_date_fr": "17 avril 2026",
-      "saving_chf": 64
+      "saving_chf": 65
     }
   ]
 }

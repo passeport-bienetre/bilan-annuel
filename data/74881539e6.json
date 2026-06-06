@@ -1,13 +1,13 @@
 {
   "name": "Bettina",
   "window": {
-    "start": "5 juin 2025",
-    "end": "5 juin 2026"
+    "start": "6 juin 2025",
+    "end": "6 juin 2026"
   },
   "stats": {
-    "visites_total": 7,
-    "etabs_uniques": 7,
-    "economies_chf": 592
+    "visites_total": 8,
+    "etabs_uniques": 8,
+    "economies_chf": 692
   },
   "visites": [
     {
@@ -72,6 +72,15 @@
       "canton": "Vaud",
       "visit_date_fr": "29 mai 2026",
       "saving_chf": 125
+    },
+    {
+      "etab_name": "Maison B",
+      "etab_slug": "maison-b",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-b.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/maison-b/",
+      "canton": null,
+      "visit_date_fr": "5 juin 2026",
+      "saving_chf": 100
     }
   ]
 }

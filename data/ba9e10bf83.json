@@ -1,13 +1,13 @@
 {
   "name": "Anna",
   "window": {
-    "start": "5 juin 2025",
-    "end": "5 juin 2026"
+    "start": "6 juin 2025",
+    "end": "6 juin 2026"
   },
   "stats": {
-    "visites_total": 7,
-    "etabs_uniques": 7,
-    "economies_chf": 615
+    "visites_total": 8,
+    "etabs_uniques": 8,
+    "economies_chf": 670
   },
   "visites": [
     {
@@ -72,6 +72,15 @@
       "canton": "Genève",
       "visit_date_fr": "10 avril 2026",
       "saving_chf": 70
+    },
+    {
+      "etab_name": "Studio Beauté",
+      "etab_slug": "studio-beaute",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/studio-beaute.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/studio-beaute/",
+      "canton": "Genève",
+      "visit_date_fr": "5 juin 2026",
+      "saving_chf": 55
     }
   ]
 }

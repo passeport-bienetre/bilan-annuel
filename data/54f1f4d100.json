@@ -1,13 +1,13 @@
 {
   "name": "Sophie",
   "window": {
-    "start": "5 juin 2025",
-    "end": "5 juin 2026"
+    "start": "6 juin 2025",
+    "end": "6 juin 2026"
   },
   "stats": {
     "visites_total": 3,
     "etabs_uniques": 3,
-    "economies_chf": 184
+    "economies_chf": 185
   },
   "visites": [
     {
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/nuances-nature/",
       "canton": "Genève",
       "visit_date_fr": "12 mai 2026",
-      "saving_chf": 64
+      "saving_chf": 65
     }
   ]
 }

@@ -1,0 +1,50 @@
+{
+  "name": "Difraz",
+  "window": {
+    "start": "6 juin 2025",
+    "end": "6 juin 2026"
+  },
+  "stats": {
+    "visites_total": 4,
+    "etabs_uniques": 4,
+    "economies_chf": 395
+  },
+  "visites": [
+    {
+      "etab_name": "Maison Perle",
+      "etab_slug": "maison-perle",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-perle.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/maison-perle/",
+      "canton": "Vaud",
+      "visit_date_fr": "9 juillet 2025",
+      "saving_chf": 70
+    },
+    {
+      "etab_name": "Royal Savoy Hôtel & Spa",
+      "etab_slug": "royal-savoy-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/royal-savoy-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
+      "canton": "Vaud",
+      "visit_date_fr": "17 juillet 2025",
+      "saving_chf": 120
+    },
+    {
+      "etab_name": "JOIA LAUSANNE",
+      "etab_slug": "joia-lausanne",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/joia-lausanne.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/joia-lausanne/",
+      "canton": "Vaud",
+      "visit_date_fr": "25 février 2026",
+      "saving_chf": 125
+    },
+    {
+      "etab_name": "LAURA COIFFEUSE PRIVÉE",
+      "etab_slug": "laura-coiffeuse-privee",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/laura-coiffeuse-privee.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/laura-coiffeuse-privee/",
+      "canton": "Vaud",
+      "visit_date_fr": "2 avril 2026",
+      "saving_chf": 80
+    }
+  ]
+}
