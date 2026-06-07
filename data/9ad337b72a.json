@@ -5,11 +5,20 @@
     "end": "7 juin 2026"
   },
   "stats": {
-    "visites_total": 10,
-    "etabs_uniques": 10,
-    "economies_chf": 788
+    "visites_total": 11,
+    "etabs_uniques": 11,
+    "economies_chf": 848
   },
   "visites": [
+    {
+      "etab_name": "Akyado Genève Centre",
+      "etab_slug": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/_default.jpg",
+      "etab_url_public": null,
+      "canton": "Genève",
+      "visit_date_fr": "12 juin 2025",
+      "saving_chf": 60
+    },
     {
       "etab_name": "SAKURA LAB",
       "etab_slug": "sakura-lab",

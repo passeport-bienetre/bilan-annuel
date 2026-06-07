@@ -5,9 +5,9 @@
     "end": "7 juin 2026"
   },
   "stats": {
-    "visites_total": 2,
-    "etabs_uniques": 2,
-    "economies_chf": 205
+    "visites_total": 3,
+    "etabs_uniques": 3,
+    "economies_chf": 285
   },
   "visites": [
     {
@@ -18,6 +18,15 @@
       "canton": "Vaud",
       "visit_date_fr": "3 juillet 2025",
       "saving_chf": 115
+    },
+    {
+      "etab_name": "VAGHEGGI Phyto Space Lausanne",
+      "etab_slug": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/_default.jpg",
+      "etab_url_public": null,
+      "canton": "Vaud",
+      "visit_date_fr": "10 juillet 2025",
+      "saving_chf": 80
     },
     {
       "etab_name": "Les Cliniques Matignon",

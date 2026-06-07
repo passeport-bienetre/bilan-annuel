@@ -5,9 +5,9 @@
     "end": "7 juin 2026"
   },
   "stats": {
-    "visites_total": 5,
-    "etabs_uniques": 5,
-    "economies_chf": 655
+    "visites_total": 6,
+    "etabs_uniques": 6,
+    "economies_chf": 755
   },
   "visites": [
     {
@@ -18,6 +18,15 @@
       "canton": "Vaud",
       "visit_date_fr": "27 juin 2025",
       "saving_chf": 120
+    },
+    {
+      "etab_name": "Fairmont le Montreux Palace",
+      "etab_slug": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/_default.jpg",
+      "etab_url_public": null,
+      "canton": "Vaud",
+      "visit_date_fr": "11 septembre 2025",
+      "saving_chf": 100
     },
     {
       "etab_name": "Lausanne Palace & Spa",

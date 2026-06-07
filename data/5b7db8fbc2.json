@@ -5,9 +5,9 @@
     "end": "7 juin 2026"
   },
   "stats": {
-    "visites_total": 9,
-    "etabs_uniques": 9,
-    "economies_chf": 857
+    "visites_total": 10,
+    "etabs_uniques": 10,
+    "economies_chf": 937
   },
   "visites": [
     {
@@ -72,6 +72,15 @@
       "canton": "Vaud",
       "visit_date_fr": "16 décembre 2025",
       "saving_chf": 70
+    },
+    {
+      "etab_name": "VAGHEGGI Phyto Space Lausanne",
+      "etab_slug": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/_default.jpg",
+      "etab_url_public": null,
+      "canton": "Vaud",
+      "visit_date_fr": "10 mars 2026",
+      "saving_chf": 80
     },
     {
       "etab_name": "KASA AMO",

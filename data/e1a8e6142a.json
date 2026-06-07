@@ -5,9 +5,9 @@
     "end": "7 juin 2026"
   },
   "stats": {
-    "visites_total": 6,
-    "etabs_uniques": 6,
-    "economies_chf": 611
+    "visites_total": 7,
+    "etabs_uniques": 7,
+    "economies_chf": 691
   },
   "visites": [
     {
@@ -18,6 +18,15 @@
       "canton": "Vaud",
       "visit_date_fr": "30 juillet 2025",
       "saving_chf": 85
+    },
+    {
+      "etab_name": "Beauty Concept Vevey",
+      "etab_slug": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/_default.jpg",
+      "etab_url_public": null,
+      "canton": "Vaud",
+      "visit_date_fr": "8 août 2025",
+      "saving_chf": 80
     },
     {
       "etab_name": "Chalet Royalp Hôtel & Spa",

@@ -5,9 +5,9 @@
     "end": "7 juin 2026"
   },
   "stats": {
-    "visites_total": 2,
-    "etabs_uniques": 2,
-    "economies_chf": 210
+    "visites_total": 3,
+    "etabs_uniques": 3,
+    "economies_chf": 310
   },
   "visites": [
     {
@@ -17,6 +17,15 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/flocoon-spa-cinq-mondes/",
       "canton": "Valais",
       "visit_date_fr": "17 septembre 2025",
+      "saving_chf": 100
+    },
+    {
+      "etab_name": "Crans Ambassador Spa",
+      "etab_slug": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/_default.jpg",
+      "etab_url_public": null,
+      "canton": "Valais",
+      "visit_date_fr": "19 janvier 2026",
       "saving_chf": 100
     },
     {

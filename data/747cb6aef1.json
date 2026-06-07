@@ -5,9 +5,9 @@
     "end": "7 juin 2026"
   },
   "stats": {
-    "visites_total": 9,
-    "etabs_uniques": 9,
-    "economies_chf": 775
+    "visites_total": 10,
+    "etabs_uniques": 10,
+    "economies_chf": 875
   },
   "visites": [
     {
@@ -36,6 +36,15 @@
       "canton": null,
       "visit_date_fr": "3 septembre 2025",
       "saving_chf": 90
+    },
+    {
+      "etab_name": "W Verbier",
+      "etab_slug": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/_default.jpg",
+      "etab_url_public": null,
+      "canton": "Valais",
+      "visit_date_fr": "8 septembre 2025",
+      "saving_chf": 100
     },
     {
       "etab_name": "Le Grand Bellevue",

@@ -5,9 +5,9 @@
     "end": "7 juin 2026"
   },
   "stats": {
-    "visites_total": 6,
-    "etabs_uniques": 6,
-    "economies_chf": 555
+    "visites_total": 7,
+    "etabs_uniques": 7,
+    "economies_chf": 655
   },
   "visites": [
     {
@@ -27,6 +27,15 @@
       "canton": "Genève",
       "visit_date_fr": "7 août 2025",
       "saving_chf": 65
+    },
+    {
+      "etab_name": "Fairmont le Montreux Palace",
+      "etab_slug": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/_default.jpg",
+      "etab_url_public": null,
+      "canton": "Vaud",
+      "visit_date_fr": "27 août 2025",
+      "saving_chf": 100
     },
     {
       "etab_name": "Hôtel Intercontinental Spa 5 Mondes",

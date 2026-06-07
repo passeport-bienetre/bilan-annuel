@@ -5,9 +5,9 @@
     "end": "7 juin 2026"
   },
   "stats": {
-    "visites_total": 3,
-    "etabs_uniques": 3,
-    "economies_chf": 365
+    "visites_total": 4,
+    "etabs_uniques": 4,
+    "economies_chf": 445
   },
   "visites": [
     {
@@ -18,6 +18,15 @@
       "canton": "Vaud",
       "visit_date_fr": "23 juin 2025",
       "saving_chf": 120
+    },
+    {
+      "etab_name": "VAGHEGGI Phyto Space Lausanne",
+      "etab_slug": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/_default.jpg",
+      "etab_url_public": null,
+      "canton": "Vaud",
+      "visit_date_fr": "9 octobre 2025",
+      "saving_chf": 80
     },
     {
       "etab_name": "Lausanne Palace & Spa",

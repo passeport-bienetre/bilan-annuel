@@ -5,9 +5,9 @@
     "end": "7 juin 2026"
   },
   "stats": {
-    "visites_total": 8,
-    "etabs_uniques": 8,
-    "economies_chf": 505
+    "visites_total": 9,
+    "etabs_uniques": 9,
+    "economies_chf": 585
   },
   "visites": [
     {
@@ -18,6 +18,15 @@
       "canton": null,
       "visit_date_fr": "11 juillet 2025",
       "saving_chf": 58
+    },
+    {
+      "etab_name": "Beauty Concept Vevey",
+      "etab_slug": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/_default.jpg",
+      "etab_url_public": null,
+      "canton": "Vaud",
+      "visit_date_fr": "11 juillet 2025",
+      "saving_chf": 80
     },
     {
       "etab_name": "MK PILATES",

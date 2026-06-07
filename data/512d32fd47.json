@@ -5,9 +5,9 @@
     "end": "7 juin 2026"
   },
   "stats": {
-    "visites_total": 9,
-    "etabs_uniques": 9,
-    "economies_chf": 770
+    "visites_total": 10,
+    "etabs_uniques": 10,
+    "economies_chf": 830
   },
   "visites": [
     {
@@ -36,6 +36,15 @@
       "canton": "Genève",
       "visit_date_fr": "18 juillet 2025",
       "saving_chf": 65
+    },
+    {
+      "etab_name": "Akyado Genève Centre",
+      "etab_slug": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/_default.jpg",
+      "etab_url_public": null,
+      "canton": "Genève",
+      "visit_date_fr": "15 août 2025",
+      "saving_chf": 60
     },
     {
       "etab_name": "Blossom Institut",

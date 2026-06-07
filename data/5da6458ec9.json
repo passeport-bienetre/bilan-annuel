@@ -5,9 +5,9 @@
     "end": "7 juin 2026"
   },
   "stats": {
-    "visites_total": 1,
-    "etabs_uniques": 1,
-    "economies_chf": 55
+    "visites_total": 2,
+    "etabs_uniques": 2,
+    "economies_chf": 155
   },
   "visites": [
     {
@@ -18,6 +18,15 @@
       "canton": "Fribourg",
       "visit_date_fr": "18 juin 2025",
       "saving_chf": 55
+    },
+    {
+      "etab_name": "Crans Ambassador Spa",
+      "etab_slug": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/_default.jpg",
+      "etab_url_public": null,
+      "canton": "Valais",
+      "visit_date_fr": "27 juin 2025",
+      "saving_chf": 100
     }
   ]
 }

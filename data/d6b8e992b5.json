@@ -5,9 +5,9 @@
     "end": "7 juin 2026"
   },
   "stats": {
-    "visites_total": 6,
-    "etabs_uniques": 6,
-    "economies_chf": 586
+    "visites_total": 7,
+    "etabs_uniques": 7,
+    "economies_chf": 686
   },
   "visites": [
     {
@@ -45,6 +45,15 @@
       "canton": "Valais",
       "visit_date_fr": "28 novembre 2025",
       "saving_chf": 75
+    },
+    {
+      "etab_name": "Crans Ambassador Spa",
+      "etab_slug": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/_default.jpg",
+      "etab_url_public": null,
+      "canton": "Valais",
+      "visit_date_fr": "16 décembre 2025",
+      "saving_chf": 100
     },
     {
       "etab_name": "LA MAISON VALMONT – BONGENIE",

@@ -5,11 +5,20 @@
     "end": "7 juin 2026"
   },
   "stats": {
-    "visites_total": 1,
-    "etabs_uniques": 1,
-    "economies_chf": 62
+    "visites_total": 3,
+    "etabs_uniques": 3,
+    "economies_chf": 222
   },
   "visites": [
+    {
+      "etab_name": "Beauty Concept Vevey",
+      "etab_slug": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/_default.jpg",
+      "etab_url_public": null,
+      "canton": "Vaud",
+      "visit_date_fr": "20 juin 2025",
+      "saving_chf": 80
+    },
     {
       "etab_name": "Salon Privé Gare",
       "etab_slug": "salon-prive",
@@ -18,6 +27,15 @@
       "canton": "Vaud",
       "visit_date_fr": "4 juillet 2025",
       "saving_chf": 62
+    },
+    {
+      "etab_name": "VAGHEGGI Phyto Space Lausanne",
+      "etab_slug": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/_default.jpg",
+      "etab_url_public": null,
+      "canton": "Vaud",
+      "visit_date_fr": "17 septembre 2025",
+      "saving_chf": 80
     }
   ]
 }

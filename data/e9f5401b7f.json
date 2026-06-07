@@ -5,11 +5,20 @@
     "end": "7 juin 2026"
   },
   "stats": {
-    "visites_total": 6,
-    "etabs_uniques": 6,
-    "economies_chf": 498
+    "visites_total": 7,
+    "etabs_uniques": 7,
+    "economies_chf": 578
   },
   "visites": [
+    {
+      "etab_name": "VAGHEGGI Phyto Space Lausanne",
+      "etab_slug": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/_default.jpg",
+      "etab_url_public": null,
+      "canton": "Vaud",
+      "visit_date_fr": "4 juillet 2025",
+      "saving_chf": 80
+    },
     {
       "etab_name": "Nail Café",
       "etab_slug": "nail-cafe",

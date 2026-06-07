@@ -5,11 +5,20 @@
     "end": "7 juin 2026"
   },
   "stats": {
-    "visites_total": 5,
-    "etabs_uniques": 5,
-    "economies_chf": 465
+    "visites_total": 6,
+    "etabs_uniques": 6,
+    "economies_chf": 525
   },
   "visites": [
+    {
+      "etab_name": "Akyado Genève Centre",
+      "etab_slug": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/_default.jpg",
+      "etab_url_public": null,
+      "canton": "Genève",
+      "visit_date_fr": "13 août 2025",
+      "saving_chf": 60
+    },
     {
       "etab_name": "Le Mirador Resort & Spa",
       "etab_slug": "le-mirador-resort-spa",

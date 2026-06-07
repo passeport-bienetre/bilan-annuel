@@ -5,9 +5,9 @@
     "end": "7 juin 2026"
   },
   "stats": {
-    "visites_total": 4,
-    "etabs_uniques": 4,
-    "economies_chf": 285
+    "visites_total": 5,
+    "etabs_uniques": 5,
+    "economies_chf": 345
   },
   "visites": [
     {
@@ -26,6 +26,15 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/",
       "canton": "Genève",
       "visit_date_fr": "10 juillet 2025",
+      "saving_chf": 60
+    },
+    {
+      "etab_name": "Akyado Genève Centre",
+      "etab_slug": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/_default.jpg",
+      "etab_url_public": null,
+      "canton": "Genève",
+      "visit_date_fr": "16 septembre 2025",
       "saving_chf": 60
     },
     {

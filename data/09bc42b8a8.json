@@ -5,9 +5,9 @@
     "end": "7 juin 2026"
   },
   "stats": {
-    "visites_total": 4,
-    "etabs_uniques": 4,
-    "economies_chf": 290
+    "visites_total": 5,
+    "etabs_uniques": 5,
+    "economies_chf": 390
   },
   "visites": [
     {
@@ -18,6 +18,15 @@
       "canton": null,
       "visit_date_fr": "1 juillet 2025",
       "saving_chf": 40
+    },
+    {
+      "etab_name": "Fairmont le Montreux Palace",
+      "etab_slug": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/_default.jpg",
+      "etab_url_public": null,
+      "canton": "Vaud",
+      "visit_date_fr": "5 août 2025",
+      "saving_chf": 100
     },
     {
       "etab_name": "Karré Long",

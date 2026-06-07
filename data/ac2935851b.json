@@ -5,9 +5,9 @@
     "end": "7 juin 2026"
   },
   "stats": {
-    "visites_total": 6,
-    "etabs_uniques": 6,
-    "economies_chf": 550
+    "visites_total": 7,
+    "etabs_uniques": 7,
+    "economies_chf": 640
   },
   "visites": [
     {
@@ -18,6 +18,15 @@
       "canton": "Genève",
       "visit_date_fr": "25 juin 2025",
       "saving_chf": 100
+    },
+    {
+      "etab_name": "19Th Avenue – Thonex",
+      "etab_slug": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/_default.jpg",
+      "etab_url_public": null,
+      "canton": "Genève",
+      "visit_date_fr": "3 juillet 2025",
+      "saving_chf": 90
     },
     {
       "etab_name": "Les Cliniques Matignon",

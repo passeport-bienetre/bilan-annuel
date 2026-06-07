@@ -5,9 +5,9 @@
     "end": "7 juin 2026"
   },
   "stats": {
-    "visites_total": 3,
-    "etabs_uniques": 3,
-    "economies_chf": 270
+    "visites_total": 4,
+    "etabs_uniques": 4,
+    "economies_chf": 370
   },
   "visites": [
     {
@@ -27,6 +27,15 @@
       "canton": "Valais",
       "visit_date_fr": "28 juillet 2025",
       "saving_chf": 85
+    },
+    {
+      "etab_name": "W Verbier",
+      "etab_slug": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/_default.jpg",
+      "etab_url_public": null,
+      "canton": "Valais",
+      "visit_date_fr": "14 novembre 2025",
+      "saving_chf": 100
     },
     {
       "etab_name": "SPA BY CLARINS - HÔTEL MONT-BLANC CHAMONIX",
