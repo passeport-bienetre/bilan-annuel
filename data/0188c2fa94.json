@@ -1,13 +1,13 @@
 {
   "name": "TATIANA",
   "window": {
-    "start": "6 juin 2025",
-    "end": "6 juin 2026"
+    "start": "7 juin 2025",
+    "end": "7 juin 2026"
   },
   "stats": {
-    "visites_total": 9,
-    "etabs_uniques": 9,
-    "economies_chf": 790
+    "visites_total": 10,
+    "etabs_uniques": 10,
+    "economies_chf": 845
   },
   "visites": [
     {
@@ -18,6 +18,15 @@
       "canton": "Vaud",
       "visit_date_fr": "27 juin 2025",
       "saving_chf": 125
+    },
+    {
+      "etab_name": "LES FITNESS HARMONY",
+      "etab_slug": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-fitness-harmony--eaux-vives.jpg",
+      "etab_url_public": null,
+      "canton": " ",
+      "visit_date_fr": "21 juillet 2025",
+      "saving_chf": 55
     },
     {
       "etab_name": "Corps Sains",

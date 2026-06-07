@@ -1,13 +1,13 @@
 {
   "name": "Ingrid",
   "window": {
-    "start": "6 juin 2025",
-    "end": "6 juin 2026"
+    "start": "7 juin 2025",
+    "end": "7 juin 2026"
   },
   "stats": {
-    "visites_total": 2,
-    "etabs_uniques": 2,
-    "economies_chf": 155
+    "visites_total": 3,
+    "etabs_uniques": 3,
+    "economies_chf": 235
   },
   "visites": [
     {
@@ -18,6 +18,15 @@
       "canton": "Genève",
       "visit_date_fr": "15 juillet 2025",
       "saving_chf": 90
+    },
+    {
+      "etab_name": "LE CENTRE GENÈVE BY CHARLINE",
+      "etab_slug": "le-centre-geneve-by-charline",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-centre-geneve-by-charline.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/",
+      "canton": "Genève",
+      "visit_date_fr": "22 avril 2026",
+      "saving_chf": 80
     },
     {
       "etab_name": "BLISS",
