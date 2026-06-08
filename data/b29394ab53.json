@@ -1,0 +1,95 @@
+{
+  "name": "Alexandra",
+  "window": {
+    "start": "8 juin 2025",
+    "end": "8 juin 2026"
+  },
+  "stats": {
+    "visites_total": 9,
+    "etabs_uniques": 9,
+    "economies_chf": 797
+  },
+  "visites": [
+    {
+      "etab_name": "Akyado Genève Centre",
+      "etab_slug": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/_default.jpg",
+      "etab_url_public": null,
+      "canton": "Genève",
+      "visit_date_fr": "14 juillet 2025",
+      "saving_chf": 60
+    },
+    {
+      "etab_name": "Experimental Chalet",
+      "etab_slug": "experimental-chalet",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/experimental-chalet.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/experimental-chalet/",
+      "canton": "Valais",
+      "visit_date_fr": "2 août 2025",
+      "saving_chf": 100
+    },
+    {
+      "etab_name": "Institut Guinot",
+      "etab_slug": "institut-guinot-2",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-guinot-2.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
+      "canton": "Vaud",
+      "visit_date_fr": "1 septembre 2025",
+      "saving_chf": 115
+    },
+    {
+      "etab_name": "Swiss Aesthetica",
+      "etab_slug": "swiss-aesthetica",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/swiss-aesthetica.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/swiss-aesthetica/",
+      "canton": "Vaud",
+      "visit_date_fr": "23 décembre 2025",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "JOIA LAUSANNE",
+      "etab_slug": "joia-lausanne",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/joia-lausanne.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/joia-lausanne/",
+      "canton": "Vaud",
+      "visit_date_fr": "11 mars 2026",
+      "saving_chf": 125
+    },
+    {
+      "etab_name": "Espace Beauté Sarah",
+      "etab_slug": "espace-beaute-sarah",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/espace-beaute-sarah.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/espace-beaute-sarah/",
+      "canton": "Vaud",
+      "visit_date_fr": "8 avril 2026",
+      "saving_chf": 50
+    },
+    {
+      "etab_name": "Namasté",
+      "etab_slug": "namaste",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/namaste.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/namaste/",
+      "canton": "Vaud",
+      "visit_date_fr": "14 avril 2026",
+      "saving_chf": 52
+    },
+    {
+      "etab_name": "Royal Savoy Hôtel & Spa",
+      "etab_slug": "royal-savoy-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/royal-savoy-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
+      "canton": "Vaud",
+      "visit_date_fr": "22 avril 2026",
+      "saving_chf": 120
+    },
+    {
+      "etab_name": "LA MAISON VALMONT – BONGENIE",
+      "etab_slug": "la-maison-valmont-lausanne",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-maison-valmont-lausanne.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/la-maison-valmont-lausanne/",
+      "canton": "Vaud",
+      "visit_date_fr": "19 mai 2026",
+      "saving_chf": 95
+    }
+  ]
+}

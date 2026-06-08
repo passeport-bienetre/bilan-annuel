@@ -1,0 +1,95 @@
+{
+  "name": "Akhilesh",
+  "window": {
+    "start": "8 juin 2025",
+    "end": "8 juin 2026"
+  },
+  "stats": {
+    "visites_total": 9,
+    "etabs_uniques": 9,
+    "economies_chf": 819
+  },
+  "visites": [
+    {
+      "etab_name": "Lausanne Palace & Spa",
+      "etab_slug": "lausanne-palace-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/lausanne-palace-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
+      "canton": "Vaud",
+      "visit_date_fr": "10 juillet 2025",
+      "saving_chf": 130
+    },
+    {
+      "etab_name": "Arte Beauty Lutry",
+      "etab_slug": "arte-beauty-lutry",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-lutry.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
+      "canton": "Vaud",
+      "visit_date_fr": "11 septembre 2025",
+      "saving_chf": 125
+    },
+    {
+      "etab_name": "Arte Beauty EPFL",
+      "etab_slug": "arte-beauty-epfl",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-epfl.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/",
+      "canton": "Vaud",
+      "visit_date_fr": "31 octobre 2025",
+      "saving_chf": 125
+    },
+    {
+      "etab_name": "1er Acte Coiffure",
+      "etab_slug": "1er-acte-coiffure",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
+      "canton": "Vaud",
+      "visit_date_fr": "12 décembre 2025",
+      "saving_chf": 70
+    },
+    {
+      "etab_name": "Le Grand Bellevue",
+      "etab_slug": "le-grand-bellevue",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-grand-bellevue.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-grand-bellevue/",
+      "canton": "Berne",
+      "visit_date_fr": "23 décembre 2025",
+      "saving_chf": 120
+    },
+    {
+      "etab_name": "Salon Privé Chailly",
+      "etab_slug": "salon-prive-chailly",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive-chailly.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/salon-prive-chailly/",
+      "canton": "Vaud",
+      "visit_date_fr": "5 janvier 2026",
+      "saving_chf": 62
+    },
+    {
+      "etab_name": "Salon Privé Ecublens",
+      "etab_slug": "salon-prive-ecublens",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive-ecublens.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/salon-prive-ecublens/",
+      "canton": "Vaud",
+      "visit_date_fr": "27 mars 2026",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "LES BAINS PUBLICS",
+      "etab_slug": "les-bains-publics",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-bains-publics.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/les-bains-publics/",
+      "canton": "Valais",
+      "visit_date_fr": "16 mai 2026",
+      "saving_chf": 45
+    },
+    {
+      "etab_name": "Salon Privé Gare",
+      "etab_slug": "salon-prive",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/salon-prive/",
+      "canton": "Vaud",
+      "visit_date_fr": "22 mai 2026",
+      "saving_chf": 62
+    }
+  ]
+}

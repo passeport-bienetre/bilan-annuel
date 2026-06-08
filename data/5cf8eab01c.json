@@ -1,0 +1,68 @@
+{
+  "name": "Christine",
+  "window": {
+    "start": "8 juin 2025",
+    "end": "8 juin 2026"
+  },
+  "stats": {
+    "visites_total": 6,
+    "etabs_uniques": 6,
+    "economies_chf": 648
+  },
+  "visites": [
+    {
+      "etab_name": "Fjacco Coiffure",
+      "etab_slug": "fjacco-coiffure",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/fjacco-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/fjacco-coiffure/",
+      "canton": "Fribourg",
+      "visit_date_fr": "10 juillet 2025",
+      "saving_chf": 58
+    },
+    {
+      "etab_name": "Vogue La Coiffure",
+      "etab_slug": "vogue-la-coiffure",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/vogue-la-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/vogue-la-coiffure/",
+      "canton": null,
+      "visit_date_fr": "2 octobre 2025",
+      "saving_chf": 100
+    },
+    {
+      "etab_name": "Le Mirador Resort & Spa",
+      "etab_slug": "le-mirador-resort-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
+      "canton": "Vaud",
+      "visit_date_fr": "26 novembre 2025",
+      "saving_chf": 120
+    },
+    {
+      "etab_name": "Urban Spa",
+      "etab_slug": "urban-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/urban-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/urban-spa/",
+      "canton": "Fribourg",
+      "visit_date_fr": "30 décembre 2025",
+      "saving_chf": 90
+    },
+    {
+      "etab_name": "Le Grand Bellevue",
+      "etab_slug": "le-grand-bellevue",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-grand-bellevue.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-grand-bellevue/",
+      "canton": "Berne",
+      "visit_date_fr": "26 février 2026",
+      "saving_chf": 120
+    },
+    {
+      "etab_name": "Chalet Royalp Hôtel & Spa",
+      "etab_slug": "chalet-royalp-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
+      "canton": "Vaud",
+      "visit_date_fr": "2 avril 2026",
+      "saving_chf": 160
+    }
+  ]
+}

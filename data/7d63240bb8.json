@@ -1,0 +1,59 @@
+{
+  "name": "Sophie",
+  "window": {
+    "start": "8 juin 2025",
+    "end": "8 juin 2026"
+  },
+  "stats": {
+    "visites_total": 5,
+    "etabs_uniques": 5,
+    "economies_chf": 478
+  },
+  "visites": [
+    {
+      "etab_name": "Le Mirador Resort & Spa",
+      "etab_slug": "le-mirador-resort-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
+      "canton": "Vaud",
+      "visit_date_fr": "10 juillet 2025",
+      "saving_chf": 120
+    },
+    {
+      "etab_name": "Maison Perle",
+      "etab_slug": "maison-perle",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-perle.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/maison-perle/",
+      "canton": "Vaud",
+      "visit_date_fr": "17 juillet 2025",
+      "saving_chf": 70
+    },
+    {
+      "etab_name": "Flaventino coiffure Aubonne",
+      "etab_slug": "flaventino-coiffure-aubonne",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/flaventino-coiffure-aubonne.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/flaventino-coiffure-aubonne/",
+      "canton": "Vaud",
+      "visit_date_fr": "19 septembre 2025",
+      "saving_chf": 58
+    },
+    {
+      "etab_name": "Royal Savoy Hôtel & Spa",
+      "etab_slug": "royal-savoy-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/royal-savoy-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
+      "canton": "Vaud",
+      "visit_date_fr": "11 février 2026",
+      "saving_chf": 120
+    },
+    {
+      "etab_name": "Hôtel Schweizerhof Bern & Spa",
+      "etab_slug": "schweizerhof-bern-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/schweizerhof-bern-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/schweizerhof-bern-hotel-spa/",
+      "canton": "Berne",
+      "visit_date_fr": "16 avril 2026",
+      "saving_chf": 110
+    }
+  ]
+}
