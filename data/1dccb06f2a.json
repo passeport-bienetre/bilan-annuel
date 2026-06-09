@@ -1,0 +1,50 @@
+{
+  "name": "Nadia",
+  "window": {
+    "start": "9 juin 2025",
+    "end": "9 juin 2026"
+  },
+  "stats": {
+    "visites_total": 4,
+    "etabs_uniques": 4,
+    "economies_chf": 333
+  },
+  "visites": [
+    {
+      "etab_name": "Institut Guinot",
+      "etab_slug": "institut-guinot-2",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-guinot-2.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
+      "canton": "Vaud",
+      "visit_date_fr": "11 juillet 2025",
+      "saving_chf": 115
+    },
+    {
+      "etab_name": "Nirvana Spa",
+      "etab_slug": null,
+      "etab_photo_url": "https://nirvana-privatespa.ch/wp-content/uploads/SPA-privatif-nirvana-1.jpg",
+      "etab_url_public": null,
+      "canton": " ",
+      "visit_date_fr": "24 octobre 2025",
+      "saving_chf": 70
+    },
+    {
+      "etab_name": "Flaventino coiffure Aubonne",
+      "etab_slug": "flaventino-coiffure-aubonne",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/flaventino-coiffure-aubonne.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/flaventino-coiffure-aubonne/",
+      "canton": "Vaud",
+      "visit_date_fr": "19 décembre 2025",
+      "saving_chf": 58
+    },
+    {
+      "etab_name": "Hôtel Intercontinental Spa 5 Mondes",
+      "etab_slug": "hotel-intercontinental-spa-5-mondes",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-intercontinental-spa-5-mondes.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/",
+      "canton": "Genève",
+      "visit_date_fr": "9 janvier 2026",
+      "saving_chf": 90
+    }
+  ]
+}

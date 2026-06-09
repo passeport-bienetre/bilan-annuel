@@ -1,0 +1,23 @@
+{
+  "name": "Laura",
+  "window": {
+    "start": "9 juin 2025",
+    "end": "9 juin 2026"
+  },
+  "stats": {
+    "visites_total": 1,
+    "etabs_uniques": 1,
+    "economies_chf": 70
+  },
+  "visites": [
+    {
+      "etab_name": "Guinot Art of Beauty",
+      "etab_slug": "guinot-art-of-beauty",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/guinot-art-of-beauty.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/guinot-art-of-beauty/",
+      "canton": "Genève",
+      "visit_date_fr": "11 juillet 2025",
+      "saving_chf": 70
+    }
+  ]
+}
