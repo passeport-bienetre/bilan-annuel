@@ -1,13 +1,13 @@
 {
   "name": "Ceylan",
   "window": {
-    "start": "9 juin 2025",
-    "end": "9 juin 2026"
+    "start": "10 juin 2025",
+    "end": "10 juin 2026"
   },
   "stats": {
-    "visites_total": 4,
-    "etabs_uniques": 4,
-    "economies_chf": 445
+    "visites_total": 5,
+    "etabs_uniques": 5,
+    "economies_chf": 570
   },
   "visites": [
     {
@@ -45,6 +45,15 @@
       "canton": "Vaud",
       "visit_date_fr": "2 avril 2026",
       "saving_chf": 115
+    },
+    {
+      "etab_name": "Arte Beauty Lutry",
+      "etab_slug": "arte-beauty-lutry",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-lutry.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
+      "canton": "Vaud",
+      "visit_date_fr": "9 juin 2026",
+      "saving_chf": 125
     }
   ]
 }

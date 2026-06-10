@@ -1,13 +1,13 @@
 {
   "name": "sarah",
   "window": {
-    "start": "9 juin 2025",
-    "end": "9 juin 2026"
+    "start": "10 juin 2025",
+    "end": "10 juin 2026"
   },
   "stats": {
-    "visites_total": 11,
-    "etabs_uniques": 11,
-    "economies_chf": 874
+    "visites_total": 12,
+    "etabs_uniques": 12,
+    "economies_chf": 999
   },
   "visites": [
     {
@@ -107,6 +107,15 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-ehl/",
       "canton": null,
       "visit_date_fr": "13 avril 2026",
+      "saving_chf": 125
+    },
+    {
+      "etab_name": "Arte Beauty EPFL",
+      "etab_slug": "arte-beauty-epfl",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-epfl.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/",
+      "canton": "Vaud",
+      "visit_date_fr": "9 juin 2026",
       "saving_chf": 125
     }
   ]

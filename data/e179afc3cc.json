@@ -1,5 +1,5 @@
 {
-  "name": "Frédérique",
+  "name": "Dunia",
   "window": {
     "start": "10 juin 2025",
     "end": "10 juin 2026"
@@ -7,25 +7,25 @@
   "stats": {
     "visites_total": 2,
     "etabs_uniques": 2,
-    "economies_chf": 180
+    "economies_chf": 250
   },
   "visites": [
-    {
-      "etab_name": "LES FITNESS HARMONY",
-      "etab_slug": null,
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-fitness-harmony--veyrier.jpg",
-      "etab_url_public": null,
-      "canton": " ",
-      "visit_date_fr": "25 juin 2025",
-      "saving_chf": 55
-    },
     {
       "etab_name": "Arte Beauty Lutry",
       "etab_slug": "arte-beauty-lutry",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-lutry.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
       "canton": "Vaud",
-      "visit_date_fr": "13 août 2025",
+      "visit_date_fr": "12 juillet 2025",
+      "saving_chf": 125
+    },
+    {
+      "etab_name": "Arte Beauty EPFL",
+      "etab_slug": "arte-beauty-epfl",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-epfl.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/",
+      "canton": "Vaud",
+      "visit_date_fr": "4 octobre 2025",
       "saving_chf": 125
     }
   ]

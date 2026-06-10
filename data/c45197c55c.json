@@ -1,13 +1,13 @@
 {
-  "name": "Rafaëla",
+  "name": "Vanessa",
   "window": {
     "start": "10 juin 2025",
     "end": "10 juin 2026"
   },
   "stats": {
-    "visites_total": 2,
-    "etabs_uniques": 2,
-    "economies_chf": 178
+    "visites_total": 3,
+    "etabs_uniques": 3,
+    "economies_chf": 253
   },
   "visites": [
     {
@@ -16,7 +16,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/nail-cafe.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/nail-cafe/",
       "canton": "Vaud",
-      "visit_date_fr": "27 juin 2025",
+      "visit_date_fr": "12 juillet 2025",
       "saving_chf": 58
     },
     {
@@ -25,8 +25,17 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
       "canton": "Vaud",
-      "visit_date_fr": "6 mars 2026",
+      "visit_date_fr": "14 juillet 2025",
       "saving_chf": 120
+    },
+    {
+      "etab_name": "Amiia Clinique",
+      "etab_slug": "amiia-clinique",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/amiia-clinique.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/amiia-clinique/",
+      "canton": null,
+      "visit_date_fr": "25 juillet 2025",
+      "saving_chf": 75
     }
   ]
 }
