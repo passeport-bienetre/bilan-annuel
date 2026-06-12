@@ -1,13 +1,13 @@
 {
   "name": "Alexandra",
   "window": {
-    "start": "11 juin 2025",
-    "end": "11 juin 2026"
+    "start": "12 juin 2025",
+    "end": "12 juin 2026"
   },
   "stats": {
-    "visites_total": 9,
-    "etabs_uniques": 9,
-    "economies_chf": 737
+    "visites_total": 10,
+    "etabs_uniques": 10,
+    "economies_chf": 807
   },
   "visites": [
     {
@@ -90,6 +90,15 @@
       "canton": "Genève",
       "visit_date_fr": "28 mars 2026",
       "saving_chf": 140
+    },
+    {
+      "etab_name": "SUBLIMEYES",
+      "etab_slug": "institut-sublimeyes",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-sublimeyes.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-sublimeyes/",
+      "canton": "Genève",
+      "visit_date_fr": "11 juin 2026",
+      "saving_chf": 70
     }
   ]
 }

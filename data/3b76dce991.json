@@ -1,0 +1,104 @@
+{
+  "name": "Marie-Claude",
+  "window": {
+    "start": "12 juin 2025",
+    "end": "12 juin 2026"
+  },
+  "stats": {
+    "visites_total": 10,
+    "etabs_uniques": 10,
+    "economies_chf": 818
+  },
+  "visites": [
+    {
+      "etab_name": "EVERNESS <br>Hôtel & Resort",
+      "etab_slug": "everness-resort",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/everness-resort.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/everness-resort/",
+      "canton": "Vaud",
+      "visit_date_fr": "16 juillet 2025",
+      "saving_chf": 85
+    },
+    {
+      "etab_name": "Institut Bienitude & Bienitude Natura",
+      "etab_slug": "institut-bienitude-bienitude-natura",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-bienitude-bienitude-natura.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-bienitude-bienitude-natura/",
+      "canton": "Vaud",
+      "visit_date_fr": "13 août 2025",
+      "saving_chf": 62
+    },
+    {
+      "etab_name": "Institut Guinot",
+      "etab_slug": "institut-guinot-2",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-guinot-2.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
+      "canton": "Vaud",
+      "visit_date_fr": "11 octobre 2025",
+      "saving_chf": 115
+    },
+    {
+      "etab_name": "Nirvana Spa",
+      "etab_slug": null,
+      "etab_photo_url": "https://nirvana-privatespa.ch/wp-content/uploads/SPA-privatif-nirvana-1.jpg",
+      "etab_url_public": null,
+      "canton": " ",
+      "visit_date_fr": "20 novembre 2025",
+      "saving_chf": 70
+    },
+    {
+      "etab_name": "Signature Coiffure",
+      "etab_slug": "signature-coiffure",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/signature-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/signature-coiffure/",
+      "canton": "Vaud",
+      "visit_date_fr": "4 décembre 2025",
+      "saving_chf": 58
+    },
+    {
+      "etab_name": "Lausanne Palace & Spa",
+      "etab_slug": "lausanne-palace-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/lausanne-palace-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
+      "canton": "Vaud",
+      "visit_date_fr": "15 janvier 2026",
+      "saving_chf": 130
+    },
+    {
+      "etab_name": "Serenityblue",
+      "etab_slug": "serenityblue",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/serenityblue.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/serenityblue/",
+      "canton": "Neuchâtel",
+      "visit_date_fr": "14 février 2026",
+      "saving_chf": 60
+    },
+    {
+      "etab_name": "RUBIS SPA",
+      "etab_slug": "rubis-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/rubis-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/rubis-spa/",
+      "canton": "Vaud",
+      "visit_date_fr": "15 avril 2026",
+      "saving_chf": 121
+    },
+    {
+      "etab_name": "Nueva Luna Yoga",
+      "etab_slug": "nueva-luna-yoga",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/nueva-luna-yoga.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/nueva-luna-yoga/",
+      "canton": "Vaud",
+      "visit_date_fr": "6 mai 2026",
+      "saving_chf": 60
+    },
+    {
+      "etab_name": "Tempête de Calme",
+      "etab_slug": "tempete-de-calme",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/tempete-de-calme.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/tempete-de-calme/",
+      "canton": "Vaud",
+      "visit_date_fr": "15 mai 2026",
+      "saving_chf": 57
+    }
+  ]
+}

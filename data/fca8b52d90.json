@@ -1,13 +1,13 @@
 {
   "name": "Michèle",
   "window": {
-    "start": "11 juin 2025",
-    "end": "11 juin 2026"
+    "start": "12 juin 2025",
+    "end": "12 juin 2026"
   },
   "stats": {
-    "visites_total": 9,
-    "etabs_uniques": 9,
-    "economies_chf": 585
+    "visites_total": 10,
+    "etabs_uniques": 10,
+    "economies_chf": 645
   },
   "visites": [
     {
@@ -90,6 +90,15 @@
       "canton": "Vaud",
       "visit_date_fr": "29 avril 2026",
       "saving_chf": 85
+    },
+    {
+      "etab_name": "CJ Coiffure",
+      "etab_slug": "cj-coiffure",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/cj-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/cj-coiffure/",
+      "canton": "Vaud",
+      "visit_date_fr": "11 juin 2026",
+      "saving_chf": 60
     }
   ]
 }
