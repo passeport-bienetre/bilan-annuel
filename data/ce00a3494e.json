@@ -1,0 +1,41 @@
+{
+  "name": "Melanie",
+  "window": {
+    "start": "13 juin 2025",
+    "end": "13 juin 2026"
+  },
+  "stats": {
+    "visites_total": 3,
+    "etabs_uniques": 3,
+    "economies_chf": 273
+  },
+  "visites": [
+    {
+      "etab_name": "Arte Beauty EPFL",
+      "etab_slug": "arte-beauty-epfl",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-epfl.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/",
+      "canton": "Vaud",
+      "visit_date_fr": "2 octobre 2025",
+      "saving_chf": 125
+    },
+    {
+      "etab_name": "Les Cliniques Matignon",
+      "etab_slug": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-cliniques-matignon--geneve.jpg",
+      "etab_url_public": null,
+      "canton": " ",
+      "visit_date_fr": "9 octobre 2025",
+      "saving_chf": 90
+    },
+    {
+      "etab_name": "Nail Café",
+      "etab_slug": "nail-cafe",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/nail-cafe.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/nail-cafe/",
+      "canton": "Vaud",
+      "visit_date_fr": "22 octobre 2025",
+      "saving_chf": 58
+    }
+  ]
+}

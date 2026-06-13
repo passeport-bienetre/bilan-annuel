@@ -1,0 +1,32 @@
+{
+  "name": "Monica",
+  "window": {
+    "start": "13 juin 2025",
+    "end": "13 juin 2026"
+  },
+  "stats": {
+    "visites_total": 2,
+    "etabs_uniques": 2,
+    "economies_chf": 138
+  },
+  "visites": [
+    {
+      "etab_name": "SAKURA LAB",
+      "etab_slug": "sakura-lab",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/sakura-lab.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/sakura-lab/",
+      "canton": "Genève",
+      "visit_date_fr": "15 juillet 2025",
+      "saving_chf": 68
+    },
+    {
+      "etab_name": "Origin Float Spa",
+      "etab_slug": "origin-float-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/origin-float-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/origin-float-spa/",
+      "canton": "Genève",
+      "visit_date_fr": "28 février 2026",
+      "saving_chf": 70
+    }
+  ]
+}

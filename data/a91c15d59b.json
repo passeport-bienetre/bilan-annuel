@@ -1,0 +1,104 @@
+{
+  "name": "Soma",
+  "window": {
+    "start": "13 juin 2025",
+    "end": "13 juin 2026"
+  },
+  "stats": {
+    "visites_total": 10,
+    "etabs_uniques": 10,
+    "economies_chf": 740
+  },
+  "visites": [
+    {
+      "etab_name": "Nail Café",
+      "etab_slug": "nail-cafe",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/nail-cafe.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/nail-cafe/",
+      "canton": "Vaud",
+      "visit_date_fr": "23 juillet 2025",
+      "saving_chf": 58
+    },
+    {
+      "etab_name": "Karré Long",
+      "etab_slug": "karre-long-3",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/karre-long-3.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/karre-long-3/",
+      "canton": "Vaud",
+      "visit_date_fr": "21 août 2025",
+      "saving_chf": 40
+    },
+    {
+      "etab_name": "VAGHEGGI Phyto Space Lausanne",
+      "etab_slug": null,
+      "etab_photo_url": "https://phytospace.ch/wp-content/uploads/2023/12/1-1024x1024.webp",
+      "etab_url_public": null,
+      "canton": "Vaud",
+      "visit_date_fr": "25 septembre 2025",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "Swiss Aesthetica",
+      "etab_slug": "swiss-aesthetica",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/swiss-aesthetica.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/swiss-aesthetica/",
+      "canton": "Vaud",
+      "visit_date_fr": "21 octobre 2025",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "Arte Beauty EPFL",
+      "etab_slug": "arte-beauty-epfl",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-epfl.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/",
+      "canton": "Vaud",
+      "visit_date_fr": "14 novembre 2025",
+      "saving_chf": 125
+    },
+    {
+      "etab_name": "Espace Beauté Sarah",
+      "etab_slug": "espace-beaute-sarah",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/espace-beaute-sarah.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/espace-beaute-sarah/",
+      "canton": "Vaud",
+      "visit_date_fr": "12 décembre 2025",
+      "saving_chf": 50
+    },
+    {
+      "etab_name": "Arte Beauty Lutry",
+      "etab_slug": "arte-beauty-lutry",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-lutry.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
+      "canton": "Vaud",
+      "visit_date_fr": "12 janvier 2026",
+      "saving_chf": 125
+    },
+    {
+      "etab_name": "Salon Privé Ecublens",
+      "etab_slug": "salon-prive-ecublens",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive-ecublens.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/salon-prive-ecublens/",
+      "canton": "Vaud",
+      "visit_date_fr": "20 janvier 2026",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "Salon Privé Gare",
+      "etab_slug": "salon-prive",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/salon-prive/",
+      "canton": "Vaud",
+      "visit_date_fr": "20 mars 2026",
+      "saving_chf": 62
+    },
+    {
+      "etab_name": "Institut ZenSkin",
+      "etab_slug": "institut-fs",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-fs.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-fs/",
+      "canton": "Vaud",
+      "visit_date_fr": "31 mars 2026",
+      "saving_chf": 40
+    }
+  ]
+}
