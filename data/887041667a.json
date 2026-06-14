@@ -1,0 +1,50 @@
+{
+  "name": "Fanny",
+  "window": {
+    "start": "14 juin 2025",
+    "end": "14 juin 2026"
+  },
+  "stats": {
+    "visites_total": 4,
+    "etabs_uniques": 4,
+    "economies_chf": 505
+  },
+  "visites": [
+    {
+      "etab_name": "Chalet Royalp Hôtel & Spa",
+      "etab_slug": "chalet-royalp-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
+      "canton": "Vaud",
+      "visit_date_fr": "18 juillet 2025",
+      "saving_chf": 160
+    },
+    {
+      "etab_name": "W Verbier",
+      "etab_slug": null,
+      "etab_photo_url": "https://www.spa-wverbier.com/resourcefiles/homeimages/le-spa-new-pool.jpg",
+      "etab_url_public": null,
+      "canton": "Valais",
+      "visit_date_fr": "17 octobre 2025",
+      "saving_chf": 100
+    },
+    {
+      "etab_name": "Arte Beauty Lutry",
+      "etab_slug": "arte-beauty-lutry",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-lutry.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
+      "canton": "Vaud",
+      "visit_date_fr": "26 février 2026",
+      "saving_chf": 125
+    },
+    {
+      "etab_name": "Le Mirador Resort & Spa",
+      "etab_slug": "le-mirador-resort-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
+      "canton": "Vaud",
+      "visit_date_fr": "30 avril 2026",
+      "saving_chf": 120
+    }
+  ]
+}

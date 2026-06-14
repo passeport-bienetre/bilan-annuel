@@ -1,13 +1,13 @@
 {
   "name": "David",
   "window": {
-    "start": "13 juin 2025",
-    "end": "13 juin 2026"
+    "start": "14 juin 2025",
+    "end": "14 juin 2026"
   },
   "stats": {
-    "visites_total": 3,
-    "etabs_uniques": 3,
-    "economies_chf": 265
+    "visites_total": 4,
+    "etabs_uniques": 4,
+    "economies_chf": 345
   },
   "visites": [
     {
@@ -36,6 +36,15 @@
       "canton": null,
       "visit_date_fr": "14 mars 2026",
       "saving_chf": 85
+    },
+    {
+      "etab_name": "LES TRESOMS",
+      "etab_slug": "les-tresoms-2",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-tresoms-2.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/les-tresoms-2/",
+      "canton": null,
+      "visit_date_fr": "13 juin 2026",
+      "saving_chf": 80
     }
   ]
 }

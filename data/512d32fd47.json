@@ -1,13 +1,13 @@
 {
   "name": "Virginie",
   "window": {
-    "start": "13 juin 2025",
-    "end": "13 juin 2026"
+    "start": "14 juin 2025",
+    "end": "14 juin 2026"
   },
   "stats": {
-    "visites_total": 10,
-    "etabs_uniques": 10,
-    "economies_chf": 830
+    "visites_total": 11,
+    "etabs_uniques": 11,
+    "economies_chf": 910
   },
   "visites": [
     {
@@ -99,6 +99,15 @@
       "canton": "Genève",
       "visit_date_fr": "9 mai 2026",
       "saving_chf": 100
+    },
+    {
+      "etab_name": "EUPHORIA & BEAUTY STUDIO",
+      "etab_slug": "euphoria-beauty-studio",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/euphoria-beauty-studio.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/euphoria-beauty-studio/",
+      "canton": "Genève",
+      "visit_date_fr": "13 juin 2026",
+      "saving_chf": 80
     }
   ]
 }
