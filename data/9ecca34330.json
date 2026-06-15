@@ -1,0 +1,41 @@
+{
+  "name": "Patricia",
+  "window": {
+    "start": "15 juin 2025",
+    "end": "15 juin 2026"
+  },
+  "stats": {
+    "visites_total": 3,
+    "etabs_uniques": 3,
+    "economies_chf": 325
+  },
+  "visites": [
+    {
+      "etab_name": "Amiia Clinique",
+      "etab_slug": "amiia-clinique",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/amiia-clinique.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/amiia-clinique/",
+      "canton": null,
+      "visit_date_fr": "17 juillet 2025",
+      "saving_chf": 75
+    },
+    {
+      "etab_name": "Arte Beauty EPFL",
+      "etab_slug": "arte-beauty-epfl",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-epfl.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/",
+      "canton": "Vaud",
+      "visit_date_fr": "10 septembre 2025",
+      "saving_chf": 125
+    },
+    {
+      "etab_name": "Arte Beauty EHL",
+      "etab_slug": "arte-beauty-ehl",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-ehl.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-ehl/",
+      "canton": null,
+      "visit_date_fr": "5 juin 2026",
+      "saving_chf": 125
+    }
+  ]
+}

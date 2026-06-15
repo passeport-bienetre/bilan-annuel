@@ -1,0 +1,50 @@
+{
+  "name": "Melissa",
+  "window": {
+    "start": "15 juin 2025",
+    "end": "15 juin 2026"
+  },
+  "stats": {
+    "visites_total": 4,
+    "etabs_uniques": 4,
+    "economies_chf": 300
+  },
+  "visites": [
+    {
+      "etab_name": "19Th Avenue – Thonex",
+      "etab_slug": null,
+      "etab_photo_url": "https://images.squarespace-cdn.com/content/v1/56308bffe4b054f055c2cd74/1730372267345-Y6GRT98MI3NC646RTJ9B/3.png?format=2500w",
+      "etab_url_public": null,
+      "canton": "Genève",
+      "visit_date_fr": "19 juillet 2025",
+      "saving_chf": 90
+    },
+    {
+      "etab_name": "EUPHORIA & BEAUTY STUDIO",
+      "etab_slug": "euphoria-beauty-studio",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/euphoria-beauty-studio.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/euphoria-beauty-studio/",
+      "canton": "Genève",
+      "visit_date_fr": "13 décembre 2025",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "CJ Coiffure",
+      "etab_slug": "cj-coiffure",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/cj-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/cj-coiffure/",
+      "canton": "Vaud",
+      "visit_date_fr": "3 février 2026",
+      "saving_chf": 60
+    },
+    {
+      "etab_name": "GLOW IN GENEVA",
+      "etab_slug": "glow-in-geneva",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/glow-in-geneva.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/glow-in-geneva/",
+      "canton": "Genève",
+      "visit_date_fr": "5 juin 2026",
+      "saving_chf": 70
+    }
+  ]
+}
