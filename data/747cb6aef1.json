@@ -1,8 +1,8 @@
 {
   "name": "Benjamin",
   "window": {
-    "start": "15 juin 2025",
-    "end": "15 juin 2026"
+    "start": "16 juin 2025",
+    "end": "16 juin 2026"
   },
   "stats": {
     "visites_total": 10,
@@ -47,10 +47,10 @@
       "saving_chf": 100
     },
     {
-      "etab_name": "Le Grand Bellevue",
-      "etab_slug": "le-grand-bellevue",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-grand-bellevue.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/le-grand-bellevue/",
+      "etab_name": "Le Grand Bellevue Spa",
+      "etab_slug": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/_default.jpg",
+      "etab_url_public": null,
       "canton": "Berne",
       "visit_date_fr": "11 septembre 2025",
       "saving_chf": 120
