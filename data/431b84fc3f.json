@@ -1,13 +1,13 @@
 {
   "name": "Natacha",
   "window": {
-    "start": "16 juin 2025",
-    "end": "16 juin 2026"
+    "start": "17 juin 2025",
+    "end": "17 juin 2026"
   },
   "stats": {
-    "visites_total": 2,
-    "etabs_uniques": 2,
-    "economies_chf": 195
+    "visites_total": 3,
+    "etabs_uniques": 3,
+    "economies_chf": 310
   },
   "visites": [
     {
@@ -27,6 +27,15 @@
       "canton": "Vaud",
       "visit_date_fr": "2 octobre 2025",
       "saving_chf": 125
+    },
+    {
+      "etab_name": "Institut Guinot",
+      "etab_slug": "institut-guinot-2",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-guinot-2.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
+      "canton": "Vaud",
+      "visit_date_fr": "16 juin 2026",
+      "saving_chf": 115
     }
   ]
 }

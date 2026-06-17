@@ -1,0 +1,50 @@
+{
+  "name": "Sandra",
+  "window": {
+    "start": "17 juin 2025",
+    "end": "17 juin 2026"
+  },
+  "stats": {
+    "visites_total": 4,
+    "etabs_uniques": 4,
+    "economies_chf": 305
+  },
+  "visites": [
+    {
+      "etab_name": "BORROMEO COIFFURE",
+      "etab_slug": "borromeo-coiffure",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/borromeo-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/borromeo-coiffure/",
+      "canton": "Genève",
+      "visit_date_fr": "17 janvier 2026",
+      "saving_chf": 60
+    },
+    {
+      "etab_name": "ÂM SOEURS",
+      "etab_slug": null,
+      "etab_photo_url": "https://salonkee.cloud/ch/data/3500/coverImage/n-d7z60vN2nxZXjdZD0VYjL-lg--opt",
+      "etab_url_public": null,
+      "canton": " ",
+      "visit_date_fr": "11 février 2026",
+      "saving_chf": 65
+    },
+    {
+      "etab_name": "AVEDA VIEILLE-VILLE",
+      "etab_slug": "aveda-vieille-ville",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/aveda-vieille-ville.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/aveda-vieille-ville/",
+      "canton": "Genève",
+      "visit_date_fr": "25 mars 2026",
+      "saving_chf": 100
+    },
+    {
+      "etab_name": "EUPHORIA & BEAUTY STUDIO",
+      "etab_slug": "euphoria-beauty-studio",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/euphoria-beauty-studio.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/euphoria-beauty-studio/",
+      "canton": "Genève",
+      "visit_date_fr": "12 juin 2026",
+      "saving_chf": 80
+    }
+  ]
+}

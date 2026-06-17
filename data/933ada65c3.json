@@ -1,0 +1,50 @@
+{
+  "name": "Juliette",
+  "window": {
+    "start": "17 juin 2025",
+    "end": "17 juin 2026"
+  },
+  "stats": {
+    "visites_total": 4,
+    "etabs_uniques": 4,
+    "economies_chf": 244
+  },
+  "visites": [
+    {
+      "etab_name": "Salon Privé Chailly",
+      "etab_slug": "salon-prive-chailly",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive-chailly.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/salon-prive-chailly/",
+      "canton": "Vaud",
+      "visit_date_fr": "19 juillet 2025",
+      "saving_chf": 62
+    },
+    {
+      "etab_name": "CJ Coiffure",
+      "etab_slug": "cj-coiffure",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/cj-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/cj-coiffure/",
+      "canton": "Vaud",
+      "visit_date_fr": "21 novembre 2025",
+      "saving_chf": 60
+    },
+    {
+      "etab_name": "Nueva Luna Yoga",
+      "etab_slug": "nueva-luna-yoga",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/nueva-luna-yoga.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/nueva-luna-yoga/",
+      "canton": "Vaud",
+      "visit_date_fr": "7 février 2026",
+      "saving_chf": 60
+    },
+    {
+      "etab_name": "Le Passage",
+      "etab_slug": "le-passage",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-passage.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-passage/",
+      "canton": "Vaud",
+      "visit_date_fr": "20 mars 2026",
+      "saving_chf": 62
+    }
+  ]
+}

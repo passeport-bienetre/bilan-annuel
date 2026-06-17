@@ -1,0 +1,41 @@
+{
+  "name": "Christine",
+  "window": {
+    "start": "17 juin 2025",
+    "end": "17 juin 2026"
+  },
+  "stats": {
+    "visites_total": 3,
+    "etabs_uniques": 3,
+    "economies_chf": 218
+  },
+  "visites": [
+    {
+      "etab_name": "Hairmania",
+      "etab_slug": "hairmania",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hairmania.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/hairmania/",
+      "canton": null,
+      "visit_date_fr": "19 juillet 2025",
+      "saving_chf": 40
+    },
+    {
+      "etab_name": "Le Mirador Resort & Spa",
+      "etab_slug": "le-mirador-resort-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
+      "canton": "Vaud",
+      "visit_date_fr": "30 décembre 2025",
+      "saving_chf": 120
+    },
+    {
+      "etab_name": "Tête à Clak",
+      "etab_slug": "tete-a-clak",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/tete-a-clak.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/tete-a-clak/",
+      "canton": null,
+      "visit_date_fr": "18 avril 2026",
+      "saving_chf": 58
+    }
+  ]
+}

@@ -1,13 +1,13 @@
 {
   "name": "sarah",
   "window": {
-    "start": "16 juin 2025",
-    "end": "16 juin 2026"
+    "start": "17 juin 2025",
+    "end": "17 juin 2026"
   },
   "stats": {
-    "visites_total": 12,
-    "etabs_uniques": 12,
-    "economies_chf": 999
+    "visites_total": 13,
+    "etabs_uniques": 13,
+    "economies_chf": 1079
   },
   "visites": [
     {
@@ -117,6 +117,15 @@
       "canton": "Vaud",
       "visit_date_fr": "9 juin 2026",
       "saving_chf": 125
+    },
+    {
+      "etab_name": "Salon Privé Ecublens",
+      "etab_slug": "salon-prive-ecublens",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive-ecublens.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/salon-prive-ecublens/",
+      "canton": "Vaud",
+      "visit_date_fr": "16 juin 2026",
+      "saving_chf": 80
     }
   ]
 }
