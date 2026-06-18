@@ -1,0 +1,86 @@
+{
+  "name": "Elisabete",
+  "window": {
+    "start": "18 juin 2025",
+    "end": "18 juin 2026"
+  },
+  "stats": {
+    "visites_total": 8,
+    "etabs_uniques": 8,
+    "economies_chf": 845
+  },
+  "visites": [
+    {
+      "etab_name": "KASA AMO",
+      "etab_slug": "kasa-amo",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/kasa-amo.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/kasa-amo/",
+      "canton": "Vaud",
+      "visit_date_fr": "21 juillet 2025",
+      "saving_chf": 85
+    },
+    {
+      "etab_name": "Chalet Royalp Hôtel & Spa",
+      "etab_slug": "chalet-royalp-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
+      "canton": "Vaud",
+      "visit_date_fr": "3 août 2025",
+      "saving_chf": 160
+    },
+    {
+      "etab_name": "Royal Savoy Hôtel & Spa",
+      "etab_slug": "royal-savoy-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/royal-savoy-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
+      "canton": "Vaud",
+      "visit_date_fr": "8 août 2025",
+      "saving_chf": 120
+    },
+    {
+      "etab_name": "Lausanne Palace & Spa",
+      "etab_slug": "lausanne-palace-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/lausanne-palace-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
+      "canton": "Vaud",
+      "visit_date_fr": "3 octobre 2025",
+      "saving_chf": 130
+    },
+    {
+      "etab_name": "Fairmont le Montreux Palace",
+      "etab_slug": null,
+      "etab_photo_url": "https://m.ahstatic.com/is/image/accorhotels/aja_p_6460-88:8by10?fmt=webp&wid=900&hei=1100&qlt=80",
+      "etab_url_public": null,
+      "canton": "Vaud",
+      "visit_date_fr": "24 octobre 2025",
+      "saving_chf": 100
+    },
+    {
+      "etab_name": "Hôtel de Rougemont & Spa",
+      "etab_slug": "hotel-de-rougemont-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-de-rougemont-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-de-rougemont-spa/",
+      "canton": "Berne",
+      "visit_date_fr": "25 décembre 2025",
+      "saving_chf": 90
+    },
+    {
+      "etab_name": "Hairmania",
+      "etab_slug": "hairmania",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hairmania.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/hairmania/",
+      "canton": null,
+      "visit_date_fr": "6 février 2026",
+      "saving_chf": 40
+    },
+    {
+      "etab_name": "Le Mirador Resort & Spa",
+      "etab_slug": "le-mirador-resort-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
+      "canton": "Vaud",
+      "visit_date_fr": "14 mai 2026",
+      "saving_chf": 120
+    }
+  ]
+}

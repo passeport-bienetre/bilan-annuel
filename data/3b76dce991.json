@@ -1,13 +1,13 @@
 {
   "name": "Marie-Claude",
   "window": {
-    "start": "17 juin 2025",
-    "end": "17 juin 2026"
+    "start": "18 juin 2025",
+    "end": "18 juin 2026"
   },
   "stats": {
-    "visites_total": 10,
-    "etabs_uniques": 10,
-    "economies_chf": 818
+    "visites_total": 11,
+    "etabs_uniques": 11,
+    "economies_chf": 918
   },
   "visites": [
     {
@@ -99,6 +99,15 @@
       "canton": "Vaud",
       "visit_date_fr": "15 mai 2026",
       "saving_chf": 57
+    },
+    {
+      "etab_name": "Maison B",
+      "etab_slug": "maison-b",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-b.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/maison-b/",
+      "canton": null,
+      "visit_date_fr": "17 juin 2026",
+      "saving_chf": 100
     }
   ]
 }

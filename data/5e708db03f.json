@@ -1,0 +1,86 @@
+{
+  "name": "David",
+  "window": {
+    "start": "18 juin 2025",
+    "end": "18 juin 2026"
+  },
+  "stats": {
+    "visites_total": 8,
+    "etabs_uniques": 8,
+    "economies_chf": 660
+  },
+  "visites": [
+    {
+      "etab_name": "Thai Corner",
+      "etab_slug": "thai-corner-3",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/thai-corner-3.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/thai-corner-3/",
+      "canton": "Genève",
+      "visit_date_fr": "21 juillet 2025",
+      "saving_chf": 100
+    },
+    {
+      "etab_name": "Sawatdee Delices",
+      "etab_slug": "sawatdee-delices",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/sawatdee-delices.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/sawatdee-delices/",
+      "canton": "Genève",
+      "visit_date_fr": "6 août 2025",
+      "saving_chf": 70
+    },
+    {
+      "etab_name": "Sawatdee Temple",
+      "etab_slug": "sawatdee-temple",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/sawatdee-temple.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/sawatdee-temple/",
+      "canton": "Genève",
+      "visit_date_fr": "11 septembre 2025",
+      "saving_chf": 70
+    },
+    {
+      "etab_name": "BL Institut",
+      "etab_slug": "bl-institut-2",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bl-institut-2.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bl-institut-2/",
+      "canton": "Genève",
+      "visit_date_fr": "6 novembre 2025",
+      "saving_chf": 62
+    },
+    {
+      "etab_name": "AVEDA VIEILLE-VILLE",
+      "etab_slug": "aveda-vieille-ville",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/aveda-vieille-ville.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/aveda-vieille-ville/",
+      "canton": "Genève",
+      "visit_date_fr": "8 janvier 2026",
+      "saving_chf": 100
+    },
+    {
+      "etab_name": "SAKURA LAB",
+      "etab_slug": "sakura-lab",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/sakura-lab.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/sakura-lab/",
+      "canton": "Genève",
+      "visit_date_fr": "5 mars 2026",
+      "saving_chf": 68
+    },
+    {
+      "etab_name": "Saai Nam Massage - Manor",
+      "etab_slug": "saai-nam-massage-manor",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/saai-nam-massage-manor.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/saai-nam-massage-manor/",
+      "canton": "Genève",
+      "visit_date_fr": "12 mai 2026",
+      "saving_chf": 95
+    },
+    {
+      "etab_name": "Thaiotop",
+      "etab_slug": "thaiotop-3",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/thaiotop-3.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/thaiotop-3/",
+      "canton": "Genève",
+      "visit_date_fr": "7 juin 2026",
+      "saving_chf": 95
+    }
+  ]
+}
