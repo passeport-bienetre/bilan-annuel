@@ -1,13 +1,13 @@
 {
   "name": "TATIANA",
   "window": {
-    "start": "18 juin 2025",
-    "end": "18 juin 2026"
+    "start": "19 juin 2025",
+    "end": "19 juin 2026"
   },
   "stats": {
     "visites_total": 10,
     "etabs_uniques": 10,
-    "economies_chf": 850
+    "economies_chf": 845
   },
   "visites": [
     {
@@ -22,11 +22,11 @@
     {
       "etab_name": "LES FITNESS HARMONY",
       "etab_slug": null,
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-fitness-harmony--blandonnet.jpg",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-fitness-harmony--signy.jpg",
       "etab_url_public": null,
       "canton": " ",
       "visit_date_fr": "21 juillet 2025",
-      "saving_chf": 60
+      "saving_chf": 55
     },
     {
       "etab_name": "Corps Sains",

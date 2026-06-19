@@ -1,0 +1,41 @@
+{
+  "name": "Laurence",
+  "window": {
+    "start": "19 juin 2025",
+    "end": "19 juin 2026"
+  },
+  "stats": {
+    "visites_total": 3,
+    "etabs_uniques": 3,
+    "economies_chf": 325
+  },
+  "visites": [
+    {
+      "etab_name": "VAGHEGGI Phyto Space Lausanne",
+      "etab_slug": null,
+      "etab_photo_url": "https://phytospace.ch/wp-content/uploads/2023/12/1-1024x1024.webp",
+      "etab_url_public": null,
+      "canton": "Vaud",
+      "visit_date_fr": "22 juillet 2025",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "Arte Beauty EPFL",
+      "etab_slug": "arte-beauty-epfl",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-epfl.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/",
+      "canton": "Vaud",
+      "visit_date_fr": "19 septembre 2025",
+      "saving_chf": 125
+    },
+    {
+      "etab_name": "Le Mirador Resort & Spa",
+      "etab_slug": "le-mirador-resort-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
+      "canton": "Vaud",
+      "visit_date_fr": "10 décembre 2025",
+      "saving_chf": 120
+    }
+  ]
+}

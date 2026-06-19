@@ -1,13 +1,13 @@
 {
   "name": "Cristina",
   "window": {
-    "start": "18 juin 2025",
-    "end": "18 juin 2026"
+    "start": "19 juin 2025",
+    "end": "19 juin 2026"
   },
   "stats": {
-    "visites_total": 6,
-    "etabs_uniques": 6,
-    "economies_chf": 485
+    "visites_total": 7,
+    "etabs_uniques": 7,
+    "economies_chf": 565
   },
   "visites": [
     {
@@ -63,6 +63,15 @@
       "canton": "Genève",
       "visit_date_fr": "23 mai 2026",
       "saving_chf": 100
+    },
+    {
+      "etab_name": "EUPHORIA & BEAUTY STUDIO",
+      "etab_slug": "euphoria-beauty-studio",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/euphoria-beauty-studio.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/euphoria-beauty-studio/",
+      "canton": "Genève",
+      "visit_date_fr": "18 juin 2026",
+      "saving_chf": 80
     }
   ]
 }

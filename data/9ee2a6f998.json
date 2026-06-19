@@ -1,13 +1,13 @@
 {
   "name": "Nathalie",
   "window": {
-    "start": "18 juin 2025",
-    "end": "18 juin 2026"
+    "start": "19 juin 2025",
+    "end": "19 juin 2026"
   },
   "stats": {
     "visites_total": 3,
     "etabs_uniques": 3,
-    "economies_chf": 291
+    "economies_chf": 241
   },
   "visites": [
     {
@@ -20,13 +20,13 @@
       "saving_chf": 80
     },
     {
-      "etab_name": "Chandolin Boutique Hôtel",
+      "etab_name": "CHANDOLIN BOUTIQUE HÔTEL",
       "etab_slug": "chandolin-boutique-hotel",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/",
-      "canton": "Valais",
+      "canton": null,
       "visit_date_fr": "8 avril 2026",
-      "saving_chf": 90
+      "saving_chf": 40
     },
     {
       "etab_name": "RUBIS SPA",

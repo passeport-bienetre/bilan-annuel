@@ -1,0 +1,59 @@
+{
+  "name": "Edouard",
+  "window": {
+    "start": "19 juin 2025",
+    "end": "19 juin 2026"
+  },
+  "stats": {
+    "visites_total": 5,
+    "etabs_uniques": 5,
+    "economies_chf": 345
+  },
+  "visites": [
+    {
+      "etab_name": "Thai Corner",
+      "etab_slug": "thai-corner-3",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/thai-corner-3.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/thai-corner-3/",
+      "canton": "Genève",
+      "visit_date_fr": "26 juillet 2025",
+      "saving_chf": 100
+    },
+    {
+      "etab_name": "Akyado Genève Centre",
+      "etab_slug": null,
+      "etab_photo_url": "https://cdn.prod.website-files.com/6940751abf6eb4f9555c0615/695e3d5b8983b8fddb8e892e_0K6A6193.avif",
+      "etab_url_public": null,
+      "canton": "Genève",
+      "visit_date_fr": "26 juillet 2025",
+      "saving_chf": 60
+    },
+    {
+      "etab_name": "LES FITNESS HARMONY",
+      "etab_slug": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-fitness-harmony--signy.jpg",
+      "etab_url_public": null,
+      "canton": " ",
+      "visit_date_fr": "6 novembre 2025",
+      "saving_chf": 55
+    },
+    {
+      "etab_name": "Mon Bonheur Ayurvédique",
+      "etab_slug": "mon-bonheur-ayurvedique",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/mon-bonheur-ayurvedique.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/mon-bonheur-ayurvedique/",
+      "canton": "Genève",
+      "visit_date_fr": "8 décembre 2025",
+      "saving_chf": 65
+    },
+    {
+      "etab_name": "NUANCES NATURE",
+      "etab_slug": "nuances-nature",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/nuances-nature.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/nuances-nature/",
+      "canton": "Genève",
+      "visit_date_fr": "2 avril 2026",
+      "saving_chf": 65
+    }
+  ]
+}
