@@ -1,13 +1,13 @@
 {
   "name": "Astrid",
   "window": {
-    "start": "19 juin 2025",
-    "end": "19 juin 2026"
+    "start": "20 juin 2025",
+    "end": "20 juin 2026"
   },
   "stats": {
-    "visites_total": 7,
-    "etabs_uniques": 7,
-    "economies_chf": 730
+    "visites_total": 8,
+    "etabs_uniques": 8,
+    "economies_chf": 840
   },
   "visites": [
     {
@@ -72,6 +72,15 @@
       "canton": "Vaud",
       "visit_date_fr": "10 juin 2026",
       "saving_chf": 120
+    },
+    {
+      "etab_name": "Grand Hôtel du Lac",
+      "etab_slug": "grand-hotel-du-lac",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/grand-hotel-du-lac.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/",
+      "canton": "Vaud",
+      "visit_date_fr": "19 juin 2026",
+      "saving_chf": 110
     }
   ]
 }
