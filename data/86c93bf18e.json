@@ -1,0 +1,50 @@
+{
+  "name": "Joel",
+  "window": {
+    "start": "21 juin 2025",
+    "end": "21 juin 2026"
+  },
+  "stats": {
+    "visites_total": 4,
+    "etabs_uniques": 4,
+    "economies_chf": 430
+  },
+  "visites": [
+    {
+      "etab_name": "Arte Beauty Lutry",
+      "etab_slug": "arte-beauty-lutry",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-lutry.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
+      "canton": "Vaud",
+      "visit_date_fr": "23 juillet 2025",
+      "saving_chf": 125
+    },
+    {
+      "etab_name": "Arte Beauty EPFL",
+      "etab_slug": "arte-beauty-epfl",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-epfl.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/",
+      "canton": "Vaud",
+      "visit_date_fr": "28 novembre 2025",
+      "saving_chf": 125
+    },
+    {
+      "etab_name": "Anita Coiffure",
+      "etab_slug": "anita-coiffure",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/anita-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/anita-coiffure/",
+      "canton": "Vaud",
+      "visit_date_fr": "13 février 2026",
+      "saving_chf": 55
+    },
+    {
+      "etab_name": "Arte Beauty EHL",
+      "etab_slug": "arte-beauty-ehl",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-ehl.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-ehl/",
+      "canton": null,
+      "visit_date_fr": "10 avril 2026",
+      "saving_chf": 125
+    }
+  ]
+}

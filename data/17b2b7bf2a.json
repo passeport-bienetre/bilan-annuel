@@ -1,0 +1,23 @@
+{
+  "name": "Laetitia",
+  "window": {
+    "start": "21 juin 2025",
+    "end": "21 juin 2026"
+  },
+  "stats": {
+    "visites_total": 1,
+    "etabs_uniques": 1,
+    "economies_chf": 70
+  },
+  "visites": [
+    {
+      "etab_name": "Institut Beauté d'Or",
+      "etab_slug": null,
+      "etab_photo_url": "https://le-de.cdn-website.com/08f3469a00224588bdfe20e5d2df5c77/dms3rep/multi/opt/reception-1920w.jpg",
+      "etab_url_public": null,
+      "canton": " ",
+      "visit_date_fr": "23 juillet 2025",
+      "saving_chf": 70
+    }
+  ]
+}
