@@ -1,0 +1,50 @@
+{
+  "name": "Mara",
+  "window": {
+    "start": "22 juin 2025",
+    "end": "22 juin 2026"
+  },
+  "stats": {
+    "visites_total": 4,
+    "etabs_uniques": 4,
+    "economies_chf": 425
+  },
+  "visites": [
+    {
+      "etab_name": "Chalet Royalp Hôtel & Spa",
+      "etab_slug": "chalet-royalp-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
+      "canton": "Vaud",
+      "visit_date_fr": "24 juillet 2025",
+      "saving_chf": 160
+    },
+    {
+      "etab_name": "Parallèles Coiffure",
+      "etab_slug": "paralleles-coiffure",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/paralleles-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/paralleles-coiffure/",
+      "canton": "Genève",
+      "visit_date_fr": "22 novembre 2025",
+      "saving_chf": 60
+    },
+    {
+      "etab_name": "Namaka - Centre de Longévité et Bienêtre",
+      "etab_slug": "namaka",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/namaka.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/namaka/",
+      "canton": "Genève",
+      "visit_date_fr": "14 décembre 2025",
+      "saving_chf": 65
+    },
+    {
+      "etab_name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
+      "etab_slug": "lavalleespa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/lavalleespa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/lavalleespa/",
+      "canton": "Genève",
+      "visit_date_fr": "26 décembre 2025",
+      "saving_chf": 140
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "name": "Annick",
+  "window": {
+    "start": "22 juin 2025",
+    "end": "22 juin 2026"
+  },
+  "stats": {
+    "visites_total": 7,
+    "etabs_uniques": 7,
+    "economies_chf": 542
+  },
+  "visites": [
+    {
+      "etab_name": "INSTITUT NATURALPE",
+      "etab_slug": "institut-naturalpe",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-naturalpe.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-naturalpe/",
+      "canton": "Valais",
+      "visit_date_fr": "26 août 2025",
+      "saving_chf": 65
+    },
+    {
+      "etab_name": "Salon Privé Gare",
+      "etab_slug": "salon-prive",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/salon-prive/",
+      "canton": "Vaud",
+      "visit_date_fr": "27 août 2025",
+      "saving_chf": 62
+    },
+    {
+      "etab_name": "Institut ZenSkin",
+      "etab_slug": "institut-fs",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-fs.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-fs/",
+      "canton": "Vaud",
+      "visit_date_fr": "15 octobre 2025",
+      "saving_chf": 40
+    },
+    {
+      "etab_name": "Royal Savoy Hôtel & Spa",
+      "etab_slug": "royal-savoy-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/royal-savoy-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
+      "canton": "Vaud",
+      "visit_date_fr": "27 novembre 2025",
+      "saving_chf": 120
+    },
+    {
+      "etab_name": "CJ Coiffure",
+      "etab_slug": "cj-coiffure",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/cj-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/cj-coiffure/",
+      "canton": "Vaud",
+      "visit_date_fr": "29 décembre 2025",
+      "saving_chf": 60
+    },
+    {
+      "etab_name": "LAURA COIFFEUSE PRIVÉE",
+      "etab_slug": "laura-coiffeuse-privee",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/laura-coiffeuse-privee.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/laura-coiffeuse-privee/",
+      "canton": "Vaud",
+      "visit_date_fr": "6 mai 2026",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "Institut Guinot",
+      "etab_slug": "institut-guinot-2",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-guinot-2.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
+      "canton": "Vaud",
+      "visit_date_fr": "9 juin 2026",
+      "saving_chf": 115
+    }
+  ]
+}

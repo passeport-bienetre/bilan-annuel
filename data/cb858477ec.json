@@ -1,0 +1,41 @@
+{
+  "name": "Emmanuelle",
+  "window": {
+    "start": "22 juin 2025",
+    "end": "22 juin 2026"
+  },
+  "stats": {
+    "visites_total": 3,
+    "etabs_uniques": 3,
+    "economies_chf": 280
+  },
+  "visites": [
+    {
+      "etab_name": "VAGHEGGI Phyto Space Lausanne",
+      "etab_slug": null,
+      "etab_photo_url": "https://phytospace.ch/wp-content/uploads/2023/12/1-1024x1024.webp",
+      "etab_url_public": null,
+      "canton": "Vaud",
+      "visit_date_fr": "24 juillet 2025",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "Swiss Aesthetica",
+      "etab_slug": "swiss-aesthetica",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/swiss-aesthetica.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/swiss-aesthetica/",
+      "canton": "Vaud",
+      "visit_date_fr": "30 août 2025",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "Royal Savoy Hôtel & Spa",
+      "etab_slug": "royal-savoy-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/royal-savoy-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
+      "canton": "Vaud",
+      "visit_date_fr": "22 octobre 2025",
+      "saving_chf": 120
+    }
+  ]
+}

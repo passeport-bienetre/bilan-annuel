@@ -1,0 +1,41 @@
+{
+  "name": "Véronique",
+  "window": {
+    "start": "22 juin 2025",
+    "end": "22 juin 2026"
+  },
+  "stats": {
+    "visites_total": 3,
+    "etabs_uniques": 3,
+    "economies_chf": 325
+  },
+  "visites": [
+    {
+      "etab_name": "Arte Beauty Lutry",
+      "etab_slug": "arte-beauty-lutry",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-lutry.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
+      "canton": "Vaud",
+      "visit_date_fr": "26 juillet 2025",
+      "saving_chf": 125
+    },
+    {
+      "etab_name": "Spa Baron Tavernier",
+      "etab_slug": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/baron-tavernier-spa.jpg",
+      "etab_url_public": null,
+      "canton": "Vaud",
+      "visit_date_fr": "10 septembre 2025",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "Le Mirador Resort & Spa",
+      "etab_slug": "le-mirador-resort-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
+      "canton": "Vaud",
+      "visit_date_fr": "11 décembre 2025",
+      "saving_chf": 120
+    }
+  ]
+}

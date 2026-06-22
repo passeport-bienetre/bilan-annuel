@@ -1,0 +1,41 @@
+{
+  "name": "Daniela",
+  "window": {
+    "start": "22 juin 2025",
+    "end": "22 juin 2026"
+  },
+  "stats": {
+    "visites_total": 3,
+    "etabs_uniques": 3,
+    "economies_chf": 418
+  },
+  "visites": [
+    {
+      "etab_name": "Crans Ambassador Spa",
+      "etab_slug": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/crans-ambassador-spa.jpg",
+      "etab_url_public": null,
+      "canton": "Valais",
+      "visit_date_fr": "25 juillet 2025",
+      "saving_chf": 100
+    },
+    {
+      "etab_name": "LECRANS HOTEL & SPA",
+      "etab_slug": "le-st-gervais-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-st-gervais-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-st-gervais-hotel-spa/",
+      "canton": "Valais",
+      "visit_date_fr": "6 novembre 2025",
+      "saving_chf": 85
+    },
+    {
+      "etab_name": "HÔTEL ROYAL",
+      "etab_slug": "hotel-royal",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-royal.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-royal/",
+      "canton": "Valais",
+      "visit_date_fr": "22 janvier 2026",
+      "saving_chf": 233
+    }
+  ]
+}

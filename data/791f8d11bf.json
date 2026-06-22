@@ -1,0 +1,23 @@
+{
+  "name": "Laly",
+  "window": {
+    "start": "22 juin 2025",
+    "end": "22 juin 2026"
+  },
+  "stats": {
+    "visites_total": 1,
+    "etabs_uniques": 1,
+    "economies_chf": 80
+  },
+  "visites": [
+    {
+      "etab_name": "VAGHEGGI Phyto Space Lausanne",
+      "etab_slug": null,
+      "etab_photo_url": "https://phytospace.ch/wp-content/uploads/2023/12/1-1024x1024.webp",
+      "etab_url_public": null,
+      "canton": "Vaud",
+      "visit_date_fr": "24 juillet 2025",
+      "saving_chf": 80
+    }
+  ]
+}
