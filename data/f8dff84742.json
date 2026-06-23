@@ -1,0 +1,59 @@
+{
+  "name": "Céline",
+  "window": {
+    "start": "23 juin 2025",
+    "end": "23 juin 2026"
+  },
+  "stats": {
+    "visites_total": 5,
+    "etabs_uniques": 5,
+    "economies_chf": 466
+  },
+  "visites": [
+    {
+      "etab_name": "Experimental Chalet",
+      "etab_slug": "experimental-chalet",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/experimental-chalet.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/experimental-chalet/",
+      "canton": "Valais",
+      "visit_date_fr": "2 août 2025",
+      "saving_chf": 100
+    },
+    {
+      "etab_name": "Hôtel Ermitage Spa des Quatre Terres",
+      "etab_slug": "hotel-ermitage-spa-des-quatre-terres",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-ermitage-spa-des-quatre-terres.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-ermitage-spa-des-quatre-terres/",
+      "canton": null,
+      "visit_date_fr": "15 août 2025",
+      "saving_chf": 90
+    },
+    {
+      "etab_name": "Le Lokal",
+      "etab_slug": "le-lokal",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-lokal.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-lokal/",
+      "canton": "Valais",
+      "visit_date_fr": "27 septembre 2025",
+      "saving_chf": 55
+    },
+    {
+      "etab_name": "RUBIS SPA",
+      "etab_slug": "rubis-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/rubis-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/rubis-spa/",
+      "canton": "Vaud",
+      "visit_date_fr": "29 avril 2026",
+      "saving_chf": 121
+    },
+    {
+      "etab_name": "Vogue La Coiffure",
+      "etab_slug": "vogue-la-coiffure",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/vogue-la-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/vogue-la-coiffure/",
+      "canton": null,
+      "visit_date_fr": "30 mai 2026",
+      "saving_chf": 100
+    }
+  ]
+}
