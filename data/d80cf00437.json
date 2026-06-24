@@ -1,5 +1,5 @@
 {
-  "name": "Stephanie",
+  "name": "Danielle",
   "window": {
     "start": "24 juin 2025",
     "end": "24 juin 2026"
@@ -7,17 +7,17 @@
   "stats": {
     "visites_total": 2,
     "etabs_uniques": 2,
-    "economies_chf": 280
+    "economies_chf": 230
   },
   "visites": [
     {
-      "etab_name": "Le Mirador Resort & Spa",
-      "etab_slug": "le-mirador-resort-spa",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
-      "canton": "Vaud",
-      "visit_date_fr": "23 juillet 2025",
-      "saving_chf": 120
+      "etab_name": "Nirvana Spa",
+      "etab_slug": null,
+      "etab_photo_url": "https://nirvana-privatespa.ch/wp-content/uploads/SPA-privatif-nirvana-1.jpg",
+      "etab_url_public": null,
+      "canton": " ",
+      "visit_date_fr": "28 juillet 2025",
+      "saving_chf": 70
     },
     {
       "etab_name": "Chalet Royalp Hôtel & Spa",
@@ -25,7 +25,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
       "canton": "Vaud",
-      "visit_date_fr": "13 février 2026",
+      "visit_date_fr": "3 mars 2026",
       "saving_chf": 160
     }
   ]

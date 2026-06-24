@@ -1,0 +1,113 @@
+{
+  "name": "David",
+  "window": {
+    "start": "24 juin 2025",
+    "end": "24 juin 2026"
+  },
+  "stats": {
+    "visites_total": 11,
+    "etabs_uniques": 11,
+    "economies_chf": 1050
+  },
+  "visites": [
+    {
+      "etab_name": "Nirvana Spa",
+      "etab_slug": null,
+      "etab_photo_url": "https://nirvana-privatespa.ch/wp-content/uploads/SPA-privatif-nirvana-1.jpg",
+      "etab_url_public": null,
+      "canton": " ",
+      "visit_date_fr": "27 juillet 2025",
+      "saving_chf": 70
+    },
+    {
+      "etab_name": "Thai Corner",
+      "etab_slug": "thai-corner-3",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/thai-corner-3.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/thai-corner-3/",
+      "canton": "Genève",
+      "visit_date_fr": "6 août 2025",
+      "saving_chf": 100
+    },
+    {
+      "etab_name": "EVERNESS <br>Hôtel & Resort",
+      "etab_slug": "everness-resort",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/everness-resort.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/everness-resort/",
+      "canton": "Vaud",
+      "visit_date_fr": "26 septembre 2025",
+      "saving_chf": 85
+    },
+    {
+      "etab_name": "Institut Osmose",
+      "etab_slug": "institut-osmose",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-osmose.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-osmose/",
+      "canton": "Vaud",
+      "visit_date_fr": "3 octobre 2025",
+      "saving_chf": 65
+    },
+    {
+      "etab_name": "Saai Nam Massage - Manor",
+      "etab_slug": "saai-nam-massage-manor",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/saai-nam-massage-manor.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/saai-nam-massage-manor/",
+      "canton": "Genève",
+      "visit_date_fr": "17 octobre 2025",
+      "saving_chf": 95
+    },
+    {
+      "etab_name": "Royal Savoy Hôtel & Spa",
+      "etab_slug": "royal-savoy-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/royal-savoy-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
+      "canton": "Vaud",
+      "visit_date_fr": "24 octobre 2025",
+      "saving_chf": 120
+    },
+    {
+      "etab_name": "Institut Beauté Bertmans",
+      "etab_slug": "institut-beaute-bertmans",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-beaute-bertmans.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-beaute-bertmans/",
+      "canton": "Vaud",
+      "visit_date_fr": "28 novembre 2025",
+      "saving_chf": 40
+    },
+    {
+      "etab_name": "Lausanne Palace & Spa",
+      "etab_slug": "lausanne-palace-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/lausanne-palace-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
+      "canton": "Vaud",
+      "visit_date_fr": "8 décembre 2025",
+      "saving_chf": 130
+    },
+    {
+      "etab_name": "Arte Beauty EPFL",
+      "etab_slug": "arte-beauty-epfl",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-epfl.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/",
+      "canton": "Vaud",
+      "visit_date_fr": "19 décembre 2025",
+      "saving_chf": 125
+    },
+    {
+      "etab_name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
+      "etab_slug": "lavalleespa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/lavalleespa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/lavalleespa/",
+      "canton": "Genève",
+      "visit_date_fr": "11 mars 2026",
+      "saving_chf": 140
+    },
+    {
+      "etab_name": "INTUITIVE JESS",
+      "etab_slug": "intuitive-jess",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/intuitive-jess.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/intuitive-jess/",
+      "canton": "Genève",
+      "visit_date_fr": "15 mai 2026",
+      "saving_chf": 80
+    }
+  ]
+}
