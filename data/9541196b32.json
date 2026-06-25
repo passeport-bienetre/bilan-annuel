@@ -1,5 +1,5 @@
 {
-  "name": "Yanick",
+  "name": "Olivia",
   "window": {
     "start": "25 juin 2025",
     "end": "25 juin 2026"
@@ -7,7 +7,7 @@
   "stats": {
     "visites_total": 2,
     "etabs_uniques": 2,
-    "economies_chf": 178
+    "economies_chf": 155
   },
   "visites": [
     {
@@ -16,17 +16,17 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/schweizerhof-bern-hotel-spa.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/schweizerhof-bern-hotel-spa/",
       "canton": "Berne",
-      "visit_date_fr": "16 juillet 2025",
+      "visit_date_fr": "1 août 2025",
       "saving_chf": 110
     },
     {
-      "etab_name": "La VILLA Kobido et Massage",
-      "etab_slug": "la-villa",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-villa.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/la-villa/",
-      "canton": "Vaud",
-      "visit_date_fr": "22 janvier 2026",
-      "saving_chf": 68
+      "etab_name": "LES BAINS PUBLICS",
+      "etab_slug": "les-bains-publics",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-bains-publics.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/les-bains-publics/",
+      "canton": "Valais",
+      "visit_date_fr": "17 mai 2026",
+      "saving_chf": 45
     }
   ]
 }

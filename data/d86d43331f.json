@@ -1,13 +1,13 @@
 {
   "name": "Sylvie",
   "window": {
-    "start": "24 juin 2025",
-    "end": "24 juin 2026"
+    "start": "25 juin 2025",
+    "end": "25 juin 2026"
   },
   "stats": {
-    "visites_total": 1,
-    "etabs_uniques": 1,
-    "economies_chf": 90
+    "visites_total": 2,
+    "etabs_uniques": 2,
+    "economies_chf": 160
   },
   "visites": [
     {
@@ -18,6 +18,15 @@
       "canton": "Berne",
       "visit_date_fr": "7 juillet 2025",
       "saving_chf": 90
+    },
+    {
+      "etab_name": "Institut Kaori",
+      "etab_slug": "institut-kaori",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-kaori.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-kaori/",
+      "canton": "Vaud",
+      "visit_date_fr": "23 juin 2026",
+      "saving_chf": 70
     }
   ]
 }

@@ -1,13 +1,13 @@
 {
   "name": "ANAIS",
   "window": {
-    "start": "24 juin 2025",
-    "end": "24 juin 2026"
+    "start": "25 juin 2025",
+    "end": "25 juin 2026"
   },
   "stats": {
     "visites_total": 4,
     "etabs_uniques": 4,
-    "economies_chf": 263
+    "economies_chf": 268
   },
   "visites": [
     {
@@ -22,11 +22,11 @@
     {
       "etab_name": "Les Cliniques Matignon",
       "etab_slug": null,
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-cliniques-matignon--capsule-geneve-clinique-matignon.jpg",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-cliniques-matignon--geneve.jpg",
       "etab_url_public": null,
       "canton": " ",
       "visit_date_fr": "25 juillet 2025",
-      "saving_chf": 85
+      "saving_chf": 90
     },
     {
       "etab_name": "Serenityblue",
