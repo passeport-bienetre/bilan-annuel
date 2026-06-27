@@ -1,13 +1,13 @@
 {
   "name": "Cristina",
   "window": {
-    "start": "25 juin 2025",
-    "end": "25 juin 2026"
+    "start": "27 juin 2025",
+    "end": "27 juin 2026"
   },
   "stats": {
     "visites_total": 7,
     "etabs_uniques": 7,
-    "economies_chf": 565
+    "economies_chf": 605
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/wulan-studio/",
       "canton": "Genève",
       "visit_date_fr": "16 juillet 2025",
-      "saving_chf": 60
+      "saving_chf": 100
     },
     {
       "etab_name": "19Th Avenue – Thonex",

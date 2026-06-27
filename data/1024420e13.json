@@ -1,0 +1,41 @@
+{
+  "name": "Adrienne",
+  "window": {
+    "start": "27 juin 2025",
+    "end": "27 juin 2026"
+  },
+  "stats": {
+    "visites_total": 3,
+    "etabs_uniques": 3,
+    "economies_chf": 320
+  },
+  "visites": [
+    {
+      "etab_name": "Le Mirador Resort & Spa",
+      "etab_slug": "le-mirador-resort-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
+      "canton": "Vaud",
+      "visit_date_fr": "28 juillet 2025",
+      "saving_chf": 120
+    },
+    {
+      "etab_name": "Le Grand Bellevue Spa",
+      "etab_slug": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/_default.jpg",
+      "etab_url_public": null,
+      "canton": "Berne",
+      "visit_date_fr": "5 mars 2026",
+      "saving_chf": 120
+    },
+    {
+      "etab_name": "Salon Privé Chailly",
+      "etab_slug": "salon-prive-chailly",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive-chailly.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/salon-prive-chailly/",
+      "canton": "Vaud",
+      "visit_date_fr": "9 mai 2026",
+      "saving_chf": 80
+    }
+  ]
+}

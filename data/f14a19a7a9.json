@@ -1,0 +1,23 @@
+{
+  "name": "Shannon",
+  "window": {
+    "start": "27 juin 2025",
+    "end": "27 juin 2026"
+  },
+  "stats": {
+    "visites_total": 1,
+    "etabs_uniques": 1,
+    "economies_chf": 110
+  },
+  "visites": [
+    {
+      "etab_name": "Grand Hôtel du Lac",
+      "etab_slug": "grand-hotel-du-lac",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/grand-hotel-du-lac.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/",
+      "canton": "Vaud",
+      "visit_date_fr": "30 juillet 2025",
+      "saving_chf": 110
+    }
+  ]
+}

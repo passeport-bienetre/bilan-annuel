@@ -1,13 +1,13 @@
 {
   "name": "Alexandra",
   "window": {
-    "start": "25 juin 2025",
-    "end": "25 juin 2026"
+    "start": "27 juin 2025",
+    "end": "27 juin 2026"
   },
   "stats": {
     "visites_total": 11,
     "etabs_uniques": 11,
-    "economies_chf": 869
+    "economies_chf": 880
   },
   "visites": [
     {
@@ -62,7 +62,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/",
       "canton": "Genève",
       "visit_date_fr": "19 septembre 2025",
-      "saving_chf": 64
+      "saving_chf": 75
     },
     {
       "etab_name": "BLISS",

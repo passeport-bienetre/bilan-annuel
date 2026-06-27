@@ -1,13 +1,13 @@
 {
   "name": "Célia",
   "window": {
-    "start": "25 juin 2025",
-    "end": "25 juin 2026"
+    "start": "27 juin 2025",
+    "end": "27 juin 2026"
   },
   "stats": {
     "visites_total": 6,
     "etabs_uniques": 6,
-    "economies_chf": 465
+    "economies_chf": 485
   },
   "visites": [
     {
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/borromeo-coiffure/",
       "canton": "Genève",
       "visit_date_fr": "29 janvier 2026",
-      "saving_chf": 60
+      "saving_chf": 80
     },
     {
       "etab_name": "Les Sources du Chéry",

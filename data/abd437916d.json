@@ -1,23 +1,23 @@
 {
   "name": "Dominique",
   "window": {
-    "start": "25 juin 2025",
-    "end": "25 juin 2026"
+    "start": "27 juin 2025",
+    "end": "27 juin 2026"
   },
   "stats": {
-    "visites_total": 2,
-    "etabs_uniques": 2,
-    "economies_chf": 158
+    "visites_total": 3,
+    "etabs_uniques": 3,
+    "economies_chf": 283
   },
   "visites": [
     {
       "etab_name": "Les Cliniques Matignon",
       "etab_slug": null,
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-cliniques-matignon--geneve.jpg",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-cliniques-matignon--capsule-geneve-clinique-matignon.jpg",
       "etab_url_public": null,
       "canton": " ",
       "visit_date_fr": "16 juillet 2025",
-      "saving_chf": 90
+      "saving_chf": 85
     },
     {
       "etab_name": "L'Atelier du Visage",
@@ -27,6 +27,15 @@
       "canton": "Vaud",
       "visit_date_fr": "23 juillet 2025",
       "saving_chf": 68
+    },
+    {
+      "etab_name": "Lausanne Palace & Spa",
+      "etab_slug": "lausanne-palace-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/lausanne-palace-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
+      "canton": "Vaud",
+      "visit_date_fr": "25 juin 2026",
+      "saving_chf": 130
     }
   ]
 }

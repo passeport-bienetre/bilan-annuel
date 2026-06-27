@@ -1,13 +1,13 @@
 {
   "name": "D",
   "window": {
-    "start": "25 juin 2025",
-    "end": "25 juin 2026"
+    "start": "27 juin 2025",
+    "end": "27 juin 2026"
   },
   "stats": {
     "visites_total": 3,
     "etabs_uniques": 3,
-    "economies_chf": 255
+    "economies_chf": 395
   },
   "visites": [
     {
@@ -26,7 +26,7 @@
       "etab_url_public": null,
       "canton": " ",
       "visit_date_fr": "27 novembre 2025",
-      "saving_chf": 60
+      "saving_chf": 200
     },
     {
       "etab_name": "Saai Nam Massage - Manor",

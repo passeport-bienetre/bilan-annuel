@@ -1,0 +1,23 @@
+{
+  "name": "Charlotte",
+  "window": {
+    "start": "27 juin 2025",
+    "end": "27 juin 2026"
+  },
+  "stats": {
+    "visites_total": 1,
+    "etabs_uniques": 1,
+    "economies_chf": 80
+  },
+  "visites": [
+    {
+      "etab_name": "EUPHORIA & BEAUTY STUDIO",
+      "etab_slug": "euphoria-beauty-studio",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/euphoria-beauty-studio.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/euphoria-beauty-studio/",
+      "canton": "Genève",
+      "visit_date_fr": "15 novembre 2025",
+      "saving_chf": 80
+    }
+  ]
+}

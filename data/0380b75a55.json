@@ -1,13 +1,13 @@
 {
   "name": "Elisabeth",
   "window": {
-    "start": "25 juin 2025",
-    "end": "25 juin 2026"
+    "start": "27 juin 2025",
+    "end": "27 juin 2026"
   },
   "stats": {
     "visites_total": 4,
     "etabs_uniques": 4,
-    "economies_chf": 339
+    "economies_chf": 350
   },
   "visites": [
     {
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/",
       "canton": "Genève",
       "visit_date_fr": "24 avril 2026",
-      "saving_chf": 64
+      "saving_chf": 75
     },
     {
       "etab_name": "Thaiotop",

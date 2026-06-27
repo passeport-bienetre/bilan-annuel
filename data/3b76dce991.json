@@ -1,13 +1,13 @@
 {
   "name": "Marie-Claude",
   "window": {
-    "start": "25 juin 2025",
-    "end": "25 juin 2026"
+    "start": "27 juin 2025",
+    "end": "27 juin 2026"
   },
   "stats": {
     "visites_total": 11,
     "etabs_uniques": 11,
-    "economies_chf": 918
+    "economies_chf": 946
   },
   "visites": [
     {
@@ -98,7 +98,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/tempete-de-calme/",
       "canton": "Vaud",
       "visit_date_fr": "15 mai 2026",
-      "saving_chf": 57
+      "saving_chf": 65
     },
     {
       "etab_name": "Maison B",
@@ -107,7 +107,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/maison-b/",
       "canton": null,
       "visit_date_fr": "17 juin 2026",
-      "saving_chf": 100
+      "saving_chf": 120
     }
   ]
 }

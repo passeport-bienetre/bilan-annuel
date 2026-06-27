@@ -1,13 +1,13 @@
 {
   "name": "Audrey",
   "window": {
-    "start": "25 juin 2025",
-    "end": "25 juin 2026"
+    "start": "27 juin 2025",
+    "end": "27 juin 2026"
   },
   "stats": {
     "visites_total": 2,
     "etabs_uniques": 2,
-    "economies_chf": 142
+    "economies_chf": 160
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/salon-prive-chailly/",
       "canton": "Vaud",
       "visit_date_fr": "25 octobre 2025",
-      "saving_chf": 62
+      "saving_chf": 80
     },
     {
       "etab_name": "Salon Privé Ecublens",

@@ -1,13 +1,13 @@
 {
   "name": "Sara",
   "window": {
-    "start": "25 juin 2025",
-    "end": "25 juin 2026"
+    "start": "27 juin 2025",
+    "end": "27 juin 2026"
   },
   "stats": {
     "visites_total": 5,
     "etabs_uniques": 5,
-    "economies_chf": 462
+    "economies_chf": 480
   },
   "visites": [
     {
@@ -53,7 +53,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/salon-prive-chailly/",
       "canton": "Vaud",
       "visit_date_fr": "18 mai 2026",
-      "saving_chf": 62
+      "saving_chf": 80
     }
   ]
 }

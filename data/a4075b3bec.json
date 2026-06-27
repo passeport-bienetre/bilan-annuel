@@ -1,0 +1,50 @@
+{
+  "name": "Laurence",
+  "window": {
+    "start": "27 juin 2025",
+    "end": "27 juin 2026"
+  },
+  "stats": {
+    "visites_total": 4,
+    "etabs_uniques": 4,
+    "economies_chf": 335
+  },
+  "visites": [
+    {
+      "etab_name": "VAGHEGGI Phyto Space Crans-Montana",
+      "etab_slug": "vagheggi-phyto-space-crans-montana",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/vagheggi-phyto-space-crans-montana.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/vagheggi-phyto-space-crans-montana/",
+      "canton": "Valais",
+      "visit_date_fr": "30 juillet 2025",
+      "saving_chf": 75
+    },
+    {
+      "etab_name": "ERINGER INSTITUT",
+      "etab_slug": "eringer-institut",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/eringer-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/eringer-institut/",
+      "canton": "Valais",
+      "visit_date_fr": "17 août 2025",
+      "saving_chf": 70
+    },
+    {
+      "etab_name": "Bains d'Ovronnaz",
+      "etab_slug": "bains-dovronnaz",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bains-dovronnaz.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bains-dovronnaz/",
+      "canton": "Valais",
+      "visit_date_fr": "12 octobre 2025",
+      "saving_chf": 85
+    },
+    {
+      "etab_name": "Organik Beauty",
+      "etab_slug": "organik-beauty",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/organik-beauty.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/organik-beauty/",
+      "canton": "Vaud",
+      "visit_date_fr": "19 mars 2026",
+      "saving_chf": 105
+    }
+  ]
+}

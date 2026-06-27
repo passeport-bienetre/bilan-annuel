@@ -1,13 +1,13 @@
 {
   "name": "Lucille",
   "window": {
-    "start": "25 juin 2025",
-    "end": "25 juin 2026"
+    "start": "27 juin 2025",
+    "end": "27 juin 2026"
   },
   "stats": {
     "visites_total": 5,
     "etabs_uniques": 5,
-    "economies_chf": 447
+    "economies_chf": 465
   },
   "visites": [
     {
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/salon-prive-chailly/",
       "canton": "Vaud",
       "visit_date_fr": "15 octobre 2025",
-      "saving_chf": 62
+      "saving_chf": 80
     },
     {
       "etab_name": "Institut Beauté d'Or",

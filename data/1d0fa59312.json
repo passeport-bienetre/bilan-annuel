@@ -1,13 +1,13 @@
 {
   "name": "Raphael",
   "window": {
-    "start": "25 juin 2025",
-    "end": "25 juin 2026"
+    "start": "27 juin 2025",
+    "end": "27 juin 2026"
   },
   "stats": {
     "visites_total": 4,
     "etabs_uniques": 4,
-    "economies_chf": 363
+    "economies_chf": 503
   },
   "visites": [
     {
@@ -35,7 +35,7 @@
       "etab_url_public": null,
       "canton": " ",
       "visit_date_fr": "7 août 2025",
-      "saving_chf": 60
+      "saving_chf": 200
     },
     {
       "etab_name": "Bains d'Ovronnaz",
