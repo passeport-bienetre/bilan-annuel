@@ -1,0 +1,41 @@
+{
+  "name": "Monique",
+  "window": {
+    "start": "28 juin 2025",
+    "end": "28 juin 2026"
+  },
+  "stats": {
+    "visites_total": 3,
+    "etabs_uniques": 3,
+    "economies_chf": 255
+  },
+  "visites": [
+    {
+      "etab_name": "Institut Orphée",
+      "etab_slug": "institut-sirene",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-sirene.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-sirene/",
+      "canton": "Vaud",
+      "visit_date_fr": "5 août 2025",
+      "saving_chf": 65
+    },
+    {
+      "etab_name": "Arte Beauty EHL",
+      "etab_slug": "arte-beauty-ehl",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-ehl.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-ehl/",
+      "canton": null,
+      "visit_date_fr": "19 décembre 2025",
+      "saving_chf": 125
+    },
+    {
+      "etab_name": "EssenCiel Institut",
+      "etab_slug": "essenciel-institut",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/essenciel-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/essenciel-institut/",
+      "canton": "Fribourg",
+      "visit_date_fr": "13 janvier 2026",
+      "saving_chf": 65
+    }
+  ]
+}

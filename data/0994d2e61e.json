@@ -1,0 +1,23 @@
+{
+  "name": "Delphine",
+  "window": {
+    "start": "28 juin 2025",
+    "end": "28 juin 2026"
+  },
+  "stats": {
+    "visites_total": 1,
+    "etabs_uniques": 1,
+    "economies_chf": 55
+  },
+  "visites": [
+    {
+      "etab_name": "ALEX COIFFURE SARL",
+      "etab_slug": "a-lex-coiffure-3",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/a-lex-coiffure-3.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/a-lex-coiffure-3/",
+      "canton": "Fribourg",
+      "visit_date_fr": "29 août 2025",
+      "saving_chf": 55
+    }
+  ]
+}
