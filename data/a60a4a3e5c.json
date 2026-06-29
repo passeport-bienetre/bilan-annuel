@@ -1,13 +1,13 @@
 {
   "name": "Alix",
   "window": {
-    "start": "28 juin 2025",
-    "end": "28 juin 2026"
+    "start": "29 juin 2025",
+    "end": "29 juin 2026"
   },
   "stats": {
     "visites_total": 8,
     "etabs_uniques": 8,
-    "economies_chf": 592
+    "economies_chf": 604
   },
   "visites": [
     {
@@ -53,7 +53,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/institut-fs/",
       "canton": "Vaud",
       "visit_date_fr": "6 décembre 2025",
-      "saving_chf": 40
+      "saving_chf": 52
     },
     {
       "etab_name": "Salon Privé Gare",

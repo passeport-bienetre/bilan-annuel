@@ -1,13 +1,13 @@
 {
   "name": "Soma",
   "window": {
-    "start": "28 juin 2025",
-    "end": "28 juin 2026"
+    "start": "29 juin 2025",
+    "end": "29 juin 2026"
   },
   "stats": {
     "visites_total": 11,
     "etabs_uniques": 11,
-    "economies_chf": 800
+    "economies_chf": 830
   },
   "visites": [
     {
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/karre-long-3/",
       "canton": "Vaud",
       "visit_date_fr": "21 août 2025",
-      "saving_chf": 40
+      "saving_chf": 58
     },
     {
       "etab_name": "VAGHEGGI Phyto Space Lausanne",
@@ -98,7 +98,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/institut-fs/",
       "canton": "Vaud",
       "visit_date_fr": "31 mars 2026",
-      "saving_chf": 40
+      "saving_chf": 52
     },
     {
       "etab_name": "CJ Coiffure",

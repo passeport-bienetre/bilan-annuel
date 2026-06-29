@@ -1,13 +1,13 @@
 {
   "name": "Brigitte",
   "window": {
-    "start": "28 juin 2025",
-    "end": "28 juin 2026"
+    "start": "29 juin 2025",
+    "end": "29 juin 2026"
   },
   "stats": {
     "visites_total": 7,
     "etabs_uniques": 7,
-    "economies_chf": 488
+    "economies_chf": 506
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/karre-long-3/",
       "canton": "Vaud",
       "visit_date_fr": "2 juillet 2025",
-      "saving_chf": 40
+      "saving_chf": 58
     },
     {
       "etab_name": "1er Acte Coiffure",

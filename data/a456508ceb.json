@@ -1,0 +1,59 @@
+{
+  "name": "Céline",
+  "window": {
+    "start": "29 juin 2025",
+    "end": "29 juin 2026"
+  },
+  "stats": {
+    "visites_total": 5,
+    "etabs_uniques": 5,
+    "economies_chf": 545
+  },
+  "visites": [
+    {
+      "etab_name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
+      "etab_slug": "lavalleespa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/lavalleespa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/lavalleespa/",
+      "canton": "Genève",
+      "visit_date_fr": "1 août 2025",
+      "saving_chf": 140
+    },
+    {
+      "etab_name": "Fairmont le Montreux Palace",
+      "etab_slug": null,
+      "etab_photo_url": "https://m.ahstatic.com/is/image/accorhotels/aja_p_6460-88:8by10?fmt=webp&wid=900&hei=1100&qlt=80",
+      "etab_url_public": null,
+      "canton": "Vaud",
+      "visit_date_fr": "22 octobre 2025",
+      "saving_chf": 100
+    },
+    {
+      "etab_name": "Le Mirador Resort & Spa",
+      "etab_slug": "le-mirador-resort-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
+      "canton": "Vaud",
+      "visit_date_fr": "4 janvier 2026",
+      "saving_chf": 120
+    },
+    {
+      "etab_name": "Skin Solution",
+      "etab_slug": "skin-solution",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/skin-solution.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/skin-solution/",
+      "canton": "Genève",
+      "visit_date_fr": "14 mars 2026",
+      "saving_chf": 120
+    },
+    {
+      "etab_name": "Namaka - Centre de Longévité et Bienêtre",
+      "etab_slug": "namaka",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/namaka.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/namaka/",
+      "canton": "Genève",
+      "visit_date_fr": "15 mars 2026",
+      "saving_chf": 65
+    }
+  ]
+}

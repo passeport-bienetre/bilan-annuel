@@ -1,0 +1,23 @@
+{
+  "name": "Emmanuel",
+  "window": {
+    "start": "29 juin 2025",
+    "end": "29 juin 2026"
+  },
+  "stats": {
+    "visites_total": 1,
+    "etabs_uniques": 1,
+    "economies_chf": 75
+  },
+  "visites": [
+    {
+      "etab_name": "Amiia Clinique",
+      "etab_slug": "amiia-clinique",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/amiia-clinique.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/amiia-clinique/",
+      "canton": null,
+      "visit_date_fr": "31 juillet 2025",
+      "saving_chf": 75
+    }
+  ]
+}

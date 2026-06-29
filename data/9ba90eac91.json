@@ -1,13 +1,13 @@
 {
   "name": "Elisabete",
   "window": {
-    "start": "28 juin 2025",
-    "end": "28 juin 2026"
+    "start": "29 juin 2025",
+    "end": "29 juin 2026"
   },
   "stats": {
     "visites_total": 8,
     "etabs_uniques": 8,
-    "economies_chf": 845
+    "economies_chf": 858
   },
   "visites": [
     {
@@ -71,7 +71,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/hairmania/",
       "canton": null,
       "visit_date_fr": "6 février 2026",
-      "saving_chf": 40
+      "saving_chf": 52
     },
     {
       "etab_name": "Le Mirador Resort & Spa",

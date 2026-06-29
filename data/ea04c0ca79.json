@@ -1,0 +1,50 @@
+{
+  "name": "YANA",
+  "window": {
+    "start": "29 juin 2025",
+    "end": "29 juin 2026"
+  },
+  "stats": {
+    "visites_total": 4,
+    "etabs_uniques": 4,
+    "economies_chf": 285
+  },
+  "visites": [
+    {
+      "etab_name": "Hôtel de Rougemont & Spa",
+      "etab_slug": "hotel-de-rougemont-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-de-rougemont-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-de-rougemont-spa/",
+      "canton": "Berne",
+      "visit_date_fr": "1 août 2025",
+      "saving_chf": 90
+    },
+    {
+      "etab_name": "Spa Baron Tavernier",
+      "etab_slug": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/baron-tavernier-spa.jpg",
+      "etab_url_public": null,
+      "canton": "Vaud",
+      "visit_date_fr": "3 octobre 2025",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "LES BAINS PUBLICS",
+      "etab_slug": "les-bains-publics",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-bains-publics.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/les-bains-publics/",
+      "canton": "Valais",
+      "visit_date_fr": "2 novembre 2025",
+      "saving_chf": 45
+    },
+    {
+      "etab_name": "Luna aesthetic",
+      "etab_slug": "luna-aesthetic",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/luna-aesthetic.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/luna-aesthetic/",
+      "canton": "Vaud",
+      "visit_date_fr": "21 mars 2026",
+      "saving_chf": 70
+    }
+  ]
+}

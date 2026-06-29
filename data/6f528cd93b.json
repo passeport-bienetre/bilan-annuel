@@ -1,13 +1,13 @@
 {
   "name": "Séverine",
   "window": {
-    "start": "28 juin 2025",
-    "end": "28 juin 2026"
+    "start": "29 juin 2025",
+    "end": "29 juin 2026"
   },
   "stats": {
     "visites_total": 6,
     "etabs_uniques": 6,
-    "economies_chf": 438
+    "economies_chf": 446
   },
   "visites": [
     {
@@ -62,7 +62,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/la-coifferie-3/",
       "canton": "Genève",
       "visit_date_fr": "5 juin 2026",
-      "saving_chf": 40
+      "saving_chf": 48
     }
   ]
 }

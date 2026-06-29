@@ -1,13 +1,13 @@
 {
   "name": "Gaelle",
   "window": {
-    "start": "28 juin 2025",
-    "end": "28 juin 2026"
+    "start": "29 juin 2025",
+    "end": "29 juin 2026"
   },
   "stats": {
     "visites_total": 9,
     "etabs_uniques": 9,
-    "economies_chf": 873
+    "economies_chf": 886
   },
   "visites": [
     {
@@ -53,7 +53,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/institut-fs/",
       "canton": "Vaud",
       "visit_date_fr": "17 avril 2026",
-      "saving_chf": 40
+      "saving_chf": 52
     },
     {
       "etab_name": "Nail Café",
