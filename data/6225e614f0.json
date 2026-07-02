@@ -1,13 +1,13 @@
 {
   "name": "Ingrid",
   "window": {
-    "start": "1 juillet 2025",
-    "end": "1 juillet 2026"
+    "start": "2 juillet 2025",
+    "end": "2 juillet 2026"
   },
   "stats": {
-    "visites_total": 3,
-    "etabs_uniques": 3,
-    "economies_chf": 235
+    "visites_total": 4,
+    "etabs_uniques": 4,
+    "economies_chf": 375
   },
   "visites": [
     {
@@ -36,6 +36,15 @@
       "canton": "Genève",
       "visit_date_fr": "21 mai 2026",
       "saving_chf": 65
+    },
+    {
+      "etab_name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
+      "etab_slug": "lavalleespa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/lavalleespa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/lavalleespa/",
+      "canton": "Genève",
+      "visit_date_fr": "1 juillet 2026",
+      "saving_chf": 140
     }
   ]
 }

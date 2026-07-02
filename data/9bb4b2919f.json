@@ -1,0 +1,41 @@
+{
+  "name": "Patricia",
+  "window": {
+    "start": "2 juillet 2025",
+    "end": "2 juillet 2026"
+  },
+  "stats": {
+    "visites_total": 3,
+    "etabs_uniques": 3,
+    "economies_chf": 211
+  },
+  "visites": [
+    {
+      "etab_name": "ERINGER INSTITUT",
+      "etab_slug": "eringer-institut",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/eringer-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/eringer-institut/",
+      "canton": "Valais",
+      "visit_date_fr": "6 août 2025",
+      "saving_chf": 70
+    },
+    {
+      "etab_name": "Institut Sirène",
+      "etab_slug": "institut-sirene",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-sirene.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-sirene/",
+      "canton": "Vaud",
+      "visit_date_fr": "14 janvier 2026",
+      "saving_chf": 73
+    },
+    {
+      "etab_name": "La VILLA Kobido et Massage",
+      "etab_slug": "la-villa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-villa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/la-villa/",
+      "canton": "Vaud",
+      "visit_date_fr": "4 février 2026",
+      "saving_chf": 68
+    }
+  ]
+}

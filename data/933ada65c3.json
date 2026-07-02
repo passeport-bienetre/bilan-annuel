@@ -1,13 +1,13 @@
 {
   "name": "Juliette",
   "window": {
-    "start": "1 juillet 2025",
-    "end": "1 juillet 2026"
+    "start": "2 juillet 2025",
+    "end": "2 juillet 2026"
   },
   "stats": {
-    "visites_total": 5,
-    "etabs_uniques": 5,
-    "economies_chf": 382
+    "visites_total": 6,
+    "etabs_uniques": 6,
+    "economies_chf": 497
   },
   "visites": [
     {
@@ -54,6 +54,15 @@
       "canton": null,
       "visit_date_fr": "25 juin 2026",
       "saving_chf": 120
+    },
+    {
+      "etab_name": "Institut Guinot",
+      "etab_slug": "institut-guinot-2",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-guinot-2.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
+      "canton": "Vaud",
+      "visit_date_fr": "30 juin 2026",
+      "saving_chf": 115
     }
   ]
 }
