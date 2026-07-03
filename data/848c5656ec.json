@@ -1,13 +1,13 @@
 {
   "name": "Rennette",
   "window": {
-    "start": "2 juillet 2025",
-    "end": "2 juillet 2026"
+    "start": "3 juillet 2025",
+    "end": "3 juillet 2026"
   },
   "stats": {
-    "visites_total": 8,
-    "etabs_uniques": 8,
-    "economies_chf": 692
+    "visites_total": 9,
+    "etabs_uniques": 9,
+    "economies_chf": 772
   },
   "visites": [
     {
@@ -81,6 +81,15 @@
       "canton": "Vaud",
       "visit_date_fr": "17 janvier 2026",
       "saving_chf": 125
+    },
+    {
+      "etab_name": "Salon Privé Ecublens",
+      "etab_slug": "salon-prive-ecublens",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive-ecublens.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/salon-prive-ecublens/",
+      "canton": "Vaud",
+      "visit_date_fr": "2 juillet 2026",
+      "saving_chf": 80
     }
   ]
 }

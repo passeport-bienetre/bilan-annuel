@@ -1,13 +1,13 @@
 {
   "name": "Lea",
   "window": {
-    "start": "2 juillet 2025",
-    "end": "2 juillet 2026"
+    "start": "3 juillet 2025",
+    "end": "3 juillet 2026"
   },
   "stats": {
-    "visites_total": 2,
-    "etabs_uniques": 2,
-    "economies_chf": 168
+    "visites_total": 3,
+    "etabs_uniques": 3,
+    "economies_chf": 238
   },
   "visites": [
     {
@@ -27,6 +27,15 @@
       "canton": "Genève",
       "visit_date_fr": "10 janvier 2026",
       "saving_chf": 100
+    },
+    {
+      "etab_name": "SUBLIMEYES",
+      "etab_slug": "institut-sublimeyes",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-sublimeyes.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-sublimeyes/",
+      "canton": "Genève",
+      "visit_date_fr": "2 juillet 2026",
+      "saving_chf": 70
     }
   ]
 }

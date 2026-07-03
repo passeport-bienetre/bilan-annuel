@@ -1,13 +1,13 @@
 {
   "name": "Alexandra",
   "window": {
-    "start": "2 juillet 2025",
-    "end": "2 juillet 2026"
+    "start": "3 juillet 2025",
+    "end": "3 juillet 2026"
   },
   "stats": {
-    "visites_total": 11,
-    "etabs_uniques": 11,
-    "economies_chf": 880
+    "visites_total": 12,
+    "etabs_uniques": 12,
+    "economies_chf": 945
   },
   "visites": [
     {
@@ -108,6 +108,15 @@
       "canton": "Genève",
       "visit_date_fr": "17 juin 2026",
       "saving_chf": 62
+    },
+    {
+      "etab_name": "NUANCES NATURE",
+      "etab_slug": "nuances-nature",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/nuances-nature.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/nuances-nature/",
+      "canton": "Genève",
+      "visit_date_fr": "2 juillet 2026",
+      "saving_chf": 65
     }
   ]
 }
