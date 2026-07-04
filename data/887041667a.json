@@ -1,13 +1,13 @@
 {
   "name": "Fanny",
   "window": {
-    "start": "3 juillet 2025",
-    "end": "3 juillet 2026"
+    "start": "4 juillet 2025",
+    "end": "4 juillet 2026"
   },
   "stats": {
-    "visites_total": 4,
-    "etabs_uniques": 4,
-    "economies_chf": 505
+    "visites_total": 5,
+    "etabs_uniques": 5,
+    "economies_chf": 615
   },
   "visites": [
     {
@@ -45,6 +45,15 @@
       "canton": "Vaud",
       "visit_date_fr": "30 avril 2026",
       "saving_chf": 120
+    },
+    {
+      "etab_name": "Grand Hôtel du Lac",
+      "etab_slug": "grand-hotel-du-lac",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/grand-hotel-du-lac.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/",
+      "canton": "Vaud",
+      "visit_date_fr": "3 juillet 2026",
+      "saving_chf": 110
     }
   ]
 }
