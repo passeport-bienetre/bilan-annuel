@@ -1,0 +1,50 @@
+{
+  "name": "Sara",
+  "window": {
+    "start": "5 juillet 2025",
+    "end": "5 juillet 2026"
+  },
+  "stats": {
+    "visites_total": 4,
+    "etabs_uniques": 4,
+    "economies_chf": 380
+  },
+  "visites": [
+    {
+      "etab_name": "Chalet Royalp Hôtel & Spa",
+      "etab_slug": "chalet-royalp-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
+      "canton": "Vaud",
+      "visit_date_fr": "6 août 2025",
+      "saving_chf": 160
+    },
+    {
+      "etab_name": "Akyado Genève Centre",
+      "etab_slug": null,
+      "etab_photo_url": "https://cdn.prod.website-files.com/6940751abf6eb4f9555c0615/695e3d5b8983b8fddb8e892e_0K6A6193.avif",
+      "etab_url_public": null,
+      "canton": "Genève",
+      "visit_date_fr": "22 septembre 2025",
+      "saving_chf": 60
+    },
+    {
+      "etab_name": "Spa Baron Tavernier",
+      "etab_slug": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/baron-tavernier-spa.jpg",
+      "etab_url_public": null,
+      "canton": "Vaud",
+      "visit_date_fr": "6 novembre 2025",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "Altitude by Garance",
+      "etab_slug": "altitude-by-garance",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/altitude-by-garance.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/altitude-by-garance/",
+      "canton": "Vaud",
+      "visit_date_fr": "12 mars 2026",
+      "saving_chf": 80
+    }
+  ]
+}
