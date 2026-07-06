@@ -1,0 +1,41 @@
+{
+  "name": "Marco",
+  "window": {
+    "start": "6 juillet 2025",
+    "end": "6 juillet 2026"
+  },
+  "stats": {
+    "visites_total": 3,
+    "etabs_uniques": 3,
+    "economies_chf": 220
+  },
+  "visites": [
+    {
+      "etab_name": "Nirvana Spa",
+      "etab_slug": null,
+      "etab_photo_url": "https://nirvana-privatespa.ch/wp-content/uploads/SPA-privatif-nirvana-1.jpg",
+      "etab_url_public": null,
+      "canton": " ",
+      "visit_date_fr": "9 août 2025",
+      "saving_chf": 70
+    },
+    {
+      "etab_name": "EVERNESS <br>Hôtel & Resort",
+      "etab_slug": "everness-resort",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/everness-resort.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/everness-resort/",
+      "canton": "Vaud",
+      "visit_date_fr": "26 décembre 2025",
+      "saving_chf": 85
+    },
+    {
+      "etab_name": "Namaka - Centre de Longévité et Bienêtre",
+      "etab_slug": "namaka",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/namaka.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/namaka/",
+      "canton": "Genève",
+      "visit_date_fr": "2 janvier 2026",
+      "saving_chf": 65
+    }
+  ]
+}

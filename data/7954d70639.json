@@ -1,0 +1,50 @@
+{
+  "name": "Julie",
+  "window": {
+    "start": "6 juillet 2025",
+    "end": "6 juillet 2026"
+  },
+  "stats": {
+    "visites_total": 4,
+    "etabs_uniques": 4,
+    "economies_chf": 333
+  },
+  "visites": [
+    {
+      "etab_name": "BLISS",
+      "etab_slug": "bliss",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bliss.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bliss/",
+      "canton": "Genève",
+      "visit_date_fr": "7 août 2025",
+      "saving_chf": 65
+    },
+    {
+      "etab_name": "Nail Café",
+      "etab_slug": "nail-cafe",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/nail-cafe.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/nail-cafe/",
+      "canton": "Vaud",
+      "visit_date_fr": "30 mars 2026",
+      "saving_chf": 58
+    },
+    {
+      "etab_name": "FLEUR D’EPIDERME",
+      "etab_slug": "fleur-depiderme",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/fleur-depiderme.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/fleur-depiderme/",
+      "canton": "Genève",
+      "visit_date_fr": "9 mai 2026",
+      "saving_chf": 140
+    },
+    {
+      "etab_name": "SUBLIMEYES",
+      "etab_slug": "institut-sublimeyes",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-sublimeyes.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-sublimeyes/",
+      "canton": "Genève",
+      "visit_date_fr": "6 juin 2026",
+      "saving_chf": 70
+    }
+  ]
+}
