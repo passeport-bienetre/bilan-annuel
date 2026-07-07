@@ -1,0 +1,86 @@
+{
+  "name": "fanny",
+  "window": {
+    "start": "7 juillet 2025",
+    "end": "7 juillet 2026"
+  },
+  "stats": {
+    "visites_total": 8,
+    "etabs_uniques": 8,
+    "economies_chf": 753
+  },
+  "visites": [
+    {
+      "etab_name": "Institut Guinot",
+      "etab_slug": "institut-guinot-2",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-guinot-2.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
+      "canton": "Vaud",
+      "visit_date_fr": "8 août 2025",
+      "saving_chf": 115
+    },
+    {
+      "etab_name": "VAGHEGGI Phyto Space Lausanne",
+      "etab_slug": null,
+      "etab_photo_url": "https://phytospace.ch/wp-content/uploads/2023/12/1-1024x1024.webp",
+      "etab_url_public": null,
+      "canton": "Vaud",
+      "visit_date_fr": "25 septembre 2025",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "Lausanne Palace & Spa",
+      "etab_slug": "lausanne-palace-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/lausanne-palace-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
+      "canton": "Vaud",
+      "visit_date_fr": "21 octobre 2025",
+      "saving_chf": 130
+    },
+    {
+      "etab_name": "Les Sources des Alpes",
+      "etab_slug": "les-sources-des-alpes-3",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-sources-des-alpes-3.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/les-sources-des-alpes-3/",
+      "canton": "Valais",
+      "visit_date_fr": "23 octobre 2025",
+      "saving_chf": 90
+    },
+    {
+      "etab_name": "Royal Savoy Hôtel & Spa",
+      "etab_slug": "royal-savoy-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/royal-savoy-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
+      "canton": "Vaud",
+      "visit_date_fr": "9 janvier 2026",
+      "saving_chf": 120
+    },
+    {
+      "etab_name": "BEAUTY CONCEPT PULLY",
+      "etab_slug": null,
+      "etab_photo_url": "https://beautyconceptswiss.ch/wp-content/uploads/2025/10/photo_5992086154175958102_y.jpg",
+      "etab_url_public": null,
+      "canton": "Vaud",
+      "visit_date_fr": "3 février 2026",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "Swiss Aesthetica",
+      "etab_slug": "swiss-aesthetica",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/swiss-aesthetica.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/swiss-aesthetica/",
+      "canton": "Vaud",
+      "visit_date_fr": "26 février 2026",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "Atmosp'hair",
+      "etab_slug": "atmosphair",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/atmosphair.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/atmosphair/",
+      "canton": "Vaud",
+      "visit_date_fr": "26 juin 2026",
+      "saving_chf": 58
+    }
+  ]
+}

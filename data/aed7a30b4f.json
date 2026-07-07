@@ -1,0 +1,86 @@
+{
+  "name": "Hélène",
+  "window": {
+    "start": "7 juillet 2025",
+    "end": "7 juillet 2026"
+  },
+  "stats": {
+    "visites_total": 8,
+    "etabs_uniques": 8,
+    "economies_chf": 802
+  },
+  "visites": [
+    {
+      "etab_name": "Lausanne Palace & Spa",
+      "etab_slug": "lausanne-palace-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/lausanne-palace-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
+      "canton": "Vaud",
+      "visit_date_fr": "8 août 2025",
+      "saving_chf": 130
+    },
+    {
+      "etab_name": "Salon Privé Gare",
+      "etab_slug": "salon-prive",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/salon-prive/",
+      "canton": "Vaud",
+      "visit_date_fr": "22 août 2025",
+      "saving_chf": 62
+    },
+    {
+      "etab_name": "Le Beausquet Genève",
+      "etab_slug": "le-beausquet-geneve",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-beausquet-geneve.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-beausquet-geneve/",
+      "canton": "Genève",
+      "visit_date_fr": "29 août 2025",
+      "saving_chf": 100
+    },
+    {
+      "etab_name": "Skin Solution",
+      "etab_slug": "skin-solution",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/skin-solution.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/skin-solution/",
+      "canton": "Genève",
+      "visit_date_fr": "30 août 2025",
+      "saving_chf": 120
+    },
+    {
+      "etab_name": "GLOW IN GENEVA",
+      "etab_slug": "glow-in-geneva",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/glow-in-geneva.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/glow-in-geneva/",
+      "canton": "Genève",
+      "visit_date_fr": "4 novembre 2025",
+      "saving_chf": 70
+    },
+    {
+      "etab_name": "Royal Savoy Hôtel & Spa",
+      "etab_slug": "royal-savoy-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/royal-savoy-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
+      "canton": "Vaud",
+      "visit_date_fr": "5 décembre 2025",
+      "saving_chf": 120
+    },
+    {
+      "etab_name": "Grand Hôtel du Lac",
+      "etab_slug": "grand-hotel-du-lac",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/grand-hotel-du-lac.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/",
+      "canton": "Vaud",
+      "visit_date_fr": "30 janvier 2026",
+      "saving_chf": 110
+    },
+    {
+      "etab_name": "Europe Hôtel & Spa",
+      "etab_slug": "europe-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/europe-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/europe-hotel-spa/",
+      "canton": "Valais",
+      "visit_date_fr": "16 février 2026",
+      "saving_chf": 90
+    }
+  ]
+}

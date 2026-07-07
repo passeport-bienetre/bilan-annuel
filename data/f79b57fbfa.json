@@ -1,0 +1,59 @@
+{
+  "name": "Cynthia",
+  "window": {
+    "start": "7 juillet 2025",
+    "end": "7 juillet 2026"
+  },
+  "stats": {
+    "visites_total": 5,
+    "etabs_uniques": 5,
+    "economies_chf": 391
+  },
+  "visites": [
+    {
+      "etab_name": "Signature Coiffure",
+      "etab_slug": "signature-coiffure",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/signature-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/signature-coiffure/",
+      "canton": "Vaud",
+      "visit_date_fr": "8 août 2025",
+      "saving_chf": 58
+    },
+    {
+      "etab_name": "LES TRESOMS",
+      "etab_slug": "les-tresoms-2",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-tresoms-2.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/les-tresoms-2/",
+      "canton": null,
+      "visit_date_fr": "17 août 2025",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "Spa Baron Tavernier",
+      "etab_slug": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/baron-tavernier-spa.jpg",
+      "etab_url_public": null,
+      "canton": "Vaud",
+      "visit_date_fr": "23 novembre 2025",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "Institut Guinot",
+      "etab_slug": "institut-guinot-2",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-guinot-2.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
+      "canton": "Vaud",
+      "visit_date_fr": "30 mai 2026",
+      "saving_chf": 115
+    },
+    {
+      "etab_name": "Nail Café",
+      "etab_slug": "nail-cafe",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/nail-cafe.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/nail-cafe/",
+      "canton": "Vaud",
+      "visit_date_fr": "6 juin 2026",
+      "saving_chf": 58
+    }
+  ]
+}
