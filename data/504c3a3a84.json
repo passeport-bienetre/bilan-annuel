@@ -1,5 +1,5 @@
 {
-  "name": "Stéphanie",
+  "name": "Céline",
   "window": {
     "start": "9 juillet 2025",
     "end": "9 juillet 2026"
@@ -7,17 +7,17 @@
   "stats": {
     "visites_total": 2,
     "etabs_uniques": 2,
-    "economies_chf": 389
+    "economies_chf": 270
   },
   "visites": [
     {
-      "etab_name": "CHANDOLIN BOUTIQUE HÔTEL",
-      "etab_slug": "chandolin-boutique-hotel",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/",
-      "canton": null,
-      "visit_date_fr": "29 juillet 2025",
-      "saving_chf": 229
+      "etab_name": "Grand Hôtel du Lac",
+      "etab_slug": "grand-hotel-du-lac",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/grand-hotel-du-lac.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/",
+      "canton": "Vaud",
+      "visit_date_fr": "10 août 2025",
+      "saving_chf": 110
     },
     {
       "etab_name": "Chalet Royalp Hôtel & Spa",
@@ -25,7 +25,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
       "canton": "Vaud",
-      "visit_date_fr": "22 septembre 2025",
+      "visit_date_fr": "17 janvier 2026",
       "saving_chf": 160
     }
   ]
