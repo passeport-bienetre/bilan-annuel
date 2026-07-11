@@ -1,13 +1,13 @@
 {
   "name": "Cecile",
   "window": {
-    "start": "10 juillet 2025",
-    "end": "10 juillet 2026"
+    "start": "11 juillet 2025",
+    "end": "11 juillet 2026"
   },
   "stats": {
-    "visites_total": 5,
-    "etabs_uniques": 5,
-    "economies_chf": 545
+    "visites_total": 6,
+    "etabs_uniques": 6,
+    "economies_chf": 630
   },
   "visites": [
     {
@@ -54,6 +54,15 @@
       "canton": "Genève",
       "visit_date_fr": "5 juin 2026",
       "saving_chf": 140
+    },
+    {
+      "etab_name": "EVERNESS <br>Hôtel & Resort",
+      "etab_slug": "everness-resort",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/everness-resort.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/everness-resort/",
+      "canton": "Vaud",
+      "visit_date_fr": "10 juillet 2026",
+      "saving_chf": 85
     }
   ]
 }
