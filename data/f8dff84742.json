@@ -1,13 +1,13 @@
 {
   "name": "Céline",
   "window": {
-    "start": "11 juillet 2025",
-    "end": "11 juillet 2026"
+    "start": "12 juillet 2025",
+    "end": "12 juillet 2026"
   },
   "stats": {
-    "visites_total": 5,
-    "etabs_uniques": 5,
-    "economies_chf": 466
+    "visites_total": 6,
+    "etabs_uniques": 6,
+    "economies_chf": 524
   },
   "visites": [
     {
@@ -54,6 +54,15 @@
       "canton": null,
       "visit_date_fr": "30 mai 2026",
       "saving_chf": 100
+    },
+    {
+      "etab_name": "Tête à Clak",
+      "etab_slug": "tete-a-clak",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/tete-a-clak.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/tete-a-clak/",
+      "canton": null,
+      "visit_date_fr": "11 juillet 2026",
+      "saving_chf": 58
     }
   ]
 }

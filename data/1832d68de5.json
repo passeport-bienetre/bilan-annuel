@@ -1,0 +1,32 @@
+{
+  "name": "Judicaël",
+  "window": {
+    "start": "12 juillet 2025",
+    "end": "12 juillet 2026"
+  },
+  "stats": {
+    "visites_total": 2,
+    "etabs_uniques": 2,
+    "economies_chf": 160
+  },
+  "visites": [
+    {
+      "etab_name": "LES TRESOMS",
+      "etab_slug": "les-tresoms-2",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-tresoms-2.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/les-tresoms-2/",
+      "canton": null,
+      "visit_date_fr": "17 août 2025",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "Spa Baron Tavernier",
+      "etab_slug": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/baron-tavernier-spa.jpg",
+      "etab_url_public": null,
+      "canton": "Vaud",
+      "visit_date_fr": "23 novembre 2025",
+      "saving_chf": 80
+    }
+  ]
+}
