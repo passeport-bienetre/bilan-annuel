@@ -1,0 +1,68 @@
+{
+  "name": "Imogen",
+  "window": {
+    "start": "13 juillet 2025",
+    "end": "13 juillet 2026"
+  },
+  "stats": {
+    "visites_total": 6,
+    "etabs_uniques": 6,
+    "economies_chf": 620
+  },
+  "visites": [
+    {
+      "etab_name": "Royal Savoy Hôtel & Spa",
+      "etab_slug": "royal-savoy-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/royal-savoy-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
+      "canton": "Vaud",
+      "visit_date_fr": "15 août 2025",
+      "saving_chf": 120
+    },
+    {
+      "etab_name": "Lausanne Palace & Spa",
+      "etab_slug": "lausanne-palace-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/lausanne-palace-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
+      "canton": "Vaud",
+      "visit_date_fr": "19 septembre 2025",
+      "saving_chf": 130
+    },
+    {
+      "etab_name": "Salon Privé Chailly",
+      "etab_slug": "salon-prive-chailly",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive-chailly.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/salon-prive-chailly/",
+      "canton": "Vaud",
+      "visit_date_fr": "8 octobre 2025",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "LAURA COIFFEUSE PRIVÉE",
+      "etab_slug": "laura-coiffeuse-privee",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/laura-coiffeuse-privee.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/laura-coiffeuse-privee/",
+      "canton": "Vaud",
+      "visit_date_fr": "10 février 2026",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "Le Mirador Resort & Spa",
+      "etab_slug": "le-mirador-resort-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
+      "canton": "Vaud",
+      "visit_date_fr": "12 février 2026",
+      "saving_chf": 120
+    },
+    {
+      "etab_name": "Hôtel Ermitage Spa des Quatre Terres",
+      "etab_slug": "hotel-ermitage-spa-des-quatre-terres",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-ermitage-spa-des-quatre-terres.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-ermitage-spa-des-quatre-terres/",
+      "canton": null,
+      "visit_date_fr": "3 mai 2026",
+      "saving_chf": 90
+    }
+  ]
+}
