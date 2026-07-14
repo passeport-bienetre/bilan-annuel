@@ -1,0 +1,32 @@
+{
+  "name": "Valerie",
+  "window": {
+    "start": "14 juillet 2025",
+    "end": "14 juillet 2026"
+  },
+  "stats": {
+    "visites_total": 2,
+    "etabs_uniques": 2,
+    "economies_chf": 202
+  },
+  "visites": [
+    {
+      "etab_name": "Spa Baron Tavernier",
+      "etab_slug": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/baron-tavernier-spa.jpg",
+      "etab_url_public": null,
+      "canton": "Vaud",
+      "visit_date_fr": "15 août 2025",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "Rituels Beauté",
+      "etab_slug": "rituels-beaute",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/rituels-beaute.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/rituels-beaute/",
+      "canton": "Vaud",
+      "visit_date_fr": "11 mars 2026",
+      "saving_chf": 122
+    }
+  ]
+}

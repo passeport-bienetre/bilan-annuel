@@ -1,0 +1,23 @@
+{
+  "name": "Geraldine",
+  "window": {
+    "start": "14 juillet 2025",
+    "end": "14 juillet 2026"
+  },
+  "stats": {
+    "visites_total": 1,
+    "etabs_uniques": 1,
+    "economies_chf": 80
+  },
+  "visites": [
+    {
+      "etab_name": "Spa Baron Tavernier",
+      "etab_slug": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/baron-tavernier-spa.jpg",
+      "etab_url_public": null,
+      "canton": "Vaud",
+      "visit_date_fr": "15 août 2025",
+      "saving_chf": 80
+    }
+  ]
+}
