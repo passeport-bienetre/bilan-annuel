@@ -1,0 +1,77 @@
+{
+  "name": "Amine",
+  "window": {
+    "start": "17 juillet 2025",
+    "end": "17 juillet 2026"
+  },
+  "stats": {
+    "visites_total": 7,
+    "etabs_uniques": 7,
+    "economies_chf": 668
+  },
+  "visites": [
+    {
+      "etab_name": "SPA BY CLARINS - HÔTEL MONT-BLANC CHAMONIX",
+      "etab_slug": "spa-by-clarins",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/spa-by-clarins.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/spa-by-clarins/",
+      "canton": null,
+      "visit_date_fr": "17 août 2025",
+      "saving_chf": 85
+    },
+    {
+      "etab_name": "Royal Savoy Hôtel & Spa",
+      "etab_slug": "royal-savoy-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/royal-savoy-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
+      "canton": "Vaud",
+      "visit_date_fr": "15 septembre 2025",
+      "saving_chf": 120
+    },
+    {
+      "etab_name": "Grand Hôtel du Lac",
+      "etab_slug": "grand-hotel-du-lac",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/grand-hotel-du-lac.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/",
+      "canton": "Vaud",
+      "visit_date_fr": "21 septembre 2025",
+      "saving_chf": 110
+    },
+    {
+      "etab_name": "Hôtel Schweizerhof Bern & Spa",
+      "etab_slug": "schweizerhof-bern-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/schweizerhof-bern-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/schweizerhof-bern-hotel-spa/",
+      "canton": "Berne",
+      "visit_date_fr": "3 octobre 2025",
+      "saving_chf": 110
+    },
+    {
+      "etab_name": "Le Mirador Resort & Spa",
+      "etab_slug": "le-mirador-resort-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
+      "canton": "Vaud",
+      "visit_date_fr": "17 novembre 2025",
+      "saving_chf": 120
+    },
+    {
+      "etab_name": "Institut ZenSkin",
+      "etab_slug": "institut-fs",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-fs.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-fs/",
+      "canton": "Vaud",
+      "visit_date_fr": "12 mars 2026",
+      "saving_chf": 52
+    },
+    {
+      "etab_name": "1er Acte Coiffure",
+      "etab_slug": "1er-acte-coiffure",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
+      "canton": "Vaud",
+      "visit_date_fr": "29 avril 2026",
+      "saving_chf": 70
+    }
+  ]
+}

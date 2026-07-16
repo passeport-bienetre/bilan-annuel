@@ -1,13 +1,13 @@
 {
   "name": "Christine",
   "window": {
-    "start": "15 juillet 2025",
-    "end": "15 juillet 2026"
+    "start": "17 juillet 2025",
+    "end": "17 juillet 2026"
   },
   "stats": {
-    "visites_total": 5,
-    "etabs_uniques": 5,
-    "economies_chf": 460
+    "visites_total": 6,
+    "etabs_uniques": 6,
+    "economies_chf": 528
   },
   "visites": [
     {
@@ -54,6 +54,15 @@
       "canton": "Vaud",
       "visit_date_fr": "2 juillet 2026",
       "saving_chf": 70
+    },
+    {
+      "etab_name": "La VILLA Kobido et Massage",
+      "etab_slug": "la-villa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-villa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/la-villa/",
+      "canton": "Vaud",
+      "visit_date_fr": "15 juillet 2026",
+      "saving_chf": 68
     }
   ]
 }

@@ -1,0 +1,23 @@
+{
+  "name": "denise",
+  "window": {
+    "start": "17 juillet 2025",
+    "end": "17 juillet 2026"
+  },
+  "stats": {
+    "visites_total": 1,
+    "etabs_uniques": 1,
+    "economies_chf": 100
+  },
+  "visites": [
+    {
+      "etab_name": "W Verbier",
+      "etab_slug": null,
+      "etab_photo_url": "https://www.spa-wverbier.com/resourcefiles/homeimages/le-spa-new-pool.jpg",
+      "etab_url_public": null,
+      "canton": "Valais",
+      "visit_date_fr": "17 août 2025",
+      "saving_chf": 100
+    }
+  ]
+}

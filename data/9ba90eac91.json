@@ -1,13 +1,13 @@
 {
   "name": "Elisabete",
   "window": {
-    "start": "15 juillet 2025",
-    "end": "15 juillet 2026"
+    "start": "17 juillet 2025",
+    "end": "17 juillet 2026"
   },
   "stats": {
-    "visites_total": 8,
-    "etabs_uniques": 8,
-    "economies_chf": 858
+    "visites_total": 9,
+    "etabs_uniques": 9,
+    "economies_chf": 938
   },
   "visites": [
     {
@@ -81,6 +81,15 @@
       "canton": "Vaud",
       "visit_date_fr": "14 mai 2026",
       "saving_chf": 120
+    },
+    {
+      "etab_name": "LAURA COIFFEUSE PRIVÉE",
+      "etab_slug": "laura-coiffeuse-privee",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/laura-coiffeuse-privee.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/laura-coiffeuse-privee/",
+      "canton": "Vaud",
+      "visit_date_fr": "15 juillet 2026",
+      "saving_chf": 80
     }
   ]
 }

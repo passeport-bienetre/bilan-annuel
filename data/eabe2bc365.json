@@ -1,13 +1,13 @@
 {
   "name": "Adeline",
   "window": {
-    "start": "15 juillet 2025",
-    "end": "15 juillet 2026"
+    "start": "17 juillet 2025",
+    "end": "17 juillet 2026"
   },
   "stats": {
-    "visites_total": 6,
-    "etabs_uniques": 6,
-    "economies_chf": 370
+    "visites_total": 7,
+    "etabs_uniques": 7,
+    "economies_chf": 470
   },
   "visites": [
     {
@@ -63,6 +63,15 @@
       "canton": "Neuchâtel",
       "visit_date_fr": "16 juin 2026",
       "saving_chf": 65
+    },
+    {
+      "etab_name": "Lumen Spa & Wellness",
+      "etab_slug": "lumen-spa-wellness",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/lumen-spa-wellness.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/lumen-spa-wellness/",
+      "canton": "Valais",
+      "visit_date_fr": "15 juillet 2026",
+      "saving_chf": 100
     }
   ]
 }
