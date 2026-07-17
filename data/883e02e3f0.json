@@ -1,13 +1,13 @@
 {
   "name": "Morgane",
   "window": {
-    "start": "16 juillet 2025",
-    "end": "16 juillet 2026"
+    "start": "17 juillet 2025",
+    "end": "17 juillet 2026"
   },
   "stats": {
-    "visites_total": 4,
-    "etabs_uniques": 4,
-    "economies_chf": 385
+    "visites_total": 5,
+    "etabs_uniques": 5,
+    "economies_chf": 505
   },
   "visites": [
     {
@@ -45,6 +45,15 @@
       "canton": "Vaud",
       "visit_date_fr": "8 avril 2026",
       "saving_chf": 110
+    },
+    {
+      "etab_name": "Royal Savoy Hôtel & Spa",
+      "etab_slug": "royal-savoy-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/royal-savoy-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
+      "canton": "Vaud",
+      "visit_date_fr": "16 juillet 2026",
+      "saving_chf": 120
     }
   ]
 }

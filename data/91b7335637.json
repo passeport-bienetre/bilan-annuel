@@ -1,0 +1,23 @@
+{
+  "name": "Béatrice",
+  "window": {
+    "start": "17 juillet 2025",
+    "end": "17 juillet 2026"
+  },
+  "stats": {
+    "visites_total": 1,
+    "etabs_uniques": 1,
+    "economies_chf": 45
+  },
+  "visites": [
+    {
+      "etab_name": "LES BAINS PUBLICS",
+      "etab_slug": "les-bains-publics",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-bains-publics.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/les-bains-publics/",
+      "canton": "Valais",
+      "visit_date_fr": "16 juillet 2026",
+      "saving_chf": 45
+    }
+  ]
+}

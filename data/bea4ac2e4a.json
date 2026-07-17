@@ -1,13 +1,13 @@
 {
   "name": "Célia",
   "window": {
-    "start": "16 juillet 2025",
-    "end": "16 juillet 2026"
+    "start": "17 juillet 2025",
+    "end": "17 juillet 2026"
   },
   "stats": {
-    "visites_total": 9,
-    "etabs_uniques": 9,
-    "economies_chf": 710
+    "visites_total": 10,
+    "etabs_uniques": 10,
+    "economies_chf": 836
   },
   "visites": [
     {
@@ -90,6 +90,15 @@
       "canton": "Vaud",
       "visit_date_fr": "10 juillet 2026",
       "saving_chf": 52
+    },
+    {
+      "etab_name": "Arte Beauty Lutry",
+      "etab_slug": "arte-beauty-lutry",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-lutry.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
+      "canton": "Vaud",
+      "visit_date_fr": "16 juillet 2026",
+      "saving_chf": 125
     }
   ]
 }
