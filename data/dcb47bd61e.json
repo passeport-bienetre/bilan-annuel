@@ -1,5 +1,5 @@
 {
-  "name": "Geraldine",
+  "name": "Victoria",
   "window": {
     "start": "18 juillet 2025",
     "end": "18 juillet 2026"
@@ -11,12 +11,12 @@
   },
   "visites": [
     {
-      "etab_name": "Spa Baron Tavernier",
+      "etab_name": "VAGHEGGI Phyto Space Lausanne",
       "etab_slug": null,
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/baron-tavernier-spa.jpg",
+      "etab_photo_url": "https://phytospace.ch/wp-content/uploads/2023/12/1-1024x1024.webp",
       "etab_url_public": null,
       "canton": "Vaud",
-      "visit_date_fr": "15 août 2025",
+      "visit_date_fr": "19 août 2025",
       "saving_chf": 80
     }
   ]
