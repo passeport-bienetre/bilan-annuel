@@ -1,13 +1,13 @@
 {
   "name": "Odile",
   "window": {
-    "start": "18 juillet 2025",
-    "end": "18 juillet 2026"
+    "start": "19 juillet 2025",
+    "end": "19 juillet 2026"
   },
   "stats": {
-    "visites_total": 1,
-    "etabs_uniques": 1,
-    "economies_chf": 100
+    "visites_total": 2,
+    "etabs_uniques": 2,
+    "economies_chf": 333
   },
   "visites": [
     {
@@ -18,6 +18,15 @@
       "canton": "Valais",
       "visit_date_fr": "2 août 2025",
       "saving_chf": 100
+    },
+    {
+      "etab_name": "HÔTEL ROYAL",
+      "etab_slug": "hotel-royal",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-royal.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-royal/",
+      "canton": "Valais",
+      "visit_date_fr": "18 juillet 2026",
+      "saving_chf": 233
     }
   ]
 }

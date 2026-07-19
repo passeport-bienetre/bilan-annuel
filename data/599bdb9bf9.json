@@ -1,13 +1,13 @@
 {
   "name": "Christelle",
   "window": {
-    "start": "18 juillet 2025",
-    "end": "18 juillet 2026"
+    "start": "19 juillet 2025",
+    "end": "19 juillet 2026"
   },
   "stats": {
-    "visites_total": 6,
-    "etabs_uniques": 6,
-    "economies_chf": 513
+    "visites_total": 7,
+    "etabs_uniques": 7,
+    "economies_chf": 638
   },
   "visites": [
     {
@@ -62,6 +62,15 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/",
       "canton": "Vaud",
       "visit_date_fr": "13 juillet 2026",
+      "saving_chf": 125
+    },
+    {
+      "etab_name": "Arte Beauty Lutry",
+      "etab_slug": "arte-beauty-lutry",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-lutry.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
+      "canton": "Vaud",
+      "visit_date_fr": "18 juillet 2026",
       "saving_chf": 125
     }
   ]
