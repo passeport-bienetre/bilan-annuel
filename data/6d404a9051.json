@@ -1,0 +1,41 @@
+{
+  "name": "Nathalie",
+  "window": {
+    "start": "21 juillet 2025",
+    "end": "21 juillet 2026"
+  },
+  "stats": {
+    "visites_total": 3,
+    "etabs_uniques": 3,
+    "economies_chf": 239
+  },
+  "visites": [
+    {
+      "etab_name": "Tête à Clak",
+      "etab_slug": "tete-a-clak",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/tete-a-clak.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/tete-a-clak/",
+      "canton": null,
+      "visit_date_fr": "11 septembre 2025",
+      "saving_chf": 58
+    },
+    {
+      "etab_name": "BuiCil Genève",
+      "etab_slug": "buicil-geneve",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/buicil-geneve.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/buicil-geneve/",
+      "canton": "Genève",
+      "visit_date_fr": "8 octobre 2025",
+      "saving_chf": 60
+    },
+    {
+      "etab_name": "RUBIS SPA",
+      "etab_slug": "rubis-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/rubis-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/rubis-spa/",
+      "canton": "Vaud",
+      "visit_date_fr": "29 avril 2026",
+      "saving_chf": 121
+    }
+  ]
+}

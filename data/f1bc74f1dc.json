@@ -1,0 +1,41 @@
+{
+  "name": "Catherine",
+  "window": {
+    "start": "21 juillet 2025",
+    "end": "21 juillet 2026"
+  },
+  "stats": {
+    "visites_total": 3,
+    "etabs_uniques": 3,
+    "economies_chf": 270
+  },
+  "visites": [
+    {
+      "etab_name": "FLEUR D’EPIDERME",
+      "etab_slug": "fleur-depiderme",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/fleur-depiderme.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/fleur-depiderme/",
+      "canton": "Genève",
+      "visit_date_fr": "11 novembre 2025",
+      "saving_chf": 140
+    },
+    {
+      "etab_name": "19th AVENUE - Versonnex",
+      "etab_slug": "versonnex",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/versonnex.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/versonnex/",
+      "canton": "Genève",
+      "visit_date_fr": "23 décembre 2025",
+      "saving_chf": 60
+    },
+    {
+      "etab_name": "SUBLIMEYES",
+      "etab_slug": "institut-sublimeyes",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-sublimeyes.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-sublimeyes/",
+      "canton": "Genève",
+      "visit_date_fr": "23 mars 2026",
+      "saving_chf": 70
+    }
+  ]
+}

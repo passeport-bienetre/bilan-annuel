@@ -1,0 +1,59 @@
+{
+  "name": "Garima",
+  "window": {
+    "start": "21 juillet 2025",
+    "end": "21 juillet 2026"
+  },
+  "stats": {
+    "visites_total": 5,
+    "etabs_uniques": 5,
+    "economies_chf": 420
+  },
+  "visites": [
+    {
+      "etab_name": "Saai Nam Massage - Manor",
+      "etab_slug": "saai-nam-massage-manor",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/saai-nam-massage-manor.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/saai-nam-massage-manor/",
+      "canton": "Genève",
+      "visit_date_fr": "22 août 2025",
+      "saving_chf": 95
+    },
+    {
+      "etab_name": "Bhumi",
+      "etab_slug": "biotonique-institut",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/biotonique-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/biotonique-institut/",
+      "canton": "Vaud",
+      "visit_date_fr": "6 septembre 2025",
+      "saving_chf": 65
+    },
+    {
+      "etab_name": "Nirvana Spa",
+      "etab_slug": null,
+      "etab_photo_url": "https://nirvana-privatespa.ch/wp-content/uploads/SPA-privatif-nirvana-1.jpg",
+      "etab_url_public": null,
+      "canton": " ",
+      "visit_date_fr": "13 septembre 2025",
+      "saving_chf": 70
+    },
+    {
+      "etab_name": "Odyssée Santé & Beauté",
+      "etab_slug": "odyssee-sante-beaute",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/odyssee-sante-beaute.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/odyssee-sante-beaute/",
+      "canton": "Vaud",
+      "visit_date_fr": "7 février 2026",
+      "saving_chf": 65
+    },
+    {
+      "etab_name": "Arte Beauty Lutry",
+      "etab_slug": "arte-beauty-lutry",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-lutry.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
+      "canton": "Vaud",
+      "visit_date_fr": "21 février 2026",
+      "saving_chf": 125
+    }
+  ]
+}
