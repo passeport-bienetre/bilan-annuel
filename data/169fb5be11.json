@@ -1,23 +1,23 @@
 {
   "name": "Bernard",
   "window": {
-    "start": "21 juillet 2025",
-    "end": "21 juillet 2026"
+    "start": "22 juillet 2025",
+    "end": "22 juillet 2026"
   },
   "stats": {
     "visites_total": 2,
     "etabs_uniques": 2,
-    "economies_chf": 195
+    "economies_chf": 200
   },
   "visites": [
     {
       "etab_name": "Les Cliniques Matignon",
       "etab_slug": null,
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-cliniques-matignon--capsule-geneve-clinique-matignon.jpg",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-cliniques-matignon--geneve.jpg",
       "etab_url_public": null,
       "canton": " ",
       "visit_date_fr": "12 août 2025",
-      "saving_chf": 85
+      "saving_chf": 90
     },
     {
       "etab_name": "Grand Hôtel du Lac",
