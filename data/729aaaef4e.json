@@ -5,9 +5,9 @@
     "end": "25 juillet 2026"
   },
   "stats": {
-    "visites_total": 11,
-    "etabs_uniques": 11,
-    "economies_chf": 1035
+    "visites_total": 12,
+    "etabs_uniques": 12,
+    "economies_chf": 1155
   },
   "visites": [
     {
@@ -108,6 +108,15 @@
       "canton": "Genève",
       "visit_date_fr": "15 mai 2026",
       "saving_chf": 80
+    },
+    {
+      "etab_name": "Maison B",
+      "etab_slug": "maison-b",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-b.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/maison-b/",
+      "canton": null,
+      "visit_date_fr": "24 juillet 2026",
+      "saving_chf": 120
     }
   ]
 }
