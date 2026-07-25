@@ -1,13 +1,13 @@
 {
   "name": "Nathalie",
   "window": {
-    "start": "24 juillet 2025",
-    "end": "24 juillet 2026"
+    "start": "25 juillet 2025",
+    "end": "25 juillet 2026"
   },
   "stats": {
     "visites_total": 3,
     "etabs_uniques": 3,
-    "economies_chf": 239
+    "economies_chf": 251
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/tete-a-clak/",
       "canton": null,
       "visit_date_fr": "11 septembre 2025",
-      "saving_chf": 58
+      "saving_chf": 70
     },
     {
       "etab_name": "BuiCil Genève",

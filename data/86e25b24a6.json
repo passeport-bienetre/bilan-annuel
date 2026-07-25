@@ -1,13 +1,13 @@
 {
   "name": "Florence",
   "window": {
-    "start": "24 juillet 2025",
-    "end": "24 juillet 2026"
+    "start": "25 juillet 2025",
+    "end": "25 juillet 2026"
   },
   "stats": {
     "visites_total": 3,
     "etabs_uniques": 3,
-    "economies_chf": 295
+    "economies_chf": 310
   },
   "visites": [
     {
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/le-st-gervais-hotel-spa/",
       "canton": "Valais",
       "visit_date_fr": "7 mars 2026",
-      "saving_chf": 85
+      "saving_chf": 100
     }
   ]
 }

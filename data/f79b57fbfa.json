@@ -1,13 +1,13 @@
 {
   "name": "Cynthia",
   "window": {
-    "start": "24 juillet 2025",
-    "end": "24 juillet 2026"
+    "start": "25 juillet 2025",
+    "end": "25 juillet 2026"
   },
   "stats": {
     "visites_total": 5,
     "etabs_uniques": 5,
-    "economies_chf": 391
+    "economies_chf": 405
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/signature-coiffure/",
       "canton": "Vaud",
       "visit_date_fr": "8 août 2025",
-      "saving_chf": 58
+      "saving_chf": 65
     },
     {
       "etab_name": "LES TRESOMS",
@@ -53,7 +53,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/nail-cafe/",
       "canton": "Vaud",
       "visit_date_fr": "6 juin 2026",
-      "saving_chf": 58
+      "saving_chf": 65
     }
   ]
 }

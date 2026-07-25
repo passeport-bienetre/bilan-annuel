@@ -1,13 +1,13 @@
 {
   "name": "Lucie",
   "window": {
-    "start": "24 juillet 2025",
-    "end": "24 juillet 2026"
+    "start": "25 juillet 2025",
+    "end": "25 juillet 2026"
   },
   "stats": {
     "visites_total": 4,
     "etabs_uniques": 4,
-    "economies_chf": 330
+    "economies_chf": 315
   },
   "visites": [
     {
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/organik-beauty/",
       "canton": "Vaud",
       "visit_date_fr": "29 janvier 2026",
-      "saving_chf": 105
+      "saving_chf": 90
     },
     {
       "etab_name": "Intuition Massage",

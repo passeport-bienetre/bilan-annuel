@@ -1,13 +1,13 @@
 {
   "name": "Eva-Maria",
   "window": {
-    "start": "24 juillet 2025",
-    "end": "24 juillet 2026"
+    "start": "25 juillet 2025",
+    "end": "25 juillet 2026"
   },
   "stats": {
     "visites_total": 6,
     "etabs_uniques": 6,
-    "economies_chf": 634
+    "economies_chf": 621
   },
   "visites": [
     {
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-ehl/",
       "canton": null,
       "visit_date_fr": "1 octobre 2025",
-      "saving_chf": 125
+      "saving_chf": 110
     },
     {
       "etab_name": "La VILLA Kobido et Massage",
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/la-villa/",
       "canton": "Vaud",
       "visit_date_fr": "8 octobre 2025",
-      "saving_chf": 68
+      "saving_chf": 70
     },
     {
       "etab_name": "Le Mirador Resort & Spa",

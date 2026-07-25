@@ -1,13 +1,13 @@
 {
   "name": "Viviane",
   "window": {
-    "start": "24 juillet 2025",
-    "end": "24 juillet 2026"
+    "start": "25 juillet 2025",
+    "end": "25 juillet 2026"
   },
   "stats": {
     "visites_total": 5,
     "etabs_uniques": 5,
-    "economies_chf": 425
+    "economies_chf": 440
   },
   "visites": [
     {
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/swiss-beauty-studio/",
       "canton": "Genève",
       "visit_date_fr": "9 septembre 2025",
-      "saving_chf": 45
+      "saving_chf": 60
     },
     {
       "etab_name": "SPA BY CLARINS - HÔTEL MONT-BLANC CHAMONIX",

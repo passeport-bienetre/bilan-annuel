@@ -1,13 +1,13 @@
 {
   "name": "Vietanh",
   "window": {
-    "start": "24 juillet 2025",
-    "end": "24 juillet 2026"
+    "start": "25 juillet 2025",
+    "end": "25 juillet 2026"
   },
   "stats": {
     "visites_total": 3,
     "etabs_uniques": 3,
-    "economies_chf": 210
+    "economies_chf": 220
   },
   "visites": [
     {
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/glow-in-geneva/",
       "canton": "Genève",
       "visit_date_fr": "1 septembre 2025",
-      "saving_chf": 70
+      "saving_chf": 80
     },
     {
       "etab_name": "Serenityblue",

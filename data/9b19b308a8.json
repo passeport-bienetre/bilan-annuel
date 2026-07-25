@@ -1,13 +1,13 @@
 {
   "name": "Laura",
   "window": {
-    "start": "24 juillet 2025",
-    "end": "24 juillet 2026"
+    "start": "25 juillet 2025",
+    "end": "25 juillet 2026"
   },
   "stats": {
     "visites_total": 11,
     "etabs_uniques": 11,
-    "economies_chf": 1215
+    "economies_chf": 1185
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/",
       "canton": "Vaud",
       "visit_date_fr": "23 août 2025",
-      "saving_chf": 125
+      "saving_chf": 110
     },
     {
       "etab_name": "Royal Savoy Hôtel & Spa",
@@ -107,7 +107,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-ehl/",
       "canton": null,
       "visit_date_fr": "30 juin 2026",
-      "saving_chf": 125
+      "saving_chf": 110
     }
   ]
 }

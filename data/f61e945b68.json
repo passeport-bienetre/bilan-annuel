@@ -1,13 +1,13 @@
 {
   "name": "Amine",
   "window": {
-    "start": "24 juillet 2025",
-    "end": "24 juillet 2026"
+    "start": "25 juillet 2025",
+    "end": "25 juillet 2026"
   },
   "stats": {
     "visites_total": 7,
     "etabs_uniques": 7,
-    "economies_chf": 668
+    "economies_chf": 680
   },
   "visites": [
     {
@@ -62,7 +62,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/institut-fs/",
       "canton": "Vaud",
       "visit_date_fr": "12 mars 2026",
-      "saving_chf": 52
+      "saving_chf": 65
     },
     {
       "etab_name": "1er Acte Coiffure",

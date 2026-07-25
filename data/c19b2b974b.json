@@ -1,13 +1,13 @@
 {
   "name": "Valerie",
   "window": {
-    "start": "24 juillet 2025",
-    "end": "24 juillet 2026"
+    "start": "25 juillet 2025",
+    "end": "25 juillet 2026"
   },
   "stats": {
     "visites_total": 2,
     "etabs_uniques": 2,
-    "economies_chf": 202
+    "economies_chf": 200
   },
   "visites": [
     {
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/rituels-beaute/",
       "canton": "Vaud",
       "visit_date_fr": "11 mars 2026",
-      "saving_chf": 122
+      "saving_chf": 120
     }
   ]
 }

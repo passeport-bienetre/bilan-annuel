@@ -1,13 +1,13 @@
 {
   "name": "Sylvie",
   "window": {
-    "start": "24 juillet 2025",
-    "end": "24 juillet 2026"
+    "start": "25 juillet 2025",
+    "end": "25 juillet 2026"
   },
   "stats": {
     "visites_total": 7,
     "etabs_uniques": 7,
-    "economies_chf": 468
+    "economies_chf": 510
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/institut-beaute-bertmans/",
       "canton": "Vaud",
       "visit_date_fr": "24 septembre 2025",
-      "saving_chf": 48
+      "saving_chf": 60
     },
     {
       "etab_name": "Institut Osmose",
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/nail-cafe/",
       "canton": "Vaud",
       "visit_date_fr": "21 octobre 2025",
-      "saving_chf": 58
+      "saving_chf": 65
     },
     {
       "etab_name": "Swiss Aesthetica",
@@ -53,7 +53,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/espace-beaute-sarah/",
       "canton": "Vaud",
       "visit_date_fr": "13 avril 2026",
-      "saving_chf": 50
+      "saving_chf": 60
     },
     {
       "etab_name": "Institut ZenSkin",
@@ -62,7 +62,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/institut-fs/",
       "canton": "Vaud",
       "visit_date_fr": "4 mai 2026",
-      "saving_chf": 52
+      "saving_chf": 65
     },
     {
       "etab_name": "Institut Guinot",

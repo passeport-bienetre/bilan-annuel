@@ -1,13 +1,13 @@
 {
   "name": "Clémence",
   "window": {
-    "start": "24 juillet 2025",
-    "end": "24 juillet 2026"
+    "start": "25 juillet 2025",
+    "end": "25 juillet 2026"
   },
   "stats": {
     "visites_total": 5,
     "etabs_uniques": 5,
-    "economies_chf": 463
+    "economies_chf": 470
   },
   "visites": [
     {
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/corps-sains/",
       "canton": "Genève",
       "visit_date_fr": "15 octobre 2025",
-      "saving_chf": 63
+      "saving_chf": 70
     },
     {
       "etab_name": "Lausanne Palace & Spa",

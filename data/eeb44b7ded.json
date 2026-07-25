@@ -1,13 +1,13 @@
 {
   "name": "Marion",
   "window": {
-    "start": "24 juillet 2025",
-    "end": "24 juillet 2026"
+    "start": "25 juillet 2025",
+    "end": "25 juillet 2026"
   },
   "stats": {
     "visites_total": 2,
     "etabs_uniques": 2,
-    "economies_chf": 210
+    "economies_chf": 240
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/",
       "canton": "Genève",
       "visit_date_fr": "21 août 2025",
-      "saving_chf": 60
+      "saving_chf": 90
     },
     {
       "etab_name": "LE ST-GERVAIS HÔTEL & SPA",

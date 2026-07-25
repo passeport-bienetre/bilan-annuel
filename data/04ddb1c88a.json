@@ -1,13 +1,13 @@
 {
   "name": "Marlène",
   "window": {
-    "start": "24 juillet 2025",
-    "end": "24 juillet 2026"
+    "start": "25 juillet 2025",
+    "end": "25 juillet 2026"
   },
   "stats": {
     "visites_total": 3,
     "etabs_uniques": 3,
-    "economies_chf": 188
+    "economies_chf": 190
   },
   "visites": [
     {
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/cs-caro-creation-studio/",
       "canton": "Neuchâtel",
       "visit_date_fr": "5 juin 2026",
-      "saving_chf": 58
+      "saving_chf": 60
     }
   ]
 }

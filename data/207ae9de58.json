@@ -1,13 +1,13 @@
 {
   "name": "Lucia",
   "window": {
-    "start": "24 juillet 2025",
-    "end": "24 juillet 2026"
+    "start": "25 juillet 2025",
+    "end": "25 juillet 2026"
   },
   "stats": {
     "visites_total": 4,
     "etabs_uniques": 4,
-    "economies_chf": 365
+    "economies_chf": 340
   },
   "visites": [
     {
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/urban-spa/",
       "canton": "Fribourg",
       "visit_date_fr": "18 novembre 2025",
-      "saving_chf": 90
+      "saving_chf": 65
     },
     {
       "etab_name": "KASA AMO",

@@ -1,13 +1,13 @@
 {
   "name": "Camille",
   "window": {
-    "start": "24 juillet 2025",
-    "end": "24 juillet 2026"
+    "start": "25 juillet 2025",
+    "end": "25 juillet 2026"
   },
   "stats": {
     "visites_total": 4,
     "etabs_uniques": 4,
-    "economies_chf": 358
+    "economies_chf": 360
   },
   "visites": [
     {
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/la-villa/",
       "canton": "Vaud",
       "visit_date_fr": "6 janvier 2026",
-      "saving_chf": 68
+      "saving_chf": 70
     },
     {
       "etab_name": "LES TRESOMS",

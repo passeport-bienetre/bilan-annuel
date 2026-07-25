@@ -1,13 +1,13 @@
 {
   "name": "Sandra",
   "window": {
-    "start": "24 juillet 2025",
-    "end": "24 juillet 2026"
+    "start": "25 juillet 2025",
+    "end": "25 juillet 2026"
   },
   "stats": {
     "visites_total": 1,
     "etabs_uniques": 1,
-    "economies_chf": 60
+    "economies_chf": 90
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/",
       "canton": "Genève",
       "visit_date_fr": "4 septembre 2025",
-      "saving_chf": 60
+      "saving_chf": 90
     }
   ]
 }

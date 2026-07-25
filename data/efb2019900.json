@@ -1,13 +1,13 @@
 {
   "name": "Monique",
   "window": {
-    "start": "24 juillet 2025",
-    "end": "24 juillet 2026"
+    "start": "25 juillet 2025",
+    "end": "25 juillet 2026"
   },
   "stats": {
     "visites_total": 3,
     "etabs_uniques": 3,
-    "economies_chf": 255
+    "economies_chf": 245
   },
   "visites": [
     {
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-ehl/",
       "canton": null,
       "visit_date_fr": "19 décembre 2025",
-      "saving_chf": 125
+      "saving_chf": 110
     },
     {
       "etab_name": "EssenCiel Institut",
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/essenciel-institut/",
       "canton": "Fribourg",
       "visit_date_fr": "13 janvier 2026",
-      "saving_chf": 65
+      "saving_chf": 70
     }
   ]
 }

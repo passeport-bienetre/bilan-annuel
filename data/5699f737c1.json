@@ -1,13 +1,13 @@
 {
   "name": "Monika",
   "window": {
-    "start": "24 juillet 2025",
-    "end": "24 juillet 2026"
+    "start": "25 juillet 2025",
+    "end": "25 juillet 2026"
   },
   "stats": {
     "visites_total": 7,
     "etabs_uniques": 7,
-    "economies_chf": 565
+    "economies_chf": 525
   },
   "visites": [
     {
@@ -53,7 +53,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/urban-spa/",
       "canton": "Fribourg",
       "visit_date_fr": "12 janvier 2026",
-      "saving_chf": 90
+      "saving_chf": 65
     },
     {
       "etab_name": "Salon Privé Chailly",
@@ -71,7 +71,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/",
       "canton": "Vaud",
       "visit_date_fr": "22 juin 2026",
-      "saving_chf": 125
+      "saving_chf": 110
     }
   ]
 }

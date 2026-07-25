@@ -1,13 +1,13 @@
 {
   "name": "Kim",
   "window": {
-    "start": "24 juillet 2025",
-    "end": "24 juillet 2026"
+    "start": "25 juillet 2025",
+    "end": "25 juillet 2026"
   },
   "stats": {
     "visites_total": 5,
     "etabs_uniques": 5,
-    "economies_chf": 375
+    "economies_chf": 415
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/glow-in-geneva/",
       "canton": "Genève",
       "visit_date_fr": "25 août 2025",
-      "saving_chf": 70
+      "saving_chf": 80
     },
     {
       "etab_name": "EVERNESS <br>Hôtel & Resort",
@@ -53,7 +53,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/",
       "canton": "Genève",
       "visit_date_fr": "21 mai 2026",
-      "saving_chf": 60
+      "saving_chf": 90
     }
   ]
 }

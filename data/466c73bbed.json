@@ -1,13 +1,13 @@
 {
   "name": "Karen",
   "window": {
-    "start": "24 juillet 2025",
-    "end": "24 juillet 2026"
+    "start": "25 juillet 2025",
+    "end": "25 juillet 2026"
   },
   "stats": {
     "visites_total": 7,
     "etabs_uniques": 7,
-    "economies_chf": 615
+    "economies_chf": 595
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/thai-corner-3/",
       "canton": "Genève",
       "visit_date_fr": "20 août 2025",
-      "saving_chf": 100
+      "saving_chf": 80
     },
     {
       "etab_name": "Saai Nam Massage - Manor",
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/swiss-beauty-studio/",
       "canton": "Genève",
       "visit_date_fr": "2 décembre 2025",
-      "saving_chf": 45
+      "saving_chf": 60
     },
     {
       "etab_name": "Skin Solution",
@@ -62,7 +62,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/thaiotop-3/",
       "canton": "Genève",
       "visit_date_fr": "12 juin 2026",
-      "saving_chf": 95
+      "saving_chf": 80
     },
     {
       "etab_name": "Le Cabinet de Beauté",

@@ -1,13 +1,13 @@
 {
   "name": "Sonia",
   "window": {
-    "start": "24 juillet 2025",
-    "end": "24 juillet 2026"
+    "start": "25 juillet 2025",
+    "end": "25 juillet 2026"
   },
   "stats": {
     "visites_total": 20,
     "etabs_uniques": 20,
-    "economies_chf": 1687
+    "economies_chf": 1685
   },
   "visites": [
     {
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/tete-a-clak/",
       "canton": null,
       "visit_date_fr": "8 octobre 2025",
-      "saving_chf": 58
+      "saving_chf": 70
     },
     {
       "etab_name": "Urban Spa",
@@ -44,7 +44,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/urban-spa/",
       "canton": "Fribourg",
       "visit_date_fr": "20 octobre 2025",
-      "saving_chf": 90
+      "saving_chf": 65
     },
     {
       "etab_name": "Arte Beauty Lutry",
@@ -53,7 +53,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
       "canton": "Vaud",
       "visit_date_fr": "13 novembre 2025",
-      "saving_chf": 125
+      "saving_chf": 110
     },
     {
       "etab_name": "Luna aesthetic",
@@ -98,7 +98,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/les-vagabondes/",
       "canton": "Vaud",
       "visit_date_fr": "31 décembre 2025",
-      "saving_chf": 50
+      "saving_chf": 60
     },
     {
       "etab_name": "Le Grand Bellevue Spa",
@@ -143,7 +143,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/corps-et-sons/",
       "canton": "Vaud",
       "visit_date_fr": "5 mars 2026",
-      "saving_chf": 62
+      "saving_chf": 65
     },
     {
       "etab_name": "Tempête de Calme",
@@ -152,7 +152,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/tempete-de-calme/",
       "canton": "Vaud",
       "visit_date_fr": "16 avril 2026",
-      "saving_chf": 65
+      "saving_chf": 70
     },
     {
       "etab_name": "Vogue La Coiffure",
@@ -170,7 +170,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/le-passage/",
       "canton": "Vaud",
       "visit_date_fr": "8 mai 2026",
-      "saving_chf": 62
+      "saving_chf": 70
     },
     {
       "etab_name": "Lumen Spa & Wellness",

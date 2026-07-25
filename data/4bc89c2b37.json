@@ -1,13 +1,13 @@
 {
   "name": "Krista",
   "window": {
-    "start": "24 juillet 2025",
-    "end": "24 juillet 2026"
+    "start": "25 juillet 2025",
+    "end": "25 juillet 2026"
   },
   "stats": {
     "visites_total": 3,
     "etabs_uniques": 3,
-    "economies_chf": 290
+    "economies_chf": 300
   },
   "visites": [
     {
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/les-petits-pieds-du-bonheur/",
       "canton": "Genève",
       "visit_date_fr": "31 juillet 2025",
-      "saving_chf": 50
+      "saving_chf": 60
     },
     {
       "etab_name": "Experimental Chalet",

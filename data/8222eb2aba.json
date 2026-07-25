@@ -1,13 +1,13 @@
 {
   "name": "Valerie",
   "window": {
-    "start": "24 juillet 2025",
-    "end": "24 juillet 2026"
+    "start": "25 juillet 2025",
+    "end": "25 juillet 2026"
   },
   "stats": {
     "visites_total": 13,
     "etabs_uniques": 13,
-    "economies_chf": 1096
+    "economies_chf": 1121
   },
   "visites": [
     {
@@ -53,7 +53,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/karre-long-3/",
       "canton": "Vaud",
       "visit_date_fr": "11 décembre 2025",
-      "saving_chf": 58
+      "saving_chf": 65
     },
     {
       "etab_name": "Salon Privé Ecublens",
@@ -89,7 +89,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/le-st-gervais-hotel-spa/",
       "canton": "Valais",
       "visit_date_fr": "6 mars 2026",
-      "saving_chf": 85
+      "saving_chf": 100
     },
     {
       "etab_name": "Salon Privé Gare",
@@ -98,7 +98,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/salon-prive/",
       "canton": "Vaud",
       "visit_date_fr": "11 mars 2026",
-      "saving_chf": 62
+      "saving_chf": 80
     },
     {
       "etab_name": "Arte Beauty Lutry",
@@ -107,7 +107,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
       "canton": "Vaud",
       "visit_date_fr": "8 avril 2026",
-      "saving_chf": 125
+      "saving_chf": 110
     },
     {
       "etab_name": "LAURA COIFFEUSE PRIVÉE",

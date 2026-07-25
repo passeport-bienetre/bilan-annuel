@@ -1,13 +1,13 @@
 {
   "name": "Alexandra",
   "window": {
-    "start": "24 juillet 2025",
-    "end": "24 juillet 2026"
+    "start": "25 juillet 2025",
+    "end": "25 juillet 2026"
   },
   "stats": {
     "visites_total": 1,
     "etabs_uniques": 1,
-    "economies_chf": 65
+    "economies_chf": 70
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/biotonique-institut/",
       "canton": "Vaud",
       "visit_date_fr": "30 juillet 2025",
-      "saving_chf": 65
+      "saving_chf": 70
     }
   ]
 }

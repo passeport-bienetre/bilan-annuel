@@ -1,13 +1,13 @@
 {
   "name": "Célia",
   "window": {
-    "start": "24 juillet 2025",
-    "end": "24 juillet 2026"
+    "start": "25 juillet 2025",
+    "end": "25 juillet 2026"
   },
   "stats": {
     "visites_total": 10,
     "etabs_uniques": 10,
-    "economies_chf": 836
+    "economies_chf": 845
   },
   "visites": [
     {
@@ -53,7 +53,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/",
       "canton": "Vaud",
       "visit_date_fr": "7 novembre 2025",
-      "saving_chf": 125
+      "saving_chf": 110
     },
     {
       "etab_name": "CJ Coiffure",
@@ -62,7 +62,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/cj-coiffure/",
       "canton": "Vaud",
       "visit_date_fr": "31 décembre 2025",
-      "saving_chf": 60
+      "saving_chf": 80
     },
     {
       "etab_name": "LAURA COIFFEUSE PRIVÉE",
@@ -80,7 +80,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/signature-coiffure/",
       "canton": "Vaud",
       "visit_date_fr": "12 juin 2026",
-      "saving_chf": 58
+      "saving_chf": 65
     },
     {
       "etab_name": "Institut ZenSkin",
@@ -89,7 +89,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/institut-fs/",
       "canton": "Vaud",
       "visit_date_fr": "10 juillet 2026",
-      "saving_chf": 52
+      "saving_chf": 65
     },
     {
       "etab_name": "Arte Beauty Lutry",
@@ -98,7 +98,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
       "canton": "Vaud",
       "visit_date_fr": "16 juillet 2026",
-      "saving_chf": 125
+      "saving_chf": 110
     }
   ]
 }

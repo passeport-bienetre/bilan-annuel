@@ -1,0 +1,50 @@
+{
+  "name": "Karin",
+  "window": {
+    "start": "25 juillet 2025",
+    "end": "25 juillet 2026"
+  },
+  "stats": {
+    "visites_total": 4,
+    "etabs_uniques": 4,
+    "economies_chf": 300
+  },
+  "visites": [
+    {
+      "etab_name": "Salon Privé Gare",
+      "etab_slug": "salon-prive",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/salon-prive/",
+      "canton": "Vaud",
+      "visit_date_fr": "6 octobre 2025",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "Salon Privé Ecublens",
+      "etab_slug": "salon-prive-ecublens",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive-ecublens.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/salon-prive-ecublens/",
+      "canton": "Vaud",
+      "visit_date_fr": "6 février 2026",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "Salon Privé Chailly",
+      "etab_slug": "salon-prive-chailly",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive-chailly.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/salon-prive-chailly/",
+      "canton": "Vaud",
+      "visit_date_fr": "4 avril 2026",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "Guess What",
+      "etab_slug": "guess-what-3",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/guess-what-3.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/guess-what-3/",
+      "canton": "Vaud",
+      "visit_date_fr": "10 juillet 2026",
+      "saving_chf": 60
+    }
+  ]
+}

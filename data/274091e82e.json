@@ -1,13 +1,13 @@
 {
   "name": "Coralie",
   "window": {
-    "start": "24 juillet 2025",
-    "end": "24 juillet 2026"
+    "start": "25 juillet 2025",
+    "end": "25 juillet 2026"
   },
   "stats": {
     "visites_total": 5,
     "etabs_uniques": 5,
-    "economies_chf": 405
+    "economies_chf": 430
   },
   "visites": [
     {
@@ -35,7 +35,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/salon-prive/",
       "canton": "Vaud",
       "visit_date_fr": "29 octobre 2025",
-      "saving_chf": 62
+      "saving_chf": 80
     },
     {
       "etab_name": "Nail Café",
@@ -44,7 +44,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/nail-cafe/",
       "canton": "Vaud",
       "visit_date_fr": "22 décembre 2025",
-      "saving_chf": 58
+      "saving_chf": 65
     },
     {
       "etab_name": "LAURA COIFFEUSE PRIVÉE",

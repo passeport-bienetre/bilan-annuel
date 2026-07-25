@@ -1,13 +1,13 @@
 {
   "name": "Laurence",
   "window": {
-    "start": "24 juillet 2025",
-    "end": "24 juillet 2026"
+    "start": "25 juillet 2025",
+    "end": "25 juillet 2026"
   },
   "stats": {
     "visites_total": 4,
     "etabs_uniques": 4,
-    "economies_chf": 335
+    "economies_chf": 320
   },
   "visites": [
     {
@@ -44,7 +44,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/organik-beauty/",
       "canton": "Vaud",
       "visit_date_fr": "19 mars 2026",
-      "saving_chf": 105
+      "saving_chf": 90
     }
   ]
 }

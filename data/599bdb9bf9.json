@@ -1,13 +1,13 @@
 {
   "name": "Christelle",
   "window": {
-    "start": "24 juillet 2025",
-    "end": "24 juillet 2026"
+    "start": "25 juillet 2025",
+    "end": "25 juillet 2026"
   },
   "stats": {
     "visites_total": 7,
     "etabs_uniques": 7,
-    "economies_chf": 638
+    "economies_chf": 618
   },
   "visites": [
     {
@@ -44,7 +44,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/espace-beaute-sarah/",
       "canton": "Vaud",
       "visit_date_fr": "1 mai 2026",
-      "saving_chf": 50
+      "saving_chf": 60
     },
     {
       "etab_name": "L'Atelier du Visage",
@@ -62,7 +62,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/",
       "canton": "Vaud",
       "visit_date_fr": "13 juillet 2026",
-      "saving_chf": 125
+      "saving_chf": 110
     },
     {
       "etab_name": "Arte Beauty Lutry",
@@ -71,7 +71,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
       "canton": "Vaud",
       "visit_date_fr": "18 juillet 2026",
-      "saving_chf": 125
+      "saving_chf": 110
     }
   ]
 }
