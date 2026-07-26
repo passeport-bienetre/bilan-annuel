@@ -1,13 +1,13 @@
 {
   "name": "Amine",
   "window": {
-    "start": "25 juillet 2025",
-    "end": "25 juillet 2026"
+    "start": "26 juillet 2025",
+    "end": "26 juillet 2026"
   },
   "stats": {
-    "visites_total": 7,
-    "etabs_uniques": 7,
-    "economies_chf": 680
+    "visites_total": 8,
+    "etabs_uniques": 8,
+    "economies_chf": 775
   },
   "visites": [
     {
@@ -72,6 +72,15 @@
       "canton": "Vaud",
       "visit_date_fr": "29 avril 2026",
       "saving_chf": 70
+    },
+    {
+      "etab_name": "LA MAISON VALMONT – BONGENIE",
+      "etab_slug": "la-maison-valmont-lausanne",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-maison-valmont-lausanne.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/la-maison-valmont-lausanne/",
+      "canton": "Vaud",
+      "visit_date_fr": "25 juillet 2026",
+      "saving_chf": 95
     }
   ]
 }

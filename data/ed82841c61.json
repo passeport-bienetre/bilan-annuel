@@ -1,13 +1,13 @@
 {
   "name": "Coralie",
   "window": {
-    "start": "25 juillet 2025",
-    "end": "25 juillet 2026"
+    "start": "26 juillet 2025",
+    "end": "26 juillet 2026"
   },
   "stats": {
-    "visites_total": 3,
-    "etabs_uniques": 3,
-    "economies_chf": 290
+    "visites_total": 4,
+    "etabs_uniques": 4,
+    "economies_chf": 370
   },
   "visites": [
     {
@@ -36,6 +36,15 @@
       "canton": "Genève",
       "visit_date_fr": "17 juillet 2026",
       "saving_chf": 75
+    },
+    {
+      "etab_name": "LES TRESOMS",
+      "etab_slug": "les-tresoms-2",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-tresoms-2.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/les-tresoms-2/",
+      "canton": null,
+      "visit_date_fr": "25 juillet 2026",
+      "saving_chf": 80
     }
   ]
 }
