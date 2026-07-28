@@ -1,0 +1,23 @@
+{
+  "name": "Anita",
+  "window": {
+    "start": "28 juillet 2025",
+    "end": "28 juillet 2026"
+  },
+  "stats": {
+    "visites_total": 1,
+    "etabs_uniques": 1,
+    "economies_chf": 70
+  },
+  "visites": [
+    {
+      "etab_name": "Tête à Clak",
+      "etab_slug": "tete-a-clak",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/tete-a-clak.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/tete-a-clak/",
+      "canton": null,
+      "visit_date_fr": "12 décembre 2025",
+      "saving_chf": 70
+    }
+  ]
+}

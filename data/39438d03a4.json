@@ -1,0 +1,95 @@
+{
+  "name": "Chiara",
+  "window": {
+    "start": "28 juillet 2025",
+    "end": "28 juillet 2026"
+  },
+  "stats": {
+    "visites_total": 9,
+    "etabs_uniques": 9,
+    "economies_chf": 690
+  },
+  "visites": [
+    {
+      "etab_name": "Organik Beauty",
+      "etab_slug": "organik-beauty",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/organik-beauty.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/organik-beauty/",
+      "canton": "Vaud",
+      "visit_date_fr": "28 octobre 2025",
+      "saving_chf": 90
+    },
+    {
+      "etab_name": "Hôtel Schweizerhof Bern & Spa",
+      "etab_slug": "schweizerhof-bern-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/schweizerhof-bern-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/schweizerhof-bern-hotel-spa/",
+      "canton": "Berne",
+      "visit_date_fr": "17 novembre 2025",
+      "saving_chf": 110
+    },
+    {
+      "etab_name": "Institut Beauté Bertmans",
+      "etab_slug": "institut-beaute-bertmans",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-beaute-bertmans.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-beaute-bertmans/",
+      "canton": "Vaud",
+      "visit_date_fr": "9 décembre 2025",
+      "saving_chf": 60
+    },
+    {
+      "etab_name": "Altitude by Garance",
+      "etab_slug": "altitude-by-garance",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/altitude-by-garance.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/altitude-by-garance/",
+      "canton": "Vaud",
+      "visit_date_fr": "29 décembre 2025",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "1er Acte Coiffure",
+      "etab_slug": "1er-acte-coiffure",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
+      "canton": "Vaud",
+      "visit_date_fr": "4 février 2026",
+      "saving_chf": 70
+    },
+    {
+      "etab_name": "Sawatdee Temple",
+      "etab_slug": "sawatdee-temple",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/sawatdee-temple.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/sawatdee-temple/",
+      "canton": "Genève",
+      "visit_date_fr": "10 avril 2026",
+      "saving_chf": 70
+    },
+    {
+      "etab_name": "Institut Kaori",
+      "etab_slug": "institut-kaori",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-kaori.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-kaori/",
+      "canton": "Vaud",
+      "visit_date_fr": "8 juin 2026",
+      "saving_chf": 70
+    },
+    {
+      "etab_name": "Nueva Luna Yoga",
+      "etab_slug": "nueva-luna-yoga",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/nueva-luna-yoga.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/nueva-luna-yoga/",
+      "canton": "Vaud",
+      "visit_date_fr": "25 juin 2026",
+      "saving_chf": 60
+    },
+    {
+      "etab_name": "LE CENTRE GENÈVE BY CHARLINE",
+      "etab_slug": "le-centre-geneve-by-charline",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-centre-geneve-by-charline.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/",
+      "canton": "Genève",
+      "visit_date_fr": "29 juin 2026",
+      "saving_chf": 80
+    }
+  ]
+}
