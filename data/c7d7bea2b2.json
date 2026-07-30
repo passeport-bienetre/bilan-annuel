@@ -1,0 +1,41 @@
+{
+  "name": "Romy",
+  "window": {
+    "start": "30 juillet 2025",
+    "end": "30 juillet 2026"
+  },
+  "stats": {
+    "visites_total": 3,
+    "etabs_uniques": 3,
+    "economies_chf": 245
+  },
+  "visites": [
+    {
+      "etab_name": "Le Grand Bellevue Spa",
+      "etab_slug": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/_default.jpg",
+      "etab_url_public": null,
+      "canton": "Berne",
+      "visit_date_fr": "31 août 2025",
+      "saving_chf": 120
+    },
+    {
+      "etab_name": "Odyssée Santé & Beauté",
+      "etab_slug": "odyssee-sante-beaute",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/odyssee-sante-beaute.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/odyssee-sante-beaute/",
+      "canton": "Vaud",
+      "visit_date_fr": "17 janvier 2026",
+      "saving_chf": 65
+    },
+    {
+      "etab_name": "Flaventino coiffure Aubonne",
+      "etab_slug": "flaventino-coiffure-aubonne",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/flaventino-coiffure-aubonne.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/flaventino-coiffure-aubonne/",
+      "canton": "Vaud",
+      "visit_date_fr": "7 mai 2026",
+      "saving_chf": 60
+    }
+  ]
+}
