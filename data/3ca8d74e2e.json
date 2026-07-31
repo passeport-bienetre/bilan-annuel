@@ -1,13 +1,13 @@
 {
   "name": "Valentina",
   "window": {
-    "start": "30 juillet 2025",
-    "end": "30 juillet 2026"
+    "start": "31 juillet 2025",
+    "end": "31 juillet 2026"
   },
   "stats": {
-    "visites_total": 13,
-    "etabs_uniques": 13,
-    "economies_chf": 1090
+    "visites_total": 14,
+    "etabs_uniques": 14,
+    "economies_chf": 1170
   },
   "visites": [
     {
@@ -40,7 +40,7 @@
     {
       "etab_name": "LES FITNESS HARMONY",
       "etab_slug": null,
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-fitness-harmony--eaux-vives.jpg",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-fitness-harmony--blandonnet.jpg",
       "etab_url_public": null,
       "canton": " ",
       "visit_date_fr": "12 septembre 2025",
@@ -126,6 +126,15 @@
       "canton": "Genève",
       "visit_date_fr": "7 juillet 2026",
       "saving_chf": 55
+    },
+    {
+      "etab_name": "19th AVENUE - Versonnex",
+      "etab_slug": "versonnex",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/versonnex.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/versonnex/",
+      "canton": "Genève",
+      "visit_date_fr": "30 juillet 2026",
+      "saving_chf": 80
     }
   ]
 }

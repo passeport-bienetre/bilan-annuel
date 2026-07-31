@@ -1,0 +1,68 @@
+{
+  "name": "Christiane",
+  "window": {
+    "start": "31 juillet 2025",
+    "end": "31 juillet 2026"
+  },
+  "stats": {
+    "visites_total": 6,
+    "etabs_uniques": 6,
+    "economies_chf": 520
+  },
+  "visites": [
+    {
+      "etab_name": "Institut Sakora",
+      "etab_slug": "institut-sakora",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-sakora.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-sakora/",
+      "canton": "Genève",
+      "visit_date_fr": "9 octobre 2025",
+      "saving_chf": 60
+    },
+    {
+      "etab_name": "Blossom Institut",
+      "etab_slug": "blossom-institut",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/blossom-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/blossom-institut/",
+      "canton": "Genève",
+      "visit_date_fr": "22 octobre 2025",
+      "saving_chf": 100
+    },
+    {
+      "etab_name": "Le Beausquet Genève",
+      "etab_slug": "le-beausquet-geneve",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-beausquet-geneve.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-beausquet-geneve/",
+      "canton": "Genève",
+      "visit_date_fr": "5 février 2026",
+      "saving_chf": 100
+    },
+    {
+      "etab_name": "Skin Solution",
+      "etab_slug": "skin-solution",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/skin-solution.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/skin-solution/",
+      "canton": "Genève",
+      "visit_date_fr": "8 mai 2026",
+      "saving_chf": 120
+    },
+    {
+      "etab_name": "Swiss Beauty Studio",
+      "etab_slug": "swiss-beauty-studio",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/swiss-beauty-studio.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/swiss-beauty-studio/",
+      "canton": "Genève",
+      "visit_date_fr": "6 juin 2026",
+      "saving_chf": 60
+    },
+    {
+      "etab_name": "LE CENTRE GENÈVE BY CHARLINE",
+      "etab_slug": "le-centre-geneve-by-charline",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-centre-geneve-by-charline.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/",
+      "canton": "Genève",
+      "visit_date_fr": "16 juillet 2026",
+      "saving_chf": 80
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Laurence",
+  "window": {
+    "start": "31 juillet 2025",
+    "end": "31 juillet 2026"
+  },
+  "stats": {
+    "visites_total": 3,
+    "etabs_uniques": 3,
+    "economies_chf": 240
+  },
+  "visites": [
+    {
+      "etab_name": "EUPHORIA & BEAUTY STUDIO",
+      "etab_slug": "euphoria-beauty-studio",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/euphoria-beauty-studio.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/euphoria-beauty-studio/",
+      "canton": "Genève",
+      "visit_date_fr": "27 novembre 2025",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "Parallèles Coiffure",
+      "etab_slug": "paralleles-coiffure",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/paralleles-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/paralleles-coiffure/",
+      "canton": "Genève",
+      "visit_date_fr": "15 avril 2026",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "Thai Corner",
+      "etab_slug": "thai-corner-3",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/thai-corner-3.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/thai-corner-3/",
+      "canton": "Genève",
+      "visit_date_fr": "22 juillet 2026",
+      "saving_chf": 80
+    }
+  ]
+}

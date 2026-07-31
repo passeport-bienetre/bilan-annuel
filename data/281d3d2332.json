@@ -1,13 +1,13 @@
 {
   "name": "Sonia",
   "window": {
-    "start": "30 juillet 2025",
-    "end": "30 juillet 2026"
+    "start": "31 juillet 2025",
+    "end": "31 juillet 2026"
   },
   "stats": {
-    "visites_total": 20,
-    "etabs_uniques": 20,
-    "economies_chf": 1685
+    "visites_total": 21,
+    "etabs_uniques": 21,
+    "economies_chf": 1775
   },
   "visites": [
     {
@@ -189,6 +189,15 @@
       "canton": "Vaud",
       "visit_date_fr": "10 juin 2026",
       "saving_chf": 80
+    },
+    {
+      "etab_name": "Hôtel de Rougemont & Spa",
+      "etab_slug": "hotel-de-rougemont-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-de-rougemont-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-de-rougemont-spa/",
+      "canton": "Berne",
+      "visit_date_fr": "30 juillet 2026",
+      "saving_chf": 90
     }
   ]
 }
