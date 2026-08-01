@@ -1,0 +1,41 @@
+{
+  "name": "Annabelle",
+  "window": {
+    "start": "1 août 2025",
+    "end": "1 août 2026"
+  },
+  "stats": {
+    "visites_total": 3,
+    "etabs_uniques": 3,
+    "economies_chf": 350
+  },
+  "visites": [
+    {
+      "etab_name": "LES FITNESS HARMONY",
+      "etab_slug": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-fitness-harmony--blandonnet.jpg",
+      "etab_url_public": null,
+      "canton": " ",
+      "visit_date_fr": "2 septembre 2025",
+      "saving_chf": 200
+    },
+    {
+      "etab_name": "Nirvana Spa",
+      "etab_slug": null,
+      "etab_photo_url": "https://nirvana-privatespa.ch/wp-content/uploads/SPA-privatif-nirvana-1.jpg",
+      "etab_url_public": null,
+      "canton": " ",
+      "visit_date_fr": "11 octobre 2025",
+      "saving_chf": 70
+    },
+    {
+      "etab_name": "LES TRESOMS",
+      "etab_slug": "les-tresoms-2",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-tresoms-2.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/les-tresoms-2/",
+      "canton": null,
+      "visit_date_fr": "29 octobre 2025",
+      "saving_chf": 80
+    }
+  ]
+}

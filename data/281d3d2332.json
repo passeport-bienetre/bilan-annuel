@@ -1,13 +1,13 @@
 {
   "name": "Sonia",
   "window": {
-    "start": "31 juillet 2025",
-    "end": "31 juillet 2026"
+    "start": "1 août 2025",
+    "end": "1 août 2026"
   },
   "stats": {
-    "visites_total": 21,
-    "etabs_uniques": 21,
-    "economies_chf": 1775
+    "visites_total": 20,
+    "etabs_uniques": 20,
+    "economies_chf": 1700
   },
   "visites": [
     {
@@ -126,15 +126,6 @@
       "canton": "Genève",
       "visit_date_fr": "13 février 2026",
       "saving_chf": 65
-    },
-    {
-      "etab_name": "VAGHEGGI Phyto Space Crans-Montana",
-      "etab_slug": "vagheggi-phyto-space-crans-montana",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/vagheggi-phyto-space-crans-montana.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/vagheggi-phyto-space-crans-montana/",
-      "canton": "Valais",
-      "visit_date_fr": "24 février 2026",
-      "saving_chf": 75
     },
     {
       "etab_name": "Corps et Sons",
