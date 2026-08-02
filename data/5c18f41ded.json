@@ -1,0 +1,41 @@
+{
+  "name": "Virginie",
+  "window": {
+    "start": "2 août 2025",
+    "end": "2 août 2026"
+  },
+  "stats": {
+    "visites_total": 3,
+    "etabs_uniques": 3,
+    "economies_chf": 263
+  },
+  "visites": [
+    {
+      "etab_name": "Grand Hôtel du Lac",
+      "etab_slug": "grand-hotel-du-lac",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/grand-hotel-du-lac.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/",
+      "canton": "Vaud",
+      "visit_date_fr": "6 septembre 2025",
+      "saving_chf": 110
+    },
+    {
+      "etab_name": "Skin & Body Studio",
+      "etab_slug": "skin-body-studio",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/skin-body-studio.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/skin-body-studio/",
+      "canton": "Valais",
+      "visit_date_fr": "29 octobre 2025",
+      "saving_chf": 68
+    },
+    {
+      "etab_name": "Les Cliniques Matignon",
+      "etab_slug": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-cliniques-matignon--capsule-geneve-clinique-matignon.jpg",
+      "etab_url_public": null,
+      "canton": " ",
+      "visit_date_fr": "15 juillet 2026",
+      "saving_chf": 85
+    }
+  ]
+}

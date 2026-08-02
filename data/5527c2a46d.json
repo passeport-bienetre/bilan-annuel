@@ -1,0 +1,41 @@
+{
+  "name": "Françoise",
+  "window": {
+    "start": "2 août 2025",
+    "end": "2 août 2026"
+  },
+  "stats": {
+    "visites_total": 3,
+    "etabs_uniques": 3,
+    "economies_chf": 280
+  },
+  "visites": [
+    {
+      "etab_name": "Organik Beauty",
+      "etab_slug": "organik-beauty",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/organik-beauty.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/organik-beauty/",
+      "canton": "Vaud",
+      "visit_date_fr": "3 septembre 2025",
+      "saving_chf": 90
+    },
+    {
+      "etab_name": "Le Mirador Resort & Spa",
+      "etab_slug": "le-mirador-resort-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
+      "canton": "Vaud",
+      "visit_date_fr": "18 septembre 2025",
+      "saving_chf": 120
+    },
+    {
+      "etab_name": "Centre de bien-être J&J",
+      "etab_slug": "centre-de-bien-etre-jj",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/centre-de-bien-etre-jj.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/centre-de-bien-etre-jj/",
+      "canton": null,
+      "visit_date_fr": "13 janvier 2026",
+      "saving_chf": 70
+    }
+  ]
+}

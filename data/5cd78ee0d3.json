@@ -1,0 +1,50 @@
+{
+  "name": "Valérie",
+  "window": {
+    "start": "2 août 2025",
+    "end": "2 août 2026"
+  },
+  "stats": {
+    "visites_total": 4,
+    "etabs_uniques": 4,
+    "economies_chf": 371
+  },
+  "visites": [
+    {
+      "etab_name": "Fairmont le Montreux Palace",
+      "etab_slug": null,
+      "etab_photo_url": "https://m.ahstatic.com/is/image/accorhotels/aja_p_6460-88:8by10?fmt=webp&wid=900&hei=1100&qlt=80",
+      "etab_url_public": null,
+      "canton": "Vaud",
+      "visit_date_fr": "5 septembre 2025",
+      "saving_chf": 100
+    },
+    {
+      "etab_name": "Luna aesthetic",
+      "etab_slug": "luna-aesthetic",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/luna-aesthetic.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/luna-aesthetic/",
+      "canton": "Vaud",
+      "visit_date_fr": "17 octobre 2025",
+      "saving_chf": 70
+    },
+    {
+      "etab_name": "Beauty Concept Vevey",
+      "etab_slug": null,
+      "etab_photo_url": "https://phosphor.utils.elfsightcdn.com/?url=https%3A%2F%2Finstagram.fbho3-1.fna.fbcdn.net%2Fv%2Ft39.30808-6%2F459323807_18248847058258886_5556322712854961588_n.jpg%3Fstp%3Ddst-jpg_e35_s1080x1080_sh0.08%26efg%3DeyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDE0NDAuc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0%26_nc_ht%3Dinstagram.fbho3-1.fna.fbcdn.net%26_nc_cat%3D102%26_nc_ohc%3D2eRpVJsbwjwQ7kNvgGT-G0Z%26_nc_gid%3Dce539b03860b47f897e6d40a31979e8d%26edm%3DAPU89FAAAAAA%26ccb%3D7-5%26oh%3D00_AYBJ8t8oI4rc_d9lvmeRG4gOhsAu2DmfcMqgkWUL2qW5TQ%26oe%3D674251D6%26_nc_sid%3Dbc0c2c",
+      "etab_url_public": null,
+      "canton": "Vaud",
+      "visit_date_fr": "19 janvier 2026",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "RUBIS SPA",
+      "etab_slug": "rubis-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/rubis-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/rubis-spa/",
+      "canton": "Vaud",
+      "visit_date_fr": "11 juillet 2026",
+      "saving_chf": 121
+    }
+  ]
+}
