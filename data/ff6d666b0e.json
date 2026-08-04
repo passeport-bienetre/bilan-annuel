@@ -1,5 +1,5 @@
 {
-  "name": "Nathalie",
+  "name": "Geoffrey",
   "window": {
     "start": "4 août 2025",
     "end": "4 août 2026"
@@ -7,26 +7,26 @@
   "stats": {
     "visites_total": 2,
     "etabs_uniques": 2,
-    "economies_chf": 160
+    "economies_chf": 175
   },
   "visites": [
-    {
-      "etab_name": "Akyado Genève Centre",
-      "etab_slug": null,
-      "etab_photo_url": "https://cdn.prod.website-files.com/6940751abf6eb4f9555c0615/695e3d5b8983b8fddb8e892e_0K6A6193.avif",
-      "etab_url_public": null,
-      "canton": "Genève",
-      "visit_date_fr": "19 septembre 2025",
-      "saving_chf": 60
-    },
     {
       "etab_name": "Blossom Institut",
       "etab_slug": "blossom-institut",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/blossom-institut.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/blossom-institut/",
       "canton": "Genève",
-      "visit_date_fr": "4 octobre 2025",
+      "visit_date_fr": "5 septembre 2025",
       "saving_chf": 100
+    },
+    {
+      "etab_name": "BEAUTY B",
+      "etab_slug": "bv-institut",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bv-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/",
+      "canton": "Genève",
+      "visit_date_fr": "18 mai 2026",
+      "saving_chf": 75
     }
   ]
 }

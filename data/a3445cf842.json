@@ -1,0 +1,41 @@
+{
+  "name": "Lucie",
+  "window": {
+    "start": "4 août 2025",
+    "end": "4 août 2026"
+  },
+  "stats": {
+    "visites_total": 3,
+    "etabs_uniques": 3,
+    "economies_chf": 350
+  },
+  "visites": [
+    {
+      "etab_name": "JOIA NEUCHATEL",
+      "etab_slug": "joia-studio",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/joia-studio.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/joia-studio/",
+      "canton": "Neuchâtel",
+      "visit_date_fr": "8 septembre 2025",
+      "saving_chf": 175
+    },
+    {
+      "etab_name": "Les Sources du Chéry",
+      "etab_slug": "les-sources-du-chery",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-sources-du-chery.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/les-sources-du-chery/",
+      "canton": null,
+      "visit_date_fr": "27 décembre 2025",
+      "saving_chf": 85
+    },
+    {
+      "etab_name": "Chalet-Hôtel la Marmotte",
+      "etab_slug": "chalet-hotel-la-marmotte",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-hotel-la-marmotte.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-hotel-la-marmotte/",
+      "canton": null,
+      "visit_date_fr": "29 juillet 2026",
+      "saving_chf": 90
+    }
+  ]
+}

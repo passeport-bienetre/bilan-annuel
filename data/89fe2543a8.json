@@ -1,13 +1,13 @@
 {
-  "name": "Aline",
+  "name": "Véronique",
   "window": {
     "start": "4 août 2025",
     "end": "4 août 2026"
   },
   "stats": {
-    "visites_total": 2,
-    "etabs_uniques": 2,
-    "economies_chf": 260
+    "visites_total": 3,
+    "etabs_uniques": 3,
+    "economies_chf": 345
   },
   "visites": [
     {
@@ -16,8 +16,17 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
       "canton": "Vaud",
-      "visit_date_fr": "30 août 2025",
+      "visit_date_fr": "7 septembre 2025",
       "saving_chf": 160
+    },
+    {
+      "etab_name": "Bains d'Ovronnaz",
+      "etab_slug": "bains-dovronnaz",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bains-dovronnaz.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bains-dovronnaz/",
+      "canton": "Valais",
+      "visit_date_fr": "10 février 2026",
+      "saving_chf": 85
     },
     {
       "etab_name": "Flocoon Spa Cinq Mondes",
@@ -25,7 +34,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/flocoon-spa-cinq-mondes.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/flocoon-spa-cinq-mondes/",
       "canton": "Valais",
-      "visit_date_fr": "15 mai 2026",
+      "visit_date_fr": "18 avril 2026",
       "saving_chf": 100
     }
   ]
