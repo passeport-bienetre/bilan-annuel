@@ -1,13 +1,13 @@
 {
   "name": "Christiane",
   "window": {
-    "start": "4 août 2025",
-    "end": "4 août 2026"
+    "start": "5 août 2025",
+    "end": "5 août 2026"
   },
   "stats": {
-    "visites_total": 6,
-    "etabs_uniques": 6,
-    "economies_chf": 520
+    "visites_total": 7,
+    "etabs_uniques": 7,
+    "economies_chf": 620
   },
   "visites": [
     {
@@ -63,6 +63,15 @@
       "canton": "Genève",
       "visit_date_fr": "16 juillet 2026",
       "saving_chf": 80
+    },
+    {
+      "etab_name": "AVEDA VIEILLE-VILLE",
+      "etab_slug": "aveda-vieille-ville",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/aveda-vieille-ville.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/aveda-vieille-ville/",
+      "canton": "Genève",
+      "visit_date_fr": "4 août 2026",
+      "saving_chf": 100
     }
   ]
 }

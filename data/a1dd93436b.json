@@ -1,13 +1,13 @@
 {
   "name": "Sara",
   "window": {
-    "start": "4 août 2025",
-    "end": "4 août 2026"
+    "start": "5 août 2025",
+    "end": "5 août 2026"
   },
   "stats": {
-    "visites_total": 4,
-    "etabs_uniques": 4,
-    "economies_chf": 380
+    "visites_total": 5,
+    "etabs_uniques": 5,
+    "economies_chf": 580
   },
   "visites": [
     {
@@ -45,6 +45,15 @@
       "canton": "Vaud",
       "visit_date_fr": "12 mars 2026",
       "saving_chf": 80
+    },
+    {
+      "etab_name": "LES FITNESS HARMONY",
+      "etab_slug": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-fitness-harmony--meyrin.jpg",
+      "etab_url_public": null,
+      "canton": " ",
+      "visit_date_fr": "4 août 2026",
+      "saving_chf": 200
     }
   ]
 }
