@@ -1,0 +1,32 @@
+{
+  "name": "Pierre-Alain",
+  "window": {
+    "start": "6 août 2025",
+    "end": "6 août 2026"
+  },
+  "stats": {
+    "visites_total": 2,
+    "etabs_uniques": 2,
+    "economies_chf": 220
+  },
+  "visites": [
+    {
+      "etab_name": "Fairmont le Montreux Palace",
+      "etab_slug": null,
+      "etab_photo_url": "https://m.ahstatic.com/is/image/accorhotels/aja_p_6460-88:8by10?fmt=webp&wid=900&hei=1100&qlt=80",
+      "etab_url_public": null,
+      "canton": "Vaud",
+      "visit_date_fr": "9 septembre 2025",
+      "saving_chf": 100
+    },
+    {
+      "etab_name": "Le Mirador Resort & Spa",
+      "etab_slug": "le-mirador-resort-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
+      "canton": "Vaud",
+      "visit_date_fr": "28 octobre 2025",
+      "saving_chf": 120
+    }
+  ]
+}
