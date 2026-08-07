@@ -1,0 +1,41 @@
+{
+  "name": "Marie",
+  "window": {
+    "start": "7 août 2025",
+    "end": "7 août 2026"
+  },
+  "stats": {
+    "visites_total": 3,
+    "etabs_uniques": 3,
+    "economies_chf": 240
+  },
+  "visites": [
+    {
+      "etab_name": "Sawatdee Delices",
+      "etab_slug": "sawatdee-delices",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/sawatdee-delices.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/sawatdee-delices/",
+      "canton": "Genève",
+      "visit_date_fr": "11 septembre 2025",
+      "saving_chf": 70
+    },
+    {
+      "etab_name": "LA SUITE COIFFURE",
+      "etab_slug": "la-suite-coiffure",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-suite-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/la-suite-coiffure/",
+      "canton": "Genève",
+      "visit_date_fr": "27 novembre 2025",
+      "saving_chf": 90
+    },
+    {
+      "etab_name": "LE CENTRE GENÈVE BY CHARLINE",
+      "etab_slug": "le-centre-geneve-by-charline",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-centre-geneve-by-charline.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/",
+      "canton": "Genève",
+      "visit_date_fr": "26 juin 2026",
+      "saving_chf": 80
+    }
+  ]
+}
