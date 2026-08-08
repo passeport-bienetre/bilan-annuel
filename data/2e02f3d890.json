@@ -1,0 +1,41 @@
+{
+  "name": "Maria",
+  "window": {
+    "start": "8 août 2025",
+    "end": "8 août 2026"
+  },
+  "stats": {
+    "visites_total": 3,
+    "etabs_uniques": 3,
+    "economies_chf": 340
+  },
+  "visites": [
+    {
+      "etab_name": "JOIA NEUCHATEL",
+      "etab_slug": "joia-studio",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/joia-studio.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/joia-studio/",
+      "canton": "Neuchâtel",
+      "visit_date_fr": "10 septembre 2025",
+      "saving_chf": 175
+    },
+    {
+      "etab_name": "CLINIQUE LA JOUVENCE NEUCHÂTEL",
+      "etab_slug": "clinique-la-jouvence-neuchatel",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/clinique-la-jouvence-neuchatel.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/clinique-la-jouvence-neuchatel/",
+      "canton": "Neuchâtel",
+      "visit_date_fr": "9 janvier 2026",
+      "saving_chf": 105
+    },
+    {
+      "etab_name": "CS Caro Création Studio",
+      "etab_slug": "cs-caro-creation-studio",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/cs-caro-creation-studio.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/cs-caro-creation-studio/",
+      "canton": "Neuchâtel",
+      "visit_date_fr": "19 mars 2026",
+      "saving_chf": 60
+    }
+  ]
+}

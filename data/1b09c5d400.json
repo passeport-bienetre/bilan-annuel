@@ -1,0 +1,32 @@
+{
+  "name": "Kristel",
+  "window": {
+    "start": "8 août 2025",
+    "end": "8 août 2026"
+  },
+  "stats": {
+    "visites_total": 2,
+    "etabs_uniques": 2,
+    "economies_chf": 260
+  },
+  "visites": [
+    {
+      "etab_name": "Chalet Royalp Hôtel & Spa",
+      "etab_slug": "chalet-royalp-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
+      "canton": "Vaud",
+      "visit_date_fr": "12 octobre 2025",
+      "saving_chf": 160
+    },
+    {
+      "etab_name": "Experimental Chalet",
+      "etab_slug": "experimental-chalet",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/experimental-chalet.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/experimental-chalet/",
+      "canton": "Valais",
+      "visit_date_fr": "14 mars 2026",
+      "saving_chf": 100
+    }
+  ]
+}

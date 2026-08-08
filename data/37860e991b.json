@@ -1,0 +1,77 @@
+{
+  "name": "Karin",
+  "window": {
+    "start": "8 août 2025",
+    "end": "8 août 2026"
+  },
+  "stats": {
+    "visites_total": 7,
+    "etabs_uniques": 7,
+    "economies_chf": 703
+  },
+  "visites": [
+    {
+      "etab_name": "Le Mirador Resort & Spa",
+      "etab_slug": "le-mirador-resort-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
+      "canton": "Vaud",
+      "visit_date_fr": "13 octobre 2025",
+      "saving_chf": 120
+    },
+    {
+      "etab_name": "Amiia Clinique",
+      "etab_slug": "amiia-clinique",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/amiia-clinique.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/amiia-clinique/",
+      "canton": null,
+      "visit_date_fr": "14 novembre 2025",
+      "saving_chf": 75
+    },
+    {
+      "etab_name": "L'Atelier du Visage",
+      "etab_slug": "latelier-du-visage",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/latelier-du-visage.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/latelier-du-visage/",
+      "canton": "Vaud",
+      "visit_date_fr": "16 janvier 2026",
+      "saving_chf": 68
+    },
+    {
+      "etab_name": "Arte Beauty EPFL",
+      "etab_slug": "arte-beauty-epfl",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-epfl.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/",
+      "canton": "Vaud",
+      "visit_date_fr": "22 janvier 2026",
+      "saving_chf": 110
+    },
+    {
+      "etab_name": "VAGHEGGI Phyto Space Lausanne",
+      "etab_slug": null,
+      "etab_photo_url": "https://phytospace.ch/wp-content/uploads/2023/12/1-1024x1024.webp",
+      "etab_url_public": null,
+      "canton": "Vaud",
+      "visit_date_fr": "23 janvier 2026",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "Les Cliniques Matignon",
+      "etab_slug": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-cliniques-matignon--geneve.jpg",
+      "etab_url_public": null,
+      "canton": " ",
+      "visit_date_fr": "5 février 2026",
+      "saving_chf": 90
+    },
+    {
+      "etab_name": "Chalet Royalp Hôtel & Spa",
+      "etab_slug": "chalet-royalp-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
+      "canton": "Vaud",
+      "visit_date_fr": "27 février 2026",
+      "saving_chf": 160
+    }
+  ]
+}
