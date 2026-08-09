@@ -1,0 +1,59 @@
+{
+  "name": "Lola",
+  "window": {
+    "start": "9 août 2025",
+    "end": "9 août 2026"
+  },
+  "stats": {
+    "visites_total": 5,
+    "etabs_uniques": 5,
+    "economies_chf": 425
+  },
+  "visites": [
+    {
+      "etab_name": "Luna aesthetic",
+      "etab_slug": "luna-aesthetic",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/luna-aesthetic.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/luna-aesthetic/",
+      "canton": "Vaud",
+      "visit_date_fr": "5 décembre 2025",
+      "saving_chf": 70
+    },
+    {
+      "etab_name": "KASA AMO",
+      "etab_slug": "kasa-amo",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/kasa-amo.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/kasa-amo/",
+      "canton": "Vaud",
+      "visit_date_fr": "7 juillet 2026",
+      "saving_chf": 85
+    },
+    {
+      "etab_name": "Organik Beauty",
+      "etab_slug": "organik-beauty",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/organik-beauty.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/organik-beauty/",
+      "canton": "Vaud",
+      "visit_date_fr": "21 juillet 2026",
+      "saving_chf": 90
+    },
+    {
+      "etab_name": "Tête à Clak",
+      "etab_slug": "tete-a-clak",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/tete-a-clak.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/tete-a-clak/",
+      "canton": null,
+      "visit_date_fr": "23 juillet 2026",
+      "saving_chf": 70
+    },
+    {
+      "etab_name": "Arte Beauty Lutry",
+      "etab_slug": "arte-beauty-lutry",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-lutry.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
+      "canton": "Vaud",
+      "visit_date_fr": "7 août 2026",
+      "saving_chf": 110
+    }
+  ]
+}

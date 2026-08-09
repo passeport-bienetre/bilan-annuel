@@ -1,0 +1,104 @@
+{
+  "name": "Jennifer",
+  "window": {
+    "start": "9 août 2025",
+    "end": "9 août 2026"
+  },
+  "stats": {
+    "visites_total": 10,
+    "etabs_uniques": 10,
+    "economies_chf": 810
+  },
+  "visites": [
+    {
+      "etab_name": "LES TRESOMS",
+      "etab_slug": "les-tresoms-2",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-tresoms-2.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/les-tresoms-2/",
+      "canton": null,
+      "visit_date_fr": "14 septembre 2025",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "Arte Beauty EPFL",
+      "etab_slug": "arte-beauty-epfl",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-epfl.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/",
+      "canton": "Vaud",
+      "visit_date_fr": "29 novembre 2025",
+      "saving_chf": 110
+    },
+    {
+      "etab_name": "Institut Kaori",
+      "etab_slug": "institut-kaori",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-kaori.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-kaori/",
+      "canton": "Vaud",
+      "visit_date_fr": "9 janvier 2026",
+      "saving_chf": 70
+    },
+    {
+      "etab_name": "Guess What",
+      "etab_slug": "guess-what-3",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/guess-what-3.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/guess-what-3/",
+      "canton": "Vaud",
+      "visit_date_fr": "27 février 2026",
+      "saving_chf": 60
+    },
+    {
+      "etab_name": "Amiia Clinique",
+      "etab_slug": "amiia-clinique",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/amiia-clinique.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/amiia-clinique/",
+      "canton": null,
+      "visit_date_fr": "19 mars 2026",
+      "saving_chf": 75
+    },
+    {
+      "etab_name": "Salon Privé Ecublens",
+      "etab_slug": "salon-prive-ecublens",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive-ecublens.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/salon-prive-ecublens/",
+      "canton": "Vaud",
+      "visit_date_fr": "27 mars 2026",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "LAURA COIFFEUSE PRIVÉE",
+      "etab_slug": "laura-coiffeuse-privee",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/laura-coiffeuse-privee.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/laura-coiffeuse-privee/",
+      "canton": "Vaud",
+      "visit_date_fr": "2 avril 2026",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "Nail Café",
+      "etab_slug": "nail-cafe",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/nail-cafe.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/nail-cafe/",
+      "canton": "Vaud",
+      "visit_date_fr": "28 mai 2026",
+      "saving_chf": 65
+    },
+    {
+      "etab_name": "Maison Perle",
+      "etab_slug": "maison-perle",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-perle.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/maison-perle/",
+      "canton": "Vaud",
+      "visit_date_fr": "12 juin 2026",
+      "saving_chf": 70
+    },
+    {
+      "etab_name": "Royal Savoy Hôtel & Spa",
+      "etab_slug": "royal-savoy-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/royal-savoy-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
+      "canton": "Vaud",
+      "visit_date_fr": "19 juin 2026",
+      "saving_chf": 120
+    }
+  ]
+}

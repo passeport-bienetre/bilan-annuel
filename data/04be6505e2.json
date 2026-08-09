@@ -1,0 +1,113 @@
+{
+  "name": "Nathalie",
+  "window": {
+    "start": "9 août 2025",
+    "end": "9 août 2026"
+  },
+  "stats": {
+    "visites_total": 11,
+    "etabs_uniques": 11,
+    "economies_chf": 843
+  },
+  "visites": [
+    {
+      "etab_name": "VAGHEGGI Phyto Space Lausanne",
+      "etab_slug": null,
+      "etab_photo_url": "https://phytospace.ch/wp-content/uploads/2023/12/1-1024x1024.webp",
+      "etab_url_public": null,
+      "canton": "Vaud",
+      "visit_date_fr": "10 septembre 2025",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "Arte Beauty EPFL",
+      "etab_slug": "arte-beauty-epfl",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-epfl.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/",
+      "canton": "Vaud",
+      "visit_date_fr": "6 octobre 2025",
+      "saving_chf": 110
+    },
+    {
+      "etab_name": "Chanelle and Co.",
+      "etab_slug": "chanelle-and-co",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chanelle-and-co.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chanelle-and-co/",
+      "canton": "Valais",
+      "visit_date_fr": "14 novembre 2025",
+      "saving_chf": 58
+    },
+    {
+      "etab_name": "Tête à Clak",
+      "etab_slug": "tete-a-clak",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/tete-a-clak.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/tete-a-clak/",
+      "canton": null,
+      "visit_date_fr": "13 décembre 2025",
+      "saving_chf": 70
+    },
+    {
+      "etab_name": "Institut Kaori",
+      "etab_slug": "institut-kaori",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-kaori.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-kaori/",
+      "canton": "Vaud",
+      "visit_date_fr": "13 janvier 2026",
+      "saving_chf": 70
+    },
+    {
+      "etab_name": "Serenityblue",
+      "etab_slug": "serenityblue",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/serenityblue.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/serenityblue/",
+      "canton": "Neuchâtel",
+      "visit_date_fr": "22 janvier 2026",
+      "saving_chf": 60
+    },
+    {
+      "etab_name": "1er Acte Coiffure",
+      "etab_slug": "1er-acte-coiffure",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
+      "canton": "Vaud",
+      "visit_date_fr": "7 mars 2026",
+      "saving_chf": 70
+    },
+    {
+      "etab_name": "Hôtel & Spa Le National",
+      "etab_slug": "hotel-spa-le-national",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-spa-le-national.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-spa-le-national/",
+      "canton": "Valais",
+      "visit_date_fr": "3 avril 2026",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "Nail Café",
+      "etab_slug": "nail-cafe",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/nail-cafe.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/nail-cafe/",
+      "canton": "Vaud",
+      "visit_date_fr": "25 avril 2026",
+      "saving_chf": 65
+    },
+    {
+      "etab_name": "Nueva Luna Yoga",
+      "etab_slug": "nueva-luna-yoga",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/nueva-luna-yoga.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/nueva-luna-yoga/",
+      "canton": "Vaud",
+      "visit_date_fr": "17 juillet 2026",
+      "saving_chf": 60
+    },
+    {
+      "etab_name": "Le Grand Bellevue Spa",
+      "etab_slug": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/_default.jpg",
+      "etab_url_public": null,
+      "canton": "Berne",
+      "visit_date_fr": "25 juillet 2026",
+      "saving_chf": 120
+    }
+  ]
+}
