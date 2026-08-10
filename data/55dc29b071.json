@@ -1,0 +1,41 @@
+{
+  "name": "Viorel",
+  "window": {
+    "start": "10 août 2025",
+    "end": "10 août 2026"
+  },
+  "stats": {
+    "visites_total": 3,
+    "etabs_uniques": 3,
+    "economies_chf": 320
+  },
+  "visites": [
+    {
+      "etab_name": "Grand Hôtel du Lac",
+      "etab_slug": "grand-hotel-du-lac",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/grand-hotel-du-lac.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/",
+      "canton": "Vaud",
+      "visit_date_fr": "11 septembre 2025",
+      "saving_chf": 110
+    },
+    {
+      "etab_name": "Lumen Spa & Wellness",
+      "etab_slug": "lumen-spa-wellness",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/lumen-spa-wellness.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/lumen-spa-wellness/",
+      "canton": "Valais",
+      "visit_date_fr": "29 avril 2026",
+      "saving_chf": 100
+    },
+    {
+      "etab_name": "Arte Beauty EPFL",
+      "etab_slug": "arte-beauty-epfl",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-epfl.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/",
+      "canton": "Vaud",
+      "visit_date_fr": "8 août 2026",
+      "saving_chf": 110
+    }
+  ]
+}

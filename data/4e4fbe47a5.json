@@ -1,13 +1,13 @@
 {
   "name": "Sylvie",
   "window": {
-    "start": "9 août 2025",
-    "end": "9 août 2026"
+    "start": "10 août 2025",
+    "end": "10 août 2026"
   },
   "stats": {
-    "visites_total": 6,
-    "etabs_uniques": 6,
-    "economies_chf": 590
+    "visites_total": 7,
+    "etabs_uniques": 7,
+    "economies_chf": 710
   },
   "visites": [
     {
@@ -62,6 +62,15 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "canton": "Vaud",
       "visit_date_fr": "14 avril 2026",
+      "saving_chf": 120
+    },
+    {
+      "etab_name": "Le Grand Bellevue Spa",
+      "etab_slug": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/_default.jpg",
+      "etab_url_public": null,
+      "canton": "Berne",
+      "visit_date_fr": "9 août 2026",
       "saving_chf": 120
     }
   ]
