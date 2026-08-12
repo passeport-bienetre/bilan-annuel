@@ -1,0 +1,32 @@
+{
+  "name": "Jennifer",
+  "window": {
+    "start": "12 août 2025",
+    "end": "12 août 2026"
+  },
+  "stats": {
+    "visites_total": 2,
+    "etabs_uniques": 2,
+    "economies_chf": 175
+  },
+  "visites": [
+    {
+      "etab_name": "Les Sources des Alpes",
+      "etab_slug": "les-sources-des-alpes-3",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-sources-des-alpes-3.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/les-sources-des-alpes-3/",
+      "canton": "Valais",
+      "visit_date_fr": "13 septembre 2025",
+      "saving_chf": 90
+    },
+    {
+      "etab_name": "KASA AMO",
+      "etab_slug": "kasa-amo",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/kasa-amo.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/kasa-amo/",
+      "canton": "Vaud",
+      "visit_date_fr": "11 mars 2026",
+      "saving_chf": 85
+    }
+  ]
+}

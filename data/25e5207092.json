@@ -1,13 +1,13 @@
 {
   "name": "Christa",
   "window": {
-    "start": "10 août 2025",
-    "end": "10 août 2026"
+    "start": "12 août 2025",
+    "end": "12 août 2026"
   },
   "stats": {
-    "visites_total": 11,
-    "etabs_uniques": 11,
-    "economies_chf": 1030
+    "visites_total": 12,
+    "etabs_uniques": 12,
+    "economies_chf": 1100
   },
   "visites": [
     {
@@ -108,6 +108,15 @@
       "canton": "Valais",
       "visit_date_fr": "29 juillet 2026",
       "saving_chf": 80
+    },
+    {
+      "etab_name": "Tempête de Calme",
+      "etab_slug": "tempete-de-calme",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/tempete-de-calme.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/tempete-de-calme/",
+      "canton": "Vaud",
+      "visit_date_fr": "10 août 2026",
+      "saving_chf": 70
     }
   ]
 }

@@ -1,0 +1,23 @@
+{
+  "name": "Claudia",
+  "window": {
+    "start": "12 août 2025",
+    "end": "12 août 2026"
+  },
+  "stats": {
+    "visites_total": 1,
+    "etabs_uniques": 1,
+    "economies_chf": 70
+  },
+  "visites": [
+    {
+      "etab_name": "La VILLA Kobido et Massage",
+      "etab_slug": "la-villa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-villa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/la-villa/",
+      "canton": "Vaud",
+      "visit_date_fr": "8 octobre 2025",
+      "saving_chf": 70
+    }
+  ]
+}
