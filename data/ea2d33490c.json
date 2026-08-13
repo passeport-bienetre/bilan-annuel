@@ -1,0 +1,32 @@
+{
+  "name": "Philippe",
+  "window": {
+    "start": "13 août 2025",
+    "end": "13 août 2026"
+  },
+  "stats": {
+    "visites_total": 2,
+    "etabs_uniques": 2,
+    "economies_chf": 240
+  },
+  "visites": [
+    {
+      "etab_name": "Hôtel de Rougemont & Spa",
+      "etab_slug": "hotel-de-rougemont-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-de-rougemont-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-de-rougemont-spa/",
+      "canton": "Berne",
+      "visit_date_fr": "14 septembre 2025",
+      "saving_chf": 90
+    },
+    {
+      "etab_name": "LE ST-GERVAIS HÔTEL & SPA",
+      "etab_slug": "le-st-gervais-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-st-gervais-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-st-gervais-hotel-spa/",
+      "canton": null,
+      "visit_date_fr": "8 décembre 2025",
+      "saving_chf": 150
+    }
+  ]
+}

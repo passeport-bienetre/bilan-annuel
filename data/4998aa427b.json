@@ -1,13 +1,13 @@
 {
   "name": "Yasmine",
   "window": {
-    "start": "12 août 2025",
-    "end": "12 août 2026"
+    "start": "13 août 2025",
+    "end": "13 août 2026"
   },
   "stats": {
-    "visites_total": 3,
-    "etabs_uniques": 3,
-    "economies_chf": 320
+    "visites_total": 4,
+    "etabs_uniques": 4,
+    "economies_chf": 450
   },
   "visites": [
     {
@@ -36,6 +36,15 @@
       "canton": "Genève",
       "visit_date_fr": "23 avril 2026",
       "saving_chf": 140
+    },
+    {
+      "etab_name": "MAISON DU TEMPS",
+      "etab_slug": "maison-du-temps",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-du-temps.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/maison-du-temps/",
+      "canton": "Genève",
+      "visit_date_fr": "12 août 2026",
+      "saving_chf": 130
     }
   ]
 }
