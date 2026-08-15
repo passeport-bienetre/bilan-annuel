@@ -1,13 +1,13 @@
 {
   "name": "Karin",
   "window": {
-    "start": "14 août 2025",
-    "end": "14 août 2026"
+    "start": "15 août 2025",
+    "end": "15 août 2026"
   },
   "stats": {
     "visites_total": 7,
     "etabs_uniques": 7,
-    "economies_chf": 698
+    "economies_chf": 703
   },
   "visites": [
     {
@@ -58,11 +58,11 @@
     {
       "etab_name": "Les Cliniques Matignon",
       "etab_slug": null,
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-cliniques-matignon--capsule-geneve-clinique-matignon.jpg",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-cliniques-matignon--geneve.jpg",
       "etab_url_public": null,
       "canton": " ",
       "visit_date_fr": "5 février 2026",
-      "saving_chf": 85
+      "saving_chf": 90
     },
     {
       "etab_name": "Chalet Royalp Hôtel & Spa",

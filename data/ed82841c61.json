@@ -1,13 +1,13 @@
 {
   "name": "Coralie",
   "window": {
-    "start": "14 août 2025",
-    "end": "14 août 2026"
+    "start": "15 août 2025",
+    "end": "15 août 2026"
   },
   "stats": {
-    "visites_total": 5,
-    "etabs_uniques": 5,
-    "economies_chf": 490
+    "visites_total": 6,
+    "etabs_uniques": 6,
+    "economies_chf": 610
   },
   "visites": [
     {
@@ -53,6 +53,15 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "canton": "Vaud",
       "visit_date_fr": "13 août 2026",
+      "saving_chf": 120
+    },
+    {
+      "etab_name": "Maison B",
+      "etab_slug": "maison-b",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-b.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/maison-b/",
+      "canton": null,
+      "visit_date_fr": "14 août 2026",
       "saving_chf": 120
     }
   ]

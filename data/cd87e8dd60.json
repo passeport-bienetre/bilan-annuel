@@ -1,13 +1,13 @@
 {
   "name": "Amina",
   "window": {
-    "start": "14 août 2025",
-    "end": "14 août 2026"
+    "start": "15 août 2025",
+    "end": "15 août 2026"
   },
   "stats": {
-    "visites_total": 1,
-    "etabs_uniques": 1,
-    "economies_chf": 60
+    "visites_total": 2,
+    "etabs_uniques": 2,
+    "economies_chf": 125
   },
   "visites": [
     {
@@ -18,6 +18,15 @@
       "canton": "Fribourg",
       "visit_date_fr": "21 août 2025",
       "saving_chf": 60
+    },
+    {
+      "etab_name": "Fjacco Coiffure",
+      "etab_slug": "fjacco-coiffure",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/fjacco-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/fjacco-coiffure/",
+      "canton": "Fribourg",
+      "visit_date_fr": "14 août 2026",
+      "saving_chf": 65
     }
   ]
 }

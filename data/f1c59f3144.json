@@ -1,0 +1,59 @@
+{
+  "name": "Svetlana",
+  "window": {
+    "start": "15 août 2025",
+    "end": "15 août 2026"
+  },
+  "stats": {
+    "visites_total": 5,
+    "etabs_uniques": 5,
+    "economies_chf": 505
+  },
+  "visites": [
+    {
+      "etab_name": "Royal Savoy Hôtel & Spa",
+      "etab_slug": "royal-savoy-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/royal-savoy-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
+      "canton": "Vaud",
+      "visit_date_fr": "18 septembre 2025",
+      "saving_chf": 120
+    },
+    {
+      "etab_name": "Lausanne Palace & Spa",
+      "etab_slug": "lausanne-palace-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/lausanne-palace-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
+      "canton": "Vaud",
+      "visit_date_fr": "16 octobre 2025",
+      "saving_chf": 130
+    },
+    {
+      "etab_name": "Institut Guinot",
+      "etab_slug": "institut-guinot-2",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-guinot-2.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
+      "canton": "Vaud",
+      "visit_date_fr": "14 février 2026",
+      "saving_chf": 115
+    },
+    {
+      "etab_name": "Tempête de Calme",
+      "etab_slug": "tempete-de-calme",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/tempete-de-calme.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/tempete-de-calme/",
+      "canton": "Vaud",
+      "visit_date_fr": "29 mai 2026",
+      "saving_chf": 70
+    },
+    {
+      "etab_name": "Maison Perle",
+      "etab_slug": "maison-perle",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-perle.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/maison-perle/",
+      "canton": "Vaud",
+      "visit_date_fr": "25 juillet 2026",
+      "saving_chf": 70
+    }
+  ]
+}
