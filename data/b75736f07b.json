@@ -1,13 +1,13 @@
 {
   "name": "Karin",
   "window": {
-    "start": "15 août 2025",
-    "end": "15 août 2026"
+    "start": "12 août 2025",
+    "end": "12 août 2026"
   },
   "stats": {
-    "visites_total": 5,
-    "etabs_uniques": 5,
-    "economies_chf": 365
+    "visites_total": 4,
+    "etabs_uniques": 4,
+    "economies_chf": 300
   },
   "visites": [
     {
@@ -45,15 +45,6 @@
       "canton": "Vaud",
       "visit_date_fr": "10 juillet 2026",
       "saving_chf": 60
-    },
-    {
-      "etab_name": "Karré Long",
-      "etab_slug": "karre-long-3",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/karre-long-3.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/karre-long-3/",
-      "canton": "Vaud",
-      "visit_date_fr": "14 août 2026",
-      "saving_chf": 65
     }
   ]
 }
