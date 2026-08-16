@@ -1,13 +1,13 @@
 {
   "name": "Nathalie",
   "window": {
-    "start": "15 août 2025",
-    "end": "15 août 2026"
+    "start": "16 août 2025",
+    "end": "16 août 2026"
   },
   "stats": {
-    "visites_total": 11,
-    "etabs_uniques": 11,
-    "economies_chf": 843
+    "visites_total": 12,
+    "etabs_uniques": 12,
+    "economies_chf": 911
   },
   "visites": [
     {
@@ -108,6 +108,15 @@
       "canton": "Berne",
       "visit_date_fr": "25 juillet 2026",
       "saving_chf": 120
+    },
+    {
+      "etab_name": "BLOOM HAIR SALON",
+      "etab_slug": "bloom-hair-salon",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bloom-hair-salon.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bloom-hair-salon/",
+      "canton": "Vaud",
+      "visit_date_fr": "15 août 2026",
+      "saving_chf": 68
     }
   ]
 }
