@@ -1,13 +1,13 @@
 {
   "name": "Rita",
   "window": {
-    "start": "12 août 2025",
-    "end": "12 août 2026"
+    "start": "17 août 2025",
+    "end": "17 août 2026"
   },
   "stats": {
-    "visites_total": 2,
-    "etabs_uniques": 2,
-    "economies_chf": 250
+    "visites_total": 3,
+    "etabs_uniques": 3,
+    "economies_chf": 370
   },
   "visites": [
     {
@@ -26,6 +26,15 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "canton": "Vaud",
       "visit_date_fr": "30 janvier 2026",
+      "saving_chf": 120
+    },
+    {
+      "etab_name": "Maison B",
+      "etab_slug": "maison-b",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-b.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/maison-b/",
+      "canton": null,
+      "visit_date_fr": "14 août 2026",
       "saving_chf": 120
     }
   ]

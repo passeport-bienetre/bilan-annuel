@@ -1,0 +1,23 @@
+{
+  "name": "Christine",
+  "window": {
+    "start": "17 août 2025",
+    "end": "17 août 2026"
+  },
+  "stats": {
+    "visites_total": 1,
+    "etabs_uniques": 1,
+    "economies_chf": 100
+  },
+  "visites": [
+    {
+      "etab_name": "Experimental Chalet",
+      "etab_slug": "experimental-chalet",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/experimental-chalet.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/experimental-chalet/",
+      "canton": "Valais",
+      "visit_date_fr": "27 mars 2026",
+      "saving_chf": 100
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "name": "Camille",
+  "window": {
+    "start": "17 août 2025",
+    "end": "17 août 2026"
+  },
+  "stats": {
+    "visites_total": 6,
+    "etabs_uniques": 6,
+    "economies_chf": 600
+  },
+  "visites": [
+    {
+      "etab_name": "Flaventino coiffure Aubonne",
+      "etab_slug": "flaventino-coiffure-aubonne",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/flaventino-coiffure-aubonne.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/flaventino-coiffure-aubonne/",
+      "canton": "Vaud",
+      "visit_date_fr": "18 septembre 2025",
+      "saving_chf": 60
+    },
+    {
+      "etab_name": "Salon Privé Gare",
+      "etab_slug": "salon-prive",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/salon-prive/",
+      "canton": "Vaud",
+      "visit_date_fr": "12 décembre 2025",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "Arte Beauty Lutry",
+      "etab_slug": "arte-beauty-lutry",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-lutry.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
+      "canton": "Vaud",
+      "visit_date_fr": "20 décembre 2025",
+      "saving_chf": 110
+    },
+    {
+      "etab_name": "Chalet Royalp Hôtel & Spa",
+      "etab_slug": "chalet-royalp-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
+      "canton": "Vaud",
+      "visit_date_fr": "6 février 2026",
+      "saving_chf": 160
+    },
+    {
+      "etab_name": "Arte Beauty EPFL",
+      "etab_slug": "arte-beauty-epfl",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-epfl.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/",
+      "canton": "Vaud",
+      "visit_date_fr": "13 février 2026",
+      "saving_chf": 110
+    },
+    {
+      "etab_name": "LAURA COIFFEUSE PRIVÉE",
+      "etab_slug": "laura-coiffeuse-privee",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/laura-coiffeuse-privee.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/laura-coiffeuse-privee/",
+      "canton": "Vaud",
+      "visit_date_fr": "13 juin 2026",
+      "saving_chf": 80
+    }
+  ]
+}

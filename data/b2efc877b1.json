@@ -1,13 +1,13 @@
 {
   "name": "Neo",
   "window": {
-    "start": "12 août 2025",
-    "end": "12 août 2026"
+    "start": "17 août 2025",
+    "end": "17 août 2026"
   },
   "stats": {
     "visites_total": 6,
     "etabs_uniques": 6,
-    "economies_chf": 675
+    "economies_chf": 670
   },
   "visites": [
     {
@@ -22,11 +22,11 @@
     {
       "etab_name": "Les Cliniques Matignon",
       "etab_slug": null,
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-cliniques-matignon--geneve.jpg",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-cliniques-matignon--capsule-geneve-clinique-matignon.jpg",
       "etab_url_public": null,
       "canton": " ",
       "visit_date_fr": "12 septembre 2025",
-      "saving_chf": 90
+      "saving_chf": 85
     },
     {
       "etab_name": "Thaiotop",
@@ -58,7 +58,7 @@
     {
       "etab_name": "LES FITNESS HARMONY",
       "etab_slug": null,
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-fitness-harmony--blandonnet.jpg",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-fitness-harmony--gland.jpg",
       "etab_url_public": null,
       "canton": " ",
       "visit_date_fr": "29 septembre 2025",
