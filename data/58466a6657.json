@@ -1,13 +1,13 @@
 {
   "name": "Nolwenn",
   "window": {
-    "start": "17 août 2025",
-    "end": "17 août 2026"
+    "start": "18 août 2025",
+    "end": "18 août 2026"
   },
   "stats": {
     "visites_total": 3,
     "etabs_uniques": 3,
-    "economies_chf": 365
+    "economies_chf": 370
   },
   "visites": [
     {
@@ -22,11 +22,11 @@
     {
       "etab_name": "Les Cliniques Matignon",
       "etab_slug": null,
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-cliniques-matignon--capsule-geneve-clinique-matignon.jpg",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-cliniques-matignon--geneve.jpg",
       "etab_url_public": null,
       "canton": " ",
       "visit_date_fr": "26 novembre 2025",
-      "saving_chf": 85
+      "saving_chf": 90
     },
     {
       "etab_name": "Le Mirador Resort & Spa",

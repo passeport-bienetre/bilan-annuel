@@ -1,0 +1,41 @@
+{
+  "name": "Cendrine",
+  "window": {
+    "start": "18 août 2025",
+    "end": "18 août 2026"
+  },
+  "stats": {
+    "visites_total": 3,
+    "etabs_uniques": 3,
+    "economies_chf": 190
+  },
+  "visites": [
+    {
+      "etab_name": "Serenityblue",
+      "etab_slug": "serenityblue",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/serenityblue.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/serenityblue/",
+      "canton": "Neuchâtel",
+      "visit_date_fr": "20 septembre 2025",
+      "saving_chf": 60
+    },
+    {
+      "etab_name": "Institut Beauté d'Or",
+      "etab_slug": null,
+      "etab_photo_url": "https://le-de.cdn-website.com/08f3469a00224588bdfe20e5d2df5c77/dms3rep/multi/opt/reception-1920w.jpg",
+      "etab_url_public": null,
+      "canton": " ",
+      "visit_date_fr": "6 février 2026",
+      "saving_chf": 70
+    },
+    {
+      "etab_name": "Institut Biotiful",
+      "etab_slug": "institut-biotiful-2",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-biotiful-2.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-biotiful-2/",
+      "canton": "Vaud",
+      "visit_date_fr": "1 avril 2026",
+      "saving_chf": 60
+    }
+  ]
+}

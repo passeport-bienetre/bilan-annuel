@@ -1,13 +1,13 @@
 {
   "name": "Sonia",
   "window": {
-    "start": "17 août 2025",
-    "end": "17 août 2026"
+    "start": "18 août 2025",
+    "end": "18 août 2026"
   },
   "stats": {
-    "visites_total": 20,
-    "etabs_uniques": 20,
-    "economies_chf": 1700
+    "visites_total": 21,
+    "etabs_uniques": 21,
+    "economies_chf": 1785
   },
   "visites": [
     {
@@ -189,6 +189,15 @@
       "canton": "Berne",
       "visit_date_fr": "30 juillet 2026",
       "saving_chf": 90
+    },
+    {
+      "etab_name": "KASA AMO",
+      "etab_slug": "kasa-amo",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/kasa-amo.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/kasa-amo/",
+      "canton": "Vaud",
+      "visit_date_fr": "17 août 2026",
+      "saving_chf": 85
     }
   ]
 }

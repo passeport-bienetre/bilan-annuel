@@ -1,13 +1,13 @@
 {
   "name": "Nathalie",
   "window": {
-    "start": "17 août 2025",
-    "end": "17 août 2026"
+    "start": "18 août 2025",
+    "end": "18 août 2026"
   },
   "stats": {
-    "visites_total": 3,
-    "etabs_uniques": 3,
-    "economies_chf": 251
+    "visites_total": 4,
+    "etabs_uniques": 4,
+    "economies_chf": 321
   },
   "visites": [
     {
@@ -36,6 +36,15 @@
       "canton": "Vaud",
       "visit_date_fr": "29 avril 2026",
       "saving_chf": 121
+    },
+    {
+      "etab_name": "Sawatdee Temple",
+      "etab_slug": "sawatdee-temple",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/sawatdee-temple.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/sawatdee-temple/",
+      "canton": "Genève",
+      "visit_date_fr": "17 août 2026",
+      "saving_chf": 70
     }
   ]
 }

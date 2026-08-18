@@ -1,13 +1,13 @@
 {
   "name": "Christopher",
   "window": {
-    "start": "17 août 2025",
-    "end": "17 août 2026"
+    "start": "18 août 2025",
+    "end": "18 août 2026"
   },
   "stats": {
-    "visites_total": 3,
-    "etabs_uniques": 3,
-    "economies_chf": 265
+    "visites_total": 5,
+    "etabs_uniques": 5,
+    "economies_chf": 405
   },
   "visites": [
     {
@@ -36,6 +36,24 @@
       "canton": "Genève",
       "visit_date_fr": "14 août 2026",
       "saving_chf": 105
+    },
+    {
+      "etab_name": "Sawatdee Delices",
+      "etab_slug": "sawatdee-delices",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/sawatdee-delices.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/sawatdee-delices/",
+      "canton": "Genève",
+      "visit_date_fr": "17 août 2026",
+      "saving_chf": 70
+    },
+    {
+      "etab_name": "Sawatdee Temple",
+      "etab_slug": "sawatdee-temple",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/sawatdee-temple.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/sawatdee-temple/",
+      "canton": "Genève",
+      "visit_date_fr": "17 août 2026",
+      "saving_chf": 70
     }
   ]
 }
