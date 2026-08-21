@@ -1,13 +1,13 @@
 {
   "name": "Sabine",
   "window": {
-    "start": "20 août 2025",
-    "end": "20 août 2026"
+    "start": "21 août 2025",
+    "end": "21 août 2026"
   },
   "stats": {
-    "visites_total": 6,
-    "etabs_uniques": 6,
-    "economies_chf": 650
+    "visites_total": 7,
+    "etabs_uniques": 7,
+    "economies_chf": 780
   },
   "visites": [
     {
@@ -63,6 +63,15 @@
       "canton": "Genève",
       "visit_date_fr": "19 août 2026",
       "saving_chf": 100
+    },
+    {
+      "etab_name": "MAISON DU TEMPS",
+      "etab_slug": "maison-du-temps",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-du-temps.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/maison-du-temps/",
+      "canton": "Genève",
+      "visit_date_fr": "20 août 2026",
+      "saving_chf": 130
     }
   ]
 }
