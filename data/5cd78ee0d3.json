@@ -1,13 +1,13 @@
 {
   "name": "Valérie",
   "window": {
-    "start": "21 août 2025",
-    "end": "21 août 2026"
+    "start": "22 août 2025",
+    "end": "22 août 2026"
   },
   "stats": {
-    "visites_total": 4,
-    "etabs_uniques": 4,
-    "economies_chf": 371
+    "visites_total": 5,
+    "etabs_uniques": 5,
+    "economies_chf": 431
   },
   "visites": [
     {
@@ -45,6 +45,15 @@
       "canton": "Vaud",
       "visit_date_fr": "11 juillet 2026",
       "saving_chf": 121
+    },
+    {
+      "etab_name": "LA VILLA DERMO-ESTHÉTIQUE by Lorella",
+      "etab_slug": "la-villa-dermo-esthetique-by-lorella",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-villa-dermo-esthetique-by-lorella.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/la-villa-dermo-esthetique-by-lorella/",
+      "canton": "Vaud",
+      "visit_date_fr": "21 août 2026",
+      "saving_chf": 60
     }
   ]
 }
