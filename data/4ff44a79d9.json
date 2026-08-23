@@ -1,13 +1,13 @@
 {
   "name": "Leeilah",
   "window": {
-    "start": "22 août 2025",
-    "end": "22 août 2026"
+    "start": "23 août 2025",
+    "end": "23 août 2026"
   },
   "stats": {
-    "visites_total": 13,
-    "etabs_uniques": 13,
-    "economies_chf": 1102
+    "visites_total": 14,
+    "etabs_uniques": 14,
+    "economies_chf": 1157
   },
   "visites": [
     {
@@ -126,6 +126,15 @@
       "canton": "Genève",
       "visit_date_fr": "15 août 2026",
       "saving_chf": 80
+    },
+    {
+      "etab_name": "Studio Beauté",
+      "etab_slug": "studio-beaute",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/studio-beaute.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/studio-beaute/",
+      "canton": "Genève",
+      "visit_date_fr": "22 août 2026",
+      "saving_chf": 55
     }
   ]
 }

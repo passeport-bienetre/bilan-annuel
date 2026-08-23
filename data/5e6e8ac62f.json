@@ -1,0 +1,59 @@
+{
+  "name": "Aurore",
+  "window": {
+    "start": "23 août 2025",
+    "end": "23 août 2026"
+  },
+  "stats": {
+    "visites_total": 5,
+    "etabs_uniques": 5,
+    "economies_chf": 413
+  },
+  "visites": [
+    {
+      "etab_name": "Atmosp'hair",
+      "etab_slug": "atmosphair",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/atmosphair.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/atmosphair/",
+      "canton": "Vaud",
+      "visit_date_fr": "24 septembre 2025",
+      "saving_chf": 58
+    },
+    {
+      "etab_name": "Centre de bien-être J&J",
+      "etab_slug": "centre-de-bien-etre-jj",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/centre-de-bien-etre-jj.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/centre-de-bien-etre-jj/",
+      "canton": null,
+      "visit_date_fr": "10 octobre 2025",
+      "saving_chf": 70
+    },
+    {
+      "etab_name": "Le Mirador Resort & Spa",
+      "etab_slug": "le-mirador-resort-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
+      "canton": "Vaud",
+      "visit_date_fr": "19 décembre 2025",
+      "saving_chf": 120
+    },
+    {
+      "etab_name": "Beauty Concept Vevey",
+      "etab_slug": null,
+      "etab_photo_url": "https://phosphor.utils.elfsightcdn.com/?url=https%3A%2F%2Finstagram.fbho3-1.fna.fbcdn.net%2Fv%2Ft39.30808-6%2F459323807_18248847058258886_5556322712854961588_n.jpg%3Fstp%3Ddst-jpg_e35_s1080x1080_sh0.08%26efg%3DeyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDE0NDAuc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0%26_nc_ht%3Dinstagram.fbho3-1.fna.fbcdn.net%26_nc_cat%3D102%26_nc_ohc%3D2eRpVJsbwjwQ7kNvgGT-G0Z%26_nc_gid%3Dce539b03860b47f897e6d40a31979e8d%26edm%3DAPU89FAAAAAA%26ccb%3D7-5%26oh%3D00_AYBJ8t8oI4rc_d9lvmeRG4gOhsAu2DmfcMqgkWUL2qW5TQ%26oe%3D674251D6%26_nc_sid%3Dbc0c2c",
+      "etab_url_public": null,
+      "canton": "Vaud",
+      "visit_date_fr": "13 janvier 2026",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "KASA AMO",
+      "etab_slug": "kasa-amo",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/kasa-amo.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/kasa-amo/",
+      "canton": "Vaud",
+      "visit_date_fr": "13 mars 2026",
+      "saving_chf": 85
+    }
+  ]
+}
