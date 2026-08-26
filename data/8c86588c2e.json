@@ -1,23 +1,23 @@
 {
   "name": "Margarita",
   "window": {
-    "start": "25 août 2025",
-    "end": "25 août 2026"
+    "start": "26 août 2025",
+    "end": "26 août 2026"
   },
   "stats": {
     "visites_total": 5,
     "etabs_uniques": 5,
-    "economies_chf": 363
+    "economies_chf": 368
   },
   "visites": [
     {
       "etab_name": "Les Cliniques Matignon",
       "etab_slug": null,
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-cliniques-matignon--capsule-geneve-clinique-matignon.jpg",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-cliniques-matignon--geneve.jpg",
       "etab_url_public": null,
       "canton": " ",
       "visit_date_fr": "6 octobre 2025",
-      "saving_chf": 85
+      "saving_chf": 90
     },
     {
       "etab_name": "COMME SUR UN NUAGE",

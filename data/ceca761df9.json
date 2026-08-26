@@ -1,0 +1,41 @@
+{
+  "name": "Caroline",
+  "window": {
+    "start": "26 août 2025",
+    "end": "26 août 2026"
+  },
+  "stats": {
+    "visites_total": 3,
+    "etabs_uniques": 3,
+    "economies_chf": 350
+  },
+  "visites": [
+    {
+      "etab_name": "Centre Sattva",
+      "etab_slug": "centre-sattva",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/centre-sattva.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/centre-sattva/",
+      "canton": "Berne",
+      "visit_date_fr": "8 décembre 2025",
+      "saving_chf": 70
+    },
+    {
+      "etab_name": "JOIA NEUCHATEL",
+      "etab_slug": "joia-studio",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/joia-studio.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/joia-studio/",
+      "canton": "Neuchâtel",
+      "visit_date_fr": "19 décembre 2025",
+      "saving_chf": 175
+    },
+    {
+      "etab_name": "CLINIQUE LA JOUVENCE NEUCHÂTEL",
+      "etab_slug": "clinique-la-jouvence-neuchatel",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/clinique-la-jouvence-neuchatel.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/clinique-la-jouvence-neuchatel/",
+      "canton": "Neuchâtel",
+      "visit_date_fr": "11 février 2026",
+      "saving_chf": 105
+    }
+  ]
+}
