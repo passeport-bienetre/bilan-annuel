@@ -1,13 +1,13 @@
 {
   "name": "Christa",
   "window": {
-    "start": "26 août 2025",
-    "end": "26 août 2026"
+    "start": "27 août 2025",
+    "end": "27 août 2026"
   },
   "stats": {
-    "visites_total": 12,
-    "etabs_uniques": 12,
-    "economies_chf": 1100
+    "visites_total": 14,
+    "etabs_uniques": 14,
+    "economies_chf": 1238
   },
   "visites": [
     {
@@ -117,6 +117,24 @@
       "canton": "Vaud",
       "visit_date_fr": "10 août 2026",
       "saving_chf": 70
+    },
+    {
+      "etab_name": "Institut Orphée",
+      "etab_slug": "institut-sirene",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-sirene.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-sirene/",
+      "canton": "Vaud",
+      "visit_date_fr": "26 août 2026",
+      "saving_chf": 65
+    },
+    {
+      "etab_name": "Institut Sirène",
+      "etab_slug": "institut-sirene",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-sirene.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-sirene/",
+      "canton": "Vaud",
+      "visit_date_fr": "26 août 2026",
+      "saving_chf": 73
     }
   ]
 }
