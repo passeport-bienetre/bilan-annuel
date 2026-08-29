@@ -1,13 +1,13 @@
 {
   "name": "Emine",
   "window": {
-    "start": "28 août 2025",
-    "end": "28 août 2026"
+    "start": "29 août 2025",
+    "end": "29 août 2026"
   },
   "stats": {
-    "visites_total": 3,
-    "etabs_uniques": 3,
-    "economies_chf": 280
+    "visites_total": 4,
+    "etabs_uniques": 4,
+    "economies_chf": 340
   },
   "visites": [
     {
@@ -36,6 +36,15 @@
       "canton": "Vaud",
       "visit_date_fr": "22 août 2026",
       "saving_chf": 80
+    },
+    {
+      "etab_name": "Espace Beauté Sarah",
+      "etab_slug": "espace-beaute-sarah",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/espace-beaute-sarah.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/espace-beaute-sarah/",
+      "canton": "Vaud",
+      "visit_date_fr": "28 août 2026",
+      "saving_chf": 60
     }
   ]
 }

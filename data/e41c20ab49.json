@@ -1,0 +1,32 @@
+{
+  "name": "Jacques",
+  "window": {
+    "start": "29 août 2025",
+    "end": "29 août 2026"
+  },
+  "stats": {
+    "visites_total": 2,
+    "etabs_uniques": 2,
+    "economies_chf": 200
+  },
+  "visites": [
+    {
+      "etab_name": "W Verbier",
+      "etab_slug": null,
+      "etab_photo_url": "https://www.spa-wverbier.com/resourcefiles/homeimages/le-spa-new-pool.jpg",
+      "etab_url_public": null,
+      "canton": "Valais",
+      "visit_date_fr": "3 octobre 2025",
+      "saving_chf": 100
+    },
+    {
+      "etab_name": "LECRANS HOTEL & SPA",
+      "etab_slug": "le-st-gervais-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-st-gervais-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-st-gervais-hotel-spa/",
+      "canton": "Valais",
+      "visit_date_fr": "4 août 2026",
+      "saving_chf": 100
+    }
+  ]
+}

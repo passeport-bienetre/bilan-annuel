@@ -1,0 +1,23 @@
+{
+  "name": "Paulette",
+  "window": {
+    "start": "29 août 2025",
+    "end": "29 août 2026"
+  },
+  "stats": {
+    "visites_total": 1,
+    "etabs_uniques": 1,
+    "economies_chf": 80
+  },
+  "visites": [
+    {
+      "etab_name": "Anzère SPA & Wellness",
+      "etab_slug": "anzere-spa-wellness",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/anzere-spa-wellness.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/anzere-spa-wellness/",
+      "canton": "Valais",
+      "visit_date_fr": "22 mars 2026",
+      "saving_chf": 80
+    }
+  ]
+}
