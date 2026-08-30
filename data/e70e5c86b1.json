@@ -1,13 +1,13 @@
 {
   "name": "Huguette",
   "window": {
-    "start": "29 août 2025",
-    "end": "29 août 2026"
+    "start": "30 août 2025",
+    "end": "30 août 2026"
   },
   "stats": {
-    "visites_total": 3,
-    "etabs_uniques": 3,
-    "economies_chf": 270
+    "visites_total": 4,
+    "etabs_uniques": 4,
+    "economies_chf": 380
   },
   "visites": [
     {
@@ -36,6 +36,15 @@
       "canton": "Genève",
       "visit_date_fr": "20 mai 2026",
       "saving_chf": 70
+    },
+    {
+      "etab_name": "Grand Hôtel du Lac",
+      "etab_slug": "grand-hotel-du-lac",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/grand-hotel-du-lac.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/",
+      "canton": "Vaud",
+      "visit_date_fr": "29 août 2026",
+      "saving_chf": 110
     }
   ]
 }

@@ -1,13 +1,13 @@
 {
   "name": "Sylvie",
   "window": {
-    "start": "29 août 2025",
-    "end": "29 août 2026"
+    "start": "30 août 2025",
+    "end": "30 août 2026"
   },
   "stats": {
-    "visites_total": 5,
-    "etabs_uniques": 5,
-    "economies_chf": 540
+    "visites_total": 6,
+    "etabs_uniques": 6,
+    "economies_chf": 650
   },
   "visites": [
     {
@@ -54,6 +54,15 @@
       "canton": "Berne",
       "visit_date_fr": "9 août 2026",
       "saving_chf": 120
+    },
+    {
+      "etab_name": "Grand Hôtel du Lac",
+      "etab_slug": "grand-hotel-du-lac",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/grand-hotel-du-lac.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/",
+      "canton": "Vaud",
+      "visit_date_fr": "29 août 2026",
+      "saving_chf": 110
     }
   ]
 }

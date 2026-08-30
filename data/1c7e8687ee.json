@@ -1,0 +1,50 @@
+{
+  "name": "Djahida",
+  "window": {
+    "start": "30 août 2025",
+    "end": "30 août 2026"
+  },
+  "stats": {
+    "visites_total": 4,
+    "etabs_uniques": 4,
+    "economies_chf": 280
+  },
+  "visites": [
+    {
+      "etab_name": "Hairmania",
+      "etab_slug": "hairmania",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hairmania.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/hairmania/",
+      "canton": null,
+      "visit_date_fr": "1 octobre 2025",
+      "saving_chf": 70
+    },
+    {
+      "etab_name": "Salon Privé Gare",
+      "etab_slug": "salon-prive",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/salon-prive/",
+      "canton": "Vaud",
+      "visit_date_fr": "12 novembre 2025",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "Tête à Clak",
+      "etab_slug": "tete-a-clak",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/tete-a-clak.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/tete-a-clak/",
+      "canton": null,
+      "visit_date_fr": "5 février 2026",
+      "saving_chf": 70
+    },
+    {
+      "etab_name": "Les Vagabondes",
+      "etab_slug": "les-vagabondes",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-vagabondes.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/les-vagabondes/",
+      "canton": "Vaud",
+      "visit_date_fr": "16 avril 2026",
+      "saving_chf": 60
+    }
+  ]
+}
