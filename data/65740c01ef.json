@@ -1,8 +1,8 @@
 {
   "name": "Anne",
   "window": {
-    "start": "30 août 2025",
-    "end": "30 août 2026"
+    "start": "31 août 2025",
+    "end": "31 août 2026"
   },
   "stats": {
     "visites_total": 7,
@@ -13,7 +13,7 @@
     {
       "etab_name": "LES FITNESS HARMONY",
       "etab_slug": null,
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-fitness-harmony--denges.jpg",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-fitness-harmony--blandonnet.jpg",
       "etab_url_public": null,
       "canton": " ",
       "visit_date_fr": "1 septembre 2025",

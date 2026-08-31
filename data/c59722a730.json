@@ -1,0 +1,32 @@
+{
+  "name": "Caroline",
+  "window": {
+    "start": "31 août 2025",
+    "end": "31 août 2026"
+  },
+  "stats": {
+    "visites_total": 2,
+    "etabs_uniques": 2,
+    "economies_chf": 130
+  },
+  "visites": [
+    {
+      "etab_name": "La VILLA Kobido et Massage",
+      "etab_slug": "la-villa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-villa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/la-villa/",
+      "canton": "Vaud",
+      "visit_date_fr": "8 octobre 2025",
+      "saving_chf": 70
+    },
+    {
+      "etab_name": "Les Vagabondes",
+      "etab_slug": "les-vagabondes",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-vagabondes.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/les-vagabondes/",
+      "canton": "Vaud",
+      "visit_date_fr": "27 janvier 2026",
+      "saving_chf": 60
+    }
+  ]
+}
