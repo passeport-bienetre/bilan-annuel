@@ -1,0 +1,23 @@
+{
+  "name": "Christopher",
+  "window": {
+    "start": "1 septembre 2025",
+    "end": "1 septembre 2026"
+  },
+  "stats": {
+    "visites_total": 1,
+    "etabs_uniques": 1,
+    "economies_chf": 100
+  },
+  "visites": [
+    {
+      "etab_name": "Fairmont le Montreux Palace",
+      "etab_slug": null,
+      "etab_photo_url": "https://m.ahstatic.com/is/image/accorhotels/aja_p_6460-88:8by10?fmt=webp&wid=900&hei=1100&qlt=80",
+      "etab_url_public": null,
+      "canton": "Vaud",
+      "visit_date_fr": "21 octobre 2025",
+      "saving_chf": 100
+    }
+  ]
+}

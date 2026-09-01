@@ -1,0 +1,41 @@
+{
+  "name": "Simone",
+  "window": {
+    "start": "1 septembre 2025",
+    "end": "1 septembre 2026"
+  },
+  "stats": {
+    "visites_total": 3,
+    "etabs_uniques": 3,
+    "economies_chf": 245
+  },
+  "visites": [
+    {
+      "etab_name": "Serenityblue",
+      "etab_slug": "serenityblue",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/serenityblue.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/serenityblue/",
+      "canton": "Neuchâtel",
+      "visit_date_fr": "4 octobre 2025",
+      "saving_chf": 60
+    },
+    {
+      "etab_name": "Institut Guinot",
+      "etab_slug": "institut-guinot-2",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-guinot-2.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
+      "canton": "Vaud",
+      "visit_date_fr": "21 octobre 2025",
+      "saving_chf": 115
+    },
+    {
+      "etab_name": "INSTITUT NATURALPE",
+      "etab_slug": "institut-naturalpe",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-naturalpe.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-naturalpe/",
+      "canton": "Valais",
+      "visit_date_fr": "6 mai 2026",
+      "saving_chf": 70
+    }
+  ]
+}

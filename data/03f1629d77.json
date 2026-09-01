@@ -1,0 +1,131 @@
+{
+  "name": "Krystelle",
+  "window": {
+    "start": "1 septembre 2025",
+    "end": "1 septembre 2026"
+  },
+  "stats": {
+    "visites_total": 14,
+    "etabs_uniques": 13,
+    "economies_chf": 1163
+  },
+  "visites": [
+    {
+      "etab_name": "GLOW IN GENEVA",
+      "etab_slug": "glow-in-geneva",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/glow-in-geneva.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/glow-in-geneva/",
+      "canton": "Genève",
+      "visit_date_fr": "3 octobre 2025",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "SAKURA LAB",
+      "etab_slug": "sakura-lab",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/sakura-lab.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/sakura-lab/",
+      "canton": "Genève",
+      "visit_date_fr": "15 octobre 2025",
+      "saving_chf": 68
+    },
+    {
+      "etab_name": "Thai Corner",
+      "etab_slug": "thai-corner-3",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/thai-corner-3.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/thai-corner-3/",
+      "canton": "Genève",
+      "visit_date_fr": "21 octobre 2025",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "BLISS",
+      "etab_slug": "bliss",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bliss.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bliss/",
+      "canton": "Genève",
+      "visit_date_fr": "6 novembre 2025",
+      "saving_chf": 65
+    },
+    {
+      "etab_name": "Skin Solution",
+      "etab_slug": "skin-solution",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/skin-solution.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/skin-solution/",
+      "canton": "Genève",
+      "visit_date_fr": "18 novembre 2025",
+      "saving_chf": 120
+    },
+    {
+      "etab_name": "EUPHORIA & BEAUTY STUDIO",
+      "etab_slug": "euphoria-beauty-studio",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/euphoria-beauty-studio.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/euphoria-beauty-studio/",
+      "canton": "Genève",
+      "visit_date_fr": "9 décembre 2025",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "Hôtel Intercontinental Spa 5 Mondes",
+      "etab_slug": "hotel-intercontinental-spa-5-mondes",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-intercontinental-spa-5-mondes.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/",
+      "canton": "Genève",
+      "visit_date_fr": "12 décembre 2025",
+      "saving_chf": 90
+    },
+    {
+      "etab_name": "Belle et Naturelle",
+      "etab_slug": "belle-et-naturelle",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/belle-et-naturelle.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/belle-et-naturelle/",
+      "canton": "Genève",
+      "visit_date_fr": "15 décembre 2025",
+      "saving_chf": 50
+    },
+    {
+      "etab_name": "LE CENTRE GENÈVE BY CHARLINE",
+      "etab_slug": "le-centre-geneve-by-charline",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-centre-geneve-by-charline.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/",
+      "canton": "Genève",
+      "visit_date_fr": "27 janvier 2026",
+      "saving_chf": 160
+    },
+    {
+      "etab_name": "ÂM SOEURS",
+      "etab_slug": null,
+      "etab_photo_url": "https://salonkee.cloud/ch/data/3500/coverImage/n-d7z60vN2nxZXjdZD0VYjL-lg--opt",
+      "etab_url_public": null,
+      "canton": " ",
+      "visit_date_fr": "10 février 2026",
+      "saving_chf": 65
+    },
+    {
+      "etab_name": "Damien & Co",
+      "etab_slug": "damien-co-3",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/damien-co-3.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/damien-co-3/",
+      "canton": "Genève",
+      "visit_date_fr": "11 février 2026",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "Saai Nam Massage - Manor",
+      "etab_slug": "saai-nam-massage-manor",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/saai-nam-massage-manor.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/saai-nam-massage-manor/",
+      "canton": "Genève",
+      "visit_date_fr": "11 février 2026",
+      "saving_chf": 95
+    },
+    {
+      "etab_name": "MAISON DU TEMPS",
+      "etab_slug": "maison-du-temps",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-du-temps.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/maison-du-temps/",
+      "canton": "Genève",
+      "visit_date_fr": "15 juillet 2026",
+      "saving_chf": 130
+    }
+  ]
+}
