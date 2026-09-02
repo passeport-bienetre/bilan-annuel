@@ -1,0 +1,95 @@
+{
+  "name": "sabine",
+  "window": {
+    "start": "2 septembre 2025",
+    "end": "2 septembre 2026"
+  },
+  "stats": {
+    "visites_total": 9,
+    "etabs_uniques": 9,
+    "economies_chf": 805
+  },
+  "visites": [
+    {
+      "etab_name": "Arte Beauty Lutry",
+      "etab_slug": "arte-beauty-lutry",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-lutry.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
+      "canton": "Vaud",
+      "visit_date_fr": "4 octobre 2025",
+      "saving_chf": 110
+    },
+    {
+      "etab_name": "Spa Baron Tavernier",
+      "etab_slug": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/baron-tavernier-spa.jpg",
+      "etab_url_public": null,
+      "canton": "Vaud",
+      "visit_date_fr": "17 octobre 2025",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "Beauty Concept Vevey",
+      "etab_slug": null,
+      "etab_photo_url": "https://phosphor.utils.elfsightcdn.com/?url=https%3A%2F%2Finstagram.fbho3-1.fna.fbcdn.net%2Fv%2Ft39.30808-6%2F459323807_18248847058258886_5556322712854961588_n.jpg%3Fstp%3Ddst-jpg_e35_s1080x1080_sh0.08%26efg%3DeyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDE0NDAuc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0%26_nc_ht%3Dinstagram.fbho3-1.fna.fbcdn.net%26_nc_cat%3D102%26_nc_ohc%3D2eRpVJsbwjwQ7kNvgGT-G0Z%26_nc_gid%3Dce539b03860b47f897e6d40a31979e8d%26edm%3DAPU89FAAAAAA%26ccb%3D7-5%26oh%3D00_AYBJ8t8oI4rc_d9lvmeRG4gOhsAu2DmfcMqgkWUL2qW5TQ%26oe%3D674251D6%26_nc_sid%3Dbc0c2c",
+      "etab_url_public": null,
+      "canton": "Vaud",
+      "visit_date_fr": "26 décembre 2025",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "Swiss Aesthetica",
+      "etab_slug": "swiss-aesthetica",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/swiss-aesthetica.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/swiss-aesthetica/",
+      "canton": "Vaud",
+      "visit_date_fr": "30 décembre 2025",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "Maison Perle",
+      "etab_slug": "maison-perle",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-perle.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/maison-perle/",
+      "canton": "Vaud",
+      "visit_date_fr": "25 février 2026",
+      "saving_chf": 70
+    },
+    {
+      "etab_name": "Altitude by Garance",
+      "etab_slug": "altitude-by-garance",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/altitude-by-garance.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/altitude-by-garance/",
+      "canton": "Vaud",
+      "visit_date_fr": "29 mars 2026",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "Tempête de Calme",
+      "etab_slug": "tempete-de-calme",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/tempete-de-calme.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/tempete-de-calme/",
+      "canton": "Vaud",
+      "visit_date_fr": "19 juin 2026",
+      "saving_chf": 70
+    },
+    {
+      "etab_name": "Institut Guinot",
+      "etab_slug": "institut-guinot-2",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-guinot-2.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
+      "canton": "Vaud",
+      "visit_date_fr": "12 août 2026",
+      "saving_chf": 115
+    },
+    {
+      "etab_name": "Maison B",
+      "etab_slug": "maison-b",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-b.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/maison-b/",
+      "canton": null,
+      "visit_date_fr": "14 août 2026",
+      "saving_chf": 120
+    }
+  ]
+}

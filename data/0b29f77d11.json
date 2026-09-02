@@ -1,0 +1,68 @@
+{
+  "name": "Marlène",
+  "window": {
+    "start": "2 septembre 2025",
+    "end": "2 septembre 2026"
+  },
+  "stats": {
+    "visites_total": 6,
+    "etabs_uniques": 6,
+    "economies_chf": 430
+  },
+  "visites": [
+    {
+      "etab_name": "SAKURA LAB",
+      "etab_slug": "sakura-lab",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/sakura-lab.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/sakura-lab/",
+      "canton": "Genève",
+      "visit_date_fr": "28 novembre 2025",
+      "saving_chf": 68
+    },
+    {
+      "etab_name": "Origin Float Spa",
+      "etab_slug": "origin-float-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/origin-float-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/origin-float-spa/",
+      "canton": "Genève",
+      "visit_date_fr": "24 janvier 2026",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "BL Institut",
+      "etab_slug": "bl-institut-2",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bl-institut-2.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bl-institut-2/",
+      "canton": "Genève",
+      "visit_date_fr": "21 février 2026",
+      "saving_chf": 62
+    },
+    {
+      "etab_name": "Belle et Naturelle",
+      "etab_slug": "belle-et-naturelle",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/belle-et-naturelle.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/belle-et-naturelle/",
+      "canton": "Genève",
+      "visit_date_fr": "12 mars 2026",
+      "saving_chf": 50
+    },
+    {
+      "etab_name": "Le Bal des Créateurs",
+      "etab_slug": "le-bal-des-createurs-3",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-bal-des-createurs-3.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/",
+      "canton": "Genève",
+      "visit_date_fr": "31 mars 2026",
+      "saving_chf": 90
+    },
+    {
+      "etab_name": "EUPHORIA & BEAUTY STUDIO",
+      "etab_slug": "euphoria-beauty-studio",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/euphoria-beauty-studio.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/euphoria-beauty-studio/",
+      "canton": "Genève",
+      "visit_date_fr": "7 août 2026",
+      "saving_chf": 80
+    }
+  ]
+}

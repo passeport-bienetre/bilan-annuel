@@ -1,0 +1,23 @@
+{
+  "name": "Arta",
+  "window": {
+    "start": "2 septembre 2025",
+    "end": "2 septembre 2026"
+  },
+  "stats": {
+    "visites_total": 1,
+    "etabs_uniques": 1,
+    "economies_chf": 68
+  },
+  "visites": [
+    {
+      "etab_name": "L'Atelier du Visage",
+      "etab_slug": "latelier-du-visage",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/latelier-du-visage.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/latelier-du-visage/",
+      "canton": "Vaud",
+      "visit_date_fr": "4 octobre 2025",
+      "saving_chf": 68
+    }
+  ]
+}
