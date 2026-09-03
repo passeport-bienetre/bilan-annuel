@@ -1,5 +1,5 @@
 {
-  "name": "Charlotte",
+  "name": "Murielle",
   "window": {
     "start": "3 septembre 2025",
     "end": "3 septembre 2026"
@@ -7,26 +7,26 @@
   "stats": {
     "visites_total": 2,
     "etabs_uniques": 2,
-    "economies_chf": 210
+    "economies_chf": 230
   },
   "visites": [
-    {
-      "etab_name": "Europe Hôtel & Spa",
-      "etab_slug": "europe-hotel-spa",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/europe-hotel-spa.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/europe-hotel-spa/",
-      "canton": "Valais",
-      "visit_date_fr": "13 septembre 2025",
-      "saving_chf": 90
-    },
     {
       "etab_name": "Le Mirador Resort & Spa",
       "etab_slug": "le-mirador-resort-spa",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
       "canton": "Vaud",
-      "visit_date_fr": "12 janvier 2026",
+      "visit_date_fr": "31 octobre 2025",
       "saving_chf": 120
+    },
+    {
+      "etab_name": "Grand Hôtel du Lac",
+      "etab_slug": "grand-hotel-du-lac",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/grand-hotel-du-lac.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/",
+      "canton": "Vaud",
+      "visit_date_fr": "1 mai 2026",
+      "saving_chf": 110
     }
   ]
 }

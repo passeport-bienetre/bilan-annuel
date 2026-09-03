@@ -1,13 +1,13 @@
 {
   "name": "Emmanuelle",
   "window": {
-    "start": "2 septembre 2025",
-    "end": "2 septembre 2026"
+    "start": "3 septembre 2025",
+    "end": "3 septembre 2026"
   },
   "stats": {
-    "visites_total": 10,
-    "etabs_uniques": 10,
-    "economies_chf": 1125
+    "visites_total": 11,
+    "etabs_uniques": 11,
+    "economies_chf": 1205
   },
   "visites": [
     {
@@ -58,7 +58,7 @@
     {
       "etab_name": "LES FITNESS HARMONY",
       "etab_slug": null,
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-fitness-harmony--denges.jpg",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-fitness-harmony--meyrin.jpg",
       "etab_url_public": null,
       "canton": " ",
       "visit_date_fr": "26 décembre 2025",
@@ -99,6 +99,15 @@
       "canton": "Vaud",
       "visit_date_fr": "11 août 2026",
       "saving_chf": 120
+    },
+    {
+      "etab_name": "Le Cabinet de Beauté",
+      "etab_slug": "le-cabinet-de-beaute",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-cabinet-de-beaute.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-cabinet-de-beaute/",
+      "canton": "Genève",
+      "visit_date_fr": "2 septembre 2026",
+      "saving_chf": 80
     }
   ]
 }
