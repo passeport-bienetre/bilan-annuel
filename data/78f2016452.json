@@ -1,19 +1,19 @@
 {
   "name": "Olivier",
   "window": {
-    "start": "3 septembre 2025",
-    "end": "3 septembre 2026"
+    "start": "4 septembre 2025",
+    "end": "4 septembre 2026"
   },
   "stats": {
-    "visites_total": 6,
-    "etabs_uniques": 6,
-    "economies_chf": 648
+    "visites_total": 7,
+    "etabs_uniques": 7,
+    "economies_chf": 718
   },
   "visites": [
     {
       "etab_name": "LES FITNESS HARMONY",
       "etab_slug": null,
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-fitness-harmony--meyrin.jpg",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-fitness-harmony--gland.jpg",
       "etab_url_public": null,
       "canton": " ",
       "visit_date_fr": "1 octobre 2025",
@@ -63,6 +63,15 @@
       "canton": "Valais",
       "visit_date_fr": "31 juillet 2026",
       "saving_chf": 100
+    },
+    {
+      "etab_name": "Maison Perle",
+      "etab_slug": "maison-perle",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-perle.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/maison-perle/",
+      "canton": "Vaud",
+      "visit_date_fr": "3 septembre 2026",
+      "saving_chf": 70
     }
   ]
 }
