@@ -1,0 +1,41 @@
+{
+  "name": "Fanny",
+  "window": {
+    "start": "5 septembre 2025",
+    "end": "5 septembre 2026"
+  },
+  "stats": {
+    "visites_total": 3,
+    "etabs_uniques": 3,
+    "economies_chf": 225
+  },
+  "visites": [
+    {
+      "etab_name": "Parallèles Coiffure",
+      "etab_slug": "paralleles-coiffure",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/paralleles-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/paralleles-coiffure/",
+      "canton": "Genève",
+      "visit_date_fr": "8 octobre 2025",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "Le Cabinet de Beauté",
+      "etab_slug": "le-cabinet-de-beaute",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-cabinet-de-beaute.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-cabinet-de-beaute/",
+      "canton": "Genève",
+      "visit_date_fr": "29 octobre 2025",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "ÂM SOEURS",
+      "etab_slug": null,
+      "etab_photo_url": "https://salonkee.cloud/ch/data/3500/coverImage/n-d7z60vN2nxZXjdZD0VYjL-lg--opt",
+      "etab_url_public": null,
+      "canton": " ",
+      "visit_date_fr": "27 mars 2026",
+      "saving_chf": 65
+    }
+  ]
+}

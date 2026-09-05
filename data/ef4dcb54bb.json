@@ -1,13 +1,13 @@
 {
   "name": "sabine",
   "window": {
-    "start": "4 septembre 2025",
-    "end": "4 septembre 2026"
+    "start": "5 septembre 2025",
+    "end": "5 septembre 2026"
   },
   "stats": {
-    "visites_total": 9,
-    "etabs_uniques": 9,
-    "economies_chf": 805
+    "visites_total": 10,
+    "etabs_uniques": 10,
+    "economies_chf": 915
   },
   "visites": [
     {
@@ -90,6 +90,15 @@
       "canton": null,
       "visit_date_fr": "14 août 2026",
       "saving_chf": 120
+    },
+    {
+      "etab_name": "Arte Beauty EPFL",
+      "etab_slug": "arte-beauty-epfl",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-epfl.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/",
+      "canton": "Vaud",
+      "visit_date_fr": "4 septembre 2026",
+      "saving_chf": 110
     }
   ]
 }
