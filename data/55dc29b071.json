@@ -1,13 +1,13 @@
 {
   "name": "Viorel",
   "window": {
-    "start": "5 septembre 2025",
-    "end": "5 septembre 2026"
+    "start": "6 septembre 2025",
+    "end": "6 septembre 2026"
   },
   "stats": {
-    "visites_total": 4,
-    "etabs_uniques": 4,
-    "economies_chf": 440
+    "visites_total": 5,
+    "etabs_uniques": 5,
+    "economies_chf": 510
   },
   "visites": [
     {
@@ -45,6 +45,15 @@
       "canton": "Vaud",
       "visit_date_fr": "12 août 2026",
       "saving_chf": 120
+    },
+    {
+      "etab_name": "1er Acte Coiffure",
+      "etab_slug": "1er-acte-coiffure",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
+      "canton": "Vaud",
+      "visit_date_fr": "5 septembre 2026",
+      "saving_chf": 70
     }
   ]
 }

@@ -1,0 +1,41 @@
+{
+  "name": "Vanessa",
+  "window": {
+    "start": "6 septembre 2025",
+    "end": "6 septembre 2026"
+  },
+  "stats": {
+    "visites_total": 3,
+    "etabs_uniques": 3,
+    "economies_chf": 208
+  },
+  "visites": [
+    {
+      "etab_name": "SAKURA LAB",
+      "etab_slug": "sakura-lab",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/sakura-lab.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/sakura-lab/",
+      "canton": "Genève",
+      "visit_date_fr": "8 octobre 2025",
+      "saving_chf": 68
+    },
+    {
+      "etab_name": "EUPHORIA & BEAUTY STUDIO",
+      "etab_slug": "euphoria-beauty-studio",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/euphoria-beauty-studio.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/euphoria-beauty-studio/",
+      "canton": "Genève",
+      "visit_date_fr": "13 décembre 2025",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "La Coifferie",
+      "etab_slug": "la-coifferie-3",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-coifferie-3.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/la-coifferie-3/",
+      "canton": "Genève",
+      "visit_date_fr": "30 mai 2026",
+      "saving_chf": 60
+    }
+  ]
+}

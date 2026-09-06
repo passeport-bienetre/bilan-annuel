@@ -1,13 +1,13 @@
 {
   "name": "Mélissa",
   "window": {
-    "start": "5 septembre 2025",
-    "end": "5 septembre 2026"
+    "start": "6 septembre 2025",
+    "end": "6 septembre 2026"
   },
   "stats": {
-    "visites_total": 1,
-    "etabs_uniques": 1,
-    "economies_chf": 60
+    "visites_total": 2,
+    "etabs_uniques": 2,
+    "economies_chf": 140
   },
   "visites": [
     {
@@ -18,6 +18,15 @@
       "canton": "Genève",
       "visit_date_fr": "24 juillet 2026",
       "saving_chf": 60
+    },
+    {
+      "etab_name": "EUPHORIA & BEAUTY STUDIO",
+      "etab_slug": "euphoria-beauty-studio",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/euphoria-beauty-studio.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/euphoria-beauty-studio/",
+      "canton": "Genève",
+      "visit_date_fr": "5 septembre 2026",
+      "saving_chf": 80
     }
   ]
 }
