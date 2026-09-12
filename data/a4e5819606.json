@@ -1,13 +1,13 @@
 {
   "name": "Jacques",
   "window": {
-    "start": "11 septembre 2025",
-    "end": "11 septembre 2026"
+    "start": "12 septembre 2025",
+    "end": "12 septembre 2026"
   },
   "stats": {
-    "visites_total": 11,
-    "etabs_uniques": 11,
-    "economies_chf": 1068
+    "visites_total": 12,
+    "etabs_uniques": 12,
+    "economies_chf": 1148
   },
   "visites": [
     {
@@ -108,6 +108,15 @@
       "canton": "Vaud",
       "visit_date_fr": "10 septembre 2026",
       "saving_chf": 130
+    },
+    {
+      "etab_name": "Salon Privé Gare",
+      "etab_slug": "salon-prive",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/salon-prive/",
+      "canton": "Vaud",
+      "visit_date_fr": "11 septembre 2026",
+      "saving_chf": 80
     }
   ]
 }
