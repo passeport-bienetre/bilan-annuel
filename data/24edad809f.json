@@ -1,0 +1,59 @@
+{
+  "name": "Volha",
+  "window": {
+    "start": "14 septembre 2025",
+    "end": "14 septembre 2026"
+  },
+  "stats": {
+    "visites_total": 5,
+    "etabs_uniques": 5,
+    "economies_chf": 480
+  },
+  "visites": [
+    {
+      "etab_name": "Urban Spa",
+      "etab_slug": "urban-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/urban-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/urban-spa/",
+      "canton": "Fribourg",
+      "visit_date_fr": "16 octobre 2025",
+      "saving_chf": 65
+    },
+    {
+      "etab_name": "Les Cliniques Matignon",
+      "etab_slug": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-cliniques-matignon--geneve.jpg",
+      "etab_url_public": null,
+      "canton": " ",
+      "visit_date_fr": "23 octobre 2025",
+      "saving_chf": 90
+    },
+    {
+      "etab_name": "Institut Guinot",
+      "etab_slug": "institut-guinot-2",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-guinot-2.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
+      "canton": "Vaud",
+      "visit_date_fr": "25 octobre 2025",
+      "saving_chf": 115
+    },
+    {
+      "etab_name": "Europe Hôtel & Spa",
+      "etab_slug": "europe-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/europe-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/europe-hotel-spa/",
+      "canton": "Valais",
+      "visit_date_fr": "16 mars 2026",
+      "saving_chf": 90
+    },
+    {
+      "etab_name": "Le Grand Bellevue Spa",
+      "etab_slug": "le-grand-bellevue",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-grand-bellevue.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-grand-bellevue/",
+      "canton": "Berne",
+      "visit_date_fr": "13 septembre 2026",
+      "saving_chf": 120
+    }
+  ]
+}
