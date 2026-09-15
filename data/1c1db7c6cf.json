@@ -1,0 +1,50 @@
+{
+  "name": "Alexandra",
+  "window": {
+    "start": "15 septembre 2025",
+    "end": "15 septembre 2026"
+  },
+  "stats": {
+    "visites_total": 4,
+    "etabs_uniques": 4,
+    "economies_chf": 371
+  },
+  "visites": [
+    {
+      "etab_name": "La VILLA Kobido et Massage",
+      "etab_slug": "la-villa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-villa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/la-villa/",
+      "canton": "Vaud",
+      "visit_date_fr": "23 décembre 2025",
+      "saving_chf": 70
+    },
+    {
+      "etab_name": "LA VILLA DERMO-ESTHÉTIQUE by Lorella",
+      "etab_slug": "la-villa-dermo-esthetique-by-lorella",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-villa-dermo-esthetique-by-lorella.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/la-villa-dermo-esthetique-by-lorella/",
+      "canton": "Vaud",
+      "visit_date_fr": "14 février 2026",
+      "saving_chf": 60
+    },
+    {
+      "etab_name": "RUBIS SPA",
+      "etab_slug": "rubis-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/rubis-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/rubis-spa/",
+      "canton": "Vaud",
+      "visit_date_fr": "7 avril 2026",
+      "saving_chf": 121
+    },
+    {
+      "etab_name": "Le Mirador Resort & Spa",
+      "etab_slug": "le-mirador-resort-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
+      "canton": "Vaud",
+      "visit_date_fr": "22 juin 2026",
+      "saving_chf": 120
+    }
+  ]
+}

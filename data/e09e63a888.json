@@ -1,0 +1,32 @@
+{
+  "name": "roberto",
+  "window": {
+    "start": "15 septembre 2025",
+    "end": "15 septembre 2026"
+  },
+  "stats": {
+    "visites_total": 2,
+    "etabs_uniques": 2,
+    "economies_chf": 170
+  },
+  "visites": [
+    {
+      "etab_name": "Institut Kaori",
+      "etab_slug": "institut-kaori",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-kaori.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-kaori/",
+      "canton": "Vaud",
+      "visit_date_fr": "6 novembre 2025",
+      "saving_chf": 70
+    },
+    {
+      "etab_name": "SPA DES BISSES 4 VALLÉES",
+      "etab_slug": "spa-hotel-nendaz-4-vallees",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/spa-hotel-nendaz-4-vallees.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/spa-hotel-nendaz-4-vallees/",
+      "canton": "Valais",
+      "visit_date_fr": "1 septembre 2026",
+      "saving_chf": 100
+    }
+  ]
+}

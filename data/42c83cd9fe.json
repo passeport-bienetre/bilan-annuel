@@ -1,0 +1,68 @@
+{
+  "name": "Mathilde",
+  "window": {
+    "start": "15 septembre 2025",
+    "end": "15 septembre 2026"
+  },
+  "stats": {
+    "visites_total": 6,
+    "etabs_uniques": 6,
+    "economies_chf": 565
+  },
+  "visites": [
+    {
+      "etab_name": "Le Bal des Créateurs",
+      "etab_slug": "le-bal-des-createurs-3",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-bal-des-createurs-3.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/",
+      "canton": "Genève",
+      "visit_date_fr": "17 octobre 2025",
+      "saving_chf": 90
+    },
+    {
+      "etab_name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
+      "etab_slug": "lavalleespa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/lavalleespa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/lavalleespa/",
+      "canton": "Genève",
+      "visit_date_fr": "30 décembre 2025",
+      "saving_chf": 140
+    },
+    {
+      "etab_name": "EUPHORIA & BEAUTY STUDIO",
+      "etab_slug": "euphoria-beauty-studio",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/euphoria-beauty-studio.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/euphoria-beauty-studio/",
+      "canton": "Genève",
+      "visit_date_fr": "2 janvier 2026",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "BuiCil Genève",
+      "etab_slug": "buicil-geneve",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/buicil-geneve.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/buicil-geneve/",
+      "canton": "Genève",
+      "visit_date_fr": "25 février 2026",
+      "saving_chf": 60
+    },
+    {
+      "etab_name": "Hairstudio",
+      "etab_slug": "hairstudio",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hairstudio.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/hairstudio/",
+      "canton": "Genève",
+      "visit_date_fr": "15 mai 2026",
+      "saving_chf": 65
+    },
+    {
+      "etab_name": "MAISON DU TEMPS",
+      "etab_slug": "maison-du-temps",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-du-temps.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/maison-du-temps/",
+      "canton": "Genève",
+      "visit_date_fr": "25 juillet 2026",
+      "saving_chf": 130
+    }
+  ]
+}
