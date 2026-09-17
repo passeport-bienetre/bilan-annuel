@@ -1,13 +1,13 @@
 {
   "name": "Nicola",
   "window": {
-    "start": "16 septembre 2025",
-    "end": "16 septembre 2026"
+    "start": "17 septembre 2025",
+    "end": "17 septembre 2026"
   },
   "stats": {
     "visites_total": 5,
     "etabs_uniques": 5,
-    "economies_chf": 480
+    "economies_chf": 670
   },
   "visites": [
     {
@@ -29,13 +29,13 @@
       "saving_chf": 70
     },
     {
-      "etab_name": "Chalet Royalp Hôtel & Spa",
+      "etab_name": "CHALET ROYALP HÔTEL & SPA",
       "etab_slug": "chalet-royalp-hotel-spa",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
       "canton": "Vaud",
       "visit_date_fr": "5 février 2026",
-      "saving_chf": 160
+      "saving_chf": 350
     },
     {
       "etab_name": "Le Grand Bellevue Spa",
