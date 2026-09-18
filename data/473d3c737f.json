@@ -1,13 +1,13 @@
 {
-  "name": "Sébastien",
+  "name": "Joséphine",
   "window": {
     "start": "18 septembre 2025",
     "end": "18 septembre 2026"
   },
   "stats": {
-    "visites_total": 3,
-    "etabs_uniques": 3,
-    "economies_chf": 370
+    "visites_total": 4,
+    "etabs_uniques": 4,
+    "economies_chf": 441
   },
   "visites": [
     {
@@ -16,17 +16,26 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
       "canton": "Vaud",
-      "visit_date_fr": "31 octobre 2025",
+      "visit_date_fr": "21 octobre 2025",
       "saving_chf": 120
     },
     {
-      "etab_name": "Royal Savoy Hôtel & Spa",
-      "etab_slug": "royal-savoy-hotel-spa",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/royal-savoy-hotel-spa.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
+      "etab_name": "RUBIS SPA",
+      "etab_slug": "rubis-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/rubis-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/rubis-spa/",
       "canton": "Vaud",
-      "visit_date_fr": "4 février 2026",
-      "saving_chf": 120
+      "visit_date_fr": "10 février 2026",
+      "saving_chf": 121
+    },
+    {
+      "etab_name": "Tête à Clak",
+      "etab_slug": "tete-a-clak",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/tete-a-clak.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/tete-a-clak/",
+      "canton": null,
+      "visit_date_fr": "23 juin 2026",
+      "saving_chf": 70
     },
     {
       "etab_name": "Lausanne Palace & Spa",
@@ -34,7 +43,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/lausanne-palace-spa.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
       "canton": "Vaud",
-      "visit_date_fr": "6 mai 2026",
+      "visit_date_fr": "30 juin 2026",
       "saving_chf": 130
     }
   ]
