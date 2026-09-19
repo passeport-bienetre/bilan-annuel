@@ -1,0 +1,41 @@
+{
+  "name": "Cohen",
+  "window": {
+    "start": "19 septembre 2025",
+    "end": "19 septembre 2026"
+  },
+  "stats": {
+    "visites_total": 3,
+    "etabs_uniques": 3,
+    "economies_chf": 495
+  },
+  "visites": [
+    {
+      "etab_name": "Namaka - Centre de Longévité et Bienêtre",
+      "etab_slug": "namaka",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/namaka.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/namaka/",
+      "canton": "Genève",
+      "visit_date_fr": "22 octobre 2025",
+      "saving_chf": 65
+    },
+    {
+      "etab_name": "CHALET ROYALP HÔTEL & SPA",
+      "etab_slug": "chalet-royalp-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
+      "canton": "Vaud",
+      "visit_date_fr": "28 janvier 2026",
+      "saving_chf": 350
+    },
+    {
+      "etab_name": "Origin Float Spa",
+      "etab_slug": "origin-float-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/origin-float-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/origin-float-spa/",
+      "canton": "Genève",
+      "visit_date_fr": "12 mars 2026",
+      "saving_chf": 80
+    }
+  ]
+}

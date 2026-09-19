@@ -1,13 +1,13 @@
 {
   "name": "Kaltrina",
   "window": {
-    "start": "18 septembre 2025",
-    "end": "18 septembre 2026"
+    "start": "19 septembre 2025",
+    "end": "19 septembre 2026"
   },
   "stats": {
-    "visites_total": 2,
-    "etabs_uniques": 2,
-    "economies_chf": 135
+    "visites_total": 3,
+    "etabs_uniques": 3,
+    "economies_chf": 275
   },
   "visites": [
     {
@@ -27,6 +27,15 @@
       "canton": "Genève",
       "visit_date_fr": "31 octobre 2025",
       "saving_chf": 75
+    },
+    {
+      "etab_name": "FLEUR D’EPIDERME",
+      "etab_slug": "fleur-depiderme",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/fleur-depiderme.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/fleur-depiderme/",
+      "canton": "Genève",
+      "visit_date_fr": "18 septembre 2026",
+      "saving_chf": 140
     }
   ]
 }
