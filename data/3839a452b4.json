@@ -1,0 +1,23 @@
+{
+  "name": "Nathalie",
+  "window": {
+    "start": "22 septembre 2025",
+    "end": "22 septembre 2026"
+  },
+  "stats": {
+    "visites_total": 1,
+    "etabs_uniques": 1,
+    "economies_chf": 90
+  },
+  "visites": [
+    {
+      "etab_name": "Les Sources des Alpes",
+      "etab_slug": "les-sources-des-alpes-3",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-sources-des-alpes-3.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/les-sources-des-alpes-3/",
+      "canton": "Valais",
+      "visit_date_fr": "3 août 2026",
+      "saving_chf": 90
+    }
+  ]
+}
