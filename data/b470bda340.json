@@ -1,13 +1,13 @@
 {
   "name": "Thierry",
   "window": {
-    "start": "22 septembre 2025",
-    "end": "22 septembre 2026"
+    "start": "23 septembre 2025",
+    "end": "23 septembre 2026"
   },
   "stats": {
-    "visites_total": 11,
-    "etabs_uniques": 11,
-    "economies_chf": 910
+    "visites_total": 13,
+    "etabs_uniques": 13,
+    "economies_chf": 1050
   },
   "visites": [
     {
@@ -108,6 +108,24 @@
       "canton": null,
       "visit_date_fr": "14 septembre 2026",
       "saving_chf": 100
+    },
+    {
+      "etab_name": "Anzère SPA & Wellness",
+      "etab_slug": "anzere-spa-wellness",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/anzere-spa-wellness.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/anzere-spa-wellness/",
+      "canton": "Valais",
+      "visit_date_fr": "22 septembre 2026",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "Les Vagabondes",
+      "etab_slug": "les-vagabondes",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-vagabondes.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/les-vagabondes/",
+      "canton": "Vaud",
+      "visit_date_fr": "22 septembre 2026",
+      "saving_chf": 60
     }
   ]
 }
