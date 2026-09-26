@@ -1,0 +1,32 @@
+{
+  "name": "Anne",
+  "window": {
+    "start": "26 septembre 2025",
+    "end": "26 septembre 2026"
+  },
+  "stats": {
+    "visites_total": 2,
+    "etabs_uniques": 2,
+    "economies_chf": 250
+  },
+  "visites": [
+    {
+      "etab_name": "Lausanne Palace & Spa",
+      "etab_slug": "lausanne-palace-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/lausanne-palace-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
+      "canton": "Vaud",
+      "visit_date_fr": "12 mars 2026",
+      "saving_chf": 130
+    },
+    {
+      "etab_name": "Maison B",
+      "etab_slug": "maison-b",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-b.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/maison-b/",
+      "canton": null,
+      "visit_date_fr": "21 août 2026",
+      "saving_chf": 120
+    }
+  ]
+}

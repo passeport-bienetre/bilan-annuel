@@ -1,8 +1,8 @@
 {
   "name": "Jennifer",
   "window": {
-    "start": "25 septembre 2025",
-    "end": "25 septembre 2026"
+    "start": "26 septembre 2025",
+    "end": "26 septembre 2026"
   },
   "stats": {
     "visites_total": 5,
@@ -20,10 +20,10 @@
       "saving_chf": 80
     },
     {
-      "etab_name": "EUPHORIA & BEAUTY STUDIO",
-      "etab_slug": "euphoria-beauty-studio",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/euphoria-beauty-studio.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/euphoria-beauty-studio/",
+      "etab_name": "EUPHORIA HAIR & BEAUTY STUDIO",
+      "etab_slug": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/_default.jpg",
+      "etab_url_public": null,
       "canton": "Genève",
       "visit_date_fr": "16 janvier 2026",
       "saving_chf": 80
@@ -31,7 +31,7 @@
     {
       "etab_name": "LES FITNESS HARMONY",
       "etab_slug": null,
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-fitness-harmony--blandonnet.jpg",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-fitness-harmony--la-praille.jpg",
       "etab_url_public": null,
       "canton": " ",
       "visit_date_fr": "5 février 2026",

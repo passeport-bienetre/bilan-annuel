@@ -1,8 +1,8 @@
 {
   "name": "Andréa",
   "window": {
-    "start": "25 septembre 2025",
-    "end": "25 septembre 2026"
+    "start": "26 septembre 2025",
+    "end": "26 septembre 2026"
   },
   "stats": {
     "visites_total": 4,
@@ -20,10 +20,10 @@
       "saving_chf": 95
     },
     {
-      "etab_name": "EUPHORIA & BEAUTY STUDIO",
-      "etab_slug": "euphoria-beauty-studio",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/euphoria-beauty-studio.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/euphoria-beauty-studio/",
+      "etab_name": "EUPHORIA HAIR & BEAUTY STUDIO",
+      "etab_slug": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/_default.jpg",
+      "etab_url_public": null,
       "canton": "Genève",
       "visit_date_fr": "27 janvier 2026",
       "saving_chf": 80
