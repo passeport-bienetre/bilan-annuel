@@ -1,0 +1,41 @@
+{
+  "name": "Amélie",
+  "window": {
+    "start": "27 septembre 2025",
+    "end": "27 septembre 2026"
+  },
+  "stats": {
+    "visites_total": 3,
+    "etabs_uniques": 3,
+    "economies_chf": 195
+  },
+  "visites": [
+    {
+      "etab_name": "Salon Privé Ecublens",
+      "etab_slug": "salon-prive-ecublens",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive-ecublens.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/salon-prive-ecublens/",
+      "canton": "Vaud",
+      "visit_date_fr": "30 octobre 2025",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "Anita Coiffure",
+      "etab_slug": "anita-coiffure",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/anita-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/anita-coiffure/",
+      "canton": "Vaud",
+      "visit_date_fr": "23 janvier 2026",
+      "saving_chf": 55
+    },
+    {
+      "etab_name": "Flaventino coiffure Aubonne",
+      "etab_slug": "flaventino-coiffure-aubonne",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/flaventino-coiffure-aubonne.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/flaventino-coiffure-aubonne/",
+      "canton": "Vaud",
+      "visit_date_fr": "27 mars 2026",
+      "saving_chf": 60
+    }
+  ]
+}
