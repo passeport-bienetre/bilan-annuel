@@ -1,0 +1,50 @@
+{
+  "name": "Julia",
+  "window": {
+    "start": "28 septembre 2025",
+    "end": "28 septembre 2026"
+  },
+  "stats": {
+    "visites_total": 4,
+    "etabs_uniques": 4,
+    "economies_chf": 355
+  },
+  "visites": [
+    {
+      "etab_name": "Organik Beauty",
+      "etab_slug": "organik-beauty",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/organik-beauty.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/organik-beauty/",
+      "canton": "Vaud",
+      "visit_date_fr": "3 novembre 2025",
+      "saving_chf": 90
+    },
+    {
+      "etab_name": "Grand Hôtel du Lac",
+      "etab_slug": "grand-hotel-du-lac",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/grand-hotel-du-lac.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/",
+      "canton": "Vaud",
+      "visit_date_fr": "11 février 2026",
+      "saving_chf": 110
+    },
+    {
+      "etab_name": "KASA AMO",
+      "etab_slug": "kasa-amo",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/kasa-amo.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/kasa-amo/",
+      "canton": "Vaud",
+      "visit_date_fr": "25 février 2026",
+      "saving_chf": 85
+    },
+    {
+      "etab_name": "Luna aesthetic",
+      "etab_slug": "luna-aesthetic",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/luna-aesthetic.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/luna-aesthetic/",
+      "canton": "Vaud",
+      "visit_date_fr": "22 juillet 2026",
+      "saving_chf": 70
+    }
+  ]
+}

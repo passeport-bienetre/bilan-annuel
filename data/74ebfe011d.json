@@ -1,0 +1,140 @@
+{
+  "name": "Audrey",
+  "window": {
+    "start": "28 septembre 2025",
+    "end": "28 septembre 2026"
+  },
+  "stats": {
+    "visites_total": 14,
+    "etabs_uniques": 14,
+    "economies_chf": 1166
+  },
+  "visites": [
+    {
+      "etab_name": "Institut Osmose",
+      "etab_slug": "institut-osmose",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-osmose.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-osmose/",
+      "canton": "Vaud",
+      "visit_date_fr": "16 décembre 2025",
+      "saving_chf": 65
+    },
+    {
+      "etab_name": "Salon Privé Ecublens",
+      "etab_slug": "salon-prive-ecublens",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive-ecublens.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/salon-prive-ecublens/",
+      "canton": "Vaud",
+      "visit_date_fr": "18 décembre 2025",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "Institut Kaori",
+      "etab_slug": "institut-kaori",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-kaori.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-kaori/",
+      "canton": "Vaud",
+      "visit_date_fr": "22 janvier 2026",
+      "saving_chf": 70
+    },
+    {
+      "etab_name": "BEAUTY CONCEPT PULLY",
+      "etab_slug": null,
+      "etab_photo_url": "https://beautyconceptswiss.ch/wp-content/uploads/2025/10/photo_5992086154175958102_y.jpg",
+      "etab_url_public": null,
+      "canton": "Vaud",
+      "visit_date_fr": "26 janvier 2026",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "Arte Beauty Lutry",
+      "etab_slug": "arte-beauty-lutry",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-lutry.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
+      "canton": "Vaud",
+      "visit_date_fr": "9 février 2026",
+      "saving_chf": 110
+    },
+    {
+      "etab_name": "Odyssée Santé & Beauté",
+      "etab_slug": "odyssee-sante-beaute",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/odyssee-sante-beaute.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/odyssee-sante-beaute/",
+      "canton": "Vaud",
+      "visit_date_fr": "3 mars 2026",
+      "saving_chf": 65
+    },
+    {
+      "etab_name": "Institut Beauté Bertmans",
+      "etab_slug": "institut-beaute-bertmans",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-beaute-bertmans.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-beaute-bertmans/",
+      "canton": "Vaud",
+      "visit_date_fr": "9 mars 2026",
+      "saving_chf": 60
+    },
+    {
+      "etab_name": "Lausanne Palace & Spa",
+      "etab_slug": "lausanne-palace-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/lausanne-palace-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
+      "canton": "Vaud",
+      "visit_date_fr": "30 mars 2026",
+      "saving_chf": 130
+    },
+    {
+      "etab_name": "Signature Coiffure",
+      "etab_slug": "signature-coiffure",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/signature-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/signature-coiffure/",
+      "canton": "Vaud",
+      "visit_date_fr": "30 avril 2026",
+      "saving_chf": 65
+    },
+    {
+      "etab_name": "INTUITIVE JESS",
+      "etab_slug": "intuitive-jess",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/intuitive-jess.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/intuitive-jess/",
+      "canton": "Genève",
+      "visit_date_fr": "8 mai 2026",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "Tempête de Calme",
+      "etab_slug": "tempete-de-calme",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/tempete-de-calme.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/tempete-de-calme/",
+      "canton": "Vaud",
+      "visit_date_fr": "1 juin 2026",
+      "saving_chf": 70
+    },
+    {
+      "etab_name": "Institut Guinot",
+      "etab_slug": "institut-guinot-2",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-guinot-2.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
+      "canton": "Vaud",
+      "visit_date_fr": "15 juin 2026",
+      "saving_chf": 115
+    },
+    {
+      "etab_name": "Anita Coiffure",
+      "etab_slug": "anita-coiffure",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/anita-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/anita-coiffure/",
+      "canton": "Vaud",
+      "visit_date_fr": "9 juillet 2026",
+      "saving_chf": 55
+    },
+    {
+      "etab_name": "RUBIS SPA",
+      "etab_slug": "rubis-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/rubis-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/rubis-spa/",
+      "canton": "Vaud",
+      "visit_date_fr": "1 septembre 2026",
+      "saving_chf": 121
+    }
+  ]
+}
