@@ -1,0 +1,23 @@
+{
+  "name": "Fabienne",
+  "window": {
+    "start": "30 septembre 2025",
+    "end": "30 septembre 2026"
+  },
+  "stats": {
+    "visites_total": 1,
+    "etabs_uniques": 1,
+    "economies_chf": 130
+  },
+  "visites": [
+    {
+      "etab_name": "MAISON DU TEMPS",
+      "etab_slug": "maison-du-temps",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-du-temps.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/maison-du-temps/",
+      "canton": "Genève",
+      "visit_date_fr": "29 septembre 2026",
+      "saving_chf": 130
+    }
+  ]
+}
