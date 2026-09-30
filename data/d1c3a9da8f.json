@@ -1,0 +1,59 @@
+{
+  "name": "Ophélie",
+  "window": {
+    "start": "30 septembre 2025",
+    "end": "30 septembre 2026"
+  },
+  "stats": {
+    "visites_total": 5,
+    "etabs_uniques": 5,
+    "economies_chf": 527
+  },
+  "visites": [
+    {
+      "etab_name": "LE ST-GERVAIS HÔTEL & SPA",
+      "etab_slug": "le-st-gervais-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-st-gervais-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-st-gervais-hotel-spa/",
+      "canton": null,
+      "visit_date_fr": "1 novembre 2025",
+      "saving_chf": 150
+    },
+    {
+      "etab_name": "Le Cabinet de Beauté",
+      "etab_slug": "le-cabinet-de-beaute",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-cabinet-de-beaute.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-cabinet-de-beaute/",
+      "canton": "Genève",
+      "visit_date_fr": "13 novembre 2025",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "Saai Nam Massage - Manor",
+      "etab_slug": "saai-nam-massage-manor",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/saai-nam-massage-manor.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/saai-nam-massage-manor/",
+      "canton": "Genève",
+      "visit_date_fr": "9 janvier 2026",
+      "saving_chf": 95
+    },
+    {
+      "etab_name": "FLEUR D’EPIDERME",
+      "etab_slug": "fleur-depiderme",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/fleur-depiderme.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/fleur-depiderme/",
+      "canton": "Genève",
+      "visit_date_fr": "20 mars 2026",
+      "saving_chf": 140
+    },
+    {
+      "etab_name": "BL Institut",
+      "etab_slug": "bl-institut-2",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bl-institut-2.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bl-institut-2/",
+      "canton": "Genève",
+      "visit_date_fr": "28 août 2026",
+      "saving_chf": 62
+    }
+  ]
+}
