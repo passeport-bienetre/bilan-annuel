@@ -1,13 +1,13 @@
 {
   "name": "Céline",
   "window": {
-    "start": "30 septembre 2025",
-    "end": "30 septembre 2026"
+    "start": "1 octobre 2025",
+    "end": "1 octobre 2026"
   },
   "stats": {
-    "visites_total": 11,
-    "etabs_uniques": 11,
-    "economies_chf": 951
+    "visites_total": 12,
+    "etabs_uniques": 12,
+    "economies_chf": 1031
   },
   "visites": [
     {
@@ -108,6 +108,15 @@
       "canton": "Valais",
       "visit_date_fr": "4 août 2026",
       "saving_chf": 45
+    },
+    {
+      "etab_name": "Salon Privé Gare",
+      "etab_slug": "salon-prive",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/salon-prive/",
+      "canton": "Vaud",
+      "visit_date_fr": "30 septembre 2026",
+      "saving_chf": 80
     }
   ]
 }
