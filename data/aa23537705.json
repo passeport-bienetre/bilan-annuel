@@ -1,13 +1,13 @@
 {
   "name": "Sabrina",
   "window": {
-    "start": "1 octobre 2025",
-    "end": "1 octobre 2026"
+    "start": "2 octobre 2025",
+    "end": "2 octobre 2026"
   },
   "stats": {
-    "visites_total": 8,
-    "etabs_uniques": 8,
-    "economies_chf": 715
+    "visites_total": 9,
+    "etabs_uniques": 9,
+    "economies_chf": 795
   },
   "visites": [
     {
@@ -81,6 +81,15 @@
       "canton": "Vaud",
       "visit_date_fr": "29 septembre 2026",
       "saving_chf": 115
+    },
+    {
+      "etab_name": "Swiss Aesthetica",
+      "etab_slug": "swiss-aesthetica",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/swiss-aesthetica.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/swiss-aesthetica/",
+      "canton": "Vaud",
+      "visit_date_fr": "1 octobre 2026",
+      "saving_chf": 80
     }
   ]
 }

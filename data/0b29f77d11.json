@@ -1,13 +1,13 @@
 {
   "name": "Marlène",
   "window": {
-    "start": "1 octobre 2025",
-    "end": "1 octobre 2026"
+    "start": "2 octobre 2025",
+    "end": "2 octobre 2026"
   },
   "stats": {
-    "visites_total": 6,
-    "etabs_uniques": 6,
-    "economies_chf": 430
+    "visites_total": 7,
+    "etabs_uniques": 7,
+    "economies_chf": 510
   },
   "visites": [
     {
@@ -62,6 +62,15 @@
       "etab_url_public": null,
       "canton": "Genève",
       "visit_date_fr": "7 août 2026",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "LE CENTRE GENÈVE BY CHARLINE",
+      "etab_slug": "le-centre-geneve-by-charline",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-centre-geneve-by-charline.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/",
+      "canton": "Genève",
+      "visit_date_fr": "1 octobre 2026",
       "saving_chf": 80
     }
   ]
