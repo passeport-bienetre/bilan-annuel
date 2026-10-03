@@ -1,0 +1,41 @@
+{
+  "name": "Pascale",
+  "window": {
+    "start": "3 octobre 2025",
+    "end": "3 octobre 2026"
+  },
+  "stats": {
+    "visites_total": 3,
+    "etabs_uniques": 3,
+    "economies_chf": 273
+  },
+  "visites": [
+    {
+      "etab_name": "Le Mirador Resort & Spa",
+      "etab_slug": "le-mirador-resort-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
+      "canton": "Vaud",
+      "visit_date_fr": "4 novembre 2025",
+      "saving_chf": 120
+    },
+    {
+      "etab_name": "Eveil des Sens",
+      "etab_slug": "eveil-des-sens-3",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/eveil-des-sens-3.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/eveil-des-sens-3/",
+      "canton": "Neuchâtel",
+      "visit_date_fr": "5 décembre 2025",
+      "saving_chf": 68
+    },
+    {
+      "etab_name": "SPA BY CLARINS - HÔTEL MONT-BLANC CHAMONIX",
+      "etab_slug": "spa-by-clarins",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/spa-by-clarins.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/spa-by-clarins/",
+      "canton": null,
+      "visit_date_fr": "7 avril 2026",
+      "saving_chf": 85
+    }
+  ]
+}
