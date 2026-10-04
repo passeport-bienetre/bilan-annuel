@@ -1,13 +1,13 @@
 {
   "name": "Mélanie",
   "window": {
-    "start": "3 octobre 2025",
-    "end": "3 octobre 2026"
+    "start": "4 octobre 2025",
+    "end": "4 octobre 2026"
   },
   "stats": {
-    "visites_total": 4,
-    "etabs_uniques": 4,
-    "economies_chf": 395
+    "visites_total": 5,
+    "etabs_uniques": 5,
+    "economies_chf": 460
   },
   "visites": [
     {
@@ -45,6 +45,15 @@
       "canton": "Vaud",
       "visit_date_fr": "21 juillet 2026",
       "saving_chf": 110
+    },
+    {
+      "etab_name": "Nail Café",
+      "etab_slug": "nail-cafe",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/nail-cafe.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/nail-cafe/",
+      "canton": "Vaud",
+      "visit_date_fr": "3 octobre 2026",
+      "saving_chf": 65
     }
   ]
 }
