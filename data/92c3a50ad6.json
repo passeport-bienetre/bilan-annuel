@@ -1,13 +1,13 @@
 {
   "name": "Cecily",
   "window": {
-    "start": "4 octobre 2025",
-    "end": "4 octobre 2026"
+    "start": "5 octobre 2025",
+    "end": "5 octobre 2026"
   },
   "stats": {
-    "visites_total": 6,
-    "etabs_uniques": 6,
-    "economies_chf": 580
+    "visites_total": 7,
+    "etabs_uniques": 7,
+    "economies_chf": 670
   },
   "visites": [
     {
@@ -63,6 +63,15 @@
       "canton": null,
       "visit_date_fr": "20 septembre 2026",
       "saving_chf": 85
+    },
+    {
+      "etab_name": "Hôtel Ermitage Spa des Quatre Terres",
+      "etab_slug": "hotel-ermitage-spa-des-quatre-terres",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-ermitage-spa-des-quatre-terres.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-ermitage-spa-des-quatre-terres/",
+      "canton": null,
+      "visit_date_fr": "4 octobre 2026",
+      "saving_chf": 90
     }
   ]
 }

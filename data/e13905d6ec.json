@@ -1,13 +1,13 @@
 {
   "name": "Gaëlle",
   "window": {
-    "start": "4 octobre 2025",
-    "end": "4 octobre 2026"
+    "start": "5 octobre 2025",
+    "end": "5 octobre 2026"
   },
   "stats": {
-    "visites_total": 8,
-    "etabs_uniques": 8,
-    "economies_chf": 688
+    "visites_total": 9,
+    "etabs_uniques": 9,
+    "economies_chf": 788
   },
   "visites": [
     {
@@ -81,6 +81,15 @@
       "canton": null,
       "visit_date_fr": "7 août 2026",
       "saving_chf": 120
+    },
+    {
+      "etab_name": "Lumen Spa & Wellness",
+      "etab_slug": "lumen-spa-wellness",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/lumen-spa-wellness.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/lumen-spa-wellness/",
+      "canton": "Valais",
+      "visit_date_fr": "4 octobre 2026",
+      "saving_chf": 100
     }
   ]
 }

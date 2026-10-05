@@ -1,0 +1,77 @@
+{
+  "name": "Neila",
+  "window": {
+    "start": "5 octobre 2025",
+    "end": "5 octobre 2026"
+  },
+  "stats": {
+    "visites_total": 7,
+    "etabs_uniques": 7,
+    "economies_chf": 607
+  },
+  "visites": [
+    {
+      "etab_name": "Thai Corner",
+      "etab_slug": "thai-corner-3",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/thai-corner-3.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/thai-corner-3/",
+      "canton": "Genève",
+      "visit_date_fr": "17 novembre 2025",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "BL Institut",
+      "etab_slug": "bl-institut-2",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bl-institut-2.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bl-institut-2/",
+      "canton": "Genève",
+      "visit_date_fr": "4 avril 2026",
+      "saving_chf": 62
+    },
+    {
+      "etab_name": "Thaiotop",
+      "etab_slug": "thaiotop-3",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/thaiotop-3.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/thaiotop-3/",
+      "canton": "Genève",
+      "visit_date_fr": "7 mai 2026",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "Mon Bonheur Ayurvédique",
+      "etab_slug": "mon-bonheur-ayurvedique",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/mon-bonheur-ayurvedique.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/mon-bonheur-ayurvedique/",
+      "canton": "Genève",
+      "visit_date_fr": "25 mai 2026",
+      "saving_chf": 65
+    },
+    {
+      "etab_name": "LE CENTRE GENÈVE BY CHARLINE",
+      "etab_slug": "le-centre-geneve-by-charline",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-centre-geneve-by-charline.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/",
+      "canton": "Genève",
+      "visit_date_fr": "28 mai 2026",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "Le Beausquet Genève",
+      "etab_slug": "le-beausquet-geneve",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-beausquet-geneve.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-beausquet-geneve/",
+      "canton": "Genève",
+      "visit_date_fr": "20 juin 2026",
+      "saving_chf": 100
+    },
+    {
+      "etab_name": "FLEUR D’EPIDERME",
+      "etab_slug": "fleur-depiderme",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/fleur-depiderme.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/fleur-depiderme/",
+      "canton": "Genève",
+      "visit_date_fr": "26 juin 2026",
+      "saving_chf": 140
+    }
+  ]
+}
