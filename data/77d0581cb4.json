@@ -1,0 +1,50 @@
+{
+  "name": "Maude",
+  "window": {
+    "start": "7 octobre 2025",
+    "end": "7 octobre 2026"
+  },
+  "stats": {
+    "visites_total": 4,
+    "etabs_uniques": 4,
+    "economies_chf": 700
+  },
+  "visites": [
+    {
+      "etab_name": "Arte Beauty Lutry",
+      "etab_slug": "arte-beauty-lutry",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-lutry.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
+      "canton": "Vaud",
+      "visit_date_fr": "8 novembre 2025",
+      "saving_chf": 110
+    },
+    {
+      "etab_name": "Le Mirador Resort & Spa",
+      "etab_slug": "le-mirador-resort-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
+      "canton": "Vaud",
+      "visit_date_fr": "9 janvier 2026",
+      "saving_chf": 120
+    },
+    {
+      "etab_name": "Le Grand Bellevue Spa",
+      "etab_slug": "le-grand-bellevue",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-grand-bellevue.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-grand-bellevue/",
+      "canton": "Berne",
+      "visit_date_fr": "23 février 2026",
+      "saving_chf": 120
+    },
+    {
+      "etab_name": "CHALET ROYALP HÔTEL & SPA",
+      "etab_slug": "chalet-royalp-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
+      "canton": "Vaud",
+      "visit_date_fr": "10 mars 2026",
+      "saving_chf": 350
+    }
+  ]
+}

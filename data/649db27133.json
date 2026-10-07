@@ -1,0 +1,23 @@
+{
+  "name": "Tiphaine",
+  "window": {
+    "start": "7 octobre 2025",
+    "end": "7 octobre 2026"
+  },
+  "stats": {
+    "visites_total": 1,
+    "etabs_uniques": 1,
+    "economies_chf": 60
+  },
+  "visites": [
+    {
+      "etab_name": "Institut Sakora",
+      "etab_slug": "institut-sakora",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-sakora.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-sakora/",
+      "canton": "Genève",
+      "visit_date_fr": "8 novembre 2025",
+      "saving_chf": 60
+    }
+  ]
+}
