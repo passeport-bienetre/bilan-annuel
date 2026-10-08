@@ -1,0 +1,23 @@
+{
+  "name": "Marie-Aude",
+  "window": {
+    "start": "8 octobre 2025",
+    "end": "8 octobre 2026"
+  },
+  "stats": {
+    "visites_total": 1,
+    "etabs_uniques": 1,
+    "economies_chf": 90
+  },
+  "visites": [
+    {
+      "etab_name": "Organik Beauty",
+      "etab_slug": "organik-beauty",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/organik-beauty.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/organik-beauty/",
+      "canton": "Vaud",
+      "visit_date_fr": "2 décembre 2025",
+      "saving_chf": 90
+    }
+  ]
+}
