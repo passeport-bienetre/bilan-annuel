@@ -1,0 +1,23 @@
+{
+  "name": "Isabelle",
+  "window": {
+    "start": "9 octobre 2025",
+    "end": "9 octobre 2026"
+  },
+  "stats": {
+    "visites_total": 1,
+    "etabs_uniques": 1,
+    "economies_chf": 70
+  },
+  "visites": [
+    {
+      "etab_name": "SUBLIMEYES",
+      "etab_slug": "institut-sublimeyes",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-sublimeyes.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-sublimeyes/",
+      "canton": "Genève",
+      "visit_date_fr": "13 février 2026",
+      "saving_chf": 70
+    }
+  ]
+}

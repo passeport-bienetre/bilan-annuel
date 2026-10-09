@@ -1,0 +1,95 @@
+{
+  "name": "Mona",
+  "window": {
+    "start": "9 octobre 2025",
+    "end": "9 octobre 2026"
+  },
+  "stats": {
+    "visites_total": 9,
+    "etabs_uniques": 9,
+    "economies_chf": 913
+  },
+  "visites": [
+    {
+      "etab_name": "SAKURA LAB",
+      "etab_slug": "sakura-lab",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/sakura-lab.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/sakura-lab/",
+      "canton": "Genève",
+      "visit_date_fr": "10 novembre 2025",
+      "saving_chf": 68
+    },
+    {
+      "etab_name": "Lausanne Palace & Spa",
+      "etab_slug": "lausanne-palace-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/lausanne-palace-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
+      "canton": "Vaud",
+      "visit_date_fr": "25 novembre 2025",
+      "saving_chf": 130
+    },
+    {
+      "etab_name": "Royal Savoy Hôtel & Spa",
+      "etab_slug": "royal-savoy-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/royal-savoy-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
+      "canton": "Vaud",
+      "visit_date_fr": "9 décembre 2025",
+      "saving_chf": 120
+    },
+    {
+      "etab_name": "Le Mirador Resort & Spa",
+      "etab_slug": "le-mirador-resort-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
+      "canton": "Vaud",
+      "visit_date_fr": "19 décembre 2025",
+      "saving_chf": 120
+    },
+    {
+      "etab_name": "Wulan Studio",
+      "etab_slug": "wulan-studio",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/wulan-studio.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/wulan-studio/",
+      "canton": "Genève",
+      "visit_date_fr": "28 janvier 2026",
+      "saving_chf": 100
+    },
+    {
+      "etab_name": "Flaventino coiffure Aubonne",
+      "etab_slug": "flaventino-coiffure-aubonne",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/flaventino-coiffure-aubonne.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/flaventino-coiffure-aubonne/",
+      "canton": "Vaud",
+      "visit_date_fr": "11 février 2026",
+      "saving_chf": 60
+    },
+    {
+      "etab_name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
+      "etab_slug": "lavalleespa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/lavalleespa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/lavalleespa/",
+      "canton": "Genève",
+      "visit_date_fr": "12 février 2026",
+      "saving_chf": 140
+    },
+    {
+      "etab_name": "INSTITUT VALMONT CHEZ GLOBUS GENEVE",
+      "etab_slug": "institut-valmont-chez-globus-geneve",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-valmont-chez-globus-geneve.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-valmont-chez-globus-geneve/",
+      "canton": "Genève",
+      "visit_date_fr": "13 mars 2026",
+      "saving_chf": 95
+    },
+    {
+      "etab_name": "LE CENTRE GENÈVE BY CHARLINE",
+      "etab_slug": "le-centre-geneve-by-charline",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-centre-geneve-by-charline.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/",
+      "canton": "Genève",
+      "visit_date_fr": "9 mai 2026",
+      "saving_chf": 80
+    }
+  ]
+}

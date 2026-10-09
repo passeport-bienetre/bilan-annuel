@@ -1,0 +1,23 @@
+{
+  "name": "Raquel",
+  "window": {
+    "start": "9 octobre 2025",
+    "end": "9 octobre 2026"
+  },
+  "stats": {
+    "visites_total": 1,
+    "etabs_uniques": 1,
+    "economies_chf": 65
+  },
+  "visites": [
+    {
+      "etab_name": "ÂM SOEURS",
+      "etab_slug": null,
+      "etab_photo_url": "https://salonkee.cloud/ch/data/3500/coverImage/n-d7z60vN2nxZXjdZD0VYjL-lg--opt",
+      "etab_url_public": null,
+      "canton": " ",
+      "visit_date_fr": "26 février 2026",
+      "saving_chf": 65
+    }
+  ]
+}
