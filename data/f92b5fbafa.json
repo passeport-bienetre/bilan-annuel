@@ -1,13 +1,13 @@
 {
   "name": "Rachel",
   "window": {
-    "start": "9 octobre 2025",
-    "end": "9 octobre 2026"
+    "start": "10 octobre 2025",
+    "end": "10 octobre 2026"
   },
   "stats": {
-    "visites_total": 3,
-    "etabs_uniques": 3,
-    "economies_chf": 320
+    "visites_total": 4,
+    "etabs_uniques": 4,
+    "economies_chf": 420
   },
   "visites": [
     {
@@ -35,6 +35,15 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/spa-hotel-nendaz-4-vallees/",
       "canton": "Valais",
       "visit_date_fr": "8 août 2026",
+      "saving_chf": 100
+    },
+    {
+      "etab_name": "Lumen Spa & Wellness",
+      "etab_slug": "lumen-spa-wellness",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/lumen-spa-wellness.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/lumen-spa-wellness/",
+      "canton": "Valais",
+      "visit_date_fr": "9 octobre 2026",
       "saving_chf": 100
     }
   ]

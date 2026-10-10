@@ -1,0 +1,23 @@
+{
+  "name": "Eleonore",
+  "window": {
+    "start": "10 octobre 2025",
+    "end": "10 octobre 2026"
+  },
+  "stats": {
+    "visites_total": 1,
+    "etabs_uniques": 1,
+    "economies_chf": 80
+  },
+  "visites": [
+    {
+      "etab_name": "Hôtel & Spa Le National",
+      "etab_slug": "hotel-spa-le-national",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-spa-le-national.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-spa-le-national/",
+      "canton": "Valais",
+      "visit_date_fr": "11 janvier 2026",
+      "saving_chf": 80
+    }
+  ]
+}
