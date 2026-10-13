@@ -1,0 +1,32 @@
+{
+  "name": "Rostam",
+  "window": {
+    "start": "13 octobre 2025",
+    "end": "13 octobre 2026"
+  },
+  "stats": {
+    "visites_total": 3,
+    "etabs_uniques": 2,
+    "economies_chf": 525
+  },
+  "visites": [
+    {
+      "etab_name": "LE ST-GERVAIS HÔTEL & SPA",
+      "etab_slug": "le-st-gervais-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-st-gervais-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-st-gervais-hotel-spa/",
+      "canton": null,
+      "visit_date_fr": "15 novembre 2025",
+      "saving_chf": 300
+    },
+    {
+      "etab_name": "LAUSANNE PALACE",
+      "etab_slug": "bpnight-hotel-lausanne-palace",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-lausanne-palace.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-lausanne-palace/",
+      "canton": "Vaud",
+      "visit_date_fr": "5 mars 2026",
+      "saving_chf": 225
+    }
+  ]
+}
