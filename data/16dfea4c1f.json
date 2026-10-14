@@ -1,0 +1,68 @@
+{
+  "name": "Morgan",
+  "window": {
+    "start": "14 octobre 2025",
+    "end": "14 octobre 2026"
+  },
+  "stats": {
+    "visites_total": 7,
+    "etabs_uniques": 6,
+    "economies_chf": 1010
+  },
+  "visites": [
+    {
+      "etab_name": "Europe Hôtel & Spa",
+      "etab_slug": "europe-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/europe-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/europe-hotel-spa/",
+      "canton": "Valais",
+      "visit_date_fr": "15 novembre 2025",
+      "saving_chf": 90
+    },
+    {
+      "etab_name": "LAUSANNE PALACE",
+      "etab_slug": "bpnight-hotel-lausanne-palace",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-lausanne-palace.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-lausanne-palace/",
+      "canton": "Vaud",
+      "visit_date_fr": "18 novembre 2025",
+      "saving_chf": 225
+    },
+    {
+      "etab_name": "LE ST-GERVAIS HÔTEL & SPA",
+      "etab_slug": "le-st-gervais-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-st-gervais-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-st-gervais-hotel-spa/",
+      "canton": null,
+      "visit_date_fr": "9 décembre 2025",
+      "saving_chf": 300
+    },
+    {
+      "etab_name": "Hôtel Intercontinental Spa 5 Mondes",
+      "etab_slug": "hotel-intercontinental-spa-5-mondes",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-intercontinental-spa-5-mondes.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/",
+      "canton": "Genève",
+      "visit_date_fr": "19 décembre 2025",
+      "saving_chf": 90
+    },
+    {
+      "etab_name": "Sawatdee Temple",
+      "etab_slug": "sawatdee-temple",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/sawatdee-temple.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/sawatdee-temple/",
+      "canton": "Genève",
+      "visit_date_fr": "10 avril 2026",
+      "saving_chf": 70
+    },
+    {
+      "etab_name": "EUROPE ZERMATT HÔTEL",
+      "etab_slug": "bpnight-europe-zermatt-hotel",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-europe-zermatt-hotel.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-europe-zermatt-hotel/",
+      "canton": "Valais",
+      "visit_date_fr": "14 avril 2026",
+      "saving_chf": 235
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Mario",
+  "window": {
+    "start": "14 octobre 2025",
+    "end": "14 octobre 2026"
+  },
+  "stats": {
+    "visites_total": 4,
+    "etabs_uniques": 4,
+    "economies_chf": 545
+  },
+  "visites": [
+    {
+      "etab_name": "ERINGER HÔTEL",
+      "etab_slug": "bpnight-eringer-hotel",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-eringer-hotel.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-eringer-hotel/",
+      "canton": "Valais",
+      "visit_date_fr": "12 décembre 2025",
+      "saving_chf": 235
+    },
+    {
+      "etab_name": "Spa Baron Tavernier",
+      "etab_slug": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/baron-tavernier-spa.jpg",
+      "etab_url_public": null,
+      "canton": "Vaud",
+      "visit_date_fr": "25 décembre 2025",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "Le Mirador Resort & Spa",
+      "etab_slug": "le-mirador-resort-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
+      "canton": "Vaud",
+      "visit_date_fr": "21 février 2026",
+      "saving_chf": 120
+    },
+    {
+      "etab_name": "Hôtel Schweizerhof Bern & Spa",
+      "etab_slug": "schweizerhof-bern-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/schweizerhof-bern-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/schweizerhof-bern-hotel-spa/",
+      "canton": "Berne",
+      "visit_date_fr": "16 avril 2026",
+      "saving_chf": 110
+    }
+  ]
+}

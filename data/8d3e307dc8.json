@@ -1,0 +1,32 @@
+{
+  "name": "Heidi",
+  "window": {
+    "start": "14 octobre 2025",
+    "end": "14 octobre 2026"
+  },
+  "stats": {
+    "visites_total": 2,
+    "etabs_uniques": 2,
+    "economies_chf": 185
+  },
+  "visites": [
+    {
+      "etab_name": "Bains d'Ovronnaz",
+      "etab_slug": "bains-dovronnaz",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bains-dovronnaz.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bains-dovronnaz/",
+      "canton": "Valais",
+      "visit_date_fr": "15 mai 2026",
+      "saving_chf": 85
+    },
+    {
+      "etab_name": "SPA DES BISSES 4 VALLÉES",
+      "etab_slug": "spa-hotel-nendaz-4-vallees",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/spa-hotel-nendaz-4-vallees.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/spa-hotel-nendaz-4-vallees/",
+      "canton": "Valais",
+      "visit_date_fr": "30 août 2026",
+      "saving_chf": 100
+    }
+  ]
+}
