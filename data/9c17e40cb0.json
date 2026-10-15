@@ -1,13 +1,13 @@
 {
   "name": "Caroline",
   "window": {
-    "start": "14 octobre 2025",
-    "end": "14 octobre 2026"
+    "start": "15 octobre 2025",
+    "end": "15 octobre 2026"
   },
   "stats": {
-    "visites_total": 7,
-    "etabs_uniques": 7,
-    "economies_chf": 570
+    "visites_total": 8,
+    "etabs_uniques": 8,
+    "economies_chf": 696
   },
   "visites": [
     {
@@ -67,11 +67,20 @@
     {
       "etab_name": "Les Cliniques Matignon",
       "etab_slug": null,
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-cliniques-matignon--capsule-geneve-clinique-matignon.jpg",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-cliniques-matignon--geneve.jpg",
       "etab_url_public": null,
       "canton": " ",
       "visit_date_fr": "26 mars 2026",
-      "saving_chf": 85
+      "saving_chf": 90
+    },
+    {
+      "etab_name": "RUBIS SPA",
+      "etab_slug": "rubis-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/rubis-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/rubis-spa/",
+      "canton": "Vaud",
+      "visit_date_fr": "14 octobre 2026",
+      "saving_chf": 121
     }
   ]
 }

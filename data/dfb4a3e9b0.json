@@ -1,13 +1,13 @@
 {
   "name": "Julie",
   "window": {
-    "start": "14 octobre 2025",
-    "end": "14 octobre 2026"
+    "start": "15 octobre 2025",
+    "end": "15 octobre 2026"
   },
   "stats": {
-    "visites_total": 2,
-    "etabs_uniques": 2,
-    "economies_chf": 150
+    "visites_total": 3,
+    "etabs_uniques": 3,
+    "economies_chf": 210
   },
   "visites": [
     {
@@ -27,6 +27,15 @@
       "canton": "Vaud",
       "visit_date_fr": "21 mars 2026",
       "saving_chf": 80
+    },
+    {
+      "etab_name": "Serenityblue",
+      "etab_slug": "serenityblue",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/serenityblue.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/serenityblue/",
+      "canton": "Neuchâtel",
+      "visit_date_fr": "14 octobre 2026",
+      "saving_chf": 60
     }
   ]
 }

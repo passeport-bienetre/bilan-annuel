@@ -1,0 +1,68 @@
+{
+  "name": "Sophie",
+  "window": {
+    "start": "15 octobre 2025",
+    "end": "15 octobre 2026"
+  },
+  "stats": {
+    "visites_total": 6,
+    "etabs_uniques": 6,
+    "economies_chf": 420
+  },
+  "visites": [
+    {
+      "etab_name": "Guess What",
+      "etab_slug": "guess-what-3",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/guess-what-3.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/guess-what-3/",
+      "canton": "Vaud",
+      "visit_date_fr": "21 novembre 2025",
+      "saving_chf": 60
+    },
+    {
+      "etab_name": "BEAUTY CONCEPT PULLY",
+      "etab_slug": null,
+      "etab_photo_url": "https://beautyconceptswiss.ch/wp-content/uploads/2025/10/photo_5992086154175958102_y.jpg",
+      "etab_url_public": null,
+      "canton": "Vaud",
+      "visit_date_fr": "2 mars 2026",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "Karré Long",
+      "etab_slug": "karre-long-3",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/karre-long-3.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/karre-long-3/",
+      "canton": "Vaud",
+      "visit_date_fr": "20 mars 2026",
+      "saving_chf": 65
+    },
+    {
+      "etab_name": "Beauty Concept Vevey",
+      "etab_slug": null,
+      "etab_photo_url": "https://phosphor.utils.elfsightcdn.com/?url=https%3A%2F%2Finstagram.fbho3-1.fna.fbcdn.net%2Fv%2Ft39.30808-6%2F459323807_18248847058258886_5556322712854961588_n.jpg%3Fstp%3Ddst-jpg_e35_s1080x1080_sh0.08%26efg%3DeyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDE0NDAuc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0%26_nc_ht%3Dinstagram.fbho3-1.fna.fbcdn.net%26_nc_cat%3D102%26_nc_ohc%3D2eRpVJsbwjwQ7kNvgGT-G0Z%26_nc_gid%3Dce539b03860b47f897e6d40a31979e8d%26edm%3DAPU89FAAAAAA%26ccb%3D7-5%26oh%3D00_AYBJ8t8oI4rc_d9lvmeRG4gOhsAu2DmfcMqgkWUL2qW5TQ%26oe%3D674251D6%26_nc_sid%3Dbc0c2c",
+      "etab_url_public": null,
+      "canton": "Vaud",
+      "visit_date_fr": "27 mars 2026",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "Bhumi",
+      "etab_slug": "biotonique-institut",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/biotonique-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/biotonique-institut/",
+      "canton": "Vaud",
+      "visit_date_fr": "11 juin 2026",
+      "saving_chf": 70
+    },
+    {
+      "etab_name": "Nail Café",
+      "etab_slug": "nail-cafe",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/nail-cafe.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/nail-cafe/",
+      "canton": "Vaud",
+      "visit_date_fr": "6 octobre 2026",
+      "saving_chf": 65
+    }
+  ]
+}

@@ -1,13 +1,13 @@
 {
   "name": "Marie-Lise",
   "window": {
-    "start": "14 octobre 2025",
-    "end": "14 octobre 2026"
+    "start": "15 octobre 2025",
+    "end": "15 octobre 2026"
   },
   "stats": {
-    "visites_total": 5,
-    "etabs_uniques": 5,
-    "economies_chf": 510
+    "visites_total": 6,
+    "etabs_uniques": 6,
+    "economies_chf": 630
   },
   "visites": [
     {
@@ -54,6 +54,15 @@
       "canton": "Vaud",
       "visit_date_fr": "20 août 2026",
       "saving_chf": 70
+    },
+    {
+      "etab_name": "Le Mirador Resort & Spa",
+      "etab_slug": "le-mirador-resort-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
+      "canton": "Vaud",
+      "visit_date_fr": "14 octobre 2026",
+      "saving_chf": 120
     }
   ]
 }

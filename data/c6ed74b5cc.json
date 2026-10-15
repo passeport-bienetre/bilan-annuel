@@ -1,13 +1,13 @@
 {
   "name": "Céline",
   "window": {
-    "start": "14 octobre 2025",
-    "end": "14 octobre 2026"
+    "start": "15 octobre 2025",
+    "end": "15 octobre 2026"
   },
   "stats": {
-    "visites_total": 6,
-    "etabs_uniques": 6,
-    "economies_chf": 461
+    "visites_total": 7,
+    "etabs_uniques": 7,
+    "economies_chf": 521
   },
   "visites": [
     {
@@ -63,6 +63,15 @@
       "canton": "Vaud",
       "visit_date_fr": "24 juillet 2026",
       "saving_chf": 121
+    },
+    {
+      "etab_name": "ALEX COIFFURE SARL",
+      "etab_slug": "a-lex-coiffure-3",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/a-lex-coiffure-3.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/a-lex-coiffure-3/",
+      "canton": "Fribourg",
+      "visit_date_fr": "14 octobre 2026",
+      "saving_chf": 60
     }
   ]
 }

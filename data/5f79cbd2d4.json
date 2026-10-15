@@ -1,13 +1,13 @@
 {
   "name": "Alla",
   "window": {
-    "start": "14 octobre 2025",
-    "end": "14 octobre 2026"
+    "start": "15 octobre 2025",
+    "end": "15 octobre 2026"
   },
   "stats": {
-    "visites_total": 9,
-    "etabs_uniques": 9,
-    "economies_chf": 805
+    "visites_total": 10,
+    "etabs_uniques": 10,
+    "economies_chf": 885
   },
   "visites": [
     {
@@ -90,6 +90,15 @@
       "canton": "Genève",
       "visit_date_fr": "11 avril 2026",
       "saving_chf": 70
+    },
+    {
+      "etab_name": "GLOW IN GENEVA",
+      "etab_slug": "glow-in-geneva",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/glow-in-geneva.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/glow-in-geneva/",
+      "canton": "Genève",
+      "visit_date_fr": "14 octobre 2026",
+      "saving_chf": 80
     }
   ]
 }
