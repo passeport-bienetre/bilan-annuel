@@ -1,13 +1,13 @@
 {
   "name": "Emmanuelle",
   "window": {
-    "start": "15 octobre 2025",
-    "end": "15 octobre 2026"
+    "start": "16 octobre 2025",
+    "end": "16 octobre 2026"
   },
   "stats": {
-    "visites_total": 3,
-    "etabs_uniques": 3,
-    "economies_chf": 275
+    "visites_total": 4,
+    "etabs_uniques": 4,
+    "economies_chf": 355
   },
   "visites": [
     {
@@ -36,6 +36,15 @@
       "canton": "Vaud",
       "visit_date_fr": "9 juillet 2026",
       "saving_chf": 120
+    },
+    {
+      "etab_name": "Spa La Santé, Bulles de Champagne",
+      "etab_slug": "la-sante-a-champagne",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-sante-a-champagne.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/la-sante-a-champagne/",
+      "canton": "Vaud",
+      "visit_date_fr": "15 octobre 2026",
+      "saving_chf": 80
     }
   ]
 }
