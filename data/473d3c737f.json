@@ -1,13 +1,13 @@
 {
   "name": "Joséphine",
   "window": {
-    "start": "17 octobre 2025",
-    "end": "17 octobre 2026"
+    "start": "18 octobre 2025",
+    "end": "18 octobre 2026"
   },
   "stats": {
-    "visites_total": 4,
-    "etabs_uniques": 4,
-    "economies_chf": 441
+    "visites_total": 5,
+    "etabs_uniques": 5,
+    "economies_chf": 551
   },
   "visites": [
     {
@@ -45,6 +45,15 @@
       "canton": "Vaud",
       "visit_date_fr": "30 juin 2026",
       "saving_chf": 130
+    },
+    {
+      "etab_name": "Grand Hôtel du Lac",
+      "etab_slug": "grand-hotel-du-lac",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/grand-hotel-du-lac.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/",
+      "canton": "Vaud",
+      "visit_date_fr": "17 octobre 2026",
+      "saving_chf": 110
     }
   ]
 }

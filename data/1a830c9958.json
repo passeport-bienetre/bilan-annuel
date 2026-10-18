@@ -1,13 +1,13 @@
 {
   "name": "Kellie",
   "window": {
-    "start": "17 octobre 2025",
-    "end": "17 octobre 2026"
+    "start": "18 octobre 2025",
+    "end": "18 octobre 2026"
   },
   "stats": {
-    "visites_total": 2,
-    "etabs_uniques": 2,
-    "economies_chf": 450
+    "visites_total": 3,
+    "etabs_uniques": 3,
+    "economies_chf": 520
   },
   "visites": [
     {
@@ -27,6 +27,15 @@
       "canton": "Vaud",
       "visit_date_fr": "10 décembre 2025",
       "saving_chf": 350
+    },
+    {
+      "etab_name": "Luna aesthetic",
+      "etab_slug": "luna-aesthetic",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/luna-aesthetic.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/luna-aesthetic/",
+      "canton": "Vaud",
+      "visit_date_fr": "16 octobre 2026",
+      "saving_chf": 70
     }
   ]
 }

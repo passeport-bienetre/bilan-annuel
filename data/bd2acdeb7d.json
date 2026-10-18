@@ -1,0 +1,41 @@
+{
+  "name": "Katia",
+  "window": {
+    "start": "18 octobre 2025",
+    "end": "18 octobre 2026"
+  },
+  "stats": {
+    "visites_total": 3,
+    "etabs_uniques": 3,
+    "economies_chf": 240
+  },
+  "visites": [
+    {
+      "etab_name": "Grand Hôtel du Lac",
+      "etab_slug": "grand-hotel-du-lac",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/grand-hotel-du-lac.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/",
+      "canton": "Vaud",
+      "visit_date_fr": "19 novembre 2025",
+      "saving_chf": 110
+    },
+    {
+      "etab_name": "Centre de bien-être J&J",
+      "etab_slug": "centre-de-bien-etre-jj",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/centre-de-bien-etre-jj.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/centre-de-bien-etre-jj/",
+      "canton": null,
+      "visit_date_fr": "29 avril 2026",
+      "saving_chf": 70
+    },
+    {
+      "etab_name": "Les Vagabondes",
+      "etab_slug": "les-vagabondes",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-vagabondes.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/les-vagabondes/",
+      "canton": "Vaud",
+      "visit_date_fr": "21 juillet 2026",
+      "saving_chf": 60
+    }
+  ]
+}

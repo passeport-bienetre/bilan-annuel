@@ -1,0 +1,32 @@
+{
+  "name": "Mat",
+  "window": {
+    "start": "18 octobre 2025",
+    "end": "18 octobre 2026"
+  },
+  "stats": {
+    "visites_total": 2,
+    "etabs_uniques": 2,
+    "economies_chf": 125
+  },
+  "visites": [
+    {
+      "etab_name": "LES BAINS PUBLICS",
+      "etab_slug": "les-bains-publics",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-bains-publics.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/les-bains-publics/",
+      "canton": "Valais",
+      "visit_date_fr": "2 janvier 2026",
+      "saving_chf": 45
+    },
+    {
+      "etab_name": "VAGHEGGI Phyto Space Lausanne",
+      "etab_slug": null,
+      "etab_photo_url": "https://phytospace.ch/wp-content/uploads/2023/12/1-1024x1024.webp",
+      "etab_url_public": null,
+      "canton": "Vaud",
+      "visit_date_fr": "19 février 2026",
+      "saving_chf": 80
+    }
+  ]
+}

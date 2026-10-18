@@ -1,13 +1,13 @@
 {
   "name": "Lida",
   "window": {
-    "start": "17 octobre 2025",
-    "end": "17 octobre 2026"
+    "start": "18 octobre 2025",
+    "end": "18 octobre 2026"
   },
   "stats": {
-    "visites_total": 5,
-    "etabs_uniques": 5,
-    "economies_chf": 470
+    "visites_total": 6,
+    "etabs_uniques": 6,
+    "economies_chf": 540
   },
   "visites": [
     {
@@ -54,6 +54,15 @@
       "canton": "Genève",
       "visit_date_fr": "4 septembre 2026",
       "saving_chf": 80
+    },
+    {
+      "etab_name": "SUBLIMEYES",
+      "etab_slug": "institut-sublimeyes",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-sublimeyes.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-sublimeyes/",
+      "canton": "Genève",
+      "visit_date_fr": "17 octobre 2026",
+      "saving_chf": 70
     }
   ]
 }
