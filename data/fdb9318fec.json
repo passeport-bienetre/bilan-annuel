@@ -1,0 +1,32 @@
+{
+  "name": "Patricia",
+  "window": {
+    "start": "19 octobre 2025",
+    "end": "19 octobre 2026"
+  },
+  "stats": {
+    "visites_total": 2,
+    "etabs_uniques": 2,
+    "economies_chf": 135
+  },
+  "visites": [
+    {
+      "etab_name": "Nirvana Spa",
+      "etab_slug": null,
+      "etab_photo_url": "https://nirvana-privatespa.ch/wp-content/uploads/SPA-privatif-nirvana-1.jpg",
+      "etab_url_public": null,
+      "canton": " ",
+      "visit_date_fr": "20 novembre 2025",
+      "saving_chf": 70
+    },
+    {
+      "etab_name": "Institut Osmose",
+      "etab_slug": "institut-osmose",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-osmose.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-osmose/",
+      "canton": "Vaud",
+      "visit_date_fr": "1 octobre 2026",
+      "saving_chf": 65
+    }
+  ]
+}

@@ -1,13 +1,13 @@
 {
   "name": "Sabrina",
   "window": {
-    "start": "18 octobre 2025",
-    "end": "18 octobre 2026"
+    "start": "19 octobre 2025",
+    "end": "19 octobre 2026"
   },
   "stats": {
     "visites_total": 9,
     "etabs_uniques": 9,
-    "economies_chf": 795
+    "economies_chf": 815
   },
   "visites": [
     {
@@ -71,7 +71,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/salon-prive/",
       "canton": "Vaud",
       "visit_date_fr": "29 juillet 2026",
-      "saving_chf": 80
+      "saving_chf": 100
     },
     {
       "etab_name": "Institut Guinot",

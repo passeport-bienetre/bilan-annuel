@@ -1,13 +1,13 @@
 {
   "name": "Nour",
   "window": {
-    "start": "18 octobre 2025",
-    "end": "18 octobre 2026"
+    "start": "19 octobre 2025",
+    "end": "19 octobre 2026"
   },
   "stats": {
     "visites_total": 3,
     "etabs_uniques": 3,
-    "economies_chf": 265
+    "economies_chf": 285
   },
   "visites": [
     {
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/salon-prive-ecublens/",
       "canton": "Vaud",
       "visit_date_fr": "7 janvier 2026",
-      "saving_chf": 80
+      "saving_chf": 100
     },
     {
       "etab_name": "Nail Café",

@@ -1,13 +1,13 @@
 {
   "name": "Eliane",
   "window": {
-    "start": "18 octobre 2025",
-    "end": "18 octobre 2026"
+    "start": "19 octobre 2025",
+    "end": "19 octobre 2026"
   },
   "stats": {
     "visites_total": 4,
     "etabs_uniques": 4,
-    "economies_chf": 285
+    "economies_chf": 305
   },
   "visites": [
     {
@@ -17,7 +17,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/salon-prive/",
       "canton": "Vaud",
       "visit_date_fr": "24 octobre 2025",
-      "saving_chf": 80
+      "saving_chf": 100
     },
     {
       "etab_name": "Institut ZenSkin",

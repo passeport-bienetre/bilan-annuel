@@ -1,13 +1,13 @@
 {
   "name": "Aiescha",
   "window": {
-    "start": "18 octobre 2025",
-    "end": "18 octobre 2026"
+    "start": "19 octobre 2025",
+    "end": "19 octobre 2026"
   },
   "stats": {
     "visites_total": 5,
     "etabs_uniques": 5,
-    "economies_chf": 425
+    "economies_chf": 465
   },
   "visites": [
     {
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/salon-prive-chailly/",
       "canton": "Vaud",
       "visit_date_fr": "12 mars 2026",
-      "saving_chf": 80
+      "saving_chf": 100
     },
     {
       "etab_name": "LAURA COIFFEUSE PRIVÉE",
@@ -53,7 +53,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/salon-prive/",
       "canton": "Vaud",
       "visit_date_fr": "11 septembre 2026",
-      "saving_chf": 80
+      "saving_chf": 100
     }
   ]
 }
