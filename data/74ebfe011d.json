@@ -1,13 +1,13 @@
 {
   "name": "Audrey",
   "window": {
-    "start": "19 octobre 2025",
-    "end": "19 octobre 2026"
+    "start": "20 octobre 2025",
+    "end": "20 octobre 2026"
   },
   "stats": {
-    "visites_total": 14,
-    "etabs_uniques": 14,
-    "economies_chf": 1186
+    "visites_total": 13,
+    "etabs_uniques": 13,
+    "economies_chf": 1116
   },
   "visites": [
     {
@@ -27,15 +27,6 @@
       "canton": "Vaud",
       "visit_date_fr": "18 décembre 2025",
       "saving_chf": 100
-    },
-    {
-      "etab_name": "Institut Kaori",
-      "etab_slug": "institut-kaori",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-kaori.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-kaori/",
-      "canton": "Vaud",
-      "visit_date_fr": "22 janvier 2026",
-      "saving_chf": 70
     },
     {
       "etab_name": "BEAUTY CONCEPT PULLY",

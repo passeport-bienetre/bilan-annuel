@@ -1,13 +1,13 @@
 {
   "name": "Morgan",
   "window": {
-    "start": "19 octobre 2025",
-    "end": "19 octobre 2026"
+    "start": "20 octobre 2025",
+    "end": "20 octobre 2026"
   },
   "stats": {
-    "visites_total": 3,
-    "etabs_uniques": 3,
-    "economies_chf": 245
+    "visites_total": 4,
+    "etabs_uniques": 4,
+    "economies_chf": 315
   },
   "visites": [
     {
@@ -36,6 +36,15 @@
       "canton": "Vaud",
       "visit_date_fr": "27 septembre 2026",
       "saving_chf": 80
+    },
+    {
+      "etab_name": "La VILLA Kobido et Massage",
+      "etab_slug": "la-villa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-villa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/la-villa/",
+      "canton": "Vaud",
+      "visit_date_fr": "19 octobre 2026",
+      "saving_chf": 70
     }
   ]
 }

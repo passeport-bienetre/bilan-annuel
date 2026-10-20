@@ -1,13 +1,13 @@
 {
   "name": "Norris",
   "window": {
-    "start": "19 octobre 2025",
-    "end": "19 octobre 2026"
+    "start": "20 octobre 2025",
+    "end": "20 octobre 2026"
   },
   "stats": {
-    "visites_total": 3,
-    "etabs_uniques": 3,
-    "economies_chf": 335
+    "visites_total": 2,
+    "etabs_uniques": 2,
+    "economies_chf": 265
   },
   "visites": [
     {
@@ -22,20 +22,11 @@
     {
       "etab_name": "LES FITNESS HARMONY",
       "etab_slug": null,
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-fitness-harmony--versoix.jpg",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-fitness-harmony--gland.jpg",
       "etab_url_public": null,
       "canton": " ",
       "visit_date_fr": "27 novembre 2025",
       "saving_chf": 200
-    },
-    {
-      "etab_name": "Institut Kaori",
-      "etab_slug": "institut-kaori",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-kaori.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-kaori/",
-      "canton": "Vaud",
-      "visit_date_fr": "2 février 2026",
-      "saving_chf": 70
     }
   ]
 }
