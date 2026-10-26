@@ -1,0 +1,41 @@
+{
+  "name": "Sara",
+  "window": {
+    "start": "26 octobre 2025",
+    "end": "26 octobre 2026"
+  },
+  "stats": {
+    "visites_total": 3,
+    "etabs_uniques": 3,
+    "economies_chf": 335
+  },
+  "visites": [
+    {
+      "etab_name": "LA MAISON VALMONT – BONGENIE",
+      "etab_slug": "la-maison-valmont-lausanne",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-maison-valmont-lausanne.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/la-maison-valmont-lausanne/",
+      "canton": "Vaud",
+      "visit_date_fr": "29 novembre 2025",
+      "saving_chf": 95
+    },
+    {
+      "etab_name": "Le Mirador Resort & Spa",
+      "etab_slug": "le-mirador-resort-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
+      "canton": "Vaud",
+      "visit_date_fr": "20 avril 2026",
+      "saving_chf": 120
+    },
+    {
+      "etab_name": "Royal Savoy Hôtel & Spa",
+      "etab_slug": "royal-savoy-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/royal-savoy-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
+      "canton": "Vaud",
+      "visit_date_fr": "1 septembre 2026",
+      "saving_chf": 120
+    }
+  ]
+}

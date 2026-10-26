@@ -1,0 +1,32 @@
+{
+  "name": "Marielaure",
+  "window": {
+    "start": "26 octobre 2025",
+    "end": "26 octobre 2026"
+  },
+  "stats": {
+    "visites_total": 2,
+    "etabs_uniques": 2,
+    "economies_chf": 200
+  },
+  "visites": [
+    {
+      "etab_name": "W Verbier",
+      "etab_slug": null,
+      "etab_photo_url": "https://www.spa-wverbier.com/resourcefiles/homeimages/le-spa-new-pool.jpg",
+      "etab_url_public": null,
+      "canton": "Valais",
+      "visit_date_fr": "27 novembre 2025",
+      "saving_chf": 100
+    },
+    {
+      "etab_name": "Lumen Spa & Wellness",
+      "etab_slug": "lumen-spa-wellness",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/lumen-spa-wellness.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/lumen-spa-wellness/",
+      "canton": "Valais",
+      "visit_date_fr": "15 août 2026",
+      "saving_chf": 100
+    }
+  ]
+}
