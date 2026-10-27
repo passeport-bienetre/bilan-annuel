@@ -1,13 +1,13 @@
 {
   "name": "monika",
   "window": {
-    "start": "26 octobre 2025",
-    "end": "26 octobre 2026"
+    "start": "27 octobre 2025",
+    "end": "27 octobre 2026"
   },
   "stats": {
-    "visites_total": 1,
-    "etabs_uniques": 1,
-    "economies_chf": 62
+    "visites_total": 2,
+    "etabs_uniques": 2,
+    "economies_chf": 152
   },
   "visites": [
     {
@@ -18,6 +18,15 @@
       "canton": "Genève",
       "visit_date_fr": "6 novembre 2025",
       "saving_chf": 62
+    },
+    {
+      "etab_name": "Hôtel Intercontinental Spa 5 Mondes",
+      "etab_slug": "hotel-intercontinental-spa-5-mondes",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-intercontinental-spa-5-mondes.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/",
+      "canton": "Genève",
+      "visit_date_fr": "26 octobre 2026",
+      "saving_chf": 90
     }
   ]
 }
