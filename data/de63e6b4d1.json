@@ -1,13 +1,13 @@
 {
   "name": "Salina",
   "window": {
-    "start": "28 octobre 2025",
-    "end": "28 octobre 2026"
+    "start": "29 octobre 2025",
+    "end": "29 octobre 2026"
   },
   "stats": {
     "visites_total": 3,
     "etabs_uniques": 3,
-    "economies_chf": 290
+    "economies_chf": 220
   },
   "visites": [
     {
@@ -20,13 +20,13 @@
       "saving_chf": 60
     },
     {
-      "etab_name": "LE ST-GERVAIS HÔTEL & SPA",
+      "etab_name": "Le St-Gervais Hôtel & Spa",
       "etab_slug": "le-st-gervais-hotel-spa",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-st-gervais-hotel-spa.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/le-st-gervais-hotel-spa/",
       "canton": null,
       "visit_date_fr": "23 février 2026",
-      "saving_chf": 150
+      "saving_chf": 80
     },
     {
       "etab_name": "Thaiotop",

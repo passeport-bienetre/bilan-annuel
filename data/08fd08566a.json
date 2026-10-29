@@ -1,0 +1,32 @@
+{
+  "name": "Nicolas",
+  "window": {
+    "start": "29 octobre 2025",
+    "end": "29 octobre 2026"
+  },
+  "stats": {
+    "visites_total": 2,
+    "etabs_uniques": 2,
+    "economies_chf": 210
+  },
+  "visites": [
+    {
+      "etab_name": "MAISON DU TEMPS",
+      "etab_slug": "maison-du-temps",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-du-temps.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/maison-du-temps/",
+      "canton": "Genève",
+      "visit_date_fr": "12 juin 2026",
+      "saving_chf": 130
+    },
+    {
+      "etab_name": "Thai Corner",
+      "etab_slug": "thai-corner-3",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/thai-corner-3.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/thai-corner-3/",
+      "canton": "Genève",
+      "visit_date_fr": "8 juillet 2026",
+      "saving_chf": 80
+    }
+  ]
+}

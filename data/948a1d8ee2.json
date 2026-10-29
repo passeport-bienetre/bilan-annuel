@@ -1,13 +1,13 @@
 {
   "name": "Rachel",
   "window": {
-    "start": "28 octobre 2025",
-    "end": "28 octobre 2026"
+    "start": "29 octobre 2025",
+    "end": "29 octobre 2026"
   },
   "stats": {
     "visites_total": 5,
     "etabs_uniques": 5,
-    "economies_chf": 600
+    "economies_chf": 461
   },
   "visites": [
     {
@@ -38,13 +38,13 @@
       "saving_chf": 70
     },
     {
-      "etab_name": "CHANDOLIN BOUTIQUE HÔTEL",
+      "etab_name": "Chandolin Boutique Hôtel",
       "etab_slug": "chandolin-boutique-hotel",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chandolin-boutique-hotel.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/",
       "canton": "Valais",
       "visit_date_fr": "7 août 2026",
-      "saving_chf": 229
+      "saving_chf": 90
     },
     {
       "etab_name": "LECRANS HOTEL & SPA",

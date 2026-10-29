@@ -1,13 +1,13 @@
 {
   "name": "Christine",
   "window": {
-    "start": "28 octobre 2025",
-    "end": "28 octobre 2026"
+    "start": "29 octobre 2025",
+    "end": "29 octobre 2026"
   },
   "stats": {
     "visites_total": 4,
     "etabs_uniques": 4,
-    "economies_chf": 635
+    "economies_chf": 445
   },
   "visites": [
     {
@@ -38,13 +38,13 @@
       "saving_chf": 120
     },
     {
-      "etab_name": "CHALET ROYALP HÔTEL & SPA",
+      "etab_name": "Chalet Royalp Hôtel & Spa",
       "etab_slug": "chalet-royalp-hotel-spa",
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
       "canton": "Vaud",
       "visit_date_fr": "2 avril 2026",
-      "saving_chf": 350
+      "saving_chf": 160
     }
   ]
 }
