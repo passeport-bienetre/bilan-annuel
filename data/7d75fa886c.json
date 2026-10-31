@@ -1,0 +1,41 @@
+{
+  "name": "Claire",
+  "window": {
+    "start": "31 octobre 2025",
+    "end": "31 octobre 2026"
+  },
+  "stats": {
+    "visites_total": 3,
+    "etabs_uniques": 3,
+    "economies_chf": 260
+  },
+  "visites": [
+    {
+      "etab_name": "Swiss Aesthetica",
+      "etab_slug": "swiss-aesthetica",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/swiss-aesthetica.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/swiss-aesthetica/",
+      "canton": "Vaud",
+      "visit_date_fr": "10 février 2026",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "Les Vagabondes",
+      "etab_slug": "les-vagabondes",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-vagabondes.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/les-vagabondes/",
+      "canton": "Vaud",
+      "visit_date_fr": "1 avril 2026",
+      "saving_chf": 60
+    },
+    {
+      "etab_name": "Le Mirador Resort & Spa",
+      "etab_slug": "le-mirador-resort-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
+      "canton": "Vaud",
+      "visit_date_fr": "9 juin 2026",
+      "saving_chf": 120
+    }
+  ]
+}
