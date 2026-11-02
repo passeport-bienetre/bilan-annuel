@@ -1,13 +1,13 @@
 {
   "name": "Anne",
   "window": {
-    "start": "1 novembre 2025",
-    "end": "1 novembre 2026"
+    "start": "2 novembre 2025",
+    "end": "2 novembre 2026"
   },
   "stats": {
-    "visites_total": 5,
-    "etabs_uniques": 5,
-    "economies_chf": 460
+    "visites_total": 4,
+    "etabs_uniques": 4,
+    "economies_chf": 360
   },
   "visites": [
     {
@@ -18,15 +18,6 @@
       "canton": "Vaud",
       "visit_date_fr": "23 décembre 2025",
       "saving_chf": 130
-    },
-    {
-      "etab_name": "Blossom Institut",
-      "etab_slug": "blossom-institut",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/blossom-institut.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/blossom-institut/",
-      "canton": "Genève",
-      "visit_date_fr": "19 février 2026",
-      "saving_chf": 100
     },
     {
       "etab_name": "Crans Ambassador Spa",

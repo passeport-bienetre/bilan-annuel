@@ -1,24 +1,15 @@
 {
   "name": "Carolyn",
   "window": {
-    "start": "1 novembre 2025",
-    "end": "1 novembre 2026"
+    "start": "2 novembre 2025",
+    "end": "2 novembre 2026"
   },
   "stats": {
-    "visites_total": 5,
-    "etabs_uniques": 5,
-    "economies_chf": 400
+    "visites_total": 4,
+    "etabs_uniques": 4,
+    "economies_chf": 330
   },
   "visites": [
-    {
-      "etab_name": "Tête à Clak",
-      "etab_slug": "tete-a-clak",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/tete-a-clak.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/tete-a-clak/",
-      "canton": null,
-      "visit_date_fr": "4 décembre 2025",
-      "saving_chf": 70
-    },
     {
       "etab_name": "La VILLA Kobido et Massage",
       "etab_slug": "la-villa",

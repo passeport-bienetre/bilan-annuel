@@ -1,13 +1,13 @@
 {
   "name": "Aurélie",
   "window": {
-    "start": "1 novembre 2025",
-    "end": "1 novembre 2026"
+    "start": "2 novembre 2025",
+    "end": "2 novembre 2026"
   },
   "stats": {
-    "visites_total": 20,
-    "etabs_uniques": 20,
-    "economies_chf": 1702
+    "visites_total": 19,
+    "etabs_uniques": 19,
+    "economies_chf": 1602
   },
   "visites": [
     {
@@ -135,15 +135,6 @@
       "canton": "Genève",
       "visit_date_fr": "18 mai 2026",
       "saving_chf": 120
-    },
-    {
-      "etab_name": "Blossom Institut",
-      "etab_slug": "blossom-institut",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/blossom-institut.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/blossom-institut/",
-      "canton": "Genève",
-      "visit_date_fr": "18 mai 2026",
-      "saving_chf": 100
     },
     {
       "etab_name": "LA MAISON VALMONT – BONGENIE",

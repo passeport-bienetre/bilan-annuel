@@ -1,24 +1,15 @@
 {
   "name": "Cristina",
   "window": {
-    "start": "1 novembre 2025",
-    "end": "1 novembre 2026"
+    "start": "2 novembre 2025",
+    "end": "2 novembre 2026"
   },
   "stats": {
-    "visites_total": 3,
-    "etabs_uniques": 3,
-    "economies_chf": 225
+    "visites_total": 2,
+    "etabs_uniques": 2,
+    "economies_chf": 155
   },
   "visites": [
-    {
-      "etab_name": "Tête à Clak",
-      "etab_slug": "tete-a-clak",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/tete-a-clak.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/tete-a-clak/",
-      "canton": null,
-      "visit_date_fr": "18 décembre 2025",
-      "saving_chf": 70
-    },
     {
       "etab_name": "Centre de bien-être J&J",
       "etab_slug": "centre-de-bien-etre-jj",

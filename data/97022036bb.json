@@ -1,0 +1,41 @@
+{
+  "name": "Rosalie",
+  "window": {
+    "start": "2 novembre 2025",
+    "end": "2 novembre 2026"
+  },
+  "stats": {
+    "visites_total": 3,
+    "etabs_uniques": 3,
+    "economies_chf": 220
+  },
+  "visites": [
+    {
+      "etab_name": "Hôtel Intercontinental Spa 5 Mondes",
+      "etab_slug": "hotel-intercontinental-spa-5-mondes",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-intercontinental-spa-5-mondes.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/",
+      "canton": "Genève",
+      "visit_date_fr": "29 mai 2026",
+      "saving_chf": 90
+    },
+    {
+      "etab_name": "Sawatdee Temple",
+      "etab_slug": "sawatdee-temple",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/sawatdee-temple.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/sawatdee-temple/",
+      "canton": "Genève",
+      "visit_date_fr": "17 août 2026",
+      "saving_chf": 70
+    },
+    {
+      "etab_name": "Swiss Beauty Studio",
+      "etab_slug": "swiss-beauty-studio",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/swiss-beauty-studio.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/swiss-beauty-studio/",
+      "canton": "Genève",
+      "visit_date_fr": "30 septembre 2026",
+      "saving_chf": 60
+    }
+  ]
+}

@@ -1,13 +1,13 @@
 {
   "name": "MYRIAM",
   "window": {
-    "start": "1 novembre 2025",
-    "end": "1 novembre 2026"
+    "start": "2 novembre 2025",
+    "end": "2 novembre 2026"
   },
   "stats": {
-    "visites_total": 4,
-    "etabs_uniques": 4,
-    "economies_chf": 411
+    "visites_total": 3,
+    "etabs_uniques": 3,
+    "economies_chf": 351
   },
   "visites": [
     {
@@ -27,15 +27,6 @@
       "canton": "Vaud",
       "visit_date_fr": "6 mars 2026",
       "saving_chf": 110
-    },
-    {
-      "etab_name": "ALEX COIFFURE SARL",
-      "etab_slug": "a-lex-coiffure-3",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/a-lex-coiffure-3.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/a-lex-coiffure-3/",
-      "canton": "Fribourg",
-      "visit_date_fr": "12 juin 2026",
-      "saving_chf": 60
     },
     {
       "etab_name": "RUBIS SPA",

@@ -1,0 +1,32 @@
+{
+  "name": "Nathalie",
+  "window": {
+    "start": "2 novembre 2025",
+    "end": "2 novembre 2026"
+  },
+  "stats": {
+    "visites_total": 2,
+    "etabs_uniques": 2,
+    "economies_chf": 188
+  },
+  "visites": [
+    {
+      "etab_name": "Le Mirador Resort & Spa",
+      "etab_slug": "le-mirador-resort-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
+      "canton": "Vaud",
+      "visit_date_fr": "4 décembre 2025",
+      "saving_chf": 120
+    },
+    {
+      "etab_name": "BLOOM HAIR SALON",
+      "etab_slug": "bloom-hair-salon",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bloom-hair-salon.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bloom-hair-salon/",
+      "canton": "Vaud",
+      "visit_date_fr": "19 octobre 2026",
+      "saving_chf": 68
+    }
+  ]
+}

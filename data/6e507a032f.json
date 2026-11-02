@@ -1,13 +1,13 @@
 {
   "name": "Marina",
   "window": {
-    "start": "1 novembre 2025",
-    "end": "1 novembre 2026"
+    "start": "2 novembre 2025",
+    "end": "2 novembre 2026"
   },
   "stats": {
-    "visites_total": 12,
-    "etabs_uniques": 12,
-    "economies_chf": 1024
+    "visites_total": 11,
+    "etabs_uniques": 11,
+    "economies_chf": 954
   },
   "visites": [
     {
@@ -45,15 +45,6 @@
       "canton": "Vaud",
       "visit_date_fr": "2 janvier 2026",
       "saving_chf": 120
-    },
-    {
-      "etab_name": "Tête à Clak",
-      "etab_slug": "tete-a-clak",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/tete-a-clak.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/tete-a-clak/",
-      "canton": null,
-      "visit_date_fr": "7 mars 2026",
-      "saving_chf": 70
     },
     {
       "etab_name": "KASA AMO",

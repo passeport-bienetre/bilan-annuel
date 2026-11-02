@@ -1,13 +1,13 @@
 {
   "name": "Laure-Anne",
   "window": {
-    "start": "1 novembre 2025",
-    "end": "1 novembre 2026"
+    "start": "2 novembre 2025",
+    "end": "2 novembre 2026"
   },
   "stats": {
-    "visites_total": 6,
-    "etabs_uniques": 6,
-    "economies_chf": 543
+    "visites_total": 5,
+    "etabs_uniques": 5,
+    "economies_chf": 460
   },
   "visites": [
     {
@@ -18,15 +18,6 @@
       "canton": "Valais",
       "visit_date_fr": "3 novembre 2025",
       "saving_chf": 45
-    },
-    {
-      "etab_name": "NUTRITION SANTE JULIETTE",
-      "etab_slug": "nutrition-sante-juliette",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/nutrition-sante-juliette.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/nutrition-sante-juliette/",
-      "canton": "Vaud",
-      "visit_date_fr": "14 novembre 2025",
-      "saving_chf": 83
     },
     {
       "etab_name": "Lausanne Palace & Spa",
