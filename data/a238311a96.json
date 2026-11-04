@@ -1,13 +1,13 @@
 {
   "name": "Eunsuk",
   "window": {
-    "start": "3 novembre 2025",
-    "end": "3 novembre 2026"
+    "start": "4 novembre 2025",
+    "end": "4 novembre 2026"
   },
   "stats": {
-    "visites_total": 4,
-    "etabs_uniques": 4,
-    "economies_chf": 385
+    "visites_total": 5,
+    "etabs_uniques": 5,
+    "economies_chf": 465
   },
   "visites": [
     {
@@ -45,6 +45,15 @@
       "canton": "Valais",
       "visit_date_fr": "1 novembre 2026",
       "saving_chf": 90
+    },
+    {
+      "etab_name": "Thai Corner",
+      "etab_slug": "thai-corner-3",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/thai-corner-3.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/thai-corner-3/",
+      "canton": "Genève",
+      "visit_date_fr": "3 novembre 2026",
+      "saving_chf": 80
     }
   ]
 }
