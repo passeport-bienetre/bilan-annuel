@@ -1,24 +1,15 @@
 {
   "name": "Lise-Marie",
   "window": {
-    "start": "4 novembre 2025",
-    "end": "4 novembre 2026"
+    "start": "5 novembre 2025",
+    "end": "5 novembre 2026"
   },
   "stats": {
-    "visites_total": 3,
-    "etabs_uniques": 3,
-    "economies_chf": 215
+    "visites_total": 2,
+    "etabs_uniques": 2,
+    "economies_chf": 155
   },
   "visites": [
-    {
-      "etab_name": "LA VILLA DERMO-ESTHÉTIQUE by Lorella",
-      "etab_slug": "la-villa-dermo-esthetique-by-lorella",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-villa-dermo-esthetique-by-lorella.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/la-villa-dermo-esthetique-by-lorella/",
-      "canton": "Vaud",
-      "visit_date_fr": "13 décembre 2025",
-      "saving_chf": 60
-    },
     {
       "etab_name": "Centre de bien-être J&J",
       "etab_slug": "centre-de-bien-etre-jj",

@@ -1,24 +1,15 @@
 {
   "name": "Emeline",
   "window": {
-    "start": "4 novembre 2025",
-    "end": "4 novembre 2026"
+    "start": "5 novembre 2025",
+    "end": "5 novembre 2026"
   },
   "stats": {
-    "visites_total": 2,
-    "etabs_uniques": 2,
-    "economies_chf": 181
+    "visites_total": 1,
+    "etabs_uniques": 1,
+    "economies_chf": 121
   },
   "visites": [
-    {
-      "etab_name": "LA VILLA DERMO-ESTHÉTIQUE by Lorella",
-      "etab_slug": "la-villa-dermo-esthetique-by-lorella",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-villa-dermo-esthetique-by-lorella.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/la-villa-dermo-esthetique-by-lorella/",
-      "canton": "Vaud",
-      "visit_date_fr": "16 février 2026",
-      "saving_chf": 60
-    },
     {
       "etab_name": "RUBIS SPA",
       "etab_slug": "rubis-spa",

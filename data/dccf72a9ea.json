@@ -1,13 +1,13 @@
 {
   "name": "Samantha",
   "window": {
-    "start": "4 novembre 2025",
-    "end": "4 novembre 2026"
+    "start": "5 novembre 2025",
+    "end": "5 novembre 2026"
   },
   "stats": {
     "visites_total": 9,
     "etabs_uniques": 9,
-    "economies_chf": 665
+    "economies_chf": 670
   },
   "visites": [
     {
@@ -67,11 +67,11 @@
     {
       "etab_name": "Les Cliniques Matignon",
       "etab_slug": null,
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-cliniques-matignon--capsule-geneve-clinique-matignon.jpg",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-cliniques-matignon--geneve.jpg",
       "etab_url_public": null,
       "canton": " ",
       "visit_date_fr": "31 août 2026",
-      "saving_chf": 85
+      "saving_chf": 90
     },
     {
       "etab_name": "CJ Coiffure",

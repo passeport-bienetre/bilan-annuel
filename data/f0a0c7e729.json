@@ -1,13 +1,13 @@
 {
   "name": "Aurélie",
   "window": {
-    "start": "4 novembre 2025",
-    "end": "4 novembre 2026"
+    "start": "5 novembre 2025",
+    "end": "5 novembre 2026"
   },
   "stats": {
-    "visites_total": 19,
-    "etabs_uniques": 19,
-    "economies_chf": 1602
+    "visites_total": 18,
+    "etabs_uniques": 18,
+    "economies_chf": 1507
   },
   "visites": [
     {
@@ -135,15 +135,6 @@
       "canton": "Genève",
       "visit_date_fr": "18 mai 2026",
       "saving_chf": 120
-    },
-    {
-      "etab_name": "LA MAISON VALMONT – BONGENIE",
-      "etab_slug": "la-maison-valmont-lausanne",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-maison-valmont-lausanne.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/la-maison-valmont-lausanne/",
-      "canton": "Vaud",
-      "visit_date_fr": "16 juin 2026",
-      "saving_chf": 95
     },
     {
       "etab_name": "Le Beausquet Genève",

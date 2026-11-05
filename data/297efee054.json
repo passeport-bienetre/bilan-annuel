@@ -1,13 +1,13 @@
 {
   "name": "Malika",
   "window": {
-    "start": "4 novembre 2025",
-    "end": "4 novembre 2026"
+    "start": "5 novembre 2025",
+    "end": "5 novembre 2026"
   },
   "stats": {
-    "visites_total": 6,
-    "etabs_uniques": 6,
-    "economies_chf": 560
+    "visites_total": 5,
+    "etabs_uniques": 5,
+    "economies_chf": 465
   },
   "visites": [
     {
@@ -45,15 +45,6 @@
       "canton": "Genève",
       "visit_date_fr": "28 février 2026",
       "saving_chf": 100
-    },
-    {
-      "etab_name": "LA MAISON VALMONT – BONGENIE",
-      "etab_slug": "la-maison-valmont-lausanne",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-maison-valmont-lausanne.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/la-maison-valmont-lausanne/",
-      "canton": "Vaud",
-      "visit_date_fr": "17 mars 2026",
-      "saving_chf": 95
     },
     {
       "etab_name": "Institut Guinot",

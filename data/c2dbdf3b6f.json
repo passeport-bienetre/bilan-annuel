@@ -1,13 +1,13 @@
 {
   "name": "Joelle",
   "window": {
-    "start": "4 novembre 2025",
-    "end": "4 novembre 2026"
+    "start": "5 novembre 2025",
+    "end": "5 novembre 2026"
   },
   "stats": {
-    "visites_total": 6,
-    "etabs_uniques": 6,
-    "economies_chf": 558
+    "visites_total": 5,
+    "etabs_uniques": 5,
+    "economies_chf": 498
   },
   "visites": [
     {
@@ -18,15 +18,6 @@
       "canton": "Vaud",
       "visit_date_fr": "5 février 2026",
       "saving_chf": 80
-    },
-    {
-      "etab_name": "LA VILLA DERMO-ESTHÉTIQUE by Lorella",
-      "etab_slug": "la-villa-dermo-esthetique-by-lorella",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-villa-dermo-esthetique-by-lorella.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/la-villa-dermo-esthetique-by-lorella/",
-      "canton": "Vaud",
-      "visit_date_fr": "5 février 2026",
-      "saving_chf": 60
     },
     {
       "etab_name": "L'Atelier du Visage",
