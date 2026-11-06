@@ -1,0 +1,23 @@
+{
+  "name": "Laure",
+  "window": {
+    "start": "6 novembre 2025",
+    "end": "6 novembre 2026"
+  },
+  "stats": {
+    "visites_total": 1,
+    "etabs_uniques": 1,
+    "economies_chf": 100
+  },
+  "visites": [
+    {
+      "etab_name": "AVEDA VIEILLE-VILLE",
+      "etab_slug": "aveda-vieille-ville",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/aveda-vieille-ville.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/aveda-vieille-ville/",
+      "canton": "Genève",
+      "visit_date_fr": "17 octobre 2026",
+      "saving_chf": 100
+    }
+  ]
+}
