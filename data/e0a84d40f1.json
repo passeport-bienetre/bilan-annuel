@@ -1,13 +1,13 @@
 {
   "name": "Elodie",
   "window": {
-    "start": "6 novembre 2025",
-    "end": "6 novembre 2026"
+    "start": "7 novembre 2025",
+    "end": "7 novembre 2026"
   },
   "stats": {
-    "visites_total": 11,
-    "etabs_uniques": 11,
-    "economies_chf": 1071
+    "visites_total": 12,
+    "etabs_uniques": 12,
+    "economies_chf": 1131
   },
   "visites": [
     {
@@ -108,6 +108,15 @@
       "canton": null,
       "visit_date_fr": "12 août 2026",
       "saving_chf": 120
+    },
+    {
+      "etab_name": "Institut Biotiful",
+      "etab_slug": "institut-biotiful-2",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-biotiful-2.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-biotiful-2/",
+      "canton": "Vaud",
+      "visit_date_fr": "6 novembre 2026",
+      "saving_chf": 60
     }
   ]
 }
