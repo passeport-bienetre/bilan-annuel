@@ -1,13 +1,13 @@
 {
   "name": "Océane",
   "window": {
-    "start": "7 novembre 2025",
-    "end": "7 novembre 2026"
+    "start": "8 novembre 2025",
+    "end": "8 novembre 2026"
   },
   "stats": {
-    "visites_total": 11,
-    "etabs_uniques": 11,
-    "economies_chf": 983
+    "visites_total": 12,
+    "etabs_uniques": 12,
+    "economies_chf": 1113
   },
   "visites": [
     {
@@ -22,7 +22,7 @@
     {
       "etab_name": "LES FITNESS HARMONY",
       "etab_slug": null,
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-fitness-harmony--blandonnet.jpg",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-fitness-harmony--veyrier.jpg",
       "etab_url_public": null,
       "canton": " ",
       "visit_date_fr": "13 janvier 2026",
@@ -108,6 +108,15 @@
       "canton": "Genève",
       "visit_date_fr": "22 septembre 2026",
       "saving_chf": 50
+    },
+    {
+      "etab_name": "MAISON DU TEMPS",
+      "etab_slug": "maison-du-temps",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-du-temps.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/maison-du-temps/",
+      "canton": "Genève",
+      "visit_date_fr": "7 novembre 2026",
+      "saving_chf": 130
     }
   ]
 }
