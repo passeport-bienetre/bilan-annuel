@@ -1,0 +1,32 @@
+{
+  "name": "Emilie",
+  "window": {
+    "start": "9 novembre 2025",
+    "end": "9 novembre 2026"
+  },
+  "stats": {
+    "visites_total": 2,
+    "etabs_uniques": 2,
+    "economies_chf": 190
+  },
+  "visites": [
+    {
+      "etab_name": "AVEDA VIEILLE-VILLE",
+      "etab_slug": "aveda-vieille-ville",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/aveda-vieille-ville.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/aveda-vieille-ville/",
+      "canton": "Genève",
+      "visit_date_fr": "7 avril 2026",
+      "saving_chf": 100
+    },
+    {
+      "etab_name": "Le Bal des Créateurs",
+      "etab_slug": "le-bal-des-createurs-3",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-bal-des-createurs-3.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/",
+      "canton": "Genève",
+      "visit_date_fr": "4 novembre 2026",
+      "saving_chf": 90
+    }
+  ]
+}

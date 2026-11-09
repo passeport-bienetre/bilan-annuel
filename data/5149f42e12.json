@@ -1,0 +1,95 @@
+{
+  "name": "Olivia",
+  "window": {
+    "start": "9 novembre 2025",
+    "end": "9 novembre 2026"
+  },
+  "stats": {
+    "visites_total": 9,
+    "etabs_uniques": 9,
+    "economies_chf": 760
+  },
+  "visites": [
+    {
+      "etab_name": "LE CENTRE GENÈVE BY CHARLINE",
+      "etab_slug": "le-centre-geneve-by-charline",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-centre-geneve-by-charline.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/",
+      "canton": "Genève",
+      "visit_date_fr": "11 décembre 2025",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "Thai Corner",
+      "etab_slug": "thai-corner-3",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/thai-corner-3.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/thai-corner-3/",
+      "canton": "Genève",
+      "visit_date_fr": "6 janvier 2026",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "Skin Solution",
+      "etab_slug": "skin-solution",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/skin-solution.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/skin-solution/",
+      "canton": "Genève",
+      "visit_date_fr": "29 janvier 2026",
+      "saving_chf": 120
+    },
+    {
+      "etab_name": "So Beauty Home",
+      "etab_slug": "so-beauty-home",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/so-beauty-home.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/so-beauty-home/",
+      "canton": "Genève",
+      "visit_date_fr": "17 février 2026",
+      "saving_chf": 70
+    },
+    {
+      "etab_name": "Damien & Co",
+      "etab_slug": "damien-co-3",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/damien-co-3.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/damien-co-3/",
+      "canton": "Genève",
+      "visit_date_fr": "12 juin 2026",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "Le Beausquet Genève",
+      "etab_slug": "le-beausquet-geneve",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-beausquet-geneve.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-beausquet-geneve/",
+      "canton": "Genève",
+      "visit_date_fr": "10 juillet 2026",
+      "saving_chf": 100
+    },
+    {
+      "etab_name": "Sawatdee Temple",
+      "etab_slug": "sawatdee-temple",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/sawatdee-temple.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/sawatdee-temple/",
+      "canton": "Genève",
+      "visit_date_fr": "17 août 2026",
+      "saving_chf": 70
+    },
+    {
+      "etab_name": "GLOW IN GENEVA",
+      "etab_slug": "glow-in-geneva",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/glow-in-geneva.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/glow-in-geneva/",
+      "canton": "Genève",
+      "visit_date_fr": "27 août 2026",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "CLARINS BOUTIQUE & SKIN SPA GENÈVE",
+      "etab_slug": "clarins-boutique-geneve",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/clarins-boutique-geneve.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/clarins-boutique-geneve/",
+      "canton": "Genève",
+      "visit_date_fr": "5 novembre 2026",
+      "saving_chf": 80
+    }
+  ]
+}
