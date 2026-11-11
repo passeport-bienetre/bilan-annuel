@@ -1,13 +1,13 @@
 {
   "name": "Stefanie",
   "window": {
-    "start": "10 novembre 2025",
-    "end": "10 novembre 2026"
+    "start": "11 novembre 2025",
+    "end": "11 novembre 2026"
   },
   "stats": {
-    "visites_total": 2,
+    "visites_total": 3,
     "etabs_uniques": 2,
-    "economies_chf": 160
+    "economies_chf": 240
   },
   "visites": [
     {
@@ -26,7 +26,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/",
       "canton": "Genève",
       "visit_date_fr": "28 octobre 2026",
-      "saving_chf": 80
+      "saving_chf": 160
     }
   ]
 }
