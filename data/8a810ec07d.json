@@ -1,0 +1,23 @@
+{
+  "name": "Veronique",
+  "window": {
+    "start": "12 novembre 2025",
+    "end": "12 novembre 2026"
+  },
+  "stats": {
+    "visites_total": 1,
+    "etabs_uniques": 1,
+    "economies_chf": 235
+  },
+  "visites": [
+    {
+      "etab_name": "HÔTEL ROYAL SAVOY",
+      "etab_slug": "bpnight-hotel-royal-savoy",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bpnight-hotel-royal-savoy.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-royal-savoy/",
+      "canton": "Vaud",
+      "visit_date_fr": "8 janvier 2026",
+      "saving_chf": 235
+    }
+  ]
+}
