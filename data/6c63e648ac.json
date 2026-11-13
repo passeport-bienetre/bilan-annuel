@@ -1,13 +1,13 @@
 {
   "name": "Natacha",
   "window": {
-    "start": "12 novembre 2025",
-    "end": "12 novembre 2026"
+    "start": "13 novembre 2025",
+    "end": "13 novembre 2026"
   },
   "stats": {
-    "visites_total": 3,
-    "etabs_uniques": 3,
-    "economies_chf": 345
+    "visites_total": 4,
+    "etabs_uniques": 4,
+    "economies_chf": 425
   },
   "visites": [
     {
@@ -31,11 +31,20 @@
     {
       "etab_name": "LES FITNESS HARMONY",
       "etab_slug": null,
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-fitness-harmony--blandonnet.jpg",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-fitness-harmony--denges.jpg",
       "etab_url_public": null,
       "canton": " ",
       "visit_date_fr": "10 novembre 2026",
       "saving_chf": 200
+    },
+    {
+      "etab_name": "CLARINS BOUTIQUE & SKIN SPA GENÈVE",
+      "etab_slug": "clarins-boutique-geneve",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/clarins-boutique-geneve.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/clarins-boutique-geneve/",
+      "canton": "Genève",
+      "visit_date_fr": "12 novembre 2026",
+      "saving_chf": 80
     }
   ]
 }
