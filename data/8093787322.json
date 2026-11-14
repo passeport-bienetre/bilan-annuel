@@ -1,13 +1,13 @@
 {
   "name": "Antonella",
   "window": {
-    "start": "13 novembre 2025",
-    "end": "13 novembre 2026"
+    "start": "14 novembre 2025",
+    "end": "14 novembre 2026"
   },
   "stats": {
-    "visites_total": 5,
-    "etabs_uniques": 5,
-    "economies_chf": 485
+    "visites_total": 6,
+    "etabs_uniques": 6,
+    "economies_chf": 585
   },
   "visites": [
     {
@@ -53,6 +53,15 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/spa-hotel-nendaz-4-vallees/",
       "canton": "Valais",
       "visit_date_fr": "10 septembre 2026",
+      "saving_chf": 100
+    },
+    {
+      "etab_name": "AVEDA VIEILLE-VILLE",
+      "etab_slug": "aveda-vieille-ville",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/aveda-vieille-ville.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/aveda-vieille-ville/",
+      "canton": "Genève",
+      "visit_date_fr": "13 novembre 2026",
       "saving_chf": 100
     }
   ]

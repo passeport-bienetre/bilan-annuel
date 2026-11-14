@@ -1,0 +1,59 @@
+{
+  "name": "Coralie",
+  "window": {
+    "start": "14 novembre 2025",
+    "end": "14 novembre 2026"
+  },
+  "stats": {
+    "visites_total": 5,
+    "etabs_uniques": 5,
+    "economies_chf": 432
+  },
+  "visites": [
+    {
+      "etab_name": "VAGHEGGI Phyto Space Lausanne",
+      "etab_slug": null,
+      "etab_photo_url": "https://phytospace.ch/wp-content/uploads/2023/12/1-1024x1024.webp",
+      "etab_url_public": null,
+      "canton": "Vaud",
+      "visit_date_fr": "13 février 2026",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "Naïda Massothérapie",
+      "etab_slug": "naida-massotherapie",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/naida-massotherapie.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/naida-massotherapie/",
+      "canton": "Vaud",
+      "visit_date_fr": "23 février 2026",
+      "saving_chf": 62
+    },
+    {
+      "etab_name": "Salon Privé Chailly",
+      "etab_slug": "salon-prive-chailly",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive-chailly.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/salon-prive-chailly/",
+      "canton": "Vaud",
+      "visit_date_fr": "25 avril 2026",
+      "saving_chf": 100
+    },
+    {
+      "etab_name": "Maison Perle",
+      "etab_slug": "maison-perle",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-perle.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/maison-perle/",
+      "canton": "Vaud",
+      "visit_date_fr": "20 mai 2026",
+      "saving_chf": 70
+    },
+    {
+      "etab_name": "Rituels Beauté",
+      "etab_slug": "rituels-beaute",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/rituels-beaute.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/rituels-beaute/",
+      "canton": "Vaud",
+      "visit_date_fr": "28 mai 2026",
+      "saving_chf": 120
+    }
+  ]
+}
