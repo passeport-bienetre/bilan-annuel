@@ -1,0 +1,23 @@
+{
+  "name": "Nadine",
+  "window": {
+    "start": "15 novembre 2025",
+    "end": "15 novembre 2026"
+  },
+  "stats": {
+    "visites_total": 1,
+    "etabs_uniques": 1,
+    "economies_chf": 100
+  },
+  "visites": [
+    {
+      "etab_name": "Salon Privé Gare",
+      "etab_slug": "salon-prive",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/salon-prive/",
+      "canton": "Vaud",
+      "visit_date_fr": "17 décembre 2025",
+      "saving_chf": 100
+    }
+  ]
+}
