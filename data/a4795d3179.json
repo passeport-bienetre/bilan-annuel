@@ -1,13 +1,13 @@
 {
   "name": "Lorraine",
   "window": {
-    "start": "16 novembre 2025",
-    "end": "16 novembre 2026"
+    "start": "17 novembre 2025",
+    "end": "17 novembre 2026"
   },
   "stats": {
-    "visites_total": 10,
-    "etabs_uniques": 10,
-    "economies_chf": 962
+    "visites_total": 11,
+    "etabs_uniques": 11,
+    "economies_chf": 1047
   },
   "visites": [
     {
@@ -99,6 +99,15 @@
       "canton": "Vaud",
       "visit_date_fr": "10 octobre 2026",
       "saving_chf": 65
+    },
+    {
+      "etab_name": "KASA AMO",
+      "etab_slug": "kasa-amo",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/kasa-amo.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/kasa-amo/",
+      "canton": "Vaud",
+      "visit_date_fr": "16 novembre 2026",
+      "saving_chf": 85
     }
   ]
 }

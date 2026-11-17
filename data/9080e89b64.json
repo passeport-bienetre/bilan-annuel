@@ -1,0 +1,59 @@
+{
+  "name": "Auriane",
+  "window": {
+    "start": "17 novembre 2025",
+    "end": "17 novembre 2026"
+  },
+  "stats": {
+    "visites_total": 5,
+    "etabs_uniques": 5,
+    "economies_chf": 475
+  },
+  "visites": [
+    {
+      "etab_name": "Serenityblue",
+      "etab_slug": "serenityblue",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/serenityblue.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/serenityblue/",
+      "canton": "Neuchâtel",
+      "visit_date_fr": "20 février 2026",
+      "saving_chf": 60
+    },
+    {
+      "etab_name": "JOIA LAUSANNE",
+      "etab_slug": "joia-lausanne",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/joia-lausanne.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/joia-lausanne/",
+      "canton": "Vaud",
+      "visit_date_fr": "13 avril 2026",
+      "saving_chf": 125
+    },
+    {
+      "etab_name": "Salon Privé Gare",
+      "etab_slug": "salon-prive",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/salon-prive/",
+      "canton": "Vaud",
+      "visit_date_fr": "28 avril 2026",
+      "saving_chf": 100
+    },
+    {
+      "etab_name": "Maison B",
+      "etab_slug": "maison-b",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-b.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/maison-b/",
+      "canton": null,
+      "visit_date_fr": "3 juillet 2026",
+      "saving_chf": 120
+    },
+    {
+      "etab_name": "COMME SUR UN NUAGE",
+      "etab_slug": "comme-sur-un-nuage",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/comme-sur-un-nuage.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/comme-sur-un-nuage/",
+      "canton": "Neuchâtel",
+      "visit_date_fr": "9 octobre 2026",
+      "saving_chf": 70
+    }
+  ]
+}
