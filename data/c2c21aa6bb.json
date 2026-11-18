@@ -1,0 +1,23 @@
+{
+  "name": "Alexandra",
+  "window": {
+    "start": "18 novembre 2025",
+    "end": "18 novembre 2026"
+  },
+  "stats": {
+    "visites_total": 1,
+    "etabs_uniques": 1,
+    "economies_chf": 90
+  },
+  "visites": [
+    {
+      "etab_name": "LA SUITE COIFFURE",
+      "etab_slug": "la-suite-coiffure",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-suite-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/la-suite-coiffure/",
+      "canton": "Genève",
+      "visit_date_fr": "20 décembre 2025",
+      "saving_chf": 90
+    }
+  ]
+}
