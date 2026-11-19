@@ -1,13 +1,13 @@
 {
   "name": "Aurélie",
   "window": {
-    "start": "18 novembre 2025",
-    "end": "18 novembre 2026"
+    "start": "19 novembre 2025",
+    "end": "19 novembre 2026"
   },
   "stats": {
-    "visites_total": 20,
-    "etabs_uniques": 20,
-    "economies_chf": 1647
+    "visites_total": 21,
+    "etabs_uniques": 21,
+    "economies_chf": 1717
   },
   "visites": [
     {
@@ -146,10 +146,10 @@
       "saving_chf": 100
     },
     {
-      "etab_name": "BEAUTY B",
-      "etab_slug": "bv-institut",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bv-institut.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/",
+      "etab_name": "Signature B",
+      "etab_slug": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/_default.jpg",
+      "etab_url_public": null,
       "canton": "Genève",
       "visit_date_fr": "7 septembre 2026",
       "saving_chf": 75
@@ -189,6 +189,15 @@
       "canton": "Vaud",
       "visit_date_fr": "10 novembre 2026",
       "saving_chf": 60
+    },
+    {
+      "etab_name": "The Wax Bar Genève",
+      "etab_slug": "the-wax-bar-geneve",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/the-wax-bar-geneve.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/the-wax-bar-geneve/",
+      "canton": "Genève",
+      "visit_date_fr": "18 novembre 2026",
+      "saving_chf": 70
     }
   ]
 }
