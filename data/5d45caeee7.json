@@ -1,13 +1,13 @@
 {
   "name": "Btissame",
   "window": {
-    "start": "19 novembre 2025",
-    "end": "19 novembre 2026"
+    "start": "20 novembre 2025",
+    "end": "20 novembre 2026"
   },
   "stats": {
-    "visites_total": 1,
-    "etabs_uniques": 1,
-    "economies_chf": 80
+    "visites_total": 2,
+    "etabs_uniques": 2,
+    "economies_chf": 140
   },
   "visites": [
     {
@@ -18,6 +18,15 @@
       "canton": "Genève",
       "visit_date_fr": "5 décembre 2025",
       "saving_chf": 80
+    },
+    {
+      "etab_name": "Swiss Beauty Studio",
+      "etab_slug": "swiss-beauty-studio",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/swiss-beauty-studio.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/swiss-beauty-studio/",
+      "canton": "Genève",
+      "visit_date_fr": "19 novembre 2026",
+      "saving_chf": 60
     }
   ]
 }

@@ -1,0 +1,59 @@
+{
+  "name": "Antoinette",
+  "window": {
+    "start": "20 novembre 2025",
+    "end": "20 novembre 2026"
+  },
+  "stats": {
+    "visites_total": 5,
+    "etabs_uniques": 5,
+    "economies_chf": 490
+  },
+  "visites": [
+    {
+      "etab_name": "Vogue La Coiffure",
+      "etab_slug": "vogue-la-coiffure",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/vogue-la-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/vogue-la-coiffure/",
+      "canton": null,
+      "visit_date_fr": "23 décembre 2025",
+      "saving_chf": 100
+    },
+    {
+      "etab_name": "Les Vagabondes",
+      "etab_slug": "les-vagabondes",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-vagabondes.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/les-vagabondes/",
+      "canton": "Vaud",
+      "visit_date_fr": "11 février 2026",
+      "saving_chf": 60
+    },
+    {
+      "etab_name": "Arte Beauty Lutry",
+      "etab_slug": "arte-beauty-lutry",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-lutry.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
+      "canton": "Vaud",
+      "visit_date_fr": "9 juin 2026",
+      "saving_chf": 110
+    },
+    {
+      "etab_name": "Salon Privé Ecublens",
+      "etab_slug": "salon-prive-ecublens",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/salon-prive-ecublens.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/salon-prive-ecublens/",
+      "canton": "Vaud",
+      "visit_date_fr": "1 juillet 2026",
+      "saving_chf": 100
+    },
+    {
+      "etab_name": "Le Mirador Resort & Spa",
+      "etab_slug": "le-mirador-resort-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
+      "canton": "Vaud",
+      "visit_date_fr": "8 juillet 2026",
+      "saving_chf": 120
+    }
+  ]
+}
