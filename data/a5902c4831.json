@@ -1,0 +1,59 @@
+{
+  "name": "Laure",
+  "window": {
+    "start": "21 novembre 2025",
+    "end": "21 novembre 2026"
+  },
+  "stats": {
+    "visites_total": 5,
+    "etabs_uniques": 5,
+    "economies_chf": 530
+  },
+  "visites": [
+    {
+      "etab_name": "FLEUR D’EPIDERME",
+      "etab_slug": "fleur-depiderme",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/fleur-depiderme.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/fleur-depiderme/",
+      "canton": "Genève",
+      "visit_date_fr": "24 décembre 2025",
+      "saving_chf": 140
+    },
+    {
+      "etab_name": "MAISON DU TEMPS",
+      "etab_slug": "maison-du-temps",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-du-temps.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/maison-du-temps/",
+      "canton": "Genève",
+      "visit_date_fr": "19 juillet 2026",
+      "saving_chf": 130
+    },
+    {
+      "etab_name": "Le Cabinet de Beauté",
+      "etab_slug": "le-cabinet-de-beaute",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-cabinet-de-beaute.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-cabinet-de-beaute/",
+      "canton": "Genève",
+      "visit_date_fr": "14 août 2026",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "LE CENTRE GENÈVE BY CHARLINE",
+      "etab_slug": "le-centre-geneve-by-charline",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-centre-geneve-by-charline.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/",
+      "canton": "Genève",
+      "visit_date_fr": "5 septembre 2026",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "Le Beausquet Genève",
+      "etab_slug": "le-beausquet-geneve",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-beausquet-geneve.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-beausquet-geneve/",
+      "canton": "Genève",
+      "visit_date_fr": "17 octobre 2026",
+      "saving_chf": 100
+    }
+  ]
+}

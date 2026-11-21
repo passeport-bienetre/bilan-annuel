@@ -1,0 +1,86 @@
+{
+  "name": "Ilaria",
+  "window": {
+    "start": "21 novembre 2025",
+    "end": "21 novembre 2026"
+  },
+  "stats": {
+    "visites_total": 8,
+    "etabs_uniques": 8,
+    "economies_chf": 660
+  },
+  "visites": [
+    {
+      "etab_name": "EUPHORIA HAIR & BEAUTY STUDIO",
+      "etab_slug": "euphoria-beauty-studio",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/euphoria-beauty-studio.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/euphoria-beauty-studio/",
+      "canton": "Genève",
+      "visit_date_fr": "29 avril 2026",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "Skin Solution",
+      "etab_slug": "skin-solution",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/skin-solution.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/skin-solution/",
+      "canton": "Genève",
+      "visit_date_fr": "1 mai 2026",
+      "saving_chf": 120
+    },
+    {
+      "etab_name": "AVEDA VIEILLE-VILLE",
+      "etab_slug": "aveda-vieille-ville",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/aveda-vieille-ville.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/aveda-vieille-ville/",
+      "canton": "Genève",
+      "visit_date_fr": "30 mai 2026",
+      "saving_chf": 100
+    },
+    {
+      "etab_name": "Ipanema Beauté",
+      "etab_slug": "ipanema-beaute",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/ipanema-beaute.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/ipanema-beaute/",
+      "canton": "Genève",
+      "visit_date_fr": "25 juin 2026",
+      "saving_chf": 75
+    },
+    {
+      "etab_name": "BLISS",
+      "etab_slug": "bliss",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bliss.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bliss/",
+      "canton": "Genève",
+      "visit_date_fr": "11 août 2026",
+      "saving_chf": 65
+    },
+    {
+      "etab_name": "La Coifferie",
+      "etab_slug": "la-coifferie-3",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-coifferie-3.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/la-coifferie-3/",
+      "canton": "Genève",
+      "visit_date_fr": "18 août 2026",
+      "saving_chf": 60
+    },
+    {
+      "etab_name": "LE CENTRE GENÈVE BY CHARLINE",
+      "etab_slug": "le-centre-geneve-by-charline",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-centre-geneve-by-charline.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/",
+      "canton": "Genève",
+      "visit_date_fr": "15 septembre 2026",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "19th AVENUE - Versonnex",
+      "etab_slug": "versonnex",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/versonnex.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/versonnex/",
+      "canton": "Genève",
+      "visit_date_fr": "28 octobre 2026",
+      "saving_chf": 80
+    }
+  ]
+}

@@ -1,13 +1,13 @@
 {
   "name": "Aurélie",
   "window": {
-    "start": "20 novembre 2025",
-    "end": "20 novembre 2026"
+    "start": "21 novembre 2025",
+    "end": "21 novembre 2026"
   },
   "stats": {
-    "visites_total": 22,
-    "etabs_uniques": 22,
-    "economies_chf": 1787
+    "visites_total": 23,
+    "etabs_uniques": 23,
+    "economies_chf": 1847
   },
   "visites": [
     {
@@ -207,6 +207,15 @@
       "canton": "Vaud",
       "visit_date_fr": "19 novembre 2026",
       "saving_chf": 70
+    },
+    {
+      "etab_name": "La Coifferie",
+      "etab_slug": "la-coifferie-3",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-coifferie-3.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/la-coifferie-3/",
+      "canton": "Genève",
+      "visit_date_fr": "20 novembre 2026",
+      "saving_chf": 60
     }
   ]
 }
