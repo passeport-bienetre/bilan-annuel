@@ -1,0 +1,32 @@
+{
+  "name": "Rosanna",
+  "window": {
+    "start": "22 novembre 2025",
+    "end": "22 novembre 2026"
+  },
+  "stats": {
+    "visites_total": 2,
+    "etabs_uniques": 2,
+    "economies_chf": 155
+  },
+  "visites": [
+    {
+      "etab_name": "19th AVENUE - Versonnex",
+      "etab_slug": "versonnex",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/versonnex.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/versonnex/",
+      "canton": "Genève",
+      "visit_date_fr": "24 décembre 2025",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "So Hair",
+      "etab_slug": "so-hair",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/so-hair.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/so-hair/",
+      "canton": "Genève",
+      "visit_date_fr": "21 juillet 2026",
+      "saving_chf": 75
+    }
+  ]
+}
