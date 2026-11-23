@@ -296,7 +296,7 @@
 
   <script>
     const FALLBACK_IMG = "https://passeport-bienetre.github.io/bodypass-assets/etablissements/_default.jpg";
-    const RENEW_URL = "https://www.bodypass.ch/commande";
+    const RENEW_URL = "https://www.bodypass.ch/394d388379027757463ba4bc5ffa93309925df51f9c38bd5/";
     const app = document.getElementById("app");
     const params = new URLSearchParams(location.search);
     const token = params.get("t");
@@ -328,11 +328,6 @@
       window.scrollTo({ top: 0, behavior: "smooth" });
     }
 
-    function todayFr() {
-      try {
-        return new Date().toLocaleDateString("fr-FR", { day: "numeric", month: "long", year: "numeric" });
-      } catch (e) { return ""; }
-    }
 
     function mediaStyle(url) {
       const safe = (url || FALLBACK_IMG).replace(/"/g, "%22");
@@ -368,7 +363,7 @@
       const hero = document.createElement("section");
       hero.className = "hero";
       hero.innerHTML = `
-        <div class="eyebrow">Votre année · ${win.start || ""} → ${win.end || todayFr()}</div>
+        <div class="eyebrow">Votre année · ${win.start || ""} → ${win.end || ""}</div>
         <h1>Bonjour ${name},<br>voici votre année <em>bien-être</em></h1>
         <p>12 mois avec Body Pass : les adresses que vous avez aimées, vos moments, vos économies. Avant que votre carte n'expire, on a tenu à vous les remettre toutes en un coup d'œil.</p>`;
       app.appendChild(hero);
@@ -449,7 +444,7 @@
         <p>12 mois de plus à 50% dans environ 200 adresses. La même carte, le même rythme.</p>
         <div class="promo">
           <p class="promo-intro">Pour vous remercier, jusqu’à <strong>20&nbsp;CHF offerts</strong> sur votre renouvellement&nbsp;: 10&nbsp;CHF sur le Body Pass + 10&nbsp;CHF sur l’option +Night.</p>
-          <p class="promo-intro"><a class="btn" href="https://www.bodypass.ch/394d388379027757463ba4bc5ffa93309925df51f9c38bd5/">Profiter de mon offre</a></p>
+          <p class="promo-intro"><a class="btn" href="${RENEW_URL}">Profiter de mon offre</a></p>
           <div class="promo-validity">Valable pendant les 30 prochains jours</div>
         </div>`;
       app.appendChild(ctaBlock);
@@ -458,7 +453,7 @@
       footer.className = "footer";
       footer.innerHTML = `
         <div class="baseline">Body Pass, le passeport pour le bien-être</div>
-        <div class="signature">Préparé pour ${name} · ${todayFr()}</div>`;
+        <div class="signature">Préparé pour ${name}${win.end ? " · " + win.end : ""}</div>`;
       app.appendChild(footer);
     }
 
@@ -466,8 +461,25 @@
       // No token: render the inline demo payload (preview mode, works on file://)
       render(DEMO_PAYLOAD);
     } else {
-      fetch(`data/${token}.json`, { cache: "no-store" })
-        .then(r => { if (!r.ok) throw new Error("404"); return r.json(); })
+      // Use the archived revision in effect at the verified Mailchimp send.
+      // Keys are SHA-256 digests so the template never lists personal links.
+      const sentRevisions = {
+        "57c4309fcf9f704a09e2e3549866e9d0f725579fd7bc9cf325f1afb33e68a75e": "3e2163df324470f2296641f12f60974766f62c91",
+        "f2c0ade18943eb866cb1a3d5b67863108efde87cec48f81a856017a951dce51c": "a69bd61c265e92f9534ff6bf3fbca5c68c0bdaa5"
+      };
+      async function loadRecap() {
+        const path = "data/" + encodeURIComponent(token) + ".json";
+        const current = await fetch(path, { cache: "no-store" });
+        if (!current.ok) throw new Error("Inactive recap");
+        const hash = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(token));
+        const digest = Array.from(new Uint8Array(hash), b => b.toString(16).padStart(2, "0")).join("");
+        const revision = sentRevisions[digest];
+        if (!revision) return current.json();
+        const saved = await fetch("https://raw.githubusercontent.com/passeport-bienetre/bilan-annuel/" + revision + "/" + path, { referrerPolicy: "no-referrer" });
+        if (!saved.ok) throw new Error("Archived recap unavailable");
+        return saved.json();
+      }
+      loadRecap()
         .then(render)
         .catch(() => showState(
           "Body Pass",
