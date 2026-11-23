@@ -1,0 +1,32 @@
+{
+  "name": "Mariam",
+  "window": {
+    "start": "23 novembre 2025",
+    "end": "23 novembre 2026"
+  },
+  "stats": {
+    "visites_total": 2,
+    "etabs_uniques": 2,
+    "economies_chf": 155
+  },
+  "visites": [
+    {
+      "etab_name": "Spa La Santé, Bulles de Champagne",
+      "etab_slug": "la-sante-a-champagne",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-sante-a-champagne.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/la-sante-a-champagne/",
+      "canton": "Vaud",
+      "visit_date_fr": "12 novembre 2026",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "Amiia Clinique",
+      "etab_slug": "amiia-clinique",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/amiia-clinique.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/amiia-clinique/",
+      "canton": null,
+      "visit_date_fr": "19 novembre 2026",
+      "saving_chf": 75
+    }
+  ]
+}

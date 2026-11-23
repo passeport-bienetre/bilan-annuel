@@ -1,0 +1,50 @@
+{
+  "name": "Typhaine",
+  "window": {
+    "start": "23 novembre 2025",
+    "end": "23 novembre 2026"
+  },
+  "stats": {
+    "visites_total": 4,
+    "etabs_uniques": 4,
+    "economies_chf": 268
+  },
+  "visites": [
+    {
+      "etab_name": "Serenityblue",
+      "etab_slug": "serenityblue",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/serenityblue.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/serenityblue/",
+      "canton": "Neuchâtel",
+      "visit_date_fr": "24 février 2026",
+      "saving_chf": 60
+    },
+    {
+      "etab_name": "Institut Sabaidee",
+      "etab_slug": "institut-sabaidee",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-sabaidee.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-sabaidee/",
+      "canton": "Neuchâtel",
+      "visit_date_fr": "17 mai 2026",
+      "saving_chf": 70
+    },
+    {
+      "etab_name": "Eveil des Sens",
+      "etab_slug": "eveil-des-sens-3",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/eveil-des-sens-3.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/eveil-des-sens-3/",
+      "canton": "Neuchâtel",
+      "visit_date_fr": "25 août 2026",
+      "saving_chf": 68
+    },
+    {
+      "etab_name": "COMME SUR UN NUAGE",
+      "etab_slug": "comme-sur-un-nuage",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/comme-sur-un-nuage.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/comme-sur-un-nuage/",
+      "canton": "Neuchâtel",
+      "visit_date_fr": "8 septembre 2026",
+      "saving_chf": 70
+    }
+  ]
+}
