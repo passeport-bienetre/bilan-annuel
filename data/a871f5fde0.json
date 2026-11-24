@@ -1,0 +1,32 @@
+{
+  "name": "Nicolas",
+  "window": {
+    "start": "24 novembre 2025",
+    "end": "24 novembre 2026"
+  },
+  "stats": {
+    "visites_total": 2,
+    "etabs_uniques": 2,
+    "economies_chf": 145
+  },
+  "visites": [
+    {
+      "etab_name": "Spa Baron Tavernier",
+      "etab_slug": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/baron-tavernier-spa.jpg",
+      "etab_url_public": null,
+      "canton": "Vaud",
+      "visit_date_fr": "1 janvier 2026",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "Corps et Sons",
+      "etab_slug": "corps-et-sons",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/corps-et-sons.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/corps-et-sons/",
+      "canton": "Vaud",
+      "visit_date_fr": "9 juin 2026",
+      "saving_chf": 65
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Shona",
+  "window": {
+    "start": "24 novembre 2025",
+    "end": "24 novembre 2026"
+  },
+  "stats": {
+    "visites_total": 1,
+    "etabs_uniques": 1,
+    "economies_chf": 65
+  },
+  "visites": [
+    {
+      "etab_name": "NUANCES NATURE",
+      "etab_slug": "nuances-nature",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/nuances-nature.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/nuances-nature/",
+      "canton": "Genève",
+      "visit_date_fr": "21 janvier 2026",
+      "saving_chf": 65
+    }
+  ]
+}
