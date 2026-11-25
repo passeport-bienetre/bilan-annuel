@@ -1,0 +1,59 @@
+{
+  "name": "Nathalie",
+  "window": {
+    "start": "25 novembre 2025",
+    "end": "25 novembre 2026"
+  },
+  "stats": {
+    "visites_total": 5,
+    "etabs_uniques": 5,
+    "economies_chf": 513
+  },
+  "visites": [
+    {
+      "etab_name": "Le Grand Bellevue Spa",
+      "etab_slug": "le-grand-bellevue",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-grand-bellevue.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-grand-bellevue/",
+      "canton": "Berne",
+      "visit_date_fr": "7 janvier 2026",
+      "saving_chf": 120
+    },
+    {
+      "etab_name": "Royal Savoy Hôtel & Spa",
+      "etab_slug": "royal-savoy-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/royal-savoy-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
+      "canton": "Vaud",
+      "visit_date_fr": "8 mai 2026",
+      "saving_chf": 120
+    },
+    {
+      "etab_name": "Anzère SPA & Wellness",
+      "etab_slug": "anzere-spa-wellness",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/anzere-spa-wellness.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/anzere-spa-wellness/",
+      "canton": "Valais",
+      "visit_date_fr": "4 août 2026",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "JOIA LAUSANNE",
+      "etab_slug": "joia-lausanne",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/joia-lausanne.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/joia-lausanne/",
+      "canton": "Vaud",
+      "visit_date_fr": "16 octobre 2026",
+      "saving_chf": 125
+    },
+    {
+      "etab_name": "L'Atelier du Visage",
+      "etab_slug": "latelier-du-visage",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/latelier-du-visage.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/latelier-du-visage/",
+      "canton": "Vaud",
+      "visit_date_fr": "23 octobre 2026",
+      "saving_chf": 68
+    }
+  ]
+}

@@ -1,13 +1,13 @@
 {
   "name": "Hela",
   "window": {
-    "start": "24 novembre 2025",
-    "end": "24 novembre 2026"
+    "start": "25 novembre 2025",
+    "end": "25 novembre 2026"
   },
   "stats": {
     "visites_total": 6,
     "etabs_uniques": 6,
-    "economies_chf": 545
+    "economies_chf": 540
   },
   "visites": [
     {
@@ -49,11 +49,11 @@
     {
       "etab_name": "Les Cliniques Matignon",
       "etab_slug": null,
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-cliniques-matignon--geneve.jpg",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-cliniques-matignon--capsule-geneve-clinique-matignon.jpg",
       "etab_url_public": null,
       "canton": " ",
       "visit_date_fr": "14 juillet 2026",
-      "saving_chf": 90
+      "saving_chf": 85
     },
     {
       "etab_name": "Arte Beauty EPFL",
