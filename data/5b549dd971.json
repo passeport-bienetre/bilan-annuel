@@ -1,13 +1,13 @@
 {
   "name": "Ilaria",
   "window": {
-    "start": "25 novembre 2025",
-    "end": "25 novembre 2026"
+    "start": "26 novembre 2025",
+    "end": "26 novembre 2026"
   },
   "stats": {
-    "visites_total": 8,
-    "etabs_uniques": 8,
-    "economies_chf": 660
+    "visites_total": 9,
+    "etabs_uniques": 9,
+    "economies_chf": 728
   },
   "visites": [
     {
@@ -81,6 +81,15 @@
       "canton": "Genève",
       "visit_date_fr": "28 octobre 2026",
       "saving_chf": 80
+    },
+    {
+      "etab_name": "SAKURA LAB",
+      "etab_slug": "sakura-lab",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/sakura-lab.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/sakura-lab/",
+      "canton": "Genève",
+      "visit_date_fr": "25 novembre 2026",
+      "saving_chf": 68
     }
   ]
 }

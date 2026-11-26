@@ -1,13 +1,13 @@
 {
   "name": "Laure",
   "window": {
-    "start": "25 novembre 2025",
-    "end": "25 novembre 2026"
+    "start": "26 novembre 2025",
+    "end": "26 novembre 2026"
   },
   "stats": {
-    "visites_total": 5,
+    "visites_total": 6,
     "etabs_uniques": 5,
-    "economies_chf": 530
+    "economies_chf": 610
   },
   "visites": [
     {
@@ -44,7 +44,7 @@
       "etab_url_public": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/",
       "canton": "Genève",
       "visit_date_fr": "5 septembre 2026",
-      "saving_chf": 80
+      "saving_chf": 160
     },
     {
       "etab_name": "Le Beausquet Genève",
