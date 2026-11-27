@@ -1,13 +1,13 @@
 {
   "name": "Olivia",
   "window": {
-    "start": "26 novembre 2025",
-    "end": "26 novembre 2026"
+    "start": "27 novembre 2025",
+    "end": "27 novembre 2026"
   },
   "stats": {
-    "visites_total": 9,
-    "etabs_uniques": 9,
-    "economies_chf": 760
+    "visites_total": 10,
+    "etabs_uniques": 10,
+    "economies_chf": 890
   },
   "visites": [
     {
@@ -90,6 +90,15 @@
       "canton": "Genève",
       "visit_date_fr": "5 novembre 2026",
       "saving_chf": 80
+    },
+    {
+      "etab_name": "MAISON DU TEMPS",
+      "etab_slug": "maison-du-temps",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/maison-du-temps.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/maison-du-temps/",
+      "canton": "Genève",
+      "visit_date_fr": "26 novembre 2026",
+      "saving_chf": 130
     }
   ]
 }

@@ -1,0 +1,77 @@
+{
+  "name": "Annick",
+  "window": {
+    "start": "27 novembre 2025",
+    "end": "27 novembre 2026"
+  },
+  "stats": {
+    "visites_total": 7,
+    "etabs_uniques": 7,
+    "economies_chf": 610
+  },
+  "visites": [
+    {
+      "etab_name": "Thaiotop",
+      "etab_slug": "thaiotop-3",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/thaiotop-3.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/thaiotop-3/",
+      "canton": "Genève",
+      "visit_date_fr": "29 décembre 2025",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "Damien & Co",
+      "etab_slug": "damien-co-3",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/damien-co-3.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/damien-co-3/",
+      "canton": "Genève",
+      "visit_date_fr": "30 janvier 2026",
+      "saving_chf": 80
+    },
+    {
+      "etab_name": "So Hair",
+      "etab_slug": "so-hair",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/so-hair.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/so-hair/",
+      "canton": "Genève",
+      "visit_date_fr": "22 mai 2026",
+      "saving_chf": 75
+    },
+    {
+      "etab_name": "FLEUR D’EPIDERME",
+      "etab_slug": "fleur-depiderme",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/fleur-depiderme.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/fleur-depiderme/",
+      "canton": "Genève",
+      "visit_date_fr": "26 juin 2026",
+      "saving_chf": 140
+    },
+    {
+      "etab_name": "Signature B",
+      "etab_slug": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/_default.jpg",
+      "etab_url_public": null,
+      "canton": "Genève",
+      "visit_date_fr": "27 juin 2026",
+      "saving_chf": 75
+    },
+    {
+      "etab_name": "Le Bal des Créateurs",
+      "etab_slug": "le-bal-des-createurs-3",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-bal-des-createurs-3.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/",
+      "canton": "Genève",
+      "visit_date_fr": "30 juillet 2026",
+      "saving_chf": 90
+    },
+    {
+      "etab_name": "SUBLIMEYES",
+      "etab_slug": "institut-sublimeyes",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-sublimeyes.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-sublimeyes/",
+      "canton": "Genève",
+      "visit_date_fr": "28 août 2026",
+      "saving_chf": 70
+    }
+  ]
+}
