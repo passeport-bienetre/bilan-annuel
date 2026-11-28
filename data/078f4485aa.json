@@ -1,13 +1,13 @@
 {
   "name": "muge",
   "window": {
-    "start": "27 novembre 2025",
-    "end": "27 novembre 2026"
+    "start": "28 novembre 2025",
+    "end": "28 novembre 2026"
   },
   "stats": {
-    "visites_total": 12,
-    "etabs_uniques": 12,
-    "economies_chf": 1085
+    "visites_total": 13,
+    "etabs_uniques": 13,
+    "economies_chf": 1155
   },
   "visites": [
     {
@@ -117,6 +117,15 @@
       "canton": "Genève",
       "visit_date_fr": "11 septembre 2026",
       "saving_chf": 80
+    },
+    {
+      "etab_name": "SUBLIMEYES",
+      "etab_slug": "institut-sublimeyes",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-sublimeyes.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/institut-sublimeyes/",
+      "canton": "Genève",
+      "visit_date_fr": "27 novembre 2026",
+      "saving_chf": 70
     }
   ]
 }

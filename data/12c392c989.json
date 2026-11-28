@@ -1,13 +1,13 @@
 {
   "name": "Corbella",
   "window": {
-    "start": "27 novembre 2025",
-    "end": "27 novembre 2026"
+    "start": "28 novembre 2025",
+    "end": "28 novembre 2026"
   },
   "stats": {
-    "visites_total": 4,
-    "etabs_uniques": 4,
-    "economies_chf": 395
+    "visites_total": 5,
+    "etabs_uniques": 5,
+    "economies_chf": 515
   },
   "visites": [
     {
@@ -45,6 +45,15 @@
       "canton": "Vaud",
       "visit_date_fr": "11 novembre 2026",
       "saving_chf": 80
+    },
+    {
+      "etab_name": "Royal Savoy Hôtel & Spa",
+      "etab_slug": "royal-savoy-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/royal-savoy-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
+      "canton": "Vaud",
+      "visit_date_fr": "27 novembre 2026",
+      "saving_chf": 120
     }
   ]
 }
